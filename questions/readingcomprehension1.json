@@ -1,0 +1,50 @@
+{
+    "questions": [
+      {
+        "question": "Who were the Moroccan scientists mentioned in the article?",
+        "options": [
+          "Professor Najia El Abbadi and Professor Meryem Chaqroun",
+          "Professor Hicham Benaich and Professor Fatima Zahra",
+          "Professor Youssef Zouine and Professor Saad El Khamlichi"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the AD (Alper-Doger) Scientific Index rank?",
+        "options": [
+          "Scientists based on their academic performance and contributions",
+          "The number of publications only",
+          "The economic contributions of scientists"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which field is Professor Najia El Abbadi associated with?",
+        "options": [
+          "Engineering",
+          "Medicine and Pharmacy",
+          "Environmental Science"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the i10-index measure?",
+        "options": [
+          "Number of research papers cited at least ten times",
+          "Number of papers published in top journals",
+          "Total number of citations received by a scientist"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the significance of these scientists’ recognition?",
+        "options": [
+          "They inspired future generations of women in Morocco to pursue science",
+          "They received a financial prize",
+          "They helped increase the number of male scientists in Morocco"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+  

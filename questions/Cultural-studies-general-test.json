@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Which thinker is closely associated with the concept of 'Cultural Hegemony'?",
+        "options": ["Michel Foucault", "Antonio Gramsci", "Louis Althusser", "Raymond Williams"],
+        "answer": "Antonio Gramsci",
+        "description": "Antonio Gramsci introduced the concept of 'Cultural Hegemony,' where the ruling class maintains control by shaping cultural norms, values, and ideologies."
+    },
+    {
+        "question": "_____ (fill the gap) introduced the theory of 'Discourse' which focuses on how power is exercised through language.",
+        "options": ["Stuart Hall", "Michel Foucault", "Edward Said", "Judith Butler"],
+        "answer": "Michel Foucault",
+        "description": "Michel Foucault's concept of 'Discourse' examines how language and practices create and sustain power structures within society."
+    },
+    {
+        "question": "The 'Birmingham School' is known for pioneering which field of study?",
+        "options": ["Postcolonial Studies", "Cultural Materialism", "Cultural Studies", "Structuralism"],
+        "answer": "Cultural Studies",
+        "description": "The Birmingham School, led by figures like Stuart Hall, is considered the founding institution of Cultural Studies, focusing on the study of culture in relation to power and society."
+    },
+    {
+        "question": "Stuart Hall's theory of 'Encoding/Decoding' deals primarily with which of the following?",
+        "options": ["Media representations", "Class struggles", "Postmodernism", "Orientalism"],
+        "answer": "Media representations",
+        "description": "Stuart Hall's 'Encoding/Decoding' model analyzes how media messages are produced, distributed, and interpreted differently by audiences."
+    },
+    {
+        "question": "'Orientalism,' a critical study of the West's representation of the East, was authored by _____.",
+        "options": ["Gayatri Spivak", "Homi Bhabha", "Frantz Fanon", "Edward Said"],
+        "answer": "Edward Said",
+        "description": "Edward Said's 'Orientalism' critiques how Western scholars and media portray the East in a way that reinforces colonial power structures."
+    },
+    {
+        "question": "Louis Althusser's theory of _____ explains how ideology functions through social institutions like family, schools, and media.",
+        "options": ["Cultural Hegemony", "Discursive Formation", "Ideological State Apparatus", "Hegemony"],
+        "answer": "Ideological State Apparatus",
+        "description": "Althusser's 'Ideological State Apparatus' theory emphasizes how institutions perpetuate ideologies that support the ruling class's dominance."
+    },
+    {
+        "question": "The concept of 'Cultural Capital,' which refers to the social assets a person holds that promote social mobility, was introduced by _____.",
+        "options": ["Pierre Bourdieu", "Theodor Adorno", "Karl Marx", "Roland Barthes"],
+        "answer": "Pierre Bourdieu",
+        "description": "Pierre Bourdieu's concept of 'Cultural Capital' refers to non-financial assets, such as education and intellect, which influence one's social mobility."
+    },
+    {
+        "question": "'The Culture Industry,' a critique of mass-produced culture, was developed by which school of thought?",
+        "options": ["The Frankfurt School", "The Birmingham School", "The Chicago School", "The Annales School"],
+        "answer": "The Frankfurt School",
+        "description": "The Frankfurt School, particularly Theodor Adorno and Max Horkheimer, critiqued mass-produced culture, arguing it standardizes and commodifies art, reinforcing capitalist control."
+    },
+    {
+        "question": "The theory of 'Hybridity,' which explores the mixing of cultures, is most commonly associated with _____.",
+        "options": ["Stuart Hall", "Homi Bhabha", "Gayatri Spivak", "Frantz Fanon"],
+        "answer": "Homi Bhabha",
+        "description": "Homi Bhabha's theory of 'Hybridity' discusses how colonial encounters produce cultural blending and new, hybrid identities."
+    },
+    {
+        "question": "Who is known for the critical concept of 'Subaltern' in Postcolonial Studies?",
+        "options": ["Edward Said", "Homi Bhabha", "Frantz Fanon", "Gayatri Spivak"],
+        "answer": "Gayatri Spivak",
+        "description": "Gayatri Spivak introduced the term 'Subaltern' to describe populations marginalized and excluded from colonial power structures."
+    },
+    {
+        "question": "Which thinker introduced the concept of 'Simulacra,' referring to copies of reality that become indistinguishable from the original?",
+        "options": ["Jean Baudrillard", "Roland Barthes", "Jacques Derrida", "Michel Foucault"],
+        "answer": "Jean Baudrillard",
+        "description": "Jean Baudrillard's 'Simulacra' describes the phenomenon where representations of reality replace or distort the original reality, especially in media-saturated societies."
+    },
+    {
+        "question": "_____ (fill the gap) explored the notion of 'The Other' in relation to the colonized subject and the process of decolonization.",
+        "options": ["Frantz Fanon", "Edward Said", "Homi Bhabha", "Stuart Hall"],
+        "answer": "Frantz Fanon",
+        "description": "Frantz Fanon’s work focused on 'The Other,' examining how colonized people are positioned as inferior and how this process of 'othering' dehumanizes them."
+    },
+    {
+        "question": "What does Stuart Hall mean by the term 'Cultural Identity'?",
+        "options": [
+            "A fixed essence rooted in one's ethnicity",
+            "A process that is always in flux and shaped by history and culture",
+            "A biological determination of one's cultural roots",
+            "The idea that culture is universal and identical across all societies"
+        ],
+        "answer": "A process that is always in flux and shaped by history and culture",
+        "description": "Stuart Hall argues that 'Cultural Identity' is not fixed but continuously evolving, shaped by historical and social processes."
+    },
+    {
+        "question": "The theory of 'Cultural Materialism' is associated with which of the following thinkers?",
+        "options": ["Raymond Williams", "Louis Althusser", "Stuart Hall", "Michel Foucault"],
+        "answer": "Raymond Williams",
+        "description": "Raymond Williams is known for developing 'Cultural Materialism,' a theory that examines culture through its material conditions and historical development."
+    },
+    {
+        "question": "'Structuralism' as a method of cultural analysis was first developed in the works of _____.",
+        "options": ["Claude Lévi-Strauss", "Jacques Lacan", "Roland Barthes", "Louis Althusser"],
+        "answer": "Claude Lévi-Strauss",
+        "description": "Claude Lévi-Strauss is a key figure in Structuralism, which looks at culture through its underlying structures, such as myths and kinship systems."
+    },
+    {
+        "question": "The concept of 'Biopower,' which refers to the regulation of human life by the state, was introduced by _____.",
+        "options": ["Michel Foucault", "Jean Baudrillard", "Theodor Adorno", "Antonio Gramsci"],
+        "answer": "Michel Foucault",
+        "description": "Michel Foucault’s concept of 'Biopower' explores how governments regulate and control populations through institutions like medicine, prisons, and schools."
+    },
+    {
+        "question": "Which of the following best describes the concept of 'Cultural Relativism'?",
+        "options": [
+            "The idea that all cultures are equally valid and must be understood in their own context",
+            "A theory that ranks cultures based on moral and intellectual superiority",
+            "A view that global culture is homogenous and universal",
+            "The idea that all cultures should adopt Western standards"
+        ],
+        "answer": "The idea that all cultures are equally valid and must be understood in their own context",
+        "description": "Cultural Relativism holds that no culture is inherently superior, and each should be understood on its own terms."
+    },
+    {
+        "question": "'Gender Performativity,' the idea that gender is enacted through repeated behaviors, is associated with _____.",
+        "options": ["Judith Butler", "Simone de Beauvoir", "Michel Foucault", "Gayatri Spivak"],
+        "answer": "Judith Butler",
+        "description": "Judith Butler’s theory of 'Gender Performativity' argues that gender is not innate but performed through social behaviors and actions."
+    },
+    {
+        "question": "Which theory critiques how modern capitalist societies commodify cultural expressions?",
+        "options": ["The Culture Industry", "Cultural Hegemony", "Hybridity", "Simulacra"],
+        "answer": "The Culture Industry",
+        "description": "The theory of 'The Culture Industry,' associated with the Frankfurt School, critiques how cultural expressions are commodified in capitalist societies."
+    },
+    {
+        "question": "Which of the following thinkers is associated with the concept of 'Interpellation'?",
+        "options": ["Louis Althusser", "Jacques Derrida", "Michel Foucault", "Edward Said"],
+        "answer": "Louis Althusser",
+        "description": "Louis Althusser introduced 'Interpellation,' the process by which individuals are 'hailed' by societal institutions and thus integrated into dominant ideologies."
+    },
+    {
+        "question": "'The Subaltern Studies Group' was primarily concerned with the history and voices of _____.",
+        "options": ["The working class in Europe", "Marginalized groups in postcolonial societies", "Cultural elites in the West", "Indigenous populations in the Americas"],
+        "answer": "Marginalized groups in postcolonial societies",
+        "description": "The Subaltern Studies Group, led by scholars like Gayatri Spivak, focused on recovering the voices of marginalized groups in postcolonial societies."
+    },
+    {
+        "question": "_____ (fill the gap) is known for the concept of 'Carnivalesque,' a social space where normal hierarchies and rules are temporarily suspended.",
+        "options": ["Mikhail Bakhtin", "Roland Barthes", "Pierre Bourdieu", "Michel Foucault"],
+        "answer": "Mikhail Bakhtin",
+        "description": "Mikhail Bakhtin developed the concept of 'Carnivalesque,' referring to moments when societal norms are inverted, allowing for temporary liberation from social conventions."
+    },
+    {
+        "question": "Which thinker introduced the notion of 'Bricolage' in the study of postmodern culture?",
+        "options": ["Claude Lévi-Strauss", "Jacques Derrida", "Jean Baudrillard", "Stuart Hall"],
+        "answer": "Claude Lévi-Strauss",
+        "description": "Claude Lévi-Strauss used the concept of 'Bricolage' to describe the process of creating meaning through the use of diverse and fragmented cultural materials."
+    },
+    {
+        "question": "'Hegemony,' as a form of ideological domination, primarily works through _____ rather than through force.",
+        "options": ["Cultural consensus", "Military control", "Economic policies", "Legal systems"],
+        "answer": "Cultural consensus",
+        "description": "Hegemony, as explained by Antonio Gramsci, works through cultural consensus, where the ruling class's values and norms are accepted by society as common sense."
+    },
+    {
+        "question": "Who introduced the term 'Polysemy' to describe the multiple interpretations a media text can have?",
+        "options": ["Stuart Hall", "Roland Barthes", "Jean Baudrillard", "Louis Althusser"],
+        "answer": "Roland Barthes",
+        "description": "Roland Barthes introduced the idea of 'Polysemy,' suggesting that a single media text can have multiple meanings depending on the audience's perspective."
+    },
+    {
+        "question": "The idea that 'Power is everywhere and comes from everywhere,' emphasizing the decentralized nature of power, is attributed to _____.",
+        "options": ["Antonio Gramsci", "Michel Foucault", "Jean Baudrillard", "Jacques Derrida"],
+        "answer": "Michel Foucault",
+        "description": "Michel Foucault argued that power is not centralized in one institution but is diffused throughout society in various forms and practices."
+    },
+    {
+        "question": "'Double Consciousness,' a key concept in the study of race, was developed by _____.",
+        "options": ["Frantz Fanon", "W.E.B. Du Bois", "Edward Said", "Stuart Hall"],
+        "answer": "W.E.B. Du Bois",
+        "description": "W.E.B. Du Bois introduced the concept of 'Double Consciousness,' describing the internal conflict experienced by marginalized groups in viewing themselves through the eyes of a dominant society."
+    },
+    {
+        "question": "The theory of 'Cultural Resistance' refers to the ways in which _____.",
+        "options": [
+            "Dominant groups maintain control over culture",
+            "Marginalized groups subvert dominant cultural forms",
+            "Media promotes mainstream ideology",
+            "Colonial powers enforce cultural norms"
+        ],
+        "answer": "Marginalized groups subvert dominant cultural forms",
+        "description": "Cultural Resistance is the act of marginalized or oppressed groups resisting and challenging dominant cultural forms, often through art, language, or social practices."
+    },
+    {
+        "question": "According to _____, 'The personal is political,' a slogan of second-wave feminism, reflects how personal experiences are shaped by larger social structures.",
+        "options": ["Simone de Beauvoir", "Judith Butler", "Kate Millett", "bell hooks"],
+        "answer": "Kate Millett",
+        "description": "Kate Millett, a key figure in second-wave feminism, popularized the slogan 'The personal is political,' highlighting how personal experiences reflect broader societal power dynamics."
+    },
+    {
+        "question": "What is 'Glocalization' in Cultural Studies?",
+        "options": [
+            "The merging of global and local cultural elements",
+            "The erasure of local cultures by globalization",
+            "A movement to restore traditional cultural practices",
+            "A form of resistance to Western imperialism"
+        ],
+        "answer": "The merging of global and local cultural elements",
+        "description": "'Glocalization' refers to the blending of global and local cultural elements, showing how global phenomena are adapted to fit local contexts."
+    },
+    {
+        "question": "What does 'Postcolonial Criticism' aim to examine?",
+        "options": [
+            "The impact of colonialism on Western societies",
+            "How colonial histories shape contemporary cultural dynamics",
+            "A celebration of colonial empires' achievements",
+            "The economic benefits of colonial exploitation"
+        ],
+        "answer": "How colonial histories shape contemporary cultural dynamics",
+        "description": "Postcolonial Criticism explores how colonial legacies shape modern cultural, political, and social dynamics, focusing on issues like representation and power."
+    },
+    {
+        "question": "'The Medium is the Message,' a concept that emphasizes how media itself affects society, was coined by _____.",
+        "options": ["Roland Barthes", "Marshall McLuhan", "Jean Baudrillard", "Stuart Hall"],
+        "answer": "Marshall McLuhan",
+        "description": "Marshall McLuhan's famous phrase 'The Medium is the Message' highlights how the form of media has a more significant impact on society than the content it conveys."
+    },
+    {
+        "question": "'The Male Gaze,' which critiques how media represents women from a masculine perspective, was introduced by _____.",
+        "options": ["Judith Butler", "Laura Mulvey", "bell hooks", "Simone de Beauvoir"],
+        "answer": "Laura Mulvey",
+        "description": "Laura Mulvey introduced 'The Male Gaze' concept, criticizing how film and media portray women from the perspective of male desire and control."
+    },
+    {
+        "question": "In _____ (fill the gap) theory, 'Hyperreality' refers to the idea that in a postmodern world, representations of reality often replace the actual reality.",
+        "options": ["Jean Baudrillard's", "Michel Foucault's", "Roland Barthes's", "Judith Butler's"],
+        "answer": "Jean Baudrillard's",
+        "description": "Jean Baudrillard's theory of 'Hyperreality' argues that in the postmodern world, simulations of reality become more real than reality itself, especially through media."
+    },
+    {
+        "question": "Which concept refers to the process by which a dominant culture 'commodifies' subversive cultural forms for mass consumption?",
+        "options": ["Cultural Resistance", "Cultural Appropriation", "Cultural Commodification", "Cultural Relativism"],
+        "answer": "Cultural Commodification",
+        "description": "'Cultural Commodification' is the process by which elements of subversive or minority cultures are transformed into commodities for profit in the mass market."
+    },
+    {
+        "question": "'Othering' is a key process in which _____.",
+        "options": [
+            "Minority groups are empowered through representation",
+            "Dominant groups define and marginalize those who are different",
+            "Cultural diversity is celebrated",
+            "Cultural elements from different societies are integrated"
+        ],
+        "answer": "Dominant groups define and marginalize those who are different",
+        "description": "'Othering' refers to the process by which dominant groups define those who are different in a way that dehumanizes or marginalizes them."
+    },
+    {
+        "question": "Which of the following best describes the concept of 'Third Space' developed by Homi Bhabha?",
+        "options": [
+            "A space where colonial power is absolute",
+            "A neutral space free from power dynamics",
+            "A hybrid space where cultures blend and negotiate identities",
+            "A space where marginalized voices are silenced"
+        ],
+        "answer": "A hybrid space where cultures blend and negotiate identities",
+        "description": "Homi Bhabha's 'Third Space' refers to the hybrid cultural space where colonial and local cultures interact, producing new, blended identities."
+    },
+    {
+        "question": "_____ (fill the gap) critiqued the idea of 'Orientalism,' arguing that the West creates a distorted image of the East to assert dominance.",
+        "options": ["Edward Said", "Frantz Fanon", "Gayatri Spivak", "Stuart Hall"],
+        "answer": "Edward Said",
+        "description": "Edward Said critiqued the concept of 'Orientalism,' showing how the West creates a false and exotic image of the East, reinforcing Western dominance."
+    },
+    {
+        "question": "Which thinker is associated with 'Cultural Capital,' the idea that social advantages can come from non-economic factors like education and taste?",
+        "options": ["Pierre Bourdieu", "Michel Foucault", "Antonio Gramsci", "Stuart Hall"],
+        "answer": "Pierre Bourdieu",
+        "description": "Pierre Bourdieu introduced the concept of 'Cultural Capital,' which refers to the advantages individuals gain through education, cultural knowledge, and social skills."
+    }
+]
+

@@ -1,0 +1,229 @@
+[
+    {
+        "question": "What is <em>'mise-en-scène'<em> in film?",
+        "options": [
+            "The arrangement of everything that appears in the framing of a shot", 
+            "The soundtrack of a film", 
+            "The editing style used in a film", 
+            "The screenplay and dialogue"
+        ],
+        "answer": "The arrangement of everything that appears in the framing of a shot",
+        "description": "Mise-en-scène refers to the visual arrangement within the frame, including settings, props, actors, and lighting."
+    },
+    {
+        "question": "Which of the following directors is known for the use of nonlinear storytelling?",
+        "options": [
+            "Alfred Hitchcock", 
+            "Christopher Nolan", 
+            "Steven Spielberg", 
+            "Quentin Tarantino"
+        ],
+        "answer": "Christopher Nolan",
+        "description": "Christopher Nolan often employs nonlinear narratives in films such as <em>Memento<em> and <em>Inception<em>."
+    },
+    {
+        "question": "The term 'diegetic sound' refers to sound that is part of the film's world and can be heard by the characters.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "Diegetic sound originates from a source within the film's narrative, allowing characters to hear it as well."
+    },
+    {
+        "question": "Which film features the line <em>'Here's looking at you, kid'<em>?",
+        "options": [
+            "<em>Casablanca<em>", 
+            "<em>Gone with the Wind<em>", 
+            "<em>Citizen Kane<em>", 
+            "<em>The Godfather<em>"
+        ],
+        "answer": "<em>Casablanca<em>",
+        "description": "The famous line is spoken by Humphrey Bogart's character in the classic film <em>Casablanca<em>."
+    },
+    {
+        "question": "What does 'framing' refer to in film analysis?",
+        "options": [
+            "The composition of a shot and what is included within it", 
+            "The narrative structure of the film", 
+            "The lighting design", 
+            "The editing process"
+        ],
+        "answer": "The composition of a shot and what is included within it",
+        "description": "Framing involves how subjects and objects are arranged within the shot, affecting the viewer's focus."
+    },
+    {
+        "question": "A __ is a recurring element in a film that has symbolic significance.",
+        "options": [
+            "theme", 
+            "motif", 
+            "genre", 
+            "plot twist"
+        ],
+        "answer": "motif",
+        "description": "A motif is a repeated element that carries thematic significance throughout the film."
+    },
+    {
+        "question": "Which cinematic technique involves cutting between two different scenes to create suspense?",
+        "options": [
+            "Cross-cutting", 
+            "Jump cut", 
+            "Montage", 
+            "Match cut"
+        ],
+        "answer": "Cross-cutting",
+        "description": "Cross-cutting alternates between two scenes happening simultaneously to build tension or narrative connections."
+    },
+    {
+        "question": "Which of the following films is an example of a coming-of-age story?",
+        "options": [
+            "<em>The Breakfast Club<em>", 
+            "<em>Pulp Fiction<em>", 
+            "<em>The Godfather<em>", 
+            "<em>Inception<em>"
+        ],
+        "answer": "<em>The Breakfast Club<em>",
+        "description": "<em>The Breakfast Club<em> is a quintessential coming-of-age film that explores the lives of high school students from different backgrounds."
+    },
+    {
+        "question": "What is 'the fourth wall' in film?",
+        "options": [
+            "The barrier between the audience and the film", 
+            "The use of voiceover narration", 
+            "The plot twist", 
+            "The lighting design"
+        ],
+        "answer": "The barrier between the audience and the film",
+        "description": "The fourth wall refers to the imaginary barrier that separates the audience from the narrative, often broken in films for comedic or dramatic effect."
+    },
+    {
+        "question": "Which of the following is a characteristic of film noir?",
+        "options": [
+            "Bright colors and optimism", 
+            "Dark, cynical themes and moral ambiguity", 
+            "Musical elements and romance", 
+            "Historical settings and biographical content"
+        ],
+        "answer": "Dark, cynical themes and moral ambiguity",
+        "description": "Film noir is characterized by its dark themes, antiheroes, and complex moral dilemmas."
+    },
+    {
+        "question": "An 'antagonist' is the main character in a story.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "The antagonist opposes the protagonist; the main character is typically the protagonist."
+    },
+    {
+        "question": "A __ is a short film that serves as a promotional tool for a larger production.",
+        "options": [
+            "trailer", 
+            "documentary", 
+            "featurette", 
+            "screenplay"
+        ],
+        "answer": "trailer",
+        "description": "A trailer is a short preview designed to attract an audience to a film."
+    },
+    {
+        "question": "Which of the following is an example of an auteur director?",
+        "options": [
+            "Martin Scorsese", 
+            "George Lucas", 
+            "Steven Spielberg", 
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "description": "An auteur director is one who has a distinctive style and thematic consistency across their films, including directors like Scorsese and Spielberg."
+    },
+    {
+        "question": "Which film genre is characterized by suspenseful and thrilling narratives, often involving crime and danger?",
+        "options": [
+            "Romantic comedy", 
+            "Horror", 
+            "Thriller", 
+            "Fantasy"
+        ],
+        "answer": "Thriller",
+        "description": "Thriller films create suspense and tension, often involving crime, espionage, or psychological elements."
+    },
+    {
+        "question": "What is a 'voiceover' in film?",
+        "options": [
+            "A song played during a scene", 
+            "The spoken commentary from a character or narrator not seen on screen", 
+            "The sound of background noise", 
+            "The dialogue spoken by the actors"
+        ],
+        "answer": "The spoken commentary from a character or narrator not seen on screen",
+        "description": "Voiceover is a technique where a narrator speaks over the film's visuals, providing context or commentary."
+    },
+    {
+        "question": "Which film features the famous quote, <em>'You can't handle the truth!'<em>?",
+        "options": [
+            "<em>The Shawshank Redemption<em>", 
+            "<em>A Few Good Men<em>", 
+            "<em>Forrest Gump<em>", 
+            "<em>Pulp Fiction<em>"
+        ],
+        "answer": "<em>A Few Good Men<em>",
+        "description": "The quote is famously delivered by Jack Nicholson's character in <em>A Few Good Men<em>."
+    },
+    {
+        "question": "The term __ refers to the overall message or theme conveyed by a film.",
+        "options": [
+            "narrative", 
+            "motif", 
+            "ideology", 
+            "plot"
+        ],
+        "answer": "ideology",
+        "description": "Ideology refers to the set of beliefs or ideas that are represented or critiqued in a film."
+    },
+    {
+        "question": "What is 'cinematography'?",
+        "options": [
+            "The art of making films", 
+            "The design of costumes", 
+            "The visual representation of the film through camera work", 
+            "The writing of the screenplay"
+        ],
+        "answer": "The visual representation of the film through camera work",
+        "description": "Cinematography involves capturing images on film or digital media, including camera angles, lighting, and shot composition."
+    },
+    {
+        "question": "Which of the following films is considered a classic example of science fiction?",
+        "options": [
+            "<em>2001: A Space Odyssey<em>", 
+            "<em>The Wizard of Oz<em>", 
+            "<em>Casablanca<em>", 
+            "<em>The Great Gatsby<em>"
+        ],
+        "answer": "<em>2001: A Space Odyssey<em>",
+        "description": "<em>2001: A Space Odyssey<em> is renowned for its groundbreaking special effects and philosophical themes in science fiction."
+    },
+    {
+        "question": "Which of the following directors is known for their innovative use of special effects?",
+        "options": [
+            "Tim Burton", 
+            "Christopher Nolan", 
+            "James Cameron", 
+            "Martin Scorsese"
+        ],
+        "answer": "James Cameron",
+        "description": "James Cameron is recognized for his groundbreaking special effects in films like <em>Avatar<em> and <em>Titanic<em>."
+    },
+    {
+        "question": "A 'cliffhanger' is a narrative device used to create suspense at the end of a film or episode.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "A cliffhanger leaves the story unresolved, creating suspense and encouraging viewers to return for the next installment."
+    },
+    {
+        "question": "What is a common feature of a documentary film?",
+        "options": [
+            "Fictional narrative, special effects, plot twists", 
+            "Real-life events, interviews, factual information", 
+            "Character arcs, dramatic tension, scripted dialogue", 
+            "Animated sequences, fictional characters, voiceovers"
+        ],
+        "answer": "Real-life events, interviews, factual information",
+        "description": "Documentaries typically present factual information about real-life events or people, often including interviews."
+    }
+]

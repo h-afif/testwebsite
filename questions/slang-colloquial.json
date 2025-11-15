@@ -1,0 +1,352 @@
+[
+    {
+        "question": "What does 'lit' mean in slang?",
+        "options": [
+            "exciting",
+            "drunk",
+            "angry"
+        ],
+        "answer": "exciting",
+        "description": "'Lit' is commonly used to describe something that is exciting or excellent, especially in a party context."
+    },
+    {
+        "question": "Fill in the blank: 'That party was so _____!'",
+        "options": [
+            "boring",
+            "lit",
+            "sad"
+        ],
+        "answer": "lit",
+        "description": "In this context, 'lit' indicates that the party was lively and fun."
+    },
+    {
+        "question": "What does 'ghosting' refer to?",
+        "options": [
+            "disappearing from someone's life",
+            "acting friendly",
+            "moving away"
+        ],
+        "answer": "disappearing from someone's life",
+        "description": "'Ghosting' is the act of suddenly cutting off all communication with someone without explanation."
+    },
+    {
+        "question": "What does 'throw shade' mean?",
+        "options": [
+            "to compliment someone",
+            "to criticize subtly",
+            "to show off"
+        ],
+        "answer": "to criticize subtly",
+        "description": "'Throwing shade' means to give someone a disapproving or contemptuous remark in a discreet manner."
+    },
+    {
+        "question": "Fill in the blank: 'She really knows how to _____ in a meeting.'",
+        "options": [
+            "speak",
+            "savage",
+            "shade"
+        ],
+        "answer": "savage",
+        "description": "In this context, 'savage' means to speak in a brutally honest or cutting way."
+    },
+    {
+        "question": "What does 'flex' mean in slang?",
+        "options": [
+            "to bend",
+            "to show off",
+            "to relax"
+        ],
+        "answer": "to show off",
+        "description": "'Flex' refers to the act of showing off one's achievements or possessions."
+    },
+    {
+        "question": "Fill in the blank: 'He likes to _____ about his new car.'",
+        "options": [
+            "flex",
+            "hide",
+            "ignore"
+        ],
+        "answer": "flex",
+        "description": "In this sentence, 'flex' means to boast about or display his new car."
+    },
+    {
+        "question": "What does 'salty' mean when describing a person?",
+        "options": [
+            "happy",
+            "angry or bitter",
+            "excited"
+        ],
+        "answer": "angry or bitter",
+        "description": "'Salty' refers to someone who is upset or bitter, often over something minor."
+    },
+    {
+        "question": "Fill in the blank: 'After losing the game, he was really _____ about it.'",
+        "options": [
+            "salty",
+            "happy",
+            "proud"
+        ],
+        "answer": "salty",
+        "description": "In this context, 'salty' indicates that he was upset or annoyed about losing."
+    },
+    {
+        "question": "What does 'on fleek' mean?",
+        "options": [
+            "perfectly done",
+            "messy",
+            "normal"
+        ],
+        "answer": "perfectly done",
+        "description": "'On fleek' means something is perfectly executed or styled, often used to describe appearance."
+    },
+    {
+        "question": "Fill in the blank: 'Her makeup was _____ for the event.'",
+        "options": [
+            "on fleek",
+            "off",
+            "messy"
+        ],
+        "answer": "on fleek",
+        "description": "Here, 'on fleek' indicates that her makeup was done very well."
+    },
+    {
+        "question": "What does 'bet' mean in slang?",
+        "options": [
+            "to gamble",
+            "to agree",
+            "to argue"
+        ],
+        "answer": "to agree",
+        "description": "In slang, 'bet' is often used to express agreement or affirmation."
+    },
+    {
+        "question": "Fill in the blank: 'Are you coming to the party?' '_____!'",
+        "options": [
+            "Bet",
+            "No way",
+            "Maybe"
+        ],
+        "answer": "Bet",
+        "description": "In this context, 'Bet' indicates strong agreement or confirmation."
+    },
+    {
+        "question": "What does 'sick' mean in colloquial language?",
+        "options": [
+            "ill",
+            "awesome",
+            "dangerous"
+        ],
+        "answer": "awesome",
+        "description": "'Sick' can be used to describe something that is impressive or cool."
+    },
+    {
+        "question": "Fill in the blank: 'That skateboard trick was _____!'",
+        "options": [
+            "sick",
+            "terrible",
+            "boring"
+        ],
+        "answer": "sick",
+        "description": "Here, 'sick' means that the skateboard trick was impressive."
+    },
+    {
+        "question": "What does 'chill' mean in slang?",
+        "options": [
+            "to relax",
+            "to fight",
+            "to eat"
+        ],
+        "answer": "to relax",
+        "description": "'Chill' is commonly used to mean to relax or take it easy."
+    },
+    {
+        "question": "Fill in the blank: 'Let’s just _____ at home tonight.'",
+        "options": [
+            "chill",
+            "work",
+            "go"
+        ],
+        "answer": "chill",
+        "description": "In this context, 'chill' means to relax or do nothing."
+    },
+    {
+        "question": "What does 'bail' mean in slang?",
+        "options": [
+            "to leave abruptly",
+            "to help someone",
+            "to attend"
+        ],
+        "answer": "to leave abruptly",
+        "description": "'Bail' means to leave a situation suddenly, often without explanation."
+    },
+    {
+        "question": "Fill in the blank: 'I have to _____ on this meeting.'",
+        "options": [
+            "bail",
+            "join",
+            "stay"
+        ],
+        "answer": "bail",
+        "description": "Here, 'bail' indicates that the speaker needs to leave the meeting unexpectedly."
+    },
+    {
+        "question": "What does 'squad' refer to?",
+        "options": [
+            "a team of friends",
+            "a group of enemies",
+            "a family"
+        ],
+        "answer": "a team of friends",
+        "description": "'Squad' refers to a close group of friends who often hang out together."
+    },
+    {
+        "question": "Fill in the blank: 'I’m going to hang out with my _____ tonight.'",
+        "options": [
+            "squad",
+            "classmates",
+            "family"
+        ],
+        "answer": "squad",
+        "description": "In this context, 'squad' refers to the group of friends."
+    },
+    {
+        "question": "What does 'no cap' mean?",
+        "options": [
+            "no lie",
+            "without limits",
+            "no price"
+        ],
+        "answer": "no lie",
+        "description": "'No cap' is a phrase used to emphasize that someone is being truthful or serious."
+    },
+    {
+        "question": "Fill in the blank: 'I’m really good at basketball, _____!'",
+        "options": [
+            "no cap",
+            "maybe",
+            "perhaps"
+        ],
+        "answer": "no cap",
+        "description": "Here, 'no cap' emphasizes that the speaker is telling the truth about their basketball skills."
+    },
+    {
+        "question": "What does 'hit me up' mean?",
+        "options": [
+            "to contact someone",
+            "to ignore someone",
+            "to argue with someone"
+        ],
+        "answer": "to contact someone",
+        "description": "'Hit me up' is a casual way of telling someone to reach out or get in touch."
+    },
+    {
+        "question": "Fill in the blank: '_____ if you want to grab coffee later!'",
+        "options": [
+            "Hit me up",
+            "Leave me alone",
+            "Forget it"
+        ],
+        "answer": "Hit me up",
+        "description": "In this context, 'hit me up' invites someone to make contact about meeting for coffee."
+    },
+    {
+        "question": "What does 'woke' mean in slang?",
+        "options": [
+            "aware of social issues",
+            "sleepy",
+            "happy"
+        ],
+        "answer": "aware of social issues",
+        "description": "'Woke' originally referred to being alert to social injustices and issues."
+    },
+    {
+        "question": "Fill in the blank: 'She’s very _____ about racial equality.'",
+        "options": [
+            "woke",
+            "unaware",
+            "confused"
+        ],
+        "answer": "woke",
+        "description": "Here, 'woke' indicates her awareness of social issues, particularly racial equality."
+    },
+    {
+        "question": "What does 'spill the tea' mean?",
+        "options": [
+            "to gossip",
+            "to share drinks",
+            "to tell a secret"
+        ],
+        "answer": "to gossip",
+        "description": "'Spill the tea' is a slang expression that means to share gossip or reveal juicy details."
+    },
+    {
+        "question": "Fill in the blank: 'I heard some interesting news; let me _____!'",
+        "options": [
+            "spill the tea",
+            "hold the tea",
+            "drink the tea"
+        ],
+        "answer": "spill the tea",
+        "description": "In this context, 'spill the tea' means to share gossip."
+    },
+    {
+        "question": "In the sentence, 'After she got the promotion, she was on cloud nine,' what does 'on cloud nine' mean?",
+        "options": [
+            "very happy",
+            "very sad",
+            "confused"
+        ],
+        "answer": "very happy",
+        "description": "'On cloud nine' means to be extremely happy or elated."
+    },
+    {
+        "question": "In the sentence, 'He totally bailed on the meeting last minute,' what does 'bailed' mean?",
+        "options": [
+            "left abruptly",
+            "helped out",
+            "arrived late"
+        ],
+        "answer": "left abruptly",
+        "description": "'Bailed' in this context means that he left the meeting unexpectedly."
+    },
+    {
+        "question": "In the sentence, 'That new song is fire,' what does 'fire' mean?",
+        "options": [
+            "bad",
+            "great",
+            "ordinary"
+        ],
+        "answer": "great",
+        "description": "'Fire' is often used to describe something that is excellent or impressive, particularly in music."
+    },
+    {
+        "question": "In the sentence, 'She always knows how to keep it 100,' what does 'keep it 100' mean?",
+        "options": [
+            "to stay quiet",
+            "to be honest",
+            "to be secretive"
+        ],
+        "answer": "to be honest",
+        "description": "'Keep it 100' means to be truthful and authentic in one's interactions."
+    },
+    {
+        "question": "In the sentence, 'They were really vibing at the party last night,' what does 'vibing' mean?",
+        "options": [
+            "having bad feelings",
+            "enjoying the atmosphere",
+            "arguing"
+        ],
+        "answer": "enjoying the atmosphere",
+        "description": "'Vibing' refers to enjoying the atmosphere or feeling a connection with others."
+    },
+    {
+        "question": "In the sentence, 'I can’t believe he’s still salty about that argument,' what does 'salty' mean?",
+        "options": [
+            "happy",
+            "angry or bitter",
+            "confused"
+        ],
+        "answer": "angry or bitter",
+        "description": "'Salty' in this context indicates that he is still upset or bitter about the argument."
+    }
+]

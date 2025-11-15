@@ -1,0 +1,178 @@
+[
+    {
+        "question": "Which of the following sentences correctly uses 'will' to express a spontaneous decision?",
+        "options": [
+            "I will meet my friend tomorrow at the café.",
+            "I am going to meet my friend tomorrow at the café.",
+            "Oh, it's raining! I will take an umbrella.",
+            "I am meeting my friend tomorrow at the café."
+        ],
+        "answer": "Oh, it's raining! I will take an umbrella.",
+        "description": "'Will' is used here because it expresses a spontaneous decision made at the moment of speaking. The speaker didn’t plan to take the umbrella beforehand but decided based on the current situation."
+    },
+    {
+        "question": "Fill in the blank: 'The train ___ (leave) at 5 p.m. tomorrow, so we must be there by 4:45 p.m.'",
+        "options": [
+            "is leaving",
+            "will leave",
+            "leaves",
+            "shall leave"
+        ],
+        "answer": "leaves",
+        "description": "The Simple Present ('leaves') is used to talk about scheduled or timetabled events in the future, such as train departures. This is a fixed event and not subject to change."
+    },
+    {
+        "question": "Choose the sentence that correctly uses 'be going to' to express a future plan or intention.",
+        "options": [
+            "We are going to visit the museum next weekend.",
+            "We will visit the museum next weekend if we have time.",
+            "We are visiting the museum next weekend.",
+            "We visit the museum next weekend."
+        ],
+        "answer": "We are going to visit the museum next weekend.",
+        "description": "'Be going to' is used to express a plan or intention made before the moment of speaking. The speaker has already decided to visit the museum in the future, so 'are going to' is appropriate here."
+    },
+    {
+        "question": "Fill in the gap: 'At this time tomorrow, I ___ (take) my final exam.'",
+        "options": [
+            "am taking",
+            "will take",
+            "am going to take",
+            "take"
+        ],
+        "answer": "will take",
+        "description": "'Will take' is used here because the action (taking the exam) is a scheduled event for tomorrow. Although 'am taking' could also be used, 'will' is preferred when talking about events at a specific time in the future."
+    },
+    {
+        "question": "Which of the following sentences correctly uses the Present Continuous to talk about a fixed arrangement in the near future?",
+        "options": [
+            "I will meet Sarah at 7 p.m. tomorrow.",
+            "I meet Sarah at 7 p.m. tomorrow.",
+            "I am meeting Sarah at 7 p.m. tomorrow.",
+            "I am going to meet Sarah at 7 p.m. tomorrow."
+        ],
+        "answer": "I am meeting Sarah at 7 p.m. tomorrow.",
+        "description": "The Present Continuous ('am meeting') is used to describe a fixed arrangement that has been planned for the near future. The meeting has already been scheduled."
+    },
+    {
+        "question": "Fill in the blank: 'Look at those clouds! It ___ (rain) soon.'",
+        "options": [
+            "is raining",
+            "will rain",
+            "is going to rain",
+            "shall rain"
+        ],
+        "answer": "is going to rain",
+        "description": "'Be going to' is used to make predictions based on current evidence. In this case, the dark clouds suggest it will rain soon, so 'is going to rain' is appropriate."
+    },
+    {
+        "question": "Which sentence uses 'shall' correctly to make an offer or suggestion?",
+        "options": [
+            "Shall we go for a walk this afternoon?",
+            "I shall go to the party tonight if I have time.",
+            "They shall arrive tomorrow by train.",
+            "She shall finish her work by next week."
+        ],
+        "answer": "Shall we go for a walk this afternoon?",
+        "description": "'Shall' is often used to make offers or suggestions, especially in the first person. 'Shall we go for a walk' is a polite way to propose a future action."
+    },
+    {
+        "question": "Fill in the blank: 'By the time you get home, I ___ (finish) the project.'",
+        "options": [
+            "am finishing",
+            "shall finish",
+            "will have finished",
+            "am going to finish"
+        ],
+        "answer": "will have finished",
+        "description": "The Future Perfect ('will have finished') is used to describe an action that will be completed by a certain point in the future. In this case, the speaker will finish the project before the other person gets home."
+    },
+    {
+        "question": "Choose the sentence that correctly uses 'will' to express a prediction about the future.",
+        "options": [
+            "Look at the sky, it will rain soon.",
+            "Look at the sky, it is raining soon.",
+            "Look at the sky, it is going to rain soon.",
+            "Look at the sky, it will be raining soon."
+        ],
+        "answer": "Look at the sky, it is going to rain soon.",
+        "description": "Although 'will' is often used for predictions, when there is clear evidence (like dark clouds), 'be going to' is more appropriate. So, 'it is going to rain soon' is the correct choice here."
+    },
+    {
+        "question": "Fill in the gap: 'Next Friday at 3 p.m., I ___ (fly) to Paris for a business meeting.'",
+        "options": [
+            "will fly",
+            "am flying",
+            "am going to fly",
+            "fly"
+        ],
+        "answer": "am flying",
+        "description": "The Present Continuous ('am flying') is used here to describe a definite, scheduled plan in the near future. The speaker has arranged the flight, so this form is appropriate."
+    },
+    {
+        "question": "Which of the following sentences correctly uses 'will' to express a promise?",
+        "options": [
+            "I am going to help you with your homework tonight, don't worry.",
+            "I will help you with your homework tonight, don't worry.",
+            "I am helping you with your homework tonight, don't worry.",
+            "I shall help you with your homework tonight, don't worry."
+        ],
+        "answer": "I will help you with your homework tonight, don't worry.",
+        "description": "'Will' is used to express promises or voluntary actions. Here, the speaker is offering help as a future promise."
+    },
+    {
+        "question": "Fill in the blank: 'We ___ (start) the meeting as soon as everyone arrives.'",
+        "options": [
+            "shall start",
+            "are starting",
+            "will start",
+            "start"
+        ],
+        "answer": "will start",
+        "description": "'Will start' is appropriate here because it refers to an action that will happen in the future after a condition is met (everyone arrives)."
+    },
+    {
+        "question": "Which sentence uses 'be going to' to describe a future action based on present evidence?",
+        "options": [
+            "The weather forecast says it will snow tomorrow.",
+            "I think I am going to fail this exam because I didn't study.",
+            "We are leaving for the airport at 5 p.m. tomorrow.",
+            "I shall arrive on time if the traffic is clear."
+        ],
+        "answer": "I think I am going to fail this exam because I didn't study.",
+        "description": "'Be going to' is used here because the speaker is predicting failure based on the current situation (lack of studying)."
+    },
+    {
+        "question": "Fill in the blank: 'The company ___ (launch) the new product next month, and they ___ (expect) a lot of interest from consumers.'",
+        "options": [
+            "launches, are expecting",
+            "is launching, expect",
+            "will launch, will expect",
+            "shall launch, are expecting"
+        ],
+        "answer": "is launching, expect",
+        "description": "The Present Continuous ('is launching') is used for a scheduled event in the near future, and the Present Simple ('expect') is used to express a general belief or fact about the future."
+    },
+    {
+        "question": "Which sentence correctly uses the Present Simple to describe a future schedule?",
+        "options": [
+            "The train will leave at 7 a.m. tomorrow.",
+            "The train is going to leave at 7 a.m. tomorrow.",
+            "The train leaves at 7 a.m. tomorrow.",
+            "The train is leaving at 7 a.m. tomorrow."
+        ],
+        "answer": "The train leaves at 7 a.m. tomorrow.",
+        "description": "The Present Simple ('leaves') is used to describe a scheduled future event, such as a train departure."
+    },
+    {
+        "question": "Fill in the blank: 'By this time next year, I ___ (graduate) from university and ___ (start) my career.'",
+        "options": [
+            "will graduate, will start",
+            "am going to graduate, am going to start",
+            "will have graduated, will have started",
+            "am graduating, am starting"
+        ],
+        "answer": "will have graduated, will have started",
+        "description": "The Future Perfect ('will have graduated, will have started') is used to express actions that will be completed by a specific point in the future."
+    }
+]

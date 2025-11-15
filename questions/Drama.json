@@ -1,0 +1,332 @@
+[
+    {
+        "question": "What is the term used to describe a play in which the protagonist suffers a downfall due to a tragic flaw?",
+        "options": ["Comedy", "Farce", "Tragedy", "Satire"],
+        "answer": "Tragedy",
+        "description": "A tragedy is a dramatic genre where the protagonist faces downfall due to a flaw or fate."
+    },
+    {
+        "question": "Who is often called the 'Father of English Drama'?",
+        "options": ["Christopher Marlowe", "August Wilson", "Ben Jonson", "Thomas Kyd"],
+        "answer": "Christopher Marlowe",
+        "description": "Christopher Marlowe is often credited as one of the earliest masters of English drama."
+    },
+    {
+        "question": "Complete the sentence: Shakespeare’s play __ is often regarded as the quintessential tragedy in English literature.",
+        "options": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+        "answer": "Hamlet",
+        "description": "'Hamlet' is widely considered Shakespeare’s masterpiece and a quintessential English tragedy."
+    },
+    {
+        "question": "Ben Jonson’s plays were known for their use of classical unities (time, place, and action).",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "Ben Jonson followed the classical unities in his plays, especially in works like 'Volpone.'"
+    },
+    {
+        "question": "Why is 'The Theatre of the Absurd' important in the context of modern drama?",
+        "options": ["It brought back classical themes", "It rejected conventional plot structure", "It focused on religious themes", "It emphasized historical accuracy"],
+        "answer": "It rejected conventional plot structure",
+        "description": "'The Theatre of the Absurd' broke traditional narrative forms, portraying the absurdity of human existence."
+    },
+    {
+        "question": "Which of the following is NOT a play written by Shakespeare?",
+        "options": ["The Jew of Malta", "The Tempest", "Twelfth Night", "Julius Caesar"],
+        "answer": "The Jew of Malta",
+        "description": "'The Jew of Malta' was written by Christopher Marlowe, not William Shakespeare."
+    },
+    {
+        "question": "What is the dramatic term for a character’s speech directed to the audience, unheard by other characters?",
+        "options": ["Soliloquy", "Monologue", "Aside", "Dialogue"],
+        "answer": "Aside",
+        "description": "An aside is a short comment made to the audience that other characters in the play do not hear."
+    },
+    {
+        "question": "Complete the following famous quote from Shakespeare’s <em>'As You Like It': 'All the world’s a __.'<em>",
+        "options": ["stage", "play", "dream", "farce"],
+        "answer": "stage",
+        "description": "The famous quote 'All the world’s a stage' is from Shakespeare's play 'As You Like It.'"
+    },
+    {
+        "question": "The 'Problem Plays' are a group of Shakespeare’s comedies that address serious social issues.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "Shakespeare’s 'Problem Plays,' such as 'Measure for Measure,' tackle serious issues within a comedic framework."
+    },
+    {
+        "question": "Which playwright is associated with the development of 'comedy of manners' in the Restoration period?",
+        "options": ["William Wycherley", "John Webster", "George Bernard Shaw", "Harold Pinter"],
+        "answer": "William Wycherley",
+        "description": "William Wycherley was a leading playwright of the 'comedy of manners' during the Restoration."
+    },
+    {
+        "question": "What is 'Catharsis' in the context of Aristotelian tragedy?",
+        "options": ["A cleansing of emotions", "A narrative twist", "A comic relief", "A climax"],
+        "answer": "A cleansing of emotions",
+        "description": "Catharsis refers to the emotional purging experienced by the audience at the end of a tragedy."
+    },
+    {
+        "question": "Fill in the gap: __ wrote 'Waiting for Godot,' a defining play of the 'Theatre of the Absurd.'",
+        "options": ["Samuel Beckett", "Harold Pinter", "Tom Stoppard", "Eugene Ionesco"],
+        "answer": "Samuel Beckett",
+        "description": "Samuel Beckett’s 'Waiting for Godot' is one of the most famous plays in the Theatre of the Absurd."
+    },
+    {
+        "question": "In Elizabethan drama, the Globe Theatre was the venue where many of Shakespeare’s plays were performed.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "The Globe Theatre was closely associated with Shakespeare and the performance of his plays."
+    },
+    {
+        "question": "Which of the following plays is a modern example of a 'social problem play'?",
+        "options": ["A Doll's House", "The Cherry Orchard", "The Importance of Being Earnest", "Pygmalion"],
+        "answer": "A Doll's House",
+        "description": "Henrik Ibsen’s 'A Doll's House' is a key example of a 'social problem play,' dealing with gender and marriage issues."
+    },
+    {
+        "question": "What is the term for a play-within-a-play, often used in drama to highlight the themes or events of the main narrative?",
+        "options": ["Meta-theatre", "Monologue", "Prologue", "Denouement"],
+        "answer": "Meta-theatre",
+        "description": "Meta-theatre refers to moments in drama when a play calls attention to itself as a theatrical performance, like the play-within-a-play in 'Hamlet.'"
+    },
+    {
+        "question": "Which play features the characters Estragon and Vladimir?",
+        "options": ["Waiting for Godot", "Endgame", "The Dumb Waiter", "Rosencrantz and Guildenstern Are Dead"],
+        "answer": "Waiting for Godot",
+        "description": "Estragon and Vladimir are the main characters in Samuel Beckett's 'Waiting for Godot.'"
+    },
+    {
+        "question": "Tragicomedy blends elements of tragedy and comedy within a single play.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "Tragicomedy incorporates both tragic and comic elements, often creating a complex emotional experience."
+    },
+    {
+        "question": "Which of the following plays is an example of a revenge tragedy?",
+        "options": ["Hamlet", "The Tempest", "As You Like It", "The Importance of Being Earnest"],
+        "answer": "Hamlet",
+        "description": "Shakespeare’s 'Hamlet' is a key example of a revenge tragedy, where the protagonist seeks revenge for a familial wrong."
+    },
+    {
+        "question": "Why is the play 'The Importance of Being Earnest' by Oscar Wilde considered a farce?",
+        "options": ["It focuses on serious social issues", "It uses exaggerated humor and mistaken identities", "It is set in a fantastical world", "It lacks a clear plot"],
+        "answer": "It uses exaggerated humor and mistaken identities",
+        "description": "'The Importance of Being Earnest' is a farce due to its use of witty dialogue, satire, and mistaken identities."
+    },
+    {
+        "question": "Which dramatist is known for his 'kitchen sink realism' plays?",
+        "options": ["John Osborne", "Harold Pinter", "Tom Stoppard", "George Bernard Shaw"],
+        "answer": "John Osborne",
+        "description": "John Osborne's plays, such as 'Look Back in Anger,' are associated with 'kitchen sink realism,' depicting working-class life."
+    },
+    {
+        "question": "'Death of a Salesman' by Arthur Miller is often considered a critique of __.",
+        "options": ["The American Dream", "Socialism", "Monarchy", "Religion"],
+        "answer": "The American Dream",
+        "description": "'Death of a Salesman' critiques the pressures and failures of the American Dream through its tragic protagonist, Willy Loman."
+    },
+    {
+        "question": "Which of the following is NOT considered part of a Shakespearean tragedy?",
+        "options": ["A tragic flaw", "A happy ending", "A high-status protagonist", "A sense of catharsis"],
+        "answer": "A happy ending",
+        "description": "Shakespearean tragedies often end with death or downfall, not a happy resolution."
+    },
+    {
+        "question": "What is the primary purpose of drama in literature?",
+        "options": ["To tell a story", "To convey emotions", "To entertain an audience", "All of the above"],
+        "answer": "All of the above",
+        "description": "Drama serves to tell stories, evoke emotions, and entertain audiences."
+    },
+    {
+        "question": "According to Aristotle, which of the following is NOT one of the six elements of tragedy?",
+        "options": ["Plot", "Character", "Theme", "Spectacle"],
+        "answer": "Theme",
+        "description": "Aristotle identifies six elements of tragedy: plot, character, thought, diction, melody, and spectacle; 'theme' is not explicitly listed as one of them."
+    },
+    {
+        "question": "A monologue is a speech delivered by a character to another character.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "A monologue is a speech delivered by a character alone on stage."
+    },
+    {
+        "question": "In drama, the term __ refers to the introduction of background information.",
+        "options": ["exposition", "climax", "denouement", "prologue"],
+        "answer": "exposition",
+        "description": "Exposition provides background information necessary for understanding the play."
+    },
+    {
+        "question": "Who is considered the 'Father of Tragedy'?",
+        "options": ["Sophocles", "Aristotle", "Euripides", "Aeschylus"],
+        "answer": "Aeschylus",
+        "description": "Aeschylus is often called the Father of Tragedy for his significant contributions to the genre."
+    },
+    {
+        "question": "What is the significance of the 'fourth wall' in drama?",
+        "options": ["It separates the audience from the performers", "It allows for soliloquies", "It is a metaphor for conflict", "It enhances comedy"],
+        "answer": "It separates the audience from the performers",
+        "description": "The 'fourth wall' refers to the imaginary barrier between the actors and the audience."
+    },
+    {
+        "question": "In Shakespearean plays, the character who provides comic relief is often called a __.",
+        "options": ["fool", "tragic hero", "villain", "protagonist"],
+        "answer": "fool",
+        "description": "Shakespeare often used a 'fool' character to provide comic relief."
+    },
+    {
+        "question": "The climax of a play is the point of highest tension or conflict.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "The climax is indeed the moment of highest tension in a narrative."
+    },
+    {
+        "question": "Why is Aristotle’s 'Poetics' significant in the study of drama?",
+        "options": ["It provides a definition of tragedy", "It discusses the elements of comedy", "It outlines dramatic structure", "All of the above"],
+        "answer": "All of the above",
+        "description": "Aristotle's 'Poetics' is foundational for understanding the principles of tragedy and comedy."
+    },
+    {
+        "question": "What is a 'tragic flaw' in a character?",
+        "options": ["A minor mistake", "An inherent defect", "A plot twist", "A change of heart"],
+        "answer": "An inherent defect",
+        "description": "A tragic flaw is a character trait that leads to the downfall of the protagonist."
+    },
+    {
+        "question": "A __ is a dramatic work that is primarily humorous and often ends happily.",
+        "options": ["tragedy", "comedy", "farce", "melodrama"],
+        "answer": "comedy",
+        "description": "A comedy is a genre of drama that is humorous and typically has a happy ending."
+    },
+    {
+        "question": "What is a 'soliloquy'?",
+        "options": ["A conversation between characters", "A character's inner thoughts expressed aloud", "A humorous speech", "A type of dramatic irony"],
+        "answer": "A character's inner thoughts expressed aloud",
+        "description": "A soliloquy allows characters to share their thoughts with the audience."
+    },
+    {
+        "question": "The term 'denouement' refers to the resolution of a narrative's conflict.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "The denouement is the final part of a narrative where conflicts are resolved."
+    },
+    {
+        "question": "Who wrote 'Death of a Salesman'?",
+        "options": ["Tennessee Williams", "Arthur Miller", "Eugene O'Neill", "Harold Pinter"],
+        "answer": "Arthur Miller",
+        "description": "'Death of a Salesman' is a famous play written by Arthur Miller."
+    },
+    {
+        "question": "What is the difference between a 'protagonist' and an 'antagonist'?",
+        "options": ["Protagonist is the hero, antagonist is the villain", "Protagonist is the villain, antagonist is the hero", "They are the same", "Protagonist is always static, antagonist is dynamic"],
+        "answer": "Protagonist is the hero, antagonist is the villain",
+        "description": "The protagonist is the central character, while the antagonist opposes them."
+    },
+    {
+        "question": "In drama, __ refers to the emotional atmosphere or feeling conveyed by the play.",
+        "options": ["tone", "theme", "mood", "setting"],
+        "answer": "mood",
+        "description": "Mood is the emotional setting or atmosphere of a play."
+    },
+    {
+        "question": "In a melodrama, the plot is often more important than character development.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "Melodramas focus on plot and sensational events rather than deep character development."
+    },
+    {
+        "question": "What does 'catharsis' mean in the context of drama?",
+        "options": ["Emotional cleansing", "Character development", "Dramatic irony", "Conflict resolution"],
+        "answer": "Emotional cleansing",
+        "description": "Catharsis refers to the emotional release or purification experienced by the audience."
+    },
+    {
+        "question": "The __ is the person who tells the story in a play.",
+        "options": ["narrator", "actor", "director", "producer"],
+        "answer": "narrator",
+        "description": "The narrator guides the audience through the story."
+    },
+    {
+        "question": "Who is the main character in Shakespeare's 'Hamlet'?",
+        "options": ["Macbeth", "Othello", "Hamlet", "King Lear"],
+        "answer": "Hamlet",
+        "description": "Hamlet is the protagonist of Shakespeare's tragedy 'Hamlet.'"
+    },
+    {
+        "question": "What is the term for a play that uses exaggerated characters and improbable events?",
+        "options": ["tragedy", "farce", "realism", "melodrama"],
+        "answer": "farce",
+        "description": "Farce is a comic dramatic work that uses exaggerated and improbable situations."
+    },
+    {
+        "question": "A __ often critiques societal norms and values through its characters and plot.",
+        "options": ["satire", "comedy", "tragedy", "drama"],
+        "answer": "satire",
+        "description": "Satire uses humor, irony, or exaggeration to criticize societal issues."
+    },
+    {
+        "question": "A 'playwright' is someone who directs a play.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "A playwright writes plays, while a director oversees the production."
+    },
+    {
+        "question": "Why is the concept of 'dramatic irony' significant?",
+        "options": ["It enhances character development", "It creates tension and suspense", "It resolves conflict", "It provides comic relief"],
+        "answer": "It creates tension and suspense",
+        "description": "Dramatic irony occurs when the audience knows more than the characters, heightening tension."
+    },
+    {
+        "question": "The term 'hubris' refers to a character's excessive __.",
+        "options": ["pride", "fear", "anger", "jealousy"],
+        "answer": "pride",
+        "description": "Hubris is often a tragic flaw that leads to the downfall of the protagonist."
+    },
+    {
+        "question": "What is a 'chorus' in ancient Greek drama?",
+        "options": ["A group of actors", "A solo performer", "A musical interlude", "The audience"],
+        "answer": "A group of actors",
+        "description": "In ancient Greek drama, the chorus comments on the action and themes of the play."
+    },
+    {
+        "question": "__ drama focuses on the depiction of everyday life and realistic characters.",
+        "options": ["Melodramatic", "Tragic", "Realistic", "Epic"],
+        "answer": "Realistic",
+        "description": "Realistic drama aims to portray life accurately and truthfully."
+    },
+    {
+        "question": "Who is the author of 'A Streetcar Named Desire'?",
+        "options": ["Tennessee Williams", "Arthur Miller", "Eugene O'Neill", "Harold Pinter"],
+        "answer": "Tennessee Williams",
+        "description": "'A Streetcar Named Desire' is a famous play written by Tennessee Williams."
+    },
+    {
+        "question": "What does the term 'theme' refer to in drama?",
+        "options": ["The main character", "The underlying message or idea", "The setting of the play", "The plot twist"],
+        "answer": "The underlying message or idea",
+        "description": "Theme is the central idea or message conveyed by the work."
+    },
+    {
+        "question": "The use of __ in a play can enhance the emotional impact of the story.",
+        "options": ["dialogue", "monologue", "soliloquy", "all of the above"],
+        "answer": "all of the above",
+        "description": "Dialogue, monologue, and soliloquy are all crucial for conveying emotions in a play."
+    },
+    {
+        "question": "A play is divided into acts and scenes.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "Plays are typically structured in acts and scenes to organize the narrative."
+    },
+    {
+        "question": "What is the role of the director in a theatrical production?",
+        "options": ["To write the play", "To oversee the artistic aspects", "To act in the play", "To manage finances"],
+        "answer": "To oversee the artistic aspects",
+        "description": "The director is responsible for interpreting the script and guiding the production."
+    },
+    {
+        "question": "The term __ refers to the main conflict or struggle in a play.",
+        "options": ["plot", "theme", "dramatic structure", "climax"],
+        "answer": "plot",
+        "description": "The plot encompasses the main conflict and events of the play."
+    }
+]

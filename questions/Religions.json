@@ -1,0 +1,158 @@
+[
+    {
+        "question": "What is the holy book of Islam?",
+        "options": ["The Bible", "The Torah", "The Quran", "The Vedas"],
+        "answer": "The Quran",
+        "description": "The Quran is the holy book of Islam, believed by Muslims to be the word of God as revealed to Prophet Muhammad."
+    },
+    {
+        "question": "Which religion is known for the concept of Dharma?",
+        "options": ["Buddhism", "Hinduism", "Christianity", "Islam"],
+        "answer": "Hinduism",
+        "description": "Dharma is a key concept in Hinduism, referring to the moral order and duties in one's life."
+    },
+    {
+        "question": "Who is considered the founder of Buddhism?",
+        "options": ["Moses", "Jesus Christ", "Buddha", "Confucius"],
+        "answer": "Buddha",
+        "description": "Siddhartha Gautama, known as the Buddha, founded Buddhism in the 5th century BCE."
+    },
+    {
+        "question": "In which city is the Western Wall located?",
+        "options": ["Mecca", "Jerusalem", "Cairo", "Istanbul"],
+        "answer": "Jerusalem",
+        "description": "The Western Wall, a sacred site in Judaism, is located in Jerusalem, a city with profound historical and religious significance."
+    },
+    {
+        "question": "Which festival is celebrated by Jews to commemorate the Exodus from Egypt?",
+        "options": ["Yom Kippur", "Rosh Hashanah", "Hanukkah", "Passover"],
+        "answer": "Passover",
+        "description": "Passover commemorates the Exodus of the Israelites from slavery in Egypt, celebrating freedom and deliverance."
+    },
+    {
+        "question": "What is the main religious text of Christianity?",
+        "options": ["The Bhagavad Gita", "The Bible", "The Quran", "The Tao Te Ching"],
+        "answer": "The Bible",
+        "description": "The Bible is the sacred scripture of Christianity, consisting of the Old Testament and the New Testament."
+    },
+    {
+        "question": "Which religion primarily follows the teachings of Confucius?",
+        "options": ["Buddhism", "Taoism", "Shinto", "Confucianism"],
+        "answer": "Confucianism",
+        "description": "Confucianism is a philosophical and ethical system based on the teachings of Confucius, focusing on morality, family, and social harmony."
+    },
+    {
+        "question": "What is the central tenet of the Hindu belief system?",
+        "options": ["Karma", "Salvation", "Prophethood", "Revelation"],
+        "answer": "Karma",
+        "description": "Karma is a central concept in Hinduism, referring to the law of cause and effect where a person's actions determine their future."
+    },
+    {
+        "question": "What is the term for the Islamic declaration of faith?",
+        "options": ["Zakat", "Hajj", "Shahada", "Sawm"],
+        "answer": "Shahada",
+        "description": "The Shahada is the Islamic declaration of faith, affirming that there is no god but Allah, and Muhammad is His messenger."
+    },
+    {
+        "question": "Which religion believes in the Four Noble Truths?",
+        "options": ["Hinduism", "Buddhism", "Judaism", "Christianity"],
+        "answer": "Buddhism",
+        "description": "The Four Noble Truths are fundamental principles in Buddhism, outlining the nature of suffering and the path to enlightenment."
+    },
+    {
+        "question": "What is the holy city of Islam?",
+        "options": ["Jerusalem", "Mecca", "Cairo", "Baghdad"],
+        "answer": "Mecca",
+        "description": "Mecca is the holy city of Islam, home to the Kaaba, and the destination for the Hajj pilgrimage."
+    },
+    {
+        "question": "What does the term 'Jihad' literally mean in Arabic?",
+        "options": ["War", "Struggle", "Peace", "Faith"],
+        "answer": "Struggle",
+        "description": "'Jihad' means 'struggle' or 'striving' in Arabic, often interpreted in the context of personal spiritual growth or defense of the faith."
+    },
+    {
+        "question": "In Christianity, what is the significance of Easter?",
+        "options": ["Birth of Jesus", "Last Supper", "Resurrection of Jesus", "Ascension of Jesus"],
+        "answer": "Resurrection of Jesus",
+        "description": "Easter celebrates the resurrection of Jesus Christ from the dead, marking the victory over sin and death."
+    },
+    {
+        "question": "Which religious text is central to Sikhism?",
+        "options": ["The Bible", "The Quran", "The Guru Granth Sahib", "The Vedas"],
+        "answer": "The Guru Granth Sahib",
+        "description": "The Guru Granth Sahib is the central religious scripture of Sikhism, containing hymns and writings of Sikh Gurus and other saints."
+    },
+    {
+        "question": "What does 'Zakat' refer to in Islam?",
+        "options": ["Pilgrimage", "Prayer", "Charity", "Fasting"],
+        "answer": "Charity",
+        "description": "'Zakat' is one of the Five Pillars of Islam, referring to the obligation of charitable giving to assist those in need."
+    },
+    {
+        "question": "Which of the following religions practices the belief in reincarnation?",
+        "options": ["Judaism", "Hinduism", "Islam", "Christianity"],
+        "answer": "Hinduism",
+        "description": "Hinduism includes the belief in reincarnation, the cycle of birth, death, and rebirth based on karma."
+    },
+    {
+        "question": "What does the term 'Sharia' refer to in Islam?",
+        "options": ["Religious belief", "Law and moral code", "Pilgrimage", "Charity"],
+        "answer": "Law and moral code",
+        "description": "'Sharia' refers to Islamic law and moral code derived from the Quran and Hadith, governing various aspects of life."
+    },
+    {
+        "question": "Who is considered the founder of Christianity?",
+        "options": ["Moses", "Jesus Christ", "Muhammad", "Paul the Apostle"],
+        "answer": "Jesus Christ",
+        "description": "Jesus Christ is regarded as the founder of Christianity, whose life and teachings form the basis of the religion."
+    },
+    {
+        "question": "In which religion is the concept of Ahimsa (non-violence) a key principle?",
+        "options": ["Buddhism", "Hinduism", "Jainism", "Sikhism"],
+        "answer": "Jainism",
+        "description": "Ahimsa, or non-violence, is a fundamental principle in Jainism, emphasizing the importance of harmlessness to all living beings."
+    },
+    {
+        "question": "Which religious leader is known for his role in the Indian independence movement and the philosophy of non-violent resistance?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Nelson Mandela", "Martin Luther King Jr."],
+        "answer": "Mahatma Gandhi",
+        "description": "Mahatma Gandhi is known for leading India’s non-violent struggle for independence from British rule through principles of non-violence."
+    },
+    {
+        "question": "What is the significance of the Hajj in Islam?",
+        "options": ["Pilgrimage to Mecca", "Fasting during Ramadan", "Charitable giving", "Daily prayer"],
+        "answer": "Pilgrimage to Mecca",
+        "description": "Hajj is one of the Five Pillars of Islam, a pilgrimage to Mecca that every Muslim must undertake at least once in their lifetime if able."
+    },
+    {
+        "question": "Gap-fill: The ______ is a holy text of the Baha'i Faith that emphasizes the unity of all religions.",
+        "options": ["Kitáb-i-Aqdas", "Talmud", "Bible", "Quran"],
+        "answer": "Kitáb-i-Aqdas",
+        "description": "The Kitáb-i-Aqdas is the central book of the Baha'i Faith, outlining its laws and teachings, emphasizing the unity of all religions."
+    },
+    {
+        "question": "What is the holy book of Zoroastrianism?",
+        "options": ["The Vedas", "The Avesta", "The Quran", "The Torah"],
+        "answer": "The Avesta",
+        "description": "The Avesta is the holy scripture of Zoroastrianism, containing hymns, rituals, and teachings attributed to Zoroaster."
+    },
+    {
+        "question": "What is the primary religious text of the Mormon faith?",
+        "options": ["The Bible", "The Book of Mormon", "The Quran", "The Guru Granth Sahib"],
+        "answer": "The Book of Mormon",
+        "description": "The Book of Mormon is the primary religious text of the Church of Jesus Christ of Latter-day Saints (Mormons), believed to be another testament of Jesus Christ."
+    },
+    {
+        "question": "Gap-fill: The ______ is a major religious pilgrimage for Sikhs to the Golden Temple in Amritsar.",
+        "options": ["Hajj", "Yatra", "Parikrama", "Gurdwara"],
+        "answer": "Yatra",
+        "description": "Yatra refers to the pilgrimage undertaken by Sikhs to the Golden Temple, a significant spiritual and cultural site."
+    },
+    {
+        "question": "What is the primary focus of Taoism?",
+        "options": ["Worship of gods", "Achieving balance with nature", "Political philosophy", "Ritual sacrifice"],
+        "answer": "Achieving balance with nature",
+        "description": "Taoism emphasizes living in harmony with the Tao, or 'the way,' focusing on balance with nature and simplicity in life."
+    }
+]

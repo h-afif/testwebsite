@@ -1,0 +1,332 @@
+[
+      {
+        "question": "What is the function of the noun clause in the following sentence: 'What she said surprised everyone'?",
+        "options": [
+          "A) Subject",
+          "B) Object",
+          "C) Adverbial",
+          "D) Complement"
+        ],
+        "answer": "A) Subject",
+        "description": "The noun clause 'What she said' acts as the subject of the verb 'surprised'. It tells us what did the action."
+      },
+      {
+        "question": "Identify the type of clause underlined: 'She will succeed *if she tries hard enough*.'",
+        "options": [
+          "A) Noun clause",
+          "B) Adverbial clause",
+          "C) Relative clause",
+          "D) Complement clause"
+        ],
+        "answer": "B) Adverbial clause",
+        "description": "The clause 'if she tries hard enough' modifies the verb 'succeed' by telling under what condition she will succeed, making it an adverbial clause."
+      },
+      {
+        "question": "In the sentence 'The man who called earlier left a message,' what is the function of the relative clause 'who called earlier'?",
+        "options": [
+          "A) It modifies the verb.",
+          "B) It acts as the subject.",
+          "C) It describes the noun 'man'.",
+          "D) It serves as an object."
+        ],
+        "answer": "C) It describes the noun 'man'.",
+        "description": "The relative clause 'who called earlier' provides additional information about 'the man', thus acting as an adjective clause."
+      },
+      {
+        "question": "What is the role of the subordinate clause in this sentence: 'Although she was tired, she continued to work'?",
+        "options": [
+          "A) It introduces a condition.",
+          "B) It provides a reason.",
+          "C) It contrasts with the main clause.",
+          "D) It clarifies time."
+        ],
+        "answer": "C) It contrasts with the main clause.",
+        "description": "The subordinate clause 'Although she was tired' contrasts with the main idea of the sentence, which is 'she continued to work.'"
+      },
+      {
+        "question": "In 'I believe that he is honest,' the noun clause functions as which part of the sentence?",
+        "options": [
+          "A) Subject",
+          "B) Direct object",
+          "C) Indirect object",
+          "D) Predicate nominative"
+        ],
+        "answer": "B) Direct object",
+        "description": "The noun clause 'that he is honest' acts as the direct object of the verb 'believe', explaining what is believed."
+      },
+      {
+        "question": "Which type of clause is underlined in the sentence: 'I will call you *as soon as I arrive home*.'?",
+        "options": [
+          "A) Noun clause",
+          "B) Adverbial clause",
+          "C) Relative clause",
+          "D) Independent clause"
+        ],
+        "answer": "B) Adverbial clause",
+        "description": "The clause 'as soon as I arrive home' modifies the verb 'will call' by explaining when the action will happen, making it an adverbial clause."
+      },
+      {
+        "question": "In the sentence 'The book that you gave me is very interesting,' what is the function of 'that you gave me'?",
+        "options": [
+          "A) It modifies the verb 'is'.",
+          "B) It provides additional information about 'book'.",
+          "C) It serves as the subject of the sentence.",
+          "D) It modifies 'interesting'."
+        ],
+        "answer": "B) It provides additional information about 'book'.",
+        "description": "The relative clause 'that you gave me' describes the noun 'book' by telling us more about it."
+      },
+      {
+        "question": "What type of clause is 'wherever you go' in the sentence 'I will follow you wherever you go'?",
+        "options": [
+          "A) Adjective clause",
+          "B) Adverbial clause",
+          "C) Noun clause",
+          "D) Relative clause"
+        ],
+        "answer": "B) Adverbial clause",
+        "description": "The clause 'wherever you go' modifies the verb 'follow' by indicating the place, making it an adverbial clause of place."
+      },
+      {
+        "question": "Which of the following sentences contains a noun clause?",
+        "options": [
+          "A) She sings because she loves music.",
+          "B) The person who called earlier left a message.",
+          "C) I don’t know what he wants.",
+          "D) We left when the concert ended."
+        ],
+        "answer": "C) I don’t know what he wants.",
+        "description": "The clause 'what he wants' is a noun clause functioning as the object of the verb 'know'."
+      },
+      {
+        "question": "What type of clause is 'before the meeting starts' in the sentence 'Let’s discuss the plan before the meeting starts'?",
+        "options": [
+          "A) Noun clause",
+          "B) Adjective clause",
+          "C) Adverbial clause",
+          "D) Complement clause"
+        ],
+        "answer": "C) Adverbial clause",
+        "description": "The clause 'before the meeting starts' modifies the verb 'discuss' by indicating time, making it an adverbial clause."
+      },
+      {
+        "question": "In 'The problem is that we don’t have enough time,' what is the role of the noun clause 'that we don’t have enough time'?",
+        "options": [
+          "A) It serves as the subject.",
+          "B) It acts as the object.",
+          "C) It is a complement of the verb 'is'.",
+          "D) It modifies 'problem'."
+        ],
+        "answer": "C) It is a complement of the verb 'is'.",
+        "description": "The clause 'that we don’t have enough time' completes the meaning of 'The problem is', making it a subject complement."
+      },
+      {
+        "question": "Identify the function of the adverbial clause in this sentence: 'We will leave when the show ends.'",
+        "options": [
+          "A) It modifies the noun 'show'.",
+          "B) It modifies the verb 'leave'.",
+          "C) It serves as the object of 'leave'.",
+          "D) It introduces a new idea."
+        ],
+        "answer": "B) It modifies the verb 'leave'.",
+        "description": "The clause 'when the show ends' tells us the time of the action 'leave', making it an adverbial clause."
+      },
+      {
+        "question": "Which type of clause is underlined in the sentence: 'The house *where I grew up* is being renovated'?",
+        "options": [
+          "A) Adjective clause",
+          "B) Noun clause",
+          "C) Adverbial clause",
+          "D) Independent clause"
+        ],
+        "answer": "A) Adjective clause",
+        "description": "The clause 'where I grew up' provides more information about 'house', acting as an adjective clause."
+      },
+      {
+        "question": "In 'What she decided surprised everyone,' what is the role of 'What she decided'?",
+        "options": [
+          "A) Direct object",
+          "B) Subject",
+          "C) Predicate nominative",
+          "D) Adverbial"
+        ],
+        "answer": "B) Subject",
+        "description": "The clause 'What she decided' acts as the subject of the sentence, identifying the thing that 'surprised everyone'."
+      },
+      {
+        "question": "What type of clause is 'because it was raining' in the sentence 'We stayed indoors because it was raining'?",
+        "options": [
+          "A) Noun clause",
+          "B) Adverbial clause",
+          "C) Relative clause",
+          "D) Complement clause"
+        ],
+        "answer": "B) Adverbial clause",
+        "description": "The clause 'because it was raining' explains the reason for the action 'stayed', acting as an adverbial clause of reason."
+      },
+      {
+        "question": "In the sentence 'I wonder whether he’ll come,' what role does the noun clause 'whether he’ll come' play?",
+        "options": [
+          "A) Subject",
+          "B) Object",
+          "C) Adverbial",
+          "D) Predicate nominative"
+        ],
+        "answer": "B) Object",
+        "description": "The noun clause 'whether he’ll come' functions as the object of the verb 'wonder', expressing what is being wondered."
+      },
+      {
+        "question": "Identify the relative clause in the sentence: 'The musician who performed last night was incredible.'",
+        "options": [
+          "A) who performed last night",
+          "B) The musician",
+          "C) was incredible",
+          "D) last night"
+        ],
+        "answer": "A) who performed last night",
+        "description": "The relative clause 'who performed last night' provides more information about the noun 'musician'."
+      },
+      {
+        "question": "Which sentence contains a conditional clause?",
+        "options": [
+          "A) I know that he’ll come.",
+          "B) If it rains, we will cancel the picnic.",
+          "C) She left because she was tired.",
+          "D) The man who called you left a message."
+        ],
+        "answer": "B) If it rains, we will cancel the picnic.",
+        "description": "The clause 'If it rains' expresses a condition under which the main clause will take place, making it a conditional clause."
+      },
+      {
+        "question": "In the sentence 'She’s happy that you came,' what type of clause is 'that you came'?",
+        "options": [
+          "A) Noun clause",
+          "B) Adverbial clause",
+          "C) Adjective clause",
+          "D) Independent clause"
+        ],
+        "answer": "A) Noun clause",
+        "description": "The clause 'that you came' functions as the object of the adjective 'happy', thus acting as a noun clause."
+      },
+      {
+        "question": "What is the role of the clause 'when the movie started' in 'We arrived when the movie started'?",
+        "options": [
+          "A) It modifies 'arrived'.",
+          "B) It is the subject of the sentence.",
+          "C) It provides the reason for the arrival.",
+          "D) It is the object of 'arrived'."
+        ],
+        "answer": "A) It modifies 'arrived'.",
+        "description": "The clause 'when the movie started' modifies the verb 'arrived' by telling us the time of arrival."
+      },
+      {
+        "question": "Which type of clause is underlined in this sentence: 'She knew *that he was lying*'?",
+        "options": [
+          "A) Noun clause",
+          "B) Adverbial clause",
+          "C) Adjective clause",
+          "D) Relative clause"
+        ],
+        "answer": "A) Noun clause",
+        "description": "The clause 'that he was lying' acts as the object of the verb 'knew', thus making it a noun clause."
+      },
+      {
+        "question": "In the sentence 'He left after the meeting ended,' what is the role of the clause 'after the meeting ended'?",
+        "options": [
+          "A) It provides a reason for the action.",
+          "B) It introduces a condition.",
+          "C) It indicates the time of the action.",
+          "D) It serves as a complement."
+        ],
+        "answer": "C) It indicates the time of the action.",
+        "description": "The clause 'after the meeting ended' modifies the verb 'left' by telling when the action occurred, making it an adverbial clause of time."
+      },
+      {
+        "question": "What is the function of the noun clause 'what she did' in the sentence 'I don’t understand what she did'?",
+        "options": [
+          "A) Subject",
+          "B) Object",
+          "C) Adverbial",
+          "D) Predicate nominative"
+        ],
+        "answer": "B) Object",
+        "description": "The clause 'what she did' acts as the direct object of the verb 'understand'."
+      },
+      {
+        "question": "What type of clause is 'who lives next door' in the sentence 'The woman who lives next door is a doctor'?",
+        "options": [
+          "A) Noun clause",
+          "B) Adverbial clause",
+          "C) Adjective clause",
+          "D) Complement clause"
+        ],
+        "answer": "C) Adjective clause",
+        "description": "The relative clause 'who lives next door' describes the noun 'woman', making it an adjective clause."
+      },
+      {
+        "question": "In the sentence 'It is important that you attend the meeting,' what role does the clause 'that you attend the meeting' play?",
+        "options": [
+          "A) Adverbial",
+          "B) Subject",
+          "C) Noun clause as complement",
+          "D) Predicate nominative"
+        ],
+        "answer": "C) Noun clause as complement",
+        "description": "The noun clause 'that you attend the meeting' acts as a complement to the adjective 'important'."
+      },
+      {
+        "question": "Which of the following sentences contains a relative clause?",
+        "options": [
+          "A) The book that I read was fascinating.",
+          "B) I hope you can come.",
+          "C) I don’t know what you’re saying.",
+          "D) She left because it was late."
+        ],
+        "answer": "A) The book that I read was fascinating.",
+        "description": "The clause 'that I read' provides more information about the noun 'book', making it a relative clause."
+      },
+      {
+        "question": "Identify the independent clause in the sentence: 'Because it was raining, we stayed indoors.'",
+        "options": [
+          "A) Because it was raining",
+          "B) We stayed indoors",
+          "C) Indoors",
+          "D) It was raining"
+        ],
+        "answer": "B) We stayed indoors",
+        "description": "The independent clause 'We stayed indoors' can stand alone as a complete sentence, while the other clause depends on it."
+      },
+      {
+        "question": "What is the function of 'who works at the library' in the sentence 'The man who works at the library is my friend'?",
+        "options": [
+          "A) It provides additional information about 'man'.",
+          "B) It acts as the subject.",
+          "C) It serves as the verb complement.",
+          "D) It introduces a new idea."
+        ],
+        "answer": "A) It provides additional information about 'man'.",
+        "description": "The relative clause 'who works at the library' gives more information about 'the man', making it an adjective clause."
+      },
+      {
+        "question": "In the sentence 'She said that she would come tomorrow,' what type of clause is 'that she would come tomorrow'?",
+        "options": [
+          "A) Adverbial clause",
+          "B) Adjective clause",
+          "C) Noun clause",
+          "D) Conditional clause"
+        ],
+        "answer": "C) Noun clause",
+        "description": "The clause 'that she would come tomorrow' functions as the object of the verb 'said', making it a noun clause."
+      },
+      {
+        "question": "Which of the following sentences contains an adverbial clause?",
+        "options": [
+          "A) She wants to know where you are.",
+          "B) I’ll call you when I get home.",
+          "C) The person who helped me was kind.",
+          "D) What you said is true."
+        ],
+        "answer": "B) I’ll call you when I get home.",
+        "description": "The clause 'when I get home' modifies the verb 'call' by specifying the time, making it an adverbial clause."
+      }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "question": "Which theory emphasizes observable behavior as a response to stimuli?",
+        "options": [
+            "Cognitivism",
+            "Constructivism",
+            "Behaviorism",
+            "Humanism"
+        ],
+        "answer": "Behaviorism",
+        "description": "Behaviorism focuses on the idea that all behaviors are acquired through conditioning, emphasizing observable responses to stimuli."
+    },
+    {
+        "question": "Which of the following is a key concept of cognitivism?",
+        "options": [
+            "Reinforcement",
+            "Active mental processing",
+            "Social interaction",
+            "Emotional development"
+        ],
+        "answer": "Active mental processing",
+        "description": "Cognitivism posits that learning involves active mental processes where learners organize and store information."
+    },
+    {
+        "question": "Constructivism asserts that knowledge is:",
+        "options": [
+            "A fixed set of facts",
+            "Socially constructed",
+            "Only acquired through rote memorization",
+            "Primarily emotional"
+        ],
+        "answer": "Socially constructed",
+        "description": "Constructivism emphasizes that learners construct their understanding and knowledge through experiences and interactions."
+    },
+    {
+        "question": "In which learning theory does social interaction play a crucial role?",
+        "options": [
+            "Cognitivism",
+            "Behaviorism",
+            "Social Constructivism",
+            "Humanism"
+        ],
+        "answer": "Social Constructivism",
+        "description": "Social Constructivism highlights the importance of social contexts and interactions in the process of learning."
+    },
+    {
+        "question": "Humanism in education primarily focuses on:",
+        "options": [
+            "Behavior modification",
+            "Cognitive processes",
+            "Emotional and personal growth",
+            "Strict assessment"
+        ],
+        "answer": "Emotional and personal growth",
+        "description": "Humanism emphasizes the whole person and personal development, valuing emotional growth alongside cognitive learning."
+    },
+    {
+        "question": "Which learning theory uses reinforcement and punishment to shape behavior?",
+        "options": [
+            "Cognitivism",
+            "Behaviorism",
+            "Constructivism",
+            "Humanism"
+        ],
+        "answer": "Behaviorism",
+        "description": "Behaviorism utilizes reinforcement and punishment to increase or decrease specific behaviors in learners."
+    },
+    {
+        "question": "Cognitivism is best represented by which of the following processes?",
+        "options": [
+            "Learning through conditioning",
+            "Information processing and understanding",
+            "Social interaction",
+            "Emotional learning"
+        ],
+        "answer": "Information processing and understanding",
+        "description": "Cognitivism focuses on how information is processed, stored, and retrieved, emphasizing mental understanding."
+    },
+    {
+        "question": "Which approach encourages students to collaborate and share their understanding?",
+        "options": [
+            "Behaviorism",
+            "Constructivism",
+            "Humanism",
+            "Cognitivism"
+        ],
+        "answer": "Constructivism",
+        "description": "Constructivism promotes collaborative learning, where students build knowledge through shared experiences."
+    },
+    {
+        "question": "The 'zone of proximal development' is a concept associated with which theory?",
+        "options": [
+            "Humanism",
+            "Social Constructivism",
+            "Behaviorism",
+            "Cognitivism"
+        ],
+        "answer": "Social Constructivism",
+        "description": "The zone of proximal development, proposed by Vygotsky, highlights the difference between what a learner can do independently and with guidance."
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of behaviorism?",
+        "options": [
+            "Focus on observable behaviors",
+            "Emphasis on mental processes",
+            "Use of reinforcement",
+            "Conditioning techniques"
+        ],
+        "answer": "Emphasis on mental processes",
+        "description": "Behaviorism focuses on observable behaviors rather than internal mental processes, which are emphasized in cognitivism."
+    },
+    {
+        "question": "Which theory would argue that learning is influenced by prior knowledge?",
+        "options": [
+            "Constructivism",
+            "Behaviorism",
+            "Cognitivism",
+            "Humanism"
+        ],
+        "answer": "Cognitivism",
+        "description": "Cognitivism asserts that learners build on existing knowledge and experiences when acquiring new information."
+    },
+    {
+        "question": "Which of the following describes the role of the teacher in a constructivist classroom?",
+        "options": [
+            "Sole authority on knowledge",
+            "Facilitator of learning",
+            "Dispenser of information",
+            "Controller of student behavior"
+        ],
+        "answer": "Facilitator of learning",
+        "description": "In constructivism, the teacher facilitates learning by guiding students to explore and discover knowledge."
+    },
+    {
+        "question": "Which of the following best defines behaviorism?",
+        "options": [
+            "Learning is a mental process of understanding",
+            "Learning is a change in behavior due to experience",
+            "Learning occurs through social interactions",
+            "Learning is self-directed"
+        ],
+        "answer": "Learning is a change in behavior due to experience",
+        "description": "Behaviorism defines learning as a change in behavior that results from conditioning experiences."
+    },
+    {
+        "question": "In humanistic education, assessment is typically:",
+        "options": [
+            "Standardized and rigid",
+            "Focused on personal growth",
+            "Punitive and negative",
+            "Strictly quantitative"
+        ],
+        "answer": "Focused on personal growth",
+        "description": "Humanistic education emphasizes personal growth and self-assessment rather than traditional standardized testing."
+    },
+    {
+        "question": "Which learning theory emphasizes active participation in learning?",
+        "options": [
+            "Cognitivism",
+            "Humanism",
+            "Behaviorism",
+            "Social Constructivism"
+        ],
+        "answer": "Social Constructivism",
+        "description": "Social Constructivism emphasizes that learners actively participate in their learning through social interactions and collaborative activities."
+    },
+    {
+        "question": "What is a primary focus of behaviorist teaching techniques?",
+        "options": [
+            "Cognitive understanding",
+            "Social relationships",
+            "Reinforcing desired behaviors",
+            "Emotional intelligence"
+        ],
+        "answer": "Reinforcing desired behaviors",
+        "description": "Behaviorist techniques focus on reinforcing desired behaviors through rewards and consequences."
+    },
+    {
+        "question": "Which theory suggests that learners construct knowledge based on their experiences?",
+        "options": [
+            "Humanism",
+            "Behaviorism",
+            "Cognitivism",
+            "Constructivism"
+        ],
+        "answer": "Constructivism",
+        "description": "Constructivism holds that learners construct their understanding and knowledge of the world through experiences."
+    },
+    {
+        "question": "Fill in the blank: According to humanism, education should focus on the _____ of the individual.",
+        "options": [
+            "cognitive development",
+            "emotional growth",
+            "behavioral change",
+            "rote memorization"
+        ],
+        "answer": "emotional growth",
+        "description": "Humanistic education emphasizes the importance of emotional and personal development alongside cognitive skills."
+    },
+    {
+        "question": "Which of the following best represents a cognitive strategy for learning?",
+        "options": [
+            "Memorization of facts",
+            "Active problem-solving",
+            "Conditioning responses",
+            "Behavior modification"
+        ],
+        "answer": "Active problem-solving",
+        "description": "Cognitive strategies focus on higher-order thinking skills like problem-solving and critical thinking."
+    },
+    {
+        "question": "What is the role of intrinsic motivation in humanistic education?",
+        "options": [
+            "To enforce compliance",
+            "To foster a love for learning",
+            "To measure performance",
+            "To discourage engagement"
+        ],
+        "answer": "To foster a love for learning",
+        "description": "Humanistic education emphasizes intrinsic motivation, encouraging students to find personal meaning in their learning."
+    },
+    {
+        "question": "Which theory suggests that knowledge is best learned in a social context?",
+        "options": [
+            "Cognitivism",
+            "Humanism",
+            "Social Constructivism",
+            "Behaviorism"
+        ],
+        "answer": "Social Constructivism",
+        "description": "Social Constructivism posits that social contexts and interactions are crucial for effective knowledge construction."
+    },
+    {
+        "question": "Fill in the blank: Constructivism relies on students' _____ to create meaning.",
+        "options": [
+            "passivity",
+            "experiences",
+            "rote memorization",
+            "external validation"
+        ],
+        "answer": "experiences",
+        "description": "Constructivism emphasizes that learners create meaning based on their personal experiences and prior knowledge."
+    }
+]

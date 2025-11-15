@@ -1,0 +1,182 @@
+[
+    {
+        "question": "She speaks English _____ than her brother.",
+        "options": ["fluent", "fluently", "more fluently", "most fluently"],
+        "answer": "more fluently",
+        "description": "Adverbs of manner like 'fluently' describe how an action is done. Here, we compare two people, so we use the comparative form 'more fluently'."
+    },
+    {
+        "question": "I have _____ finished the project, just a few more tasks are left.",
+        "options": ["hardly", "almost", "rarely", "frequently"],
+        "answer": "almost",
+        "description": "'Almost' is an adverb of degree that means nearly. It is used to indicate that something is very close to being completed."
+    },
+    {
+        "question": "He can _____ speak French; he only knows a few words.",
+        "options": ["quite", "hardly", "always", "too"],
+        "answer": "hardly",
+        "description": "'Hardly' is an adverb of degree that expresses a very limited extent, meaning 'barely' or 'almost not'."
+    },
+    {
+        "question": "She goes to the gym _____ every day.",
+        "options": ["never", "often", "rarely", "almost"],
+        "answer": "almost",
+        "description": "'Almost' in this context is an adverb of frequency, meaning she attends nearly every day but not always."
+    },
+    {
+        "question": "The report is _____ finished, we just need to proofread it.",
+        "options": ["entirely", "nearly", "hardly", "seldom"],
+        "answer": "nearly",
+        "description": "'Nearly' is an adverb of degree meaning 'almost', used to show that the action is close to completion."
+    },
+    {
+        "question": "They arrived _____ late and missed the first act.",
+        "options": ["completely", "very", "too", "quite"],
+        "answer": "too",
+        "description": "'Too' is an adverb of degree that indicates excess, in this case, indicating they were excessively late."
+    },
+    {
+        "question": "She answered the question _____, showing she understood it well.",
+        "options": ["quick", "quicker", "quickly", "more quick"],
+        "answer": "quickly",
+        "description": "'Quickly' is the correct adverb of manner to describe how the action of answering was performed."
+    },
+    {
+        "question": "He _____ goes to the library, only when he has exams.",
+        "options": ["never", "rarely", "frequently", "always"],
+        "answer": "rarely",
+        "description": "'Rarely' is an adverb of frequency that means not often, which fits the context where he visits only during exams."
+    },
+    {
+        "question": "I will finish this work _____ tomorrow.",
+        "options": ["by", "on", "in", "at"],
+        "answer": "by",
+        "description": "'By' is an adverb of time indicating a deadline, meaning 'before or at the latest time'."
+    },
+    {
+        "question": "He spoke _____ in the meeting, despite being nervous.",
+        "options": ["confident", "confidently", "confidence", "confide"],
+        "answer": "confidently",
+        "description": "'Confidently' is an adverb of manner that describes how he spoke, modifying the verb 'spoke'."
+    },
+    {
+        "question": "She has _____ finished her degree, just her thesis is pending.",
+        "options": ["totally", "hardly", "almost", "usually"],
+        "answer": "almost",
+        "description": "'Almost' is an adverb of degree used here to express that only a small part of the work remains."
+    },
+    {
+        "question": "The train will arrive _____ than expected, due to the weather.",
+        "options": ["late", "later", "lately", "latest"],
+        "answer": "later",
+        "description": "'Later' is a comparative adverb of time used to indicate that the arrival will be after the expected time."
+    },
+    {
+        "question": "We will _____ discuss this topic tomorrow.",
+        "options": ["sure", "surely", "surest", "surety"],
+        "answer": "surely",
+        "description": "'Surely' is an adverb of expectation indicating confidence that the action will happen in the future."
+    },
+    {
+        "question": "He behaves _____ in class, which annoys the teacher.",
+        "options": ["badly", "bad", "worse", "worst"],
+        "answer": "badly",
+        "description": "'Badly' is an adverb of manner that modifies the verb 'behaves' to describe how he behaves."
+    },
+    {
+        "question": "She _____ does her homework before dinner.",
+        "options": ["seldom", "nearly", "usually", "now"],
+        "answer": "usually",
+        "description": "'Usually' is an adverb of frequency indicating that she regularly does her homework before dinner."
+    },
+    {
+        "question": "He _____ finished his meal, only a few bites were left.",
+        "options": ["entirely", "hardly", "almost", "rarely"],
+        "answer": "almost",
+        "description": "'Almost' is an adverb of degree used to indicate something is nearly complete."
+    },
+    {
+        "question": "She’s been working _____ hard for the past few weeks.",
+        "options": ["extreme", "extremely", "extremeness", "most extreme"],
+        "answer": "extremely",
+        "description": "'Extremely' is an adverb of degree that intensifies the adjective 'hard' to emphasize how hard she has been working."
+    },
+    {
+        "question": "They finished the project _____ time for the presentation.",
+        "options": ["on", "by", "at", "in"],
+        "answer": "in",
+        "description": "'In time' is an idiomatic expression that means finishing before a particular time or deadline."
+    },
+    {
+        "question": "She will _____ be here for the meeting.",
+        "options": ["certain", "certainly", "certainty", "certainest"],
+        "answer": "certainly",
+        "description": "'Certainly' is an adverb of expectation, expressing confidence or surety that she will attend."
+    },
+    {
+        "question": "The performance was _____ good that the audience gave a standing ovation.",
+        "options": ["so", "very", "too", "much"],
+        "answer": "so",
+        "description": "'So' is an adverb of degree used to intensify an adjective and often followed by a result, as in 'so good that...'."
+    },
+    {
+        "question": "She _____ ever visits her grandparents, though they live nearby.",
+        "options": ["rarely", "quite", "totally", "frequent"],
+        "answer": "rarely",
+        "description": "'Rarely' is an adverb of frequency meaning 'not often', appropriate in the context of infrequent visits."
+    },
+    {
+        "question": "The children are playing _____ the park.",
+        "options": ["on", "in", "at", "by"],
+        "answer": "in",
+        "description": "'In' is an adverb of place used when something happens inside a space, such as 'in the park'."
+    },
+    {
+        "question": "I will _____ be able to finish this task without your help.",
+        "options": ["surely", "hardly", "nearly", "soon"],
+        "answer": "hardly",
+        "description": "'Hardly' is an adverb of degree meaning 'barely' or 'almost not', implying the difficulty of finishing alone."
+    },
+    {
+        "question": "She runs _____ than anyone else on the team.",
+        "options": ["quick", "more quickly", "most quick", "quicker"],
+        "answer": "more quickly",
+        "description": "'More quickly' is the comparative form of the adverb 'quickly', used to compare her speed with others."
+    },
+    {
+        "question": "The news is _____ good to be true.",
+        "options": ["too", "so", "very", "enough"],
+        "answer": "too",
+        "description": "'Too' is an adverb of degree used to indicate excess, meaning the news is excessively good."
+    },
+    {
+        "question": "He has _____ completed his project, just a few changes are left.",
+        "options": ["totally", "nearly", "seldom", "rarely"],
+        "answer": "nearly",
+        "description": "'Nearly' is an adverb of degree meaning 'almost', suitable when only minor adjustments are left."
+    },
+    {
+        "question": "She walked _____ to avoid making any noise.",
+        "options": ["silent", "silently", "silence", "most silent"],
+        "answer": "silently",
+        "description": "'Silently' is the adverb of manner modifying 'walked', describing how she performed the action."
+    },
+    {
+        "question": "We _____ go to the movies on weekends.",
+        "options": ["usually", "almost", "very", "soon"],
+        "answer": "usually",
+        "description": "'Usually' is an adverb of frequency indicating that going to the movies is a common activity on weekends."
+    },
+    {
+        "question": "She finished the race _____ of all the participants.",
+        "options": ["quick", "quicker", "quickly", "most quickly"],
+        "answer": "most quickly",
+        "description": "'Most quickly' is the superlative form of the adverb 'quickly', used to compare her with all other participants."
+    },
+    {
+        "question": "The teacher spoke _____, ensuring everyone understood the instructions.",
+        "options": ["clearly", "clear", "clearer", "clarity"],
+        "answer": "clearly",
+        "description": "'Clearly' is an adverb of manner that modifies the verb 'spoke', describing how the teacher communicated."
+    }
+]

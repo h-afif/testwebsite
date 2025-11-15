@@ -1,0 +1,233 @@
+[
+    {
+        "question": "Which of the following is an example of an additive connector?",
+        "options": [
+            "However",
+            "Therefore",
+            "Moreover",
+            "Although"
+        ],
+        "answer": "Moreover",
+        "description": "Additive connectors, like 'moreover,' are used to add information to a previous statement."
+    },
+    {
+        "question": "Identify the contrasting connector in this sentence: 'I like coffee; however, I don’t drink it often.'",
+        "options": [
+            "I",
+            "like",
+            "however",
+            "drink"
+        ],
+        "answer": "however",
+        "description": "'However' introduces a contrast between liking coffee and not drinking it often."
+    },
+    {
+        "question": "Which of the following sentences correctly uses a result connector?",
+        "options": [
+            "She studied hard; consequently, she passed the exam.",
+            "She studied hard; although, she passed the exam.",
+            "She studied hard; however, she passed the exam.",
+            "She studied hard; because, she passed the exam."
+        ],
+        "answer": "She studied hard; consequently, she passed the exam.",
+        "description": "The connector 'consequently' indicates a cause-and-effect relationship."
+    },
+    {
+        "question": "Which of the following is an example of a time connector?",
+        "options": [
+            "Therefore",
+            "Meanwhile",
+            "Despite",
+            "In addition"
+        ],
+        "answer": "Meanwhile",
+        "description": "Time connectors, like 'meanwhile,' indicate when something happens in relation to another event."
+    },
+    {
+        "question": "Choose the correct listing connector to complete the sentence: 'First, we need to buy ingredients; ___, we will cook.'",
+        "options": [
+            "however",
+            "then",
+            "although",
+            "instead"
+        ],
+        "answer": "then",
+        "description": "'Then' is used to indicate the next step in a sequence."
+    },
+    {
+        "question": "Which of the following sentences demonstrates fronting?",
+        "options": [
+            "The book I read last night was fascinating.",
+            "Fascinating was the book I read last night.",
+            "I read a fascinating book last night.",
+            "Last night, I read a fascinating book."
+        ],
+        "answer": "Last night, I read a fascinating book.",
+        "description": "Fronting places emphasis on 'Last night' by moving it to the beginning of the sentence."
+    },
+    {
+        "question": "Identify the cleft sentence from the following options.",
+        "options": [
+            "I enjoy playing soccer.",
+            "It was John who broke the vase.",
+            "She is studying now.",
+            "They went to the park."
+        ],
+        "answer": "It was John who broke the vase.",
+        "description": "Cleft sentences emphasize a specific part of the sentence by restructuring it."
+    },
+    {
+        "question": "Which of the following is a coordinating conjunction?",
+        "options": [
+            "Although",
+            "But",
+            "Because",
+            "While"
+        ],
+        "answer": "But",
+        "description": "Coordinating conjunctions, like 'but,' connect two independent clauses or elements of equal importance."
+    },
+    {
+        "question": "Choose the correct sentence using a subordinating conjunction.",
+        "options": [
+            "He stayed home because it was raining.",
+            "He stayed home, and it was raining.",
+            "He stayed home; it was raining.",
+            "He stayed home but it was raining."
+        ],
+        "answer": "He stayed home because it was raining.",
+        "description": "Subordinating conjunctions introduce dependent clauses, establishing a relationship of cause or condition."
+    },
+    {
+        "question": "Identify the focus structure in the sentence: 'Only after the meeting did they discuss the budget.'",
+        "options": [
+            "Cleft sentence",
+            "Inversion",
+            "Fronting",
+            "Simple sentence"
+        ],
+        "answer": "Inversion",
+        "description": "Inversion involves changing the normal subject-verb order to emphasize 'only after the meeting.'"
+    },
+    {
+        "question": "Which of the following sentences contains a contrasting connector?",
+        "options": [
+            "She likes apples; in addition, she enjoys oranges.",
+            "He is tall; however, his brother is short.",
+            "I will go; therefore, you should too.",
+            "First, we will eat; then, we will leave."
+        ],
+        "answer": "He is tall; however, his brother is short.",
+        "description": "'However' introduces a contrast between the two clauses."
+    },
+    {
+        "question": "What is the function of the connector 'although' in a sentence?",
+        "options": [
+            "To add information",
+            "To indicate time",
+            "To show contrast",
+            "To list items"
+        ],
+        "answer": "To show contrast",
+        "description": "'Although' introduces a contrasting idea, highlighting a concession."
+    },
+    {
+        "question": "Choose the best listing connector to complete this sentence: 'We need to buy milk, eggs, ___ bread.'",
+        "options": [
+            "and",
+            "but",
+            "or",
+            "although"
+        ],
+        "answer": "and",
+        "description": "'And' is used to connect items in a list, indicating that they are all needed."
+    },
+    {
+        "question": "Which of the following is an example of an emphatic cleft sentence?",
+        "options": [
+            "What I need is a break.",
+            "It is my sister who painted the house.",
+            "He ran very fast.",
+            "The book is on the table."
+        ],
+        "answer": "It is my sister who painted the house.",
+        "description": "This structure emphasizes 'my sister' as the subject responsible for the action."
+    },
+    {
+        "question": "Identify the correct use of a preposition in a sentence.",
+        "options": [
+            "He is interested in learning.",
+            "He is interested to learn.",
+            "He is interested for learning.",
+            "He is interested about learning."
+        ],
+        "answer": "He is interested in learning.",
+        "description": "The preposition 'in' is correctly used to express interest in a subject."
+    },
+    {
+        "question": "Choose the sentence that correctly uses a result connector.",
+        "options": [
+            "It was late, so we decided to leave.",
+            "It was late; because we decided to leave.",
+            "It was late; but we decided to leave.",
+            "It was late; although we decided to leave."
+        ],
+        "answer": "It was late, so we decided to leave.",
+        "description": "'So' indicates the result of it being late, leading to the decision to leave."
+    },
+    {
+        "question": "Identify the preposition in the following sentence: 'She walked to the park.'",
+        "options": [
+            "walked",
+            "to",
+            "the",
+            "park"
+        ],
+        "answer": "to",
+        "description": "'To' is the preposition indicating direction towards 'the park.'"
+    },
+    {
+        "question": "Which of the following sentences uses inversion for emphasis?",
+        "options": [
+            "Never have I seen such a beautiful sunset.",
+            "I have seen such a beautiful sunset.",
+            "Such a beautiful sunset I have seen.",
+            "I have never seen such a beautiful sunset."
+        ],
+        "answer": "Never have I seen such a beautiful sunset.",
+        "description": "Inversion is used to emphasize 'never' by placing it at the beginning of the sentence."
+    },
+    {
+        "question": "What type of sentence is this: 'It was the weather that caused the delay.'?",
+        "options": [
+            "Simple sentence",
+            "Cleft sentence",
+            "Compound sentence",
+            "Complex sentence"
+        ],
+        "answer": "Cleft sentence",
+        "description": "This structure emphasizes 'the weather' as the cause of the delay."
+    },
+    {
+        "question": "Which connector would best complete this sentence? 'He likes coffee; ___, he doesn't drink it every day.'",
+        "options": [
+            "because",
+            "however",
+            "and",
+            "although"
+        ],
+        "answer": "however",
+        "description": "'However' introduces a contrasting idea that modifies the previous statement."
+    },
+    {
+        "question": "Choose the sentence that illustrates focus structure through fronting.",
+        "options": [
+            "This book, I bought yesterday.",
+            "Yesterday, I bought this book.",
+            "I bought this book yesterday.",
+            "I bought yesterday this book."
+        ],
+        "answer": "Yesterday, I bought this book.",
+        "description": "Fronting emphasizes 'Yesterday' by placing it at the beginning of the sentence."
+    }
+]

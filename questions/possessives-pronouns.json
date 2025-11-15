@@ -1,0 +1,230 @@
+[
+    {
+        "question": "___ gave me ___ phone number so I could call ___ later.",
+        "options": ["She / her / her", "Her / she / her", "She / she / her", "Her / her / she"],
+        "answer": "She / her / her",
+        "description": "'She' is the subject pronoun used to refer to the person performing the action. 'Her' is the possessive pronoun referring to the phone number, and 'her' is the object pronoun for the person being called."
+    },
+    {
+        "question": "The students completed ___ homework, but some of ___ didn't finish ___ until late.",
+        "options": ["their / them / it", "their / they / theirs", "their / they / it", "they / them / theirs"],
+        "answer": "their / they / it",
+        "description": "'Their' is the possessive pronoun used to show ownership of 'homework.' 'They' is the subject pronoun referring to 'students,' and 'it' is the object pronoun referring back to 'homework.'"
+    },
+    {
+        "question": "I saw ___ at the mall yesterday, but I didn't recognize ___ until ___ waved at me.",
+        "options": ["he / him / he", "him / him / he", "him / him / her", "him / he / he"],
+        "answer": "him / him / he",
+        "description": "'Him' is used twice as the object pronoun for the person seen and the person recognized. 'He' is the subject pronoun for the person who waved."
+    },
+    {
+        "question": "They brought ___ own food because ___ knew ___ wouldn't like the restaurant's menu.",
+        "options": ["their / them / they", "they're / they / them", "their / they / they", "their / they / them"],
+        "answer": "their / they / they",
+        "description": "'Their' is the possessive pronoun referring to the food they own. 'They' is the subject pronoun for the people who brought the food. 'They' is also used as the subject in the subordinate clause."
+    },
+    {
+        "question": "___ is the car that belongs to me, and that one over there is ___.",
+        "options": ["This / mine", "Mine / his", "That / yours", "This / your"],
+        "answer": "This / mine",
+        "description": "'This' is a demonstrative pronoun used to refer to something near the speaker. 'Mine' is the possessive pronoun used to show ownership of the car."
+    },
+    {
+        "question": "I borrowed ___ book because ___ forgot ___ at home.",
+        "options": ["her / I / my", "hers / me / mine", "her / me / mine", "her / I / mine"],
+        "answer": "her / I / mine",
+        "description": "'Her' is the possessive pronoun showing ownership of the book. 'I' is the subject pronoun, and 'mine' is the possessive pronoun referring to the speaker's book."
+    },
+    {
+        "question": "___ must finish ___ work before the deadline, or ___ will not get paid.",
+        "options": ["They / their / they", "Them / theirs / they", "They / their / them", "Their / their / they"],
+        "answer": "They / their / they",
+        "description": "'They' is the subject pronoun referring to the people who must finish the work. 'Their' is the possessive pronoun showing ownership of the work. 'They' is the subject pronoun again in the second clause."
+    },
+    {
+        "question": "Is that ___ coat, or is it ___?",
+        "options": ["yours / my", "your / my", "your / mine", "yours / mine"],
+        "answer": "your / mine",
+        "description": "'Your' is the possessive adjective used before the noun 'coat.' 'Mine' is the possessive pronoun used in place of the noun in the second part of the sentence."
+    },
+    {
+        "question": "She blamed ___ for the mistake, but in reality, it was entirely ___ fault.",
+        "options": ["her / my", "me / her", "her / hers", "me / hers"],
+        "answer": "me / her",
+        "description": "'Me' is the object pronoun used as the object of the verb 'blamed.' 'Her' is the possessive pronoun showing that the mistake was her responsibility."
+    },
+    {
+        "question": "We finished ___ project, but they are still working on ___.",
+        "options": ["our / their", "ours / their", "our / theirs", "ours / theirs"],
+        "answer": "our / theirs",
+        "description": "'Our' is the possessive adjective used to describe the project belonging to 'us.' 'Theirs' is the possessive pronoun referring to the project belonging to 'them.'"
+    },
+    {
+        "question": "___ always brings ___ camera to the events, but last time ___ forgot it.",
+        "options": ["Him / his / he", "He / him / his", "His / he / him", "He / his / he"],
+        "answer": "He / his / he",
+        "description": "'He' is the subject pronoun used for the person performing the action. 'His' is the possessive adjective describing the camera, and 'he' is used again in the third clause as the subject."
+    },
+    {
+        "question": "I don't know ___ they are, but I think that book is ___.",
+        "options": ["who / them", "whose / theirs", "who / theirs", "whom / their"],
+        "answer": "who / theirs",
+        "description": "'Who' is used as a subject pronoun to ask about identity. 'Theirs' is the possessive pronoun referring to the ownership of the book."
+    },
+    {
+        "question": "___ dog was barking loudly, but ___ didn't seem to care.",
+        "options": ["Their / them", "Theirs / they", "Their / they", "Them / they"],
+        "answer": "Their / they",
+        "description": "'Their' is the possessive pronoun showing ownership of the dog, and 'they' is the subject pronoun referring to the dog’s owners."
+    },
+    {
+        "question": "I think this gift is for ___, but ___ not sure if it's actually ___.",
+        "options": ["me / I'm / mine", "mine / I'm / me", "me / me / mine", "me / I / mine"],
+        "answer": "me / I'm / mine",
+        "description": "'Me' is the object pronoun used for the person receiving the gift. 'I'm' is the contracted form of 'I am,' and 'mine' is the possessive pronoun referring to the ownership of the gift."
+    },
+    {
+        "question": "___ are friends of ___, and ___ would like to introduce you to ___.",
+        "options": ["They / us / we / them", "They / ours / we / them", "They / us / us / them", "Them / we / they / ours"],
+        "answer": "They / us / we / them",
+        "description": "'They' is the subject pronoun for the friends. 'Us' is the object pronoun referring to the speaker and someone else. 'We' is the subject pronoun used before the verb, and 'them' is the object pronoun for the people being introduced."
+    },
+    {
+        "question": "___ finished ___ work quickly, and now they are helping ___ with ___.",
+        "options": ["They / their / us / ours", "Them / their / us / ours", "They / theirs / us / our", "They / their / we / ours"],
+        "answer": "They / their / us / ours",
+        "description": "'They' is the subject pronoun referring to the people who finished the work. 'Their' is the possessive pronoun showing ownership of the work. 'Us' is the object pronoun, and 'ours' is the possessive pronoun referring to our work."
+    },
+    {
+        "question": "The teacher told ___ to bring ___ homework, but only ___ did.",
+        "options": ["us / our / me", "we / our / me", "us / ours / I", "us / our / I"],
+        "answer": "us / our / I",
+        "description": "'Us' is the object pronoun because we are the ones being told something. 'Our' is the possessive pronoun describing homework, and 'I' is the subject pronoun referring to the person who completed the action."
+    },
+    {
+        "question": "She sent ___ an email, but ___ never replied to ___.",
+        "options": ["me / I / her", "me / she / her", "her / me / me", "I / her / her"],
+        "answer": "me / she / her",
+        "description": "'Me' is the object pronoun for the person receiving the email. 'She' is the subject pronoun, and 'her' is the object pronoun in the third clause."
+    },
+    {
+        "question": "I heard ___ arguing with ___ parents about ___ future career choices.",
+        "options": ["her / her / her", "her / his / his", "him / his / his", "him / her / their"],
+        "answer": "her / her / her",
+        "description": "'Her' is used as both the object and possessive pronoun, referring to the person arguing and their parents and future."
+    },
+    {
+        "question": "The dog followed ___ all the way home, but I had no idea who ___ belonged to.",
+        "options": ["me / it", "us / it", "me / its", "us / its"],
+        "answer": "me / it",
+        "description": "'Me' is the object pronoun receiving the action of following. 'It' is used for the dog since it's an animal of unknown gender."
+    },
+    {
+        "question": "___ is going to the party with ___ brother, but ___ not sure if ___ invited too.",
+        "options": ["She / her / she's / he's", "She / her / she's / she's", "She / his / she's / he's", "He / his / he's / she's"],
+        "answer": "She / her / she's / she's",
+        "description": "'She' is the subject pronoun, 'her' shows possession over the brother, and 'she's' is the contraction of 'she is.'"
+    },
+    {
+        "question": "The children found ___ shoes and put ___ on before going outside to play.",
+        "options": ["their / them", "their / it", "them / theirs", "theirs / them"],
+        "answer": "their / them",
+        "description": "'Their' shows possession of the shoes, and 'them' is the object pronoun referring to the shoes that they put on."
+    },
+    {
+        "question": "___ is the person ___ mentioned in your story, right?",
+        "options": ["He / him", "Him / he", "He / you", "Him / her"],
+        "answer": "He / you",
+        "description": "'He' is the subject pronoun referring to the person being discussed. 'You' is used to address the person telling the story."
+    },
+    {
+        "question": "___ family and ___ went to visit ___ grandparents during the holidays.",
+        "options": ["Mine / I / my", "My / I / our", "My / me / our", "My / I / their"],
+        "answer": "My / I / our",
+        "description": "'My' is the possessive adjective describing 'family.' 'I' is the subject pronoun, and 'our' shows possession of the grandparents."
+    },
+    {
+        "question": "I didn’t know that ___ would be so difficult, but I think ___ learning a lot.",
+        "options": ["it / I'm", "its / I'm", "it / I", "its / I"],
+        "answer": "it / I'm",
+        "description": "'It' is the pronoun referring to the task being discussed, and 'I'm' is the contraction of 'I am,' showing personal reflection."
+    },
+    {
+        "question": "Neither ___ nor ___ friends understood the assignment, but ___ tried anyway.",
+        "options": ["he / his / they", "him / his / him", "his / his / they", "he / her / him"],
+        "answer": "he / his / they",
+        "description": "'He' and 'his' refer to the subject and possession, and 'they' is used to refer to both the person and their friends."
+    },
+    {
+        "question": "The teacher gave ___ extra homework because ___ didn’t complete ___ in class.",
+        "options": ["us / we / ours", "us / we / it", "we / us / it", "us / us / our"],
+        "answer": "us / we / it",
+        "description": "'Us' is the object pronoun receiving the action of giving. 'We' is the subject pronoun in the second clause, and 'it' refers to the incomplete homework."
+    },
+    {
+        "question": "___ waited for ___ at the entrance, but ___ never showed up.",
+        "options": ["I / her / she", "Me / her / she", "I / her / her", "I / hers / her"],
+        "answer": "I / her / she",
+        "description": "'I' is the subject pronoun for the person waiting, 'her' is the object pronoun, and 'she' is the subject pronoun in the final clause."
+    },
+    {
+        "question": "The children put ___ toys away, but ___ were still scattered everywhere.",
+        "options": ["their / theirs", "their / them", "them / their", "theirs / theirs"],
+        "answer": "their / them",
+        "description": "'Their' shows possession over the toys, and 'them' is the object pronoun referring to the toys still scattered."
+    },
+    {
+        "question": "___ asked for ___ opinion, but ___ didn’t know what to say.",
+        "options": ["He / my / me", "He / mine / he", "He / my / I", "He / mine / him"],
+        "answer": "He / my / I",
+        "description": "'He' is the subject pronoun. 'My' is the possessive pronoun referring to 'opinion,' and 'I' is the subject in the second clause."
+    },
+    {
+        "question": "They couldn’t remember where ___ had parked ___ car, so I had to drive ___.",
+        "options": ["they / theirs / they", "they / their / them", "them / theirs / them", "their / they / theirs"],
+        "answer": "they / their / them",
+        "description": "'They' is the subject pronoun. 'Their' shows possession of the car, and 'them' is the object pronoun in the final clause."
+    },
+    {
+        "question": "Can ___ borrow ___ pen for a moment? I seem to have lost ___.",
+        "options": ["I / your / mine", "me / your / mine", "I / yours / mine", "mine / your / mine"],
+        "answer": "I / your / mine",
+        "description": "'I' is the subject pronoun asking to borrow something. 'Your' is the possessive adjective referring to the pen, and 'mine' is the possessive pronoun referring to the lost pen."
+    },
+    {
+        "question": "___ never knew that ___ could be so dangerous until ___ experienced it firsthand.",
+        "options": ["We / it / we", "Us / it / we", "We / its / we", "We / its / us"],
+        "answer": "We / it / we",
+        "description": "'We' is the subject pronoun, and 'it' refers to the situation being described. 'We' is again used to refer to personal experience in the second clause."
+    },
+    {
+        "question": "___ favorite hobby is painting, but ___ enjoy spending time with friends more.",
+        "options": ["My / I", "Mine / I", "Mine / me", "Me / me"],
+        "answer": "My / I",
+        "description": "'My' is the possessive adjective describing the hobby, and 'I' is the subject pronoun in the second clause."
+    },
+    {
+        "question": "Is that jacket ___ or ___? I can’t tell which one is ___.",
+        "options": ["your / her / mine", "yours / hers / my", "yours / her / mine", "yours / his / mine"],
+        "answer": "yours / his / mine",
+        "description": "'Yours' and 'his' are possessive pronouns referring to the jackets, and 'mine' is the possessive pronoun for the speaker's jacket."
+    },
+    {
+        "question": "I hope ___ get ___ message, because ___ is important.",
+        "options": ["they / my / it", "them / my / it", "they / mine / its", "they / my / its"],
+        "answer": "they / my / it",
+        "description": "'They' is the subject pronoun. 'My' is the possessive pronoun referring to the message, and 'it' is the pronoun for the message being discussed."
+    },
+    {
+        "question": "She said ___ would help, but ___ didn’t show up on time.",
+        "options": ["her / she", "she / her", "she / she", "her / her"],
+        "answer": "she / she",
+        "description": "'She' is used both times as the subject pronoun for the person who made the promise and the person who didn’t show up."
+    },
+    {
+        "question": "Although ___ is usually very careful, ___ forgot ___ keys at home.",
+        "options": ["he / he / his", "him / he / his", "he / him / his", "his / he / his"],
+        "answer": "he / he / his",
+        "description": "'He' is the subject pronoun used twice for the person being described, and 'his' shows possession of the keys."
+    }
+]

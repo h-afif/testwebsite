@@ -1,0 +1,116 @@
+[
+    {
+        "question": "In a well-organized essay, the ____ introduces the main idea and sets the tone for the rest of the essay.",
+        "options": ["body paragraph", "conclusion", "thesis statement", "hook"],
+        "answer": "thesis statement",
+        "description": "The thesis statement clearly presents the main idea of the essay and guides the direction of the entire piece."
+    },
+    {
+        "question": "Which type of essay aims to convince the reader of a particular viewpoint using evidence and reasoning?",
+        "options": ["Descriptive", "Expository", "Narrative", "Persuasive"],
+        "answer": "Persuasive",
+        "description": "A persuasive essay seeks to convince the reader to adopt a specific opinion or course of action by using logic and supporting evidence."
+    },
+    {
+        "question": "The process of brainstorming in essay writing is primarily used to ____. ",
+        "options": ["gather sources", "edit a draft", "generate ideas", "finalize citations"],
+        "answer": "generate ideas",
+        "description": "Brainstorming is a pre-writing technique used to generate a broad range of ideas before organizing and structuring the essay."
+    },
+    {
+        "question": "In a five-paragraph essay, the first body paragraph should typically ____.",
+        "options": ["summarize the conclusion", "restate the thesis", "address the first supporting point", "offer counterarguments"],
+        "answer": "address the first supporting point",
+        "description": "The first body paragraph should develop the first point supporting the thesis, providing evidence or analysis."
+    },
+    {
+        "question": "Which type of essay is focused on explaining a process or giving step-by-step instructions?",
+        "options": ["Persuasive", "Expository", "Narrative", "Process"],
+        "answer": "Process",
+        "description": "A process essay explains how to do something step by step, outlining the sequence of actions needed to achieve a particular outcome."
+    },
+    {
+        "question": "The purpose of the ____ is to summarize the essay's main points and restate the thesis in a new way.",
+        "options": ["introduction", "conclusion", "hook", "topic sentence"],
+        "answer": "conclusion",
+        "description": "The conclusion should summarize the key arguments of the essay and restate the thesis, bringing closure to the piece."
+    },
+    {
+        "question": "In an argumentative essay, a strong ____ acknowledges opposing viewpoints while reinforcing the writer's position.",
+        "options": ["conclusion", "counterargument", "summary", "introduction"],
+        "answer": "counterargument",
+        "description": "A counterargument presents the opposing views and demonstrates why they are weaker than the writer’s thesis, strengthening the overall argument."
+    },
+    {
+        "question": "In essay writing, a ____ is a sentence that expresses the main idea of a paragraph.",
+        "options": ["conclusion", "hook", "thesis statement", "topic sentence"],
+        "answer": "topic sentence",
+        "description": "A topic sentence introduces the main idea of a paragraph and acts as a mini-thesis for that section of the essay."
+    },
+    {
+        "question": "An effective essay introduction should always include ____.",
+        "options": ["a detailed explanation of the topic", "a question for the reader", "background information and a thesis", "a summary of all body paragraphs"],
+        "answer": "background information and a thesis",
+        "description": "A strong introduction provides necessary background information and presents a clear thesis that outlines the essay's main argument or point."
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of a formal academic essay?",
+        "options": ["First-person perspective", "Impersonal tone", "Logical structure", "Use of evidence"],
+        "answer": "First-person perspective",
+        "description": "Academic essays typically maintain an impersonal tone and avoid using first-person unless otherwise specified."
+    },
+    {
+        "question": "Which type of essay requires the writer to tell a story, often with a personal perspective?",
+        "options": ["Expository", "Narrative", "Argumentative", "Descriptive"],
+        "answer": "Narrative",
+        "description": "Narrative essays focus on telling a story, often based on personal experience, with a clear sequence of events."
+    },
+    {
+        "question": "In essay writing, transitioning between paragraphs smoothly is achieved by using ____.",
+        "options": ["topic sentences", "evidence", "transition words", "anecdotes"],
+        "answer": "transition words",
+        "description": "Transition words and phrases, such as 'however,' 'therefore,' and 'in addition,' help maintain a smooth flow between paragraphs and ideas."
+    },
+    {
+        "question": "In which type of essay are you most likely to compare and contrast two subjects?",
+        "options": ["Expository", "Descriptive", "Compare-and-contrast", "Narrative"],
+        "answer": "Compare-and-contrast",
+        "description": "A compare-and-contrast essay focuses on identifying similarities and differences between two or more subjects."
+    },
+    {
+        "question": "Which step in the writing process involves checking for grammar and punctuation errors?",
+        "options": ["Drafting", "Revising", "Outlining", "Proofreading"],
+        "answer": "Proofreading",
+        "description": "Proofreading is the final stage in the writing process where writers check for grammar, punctuation, and formatting errors."
+    },
+    {
+        "question": "____ essays focus on painting a vivid picture of a person, place, thing, or event, often appealing to the reader's senses.",
+        "options": ["Descriptive", "Narrative", "Argumentative", "Expository"],
+        "answer": "Descriptive",
+        "description": "Descriptive essays aim to create a detailed image or description of a subject, appealing to the reader's sensory experiences."
+    },
+    {
+        "question": "Which section of the essay comes immediately after the thesis statement in an argumentative essay?",
+        "options": ["Background information", "Conclusion", "First supporting argument", "Counterargument"],
+        "answer": "First supporting argument",
+        "description": "After the thesis statement, the first body paragraph should develop the strongest argument supporting the writer’s position."
+    },
+    {
+        "question": "What is the main purpose of a thesis statement in essay writing?",
+        "options": ["To summarize all paragraphs", "To introduce the topic", "To present the main argument", "To provide background information"],
+        "answer": "To present the main argument",
+        "description": "The thesis statement serves as the central argument or claim of the essay, guiding the development of the subsequent paragraphs."
+    },
+    {
+        "question": "When writing an argumentative essay, what is the importance of including a counterargument?",
+        "options": ["To weaken your own argument", "To introduce a new topic", "To acknowledge opposing views", "To summarize your main points"],
+        "answer": "To acknowledge opposing views",
+        "description": "Including a counterargument shows that you are aware of opposing views and can refute them, which strengthens your overall argument."
+    },
+    {
+        "question": "In a cause-and-effect essay, the writer focuses on explaining ____.",
+        "options": ["the narrative of an event", "the steps in a process", "the reasons something happened and its results", "the opposing arguments"],
+        "answer": "the reasons something happened and its results",
+        "description": "A cause-and-effect essay explores the reasons behind an event or situation (cause) and the outcomes or consequences that follow (effect)."
+    }
+]

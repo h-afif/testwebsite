@@ -1,0 +1,232 @@
+[
+    {
+        "question": "Fill in the blank: 'She needs to _____ up her room before guests arrive.'",
+        "options": [
+            "clean",
+            "break",
+            "take"
+        ],
+        "answer": "clean",
+        "description": "'Clean up' means to tidy or organize a space."
+    },
+    {
+        "question": "What does 'give up' mean?",
+        "options": [
+            "to continue",
+            "to surrender",
+            "to start"
+        ],
+        "answer": "to surrender",
+        "description": "'Give up' means to stop trying or to stop doing something."
+    },
+    {
+        "question": "Complete the phrasal verb: 'We need to _____ up the meeting for tomorrow.'",
+        "options": [
+            "put",
+            "take",
+            "set"
+        ],
+        "answer": "set",
+        "description": "'Set up' means to arrange or organize an event."
+    },
+    {
+        "question": "Fill in the blank: 'He finally _____ over his fears.'",
+        "options": [
+            "got",
+            "moved",
+            "came"
+        ],
+        "answer": "got",
+        "description": "'Got over' means to recover from an emotional setback."
+    },
+    {
+        "question": "Choose the antonym of 'break down':",
+        "options": [
+            "fix",
+            "shatter",
+            "crumble"
+        ],
+        "answer": "fix",
+        "description": "'Break down' means to stop functioning; its antonym is 'fix.'"
+    },
+    {
+        "question": "Fill in the blank: 'They decided to _____ down their spending.'",
+        "options": [
+            "cut",
+            "bring",
+            "raise"
+        ],
+        "answer": "cut",
+        "description": "'Cut down' means to reduce something, especially expenses."
+    },
+    {
+        "question": "What does 'look after' mean?",
+        "options": [
+            "to ignore",
+            "to care for",
+            "to search"
+        ],
+        "answer": "to care for",
+        "description": "'Look after' means to take care of someone or something."
+    },
+    {
+        "question": "Complete the phrasal verb: 'He was able to _____ up the project on time.'",
+        "options": [
+            "finish",
+            "give",
+            "break"
+        ],
+        "answer": "finish",
+        "description": "'Finish up' means to complete something."
+    },
+    {
+        "question": "Fill in the blank: 'She needs to _____ on her studies if she wants to pass.'",
+        "options": [
+            "work",
+            "give",
+            "play"
+        ],
+        "answer": "work",
+        "description": "'Work on' means to focus effort on something."
+    },
+    {
+        "question": "What does 'put off' mean?",
+        "options": [
+            "to postpone",
+            "to start",
+            "to enjoy"
+        ],
+        "answer": "to postpone",
+        "description": "'Put off' means to delay something until a later time."
+    },
+    {
+        "question": "Complete the phrasal verb: 'They decided to _____ out the new product next month.'",
+        "options": [
+            "roll",
+            "bring",
+            "hold"
+        ],
+        "answer": "roll",
+        "description": "'Roll out' means to introduce or launch a new product."
+    },
+    {
+        "question": "Fill in the blank: 'I need to _____ up my performance for the final exam.'",
+        "options": [
+            "step",
+            "bring",
+            "take"
+        ],
+        "answer": "step",
+        "description": "'Step up' means to improve or increase effort."
+    },
+    {
+        "question": "What does 'give in' mean?",
+        "options": [
+            "to refuse",
+            "to yield",
+            "to challenge"
+        ],
+        "answer": "to yield",
+        "description": "'Give in' means to surrender or to stop resisting."
+    },
+    {
+        "question": "Complete the phrasal verb: 'She _____ up her emotions during the meeting.'",
+        "options": [
+            "held",
+            "gave",
+            "put"
+        ],
+        "answer": "held",
+        "description": "'Held back' means to restrain or control emotions."
+    },
+    {
+        "question": "Fill in the blank: 'He decided to _____ out for a walk to clear his mind.'",
+        "options": [
+            "go",
+            "bring",
+            "turn"
+        ],
+        "answer": "go",
+        "description": "'Go out' means to leave a place, often for leisure."
+    },
+    {
+        "question": "Choose the synonym of 'bring up':",
+        "options": [
+            "discuss",
+            "avoid",
+            "ignore"
+        ],
+        "answer": "discuss",
+        "description": "'Bring up' means to mention or introduce a topic in conversation."
+    },
+    {
+        "question": "Fill in the blank: 'You need to _____ on your goals if you want to succeed.'",
+        "options": [
+            "focus",
+            "bring",
+            "turn"
+        ],
+        "answer": "focus",
+        "description": "'Focus on' means to concentrate attention on something."
+    },
+    {
+        "question": "What does 'run into' mean?",
+        "options": [
+            "to collide",
+            "to encounter unexpectedly",
+            "to sprint"
+        ],
+        "answer": "to encounter unexpectedly",
+        "description": "'Run into' means to meet someone by chance."
+    },
+    {
+        "question": "Complete the phrasal verb: 'I need to _____ out the facts before making a decision.'",
+        "options": [
+            "find",
+            "look",
+            "bring"
+        ],
+        "answer": "look",
+        "description": "'Look out' means to examine or investigate something carefully."
+    },
+    {
+        "question": "Fill in the blank: 'She managed to _____ through the difficult times.'",
+        "options": [
+            "get",
+            "go",
+            "come"
+        ],
+        "answer": "get",
+        "description": "'Get through' means to endure or survive a challenging situation."
+    },
+    {
+        "question": "What does 'take over' mean?",
+        "options": [
+            "to acquire control",
+            "to share",
+            "to collaborate"
+        ],
+        "answer": "to acquire control",
+        "description": "'Take over' means to assume control or responsibility."
+    },
+    {
+        "question": "Complete the phrasal verb: 'He _____ up the courage to ask her out.'",
+        "options": [
+            "gathered",
+            "picked",
+            "took"
+        ],
+        "answer": "gathered",
+        "description": "'Gathered up' means to collect or assemble courage."
+    },
+    {
+        "question": "Fill in the blank: 'We need to _____ out what happened before making conclusions.'",
+        "options": [
+            "find",
+            "bring",
+            "call"
+        ],
+        "answer": "find",
+        "description": "'Find out' means to discover or learn information."
+    }
+]

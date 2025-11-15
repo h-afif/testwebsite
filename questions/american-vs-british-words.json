@@ -1,0 +1,232 @@
+[
+    {
+        "question": "What is the British equivalent of 'apartment'?",
+        "options": [
+            "flat",
+            "unit",
+            "suite"
+        ],
+        "answer": "flat",
+        "description": "'Flat' is the British term for a self-contained housing unit, while 'apartment' is used in American English."
+    },
+    {
+        "question": "Fill in the blank: 'He got into his _____ to drive to work.' (British term)",
+        "options": [
+            "lorry",
+            "truck",
+            "car"
+        ],
+        "answer": "lorry",
+        "description": "'Lorry' refers to a large vehicle used for transporting goods in British English, while 'truck' is the American term."
+    },
+    {
+        "question": "Which term do Americans use for 'biscuit'?",
+        "options": [
+            "cookie",
+            "cracker",
+            "scone"
+        ],
+        "answer": "cookie",
+        "description": "'Cookie' refers to a sweet baked treat in American English, while 'biscuit' refers to a similar treat in British English."
+    },
+    {
+        "question": "Match the British term with its American equivalent: 'jumper'",
+        "options": [
+            "sweater",
+            "hoodie",
+            "pullover"
+        ],
+        "answer": "sweater",
+        "description": "'Jumper' is the British term for a knitted garment worn on the upper body, while 'sweater' is the American equivalent."
+    },
+    {
+        "question": "Fill in the blank: 'I need to buy a new _____ for my baby.' (British term)",
+        "options": [
+            "nappy",
+            "diaper",
+            "pad"
+        ],
+        "answer": "nappy",
+        "description": "'Nappy' is the British term for an absorbent garment worn by babies, while 'diaper' is used in American English."
+    },
+    {
+        "question": "What is the British term for 'holiday' in the context of a vacation?",
+        "options": [
+            "vacation",
+            "break",
+            "getaway"
+        ],
+        "answer": "holiday",
+        "description": "'Holiday' in British English refers to a vacation, while in American English, 'holiday' refers to specific days of celebration."
+    },
+    {
+        "question": "Choose the correct British term for 'elevator':",
+        "options": [
+            "lift",
+            "hoist",
+            "escalator"
+        ],
+        "answer": "lift",
+        "description": "'Lift' is the British term for a platform used for transporting people between floors, while 'elevator' is used in American English."
+    },
+    {
+        "question": "Fill in the blank: 'The _____ of the car is full of groceries.' (British term)",
+        "options": [
+            "boot",
+            "trunk",
+            "hatch"
+        ],
+        "answer": "boot",
+        "description": "'Boot' refers to the storage compartment at the back of a car in British English, while 'trunk' is the term used in American English."
+    },
+    {
+        "question": "What is the American word for 'torch'?",
+        "options": [
+            "flashlight",
+            "lantern",
+            "beacon"
+        ],
+        "answer": "flashlight",
+        "description": "'Flashlight' is the American term for a portable handheld light source, while 'torch' is used in British English."
+    },
+    {
+        "question": "Fill in the blank: 'He forgot to _____ his homework.' (British term)",
+        "options": [
+            "post",
+            "mail",
+            "send"
+        ],
+        "answer": "post",
+        "description": "'Post' is the British term for sending mail, while 'mail' is the common term in American English."
+    },
+    {
+        "question": "Which word do Americans use for 'queue'?",
+        "options": [
+            "line",
+            "row",
+            "column"
+        ],
+        "answer": "line",
+        "description": "'Line' is the American term for a sequence of people waiting, while 'queue' is the term used in British English."
+    },
+    {
+        "question": "Match the British term with its American equivalent: 'petrol'",
+        "options": [
+            "gasoline",
+            "diesel",
+            "oil"
+        ],
+        "answer": "gasoline",
+        "description": "'Petrol' is the British term for the fuel used in cars, while 'gasoline' is the American equivalent."
+    },
+    {
+        "question": "Fill in the blank: 'She bought a new pair of _____.' (British term)",
+        "options": [
+            "trainers",
+            "sneakers",
+            "shoes"
+        ],
+        "answer": "trainers",
+        "description": "'Trainers' is the British term for athletic shoes, while 'sneakers' is used in American English."
+    },
+    {
+        "question": "What is the British word for 'candy'?",
+        "options": [
+            "sweets",
+            "treats",
+            "confectionery"
+        ],
+        "answer": "sweets",
+        "description": "'Sweets' is the British term for sugary snacks, while 'candy' is commonly used in American English."
+    },
+    {
+        "question": "Which term do Brits use for 'mailbox'?",
+        "options": [
+            "postbox",
+            "letterbox",
+            "dropbox"
+        ],
+        "answer": "postbox",
+        "description": "'Postbox' refers to the receptacle for mail in British English, while 'mailbox' is used in American English."
+    },
+    {
+        "question": "What is the American equivalent of 'football'?",
+        "options": [
+            "soccer",
+            "rugby",
+            "gridiron"
+        ],
+        "answer": "soccer",
+        "description": "'Soccer' is the term used in American English for the sport known as 'football' in British English."
+    },
+    {
+        "question": "Fill in the blank: 'The teacher asked me to _____ up my homework.' (British term)",
+        "options": [
+            "hand",
+            "submit",
+            "give"
+        ],
+        "answer": "hand",
+        "description": "'Hand in' means to submit work, commonly used in British English."
+    },
+    {
+        "question": "Choose the British equivalent of 'sneakers':",
+        "options": [
+            "trainers",
+            "shoes",
+            "boots"
+        ],
+        "answer": "trainers",
+        "description": "'Trainers' is the British term for athletic footwear, while 'sneakers' is used in American English."
+    },
+    {
+        "question": "What is the British term for 'drugstore'?",
+        "options": [
+            "chemist",
+            "apothecary",
+            "health shop"
+        ],
+        "answer": "chemist",
+        "description": "'Chemist' is the British term for a shop that sells medicines, while 'drugstore' is the American equivalent."
+    },
+    {
+        "question": "Fill in the blank: 'I’ll see you on _____.' (British term for 'Monday')",
+        "options": [
+            "Monday",
+            "the Monday",
+            "on Monday"
+        ],
+        "answer": "Monday",
+        "description": "This phrase is the same in both dialects, though context can vary."
+    },
+    {
+        "question": "Match the British term with its American equivalent: 'lift'",
+        "options": [
+            "elevator",
+            "hoist",
+            "crane"
+        ],
+        "answer": "elevator",
+        "description": "'Lift' is the British term for a platform used for transporting people or goods between floors."
+    },
+    {
+        "question": "Which term do Americans use for 'fag'?",
+        "options": [
+            "cigarette",
+            "cigar",
+            "pipe"
+        ],
+        "answer": "cigarette",
+        "description": "'Fag' is British slang for 'cigarette,' which is commonly referred to as 'cigarette' in American English."
+    },
+    {
+        "question": "Fill in the blank: 'He had to _____ his plans due to the rain.' (British term)",
+        "options": [
+            "cancel",
+            "call off",
+            "abort"
+        ],
+        "answer": "call off",
+        "description": "'Call off' means to cancel something, often used in British English."
+    }
+]

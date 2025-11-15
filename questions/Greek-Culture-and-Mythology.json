@@ -1,0 +1,182 @@
+[
+    {
+        "question": "The ancient Greek city-state known for its powerful army was ______.",
+        "options": ["Athens", "Sparta", "Corinth", "Thebes"],
+        "answer": "Sparta",
+        "description": "Sparta was known for its military-oriented society and was one of the most powerful city-states in ancient Greece."
+    },
+    {
+        "question": "________ is the Greek goddess of wisdom and warfare, often depicted with an owl.",
+        "options": ["Hera", "Aphrodite", "Athena", "Artemis"],
+        "answer": "Athena",
+        "description": "Athena is revered as the goddess of wisdom, courage, and warfare, and is often associated with the city of Athens."
+    },
+    {
+        "question": "The epic poem 'The Iliad' is attributed to ______.",
+        "options": ["Hesiod", "Homer", "Virgil", "Sophocles"],
+        "answer": "Homer",
+        "description": "'The Iliad' is an ancient Greek epic poem attributed to Homer, telling the story of the Trojan War."
+    },
+    {
+        "question": "Which of the following is NOT one of the Twelve Olympian gods?",
+        "options": ["Zeus", "Hades", "Apollo", "Dionysus"],
+        "answer": "Hades",
+        "description": "Hades, while a significant god, ruled the Underworld and was not considered one of the Twelve Olympian gods who resided on Mount Olympus."
+    },
+    {
+        "question": "Arrange the following Greek philosophers in chronological order: ______.",
+        "options": ["Socrates, Plato, Aristotle", "Plato, Socrates, Aristotle", "Aristotle, Socrates, Plato", "Plato, Aristotle, Socrates"],
+        "answer": "Socrates, Plato, Aristotle",
+        "description": "The correct order is Socrates (c. 470-399 BCE), followed by his student Plato (c. 427-347 BCE), and then Aristotle (384-322 BCE)."
+    },
+    {
+        "question": "________ was the Greek god of wine, festivities, and ecstasy.",
+        "options": ["Apollo", "Dionysus", "Hermes", "Ares"],
+        "answer": "Dionysus",
+        "description": "Dionysus is the Greek god associated with wine, pleasure, festivity, and the arts."
+    },
+    {
+        "question": "The ancient Olympic Games were held in honor of ______.",
+        "options": ["Apollo", "Zeus", "Hercules", "Athena"],
+        "answer": "Zeus",
+        "description": "The ancient Olympic Games were dedicated to Zeus, the king of the gods, and celebrated athletic competition."
+    },
+    {
+        "question": "Which of these is a famous Greek tragedy written by Sophocles?",
+        "options": ["The Odyssey", "Antigone", "The Aeneid", "Medea"],
+        "answer": "Antigone",
+        "description": "'Antigone' is a tragedy by Sophocles that explores themes of fate, family loyalty, and civil disobedience."
+    },
+    {
+        "question": "The myth of ______ describes a hero who performed twelve labors.",
+        "options": ["Hercules", "Theseus", "Achilles", "Odysseus"],
+        "answer": "Hercules",
+        "description": "Hercules, a demigod and hero, is famous for his Twelve Labors, which were tasks he had to complete as penance."
+    },
+    {
+        "question": "________ is the name of the famous temple dedicated to Athena in Athens.",
+        "options": ["The Parthenon", "The Colosseum", "The Acropolis", "The Agora"],
+        "answer": "The Parthenon",
+        "description": "The Parthenon is a former temple on the Acropolis of Athens, dedicated to the goddess Athena, and symbolizes ancient Greek architecture."
+    },
+    {
+        "question": "What is the primary theme of Homer's 'The Odyssey'?",
+        "options": ["War", "Love", "Adventure and return", "Death"],
+        "answer": "Adventure and return",
+        "description": "'The Odyssey' narrates the journey of Odysseus as he adventures home after the Trojan War, facing numerous challenges along the way."
+    },
+    {
+        "question": "Gap-fill: The ______ was a significant philosophical school founded by Epicurus, advocating for the pursuit of happiness through simple pleasures.",
+        "options": ["Stoa", "Academy", "Garden", "Lyceum"],
+        "answer": "Garden",
+        "description": "The Garden was the school of philosophy founded by Epicurus, which taught that happiness is attained through the pursuit of pleasure and avoidance of pain."
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of ancient Greek architecture?",
+        "options": ["Use of columns", "Elaborate frescoes", "Symmetry and proportion", "Gothic arches"],
+        "answer": "Gothic arches",
+        "description": "Gothic arches are a feature of medieval architecture, while ancient Greek architecture is known for its use of columns and symmetry."
+    },
+    {
+        "question": "Which hero is known for slaying the Minotaur in Greek mythology?",
+        "options": ["Hercules", "Perseus", "Theseus", "Jason"],
+        "answer": "Theseus",
+        "description": "Theseus is celebrated in Greek mythology for defeating the Minotaur, a half-man, half-bull creature, in the Labyrinth."
+    },
+    {
+        "question": "________ is the ancient Greek word for 'city-state,' a fundamental political unit in ancient Greece.",
+        "options": ["Agora", "Acropolis", "Polis", "Demos"],
+        "answer": "Polis",
+        "description": "Polis refers to a city-state in ancient Greece, which was a self-governing city that included the surrounding countryside."
+    },
+    {
+        "question": "Which goddess is known as the protector of the city and was worshipped as the patron deity of Athens?",
+        "options": ["Hera", "Aphrodite", "Athena", "Artemis"],
+        "answer": "Athena",
+        "description": "Athena was revered as the goddess of wisdom, courage, and warfare, and was the patron goddess of Athens."
+    },
+    {
+        "question": "The Greek philosopher known for the Socratic method of questioning is ______.",
+        "options": ["Aristotle", "Plato", "Socrates", "Epicurus"],
+        "answer": "Socrates",
+        "description": "Socrates developed the Socratic method, a form of cooperative argumentative dialogue to stimulate critical thinking and illuminate ideas."
+    },
+    {
+        "question": "The Delphic Oracle was known for providing ______ to individuals and city-states.",
+        "options": ["Music", "Prophecies", "Education", "Art"],
+        "answer": "Prophecies",
+        "description": "The Delphic Oracle, located at Delphi, was famous for delivering prophecies and guidance from the god Apollo."
+    },
+    {
+        "question": "Which Greek philosopher founded the Academy in Athens?",
+        "options": ["Socrates", "Plato", "Aristotle", "Epicurus"],
+        "answer": "Plato",
+        "description": "Plato founded the Academy in Athens, one of the earliest institutions of higher learning in the Western world."
+    },
+    {
+        "question": "The term ______ refers to the competition and rivalry among Greek city-states, particularly between Athens and Sparta.",
+        "options": ["Hellenism", "Peloponnesian War", "Panhellenic", "Hellenistic"],
+        "answer": "Peloponnesian War",
+        "description": "The Peloponnesian War (431-404 BCE) was a protracted conflict between the Athenian empire and the Peloponnesian League led by Sparta."
+    },
+    {
+        "question": "What was the main purpose of the Olympic Games in ancient Greece?",
+        "options": ["Religious celebration", "Political power", "Military training", "Economic competition"],
+        "answer": "Religious celebration",
+        "description": "The Olympic Games were held in honor of Zeus and included athletic competitions, celebrating physical prowess and religious devotion."
+    },
+    {
+        "question": "Gap-fill: The concept of ______ describes the ancient Greek practice of seeking knowledge and wisdom.",
+        "options": ["Philosophy", "Rhetoric", "Sophism", "Mythology"],
+        "answer": "Philosophy",
+        "description": "Philosophy in ancient Greece focused on understanding the nature of existence, knowledge, and ethics, laying the groundwork for Western thought."
+    },
+    {
+        "question": "Which ancient Greek poet is known for writing 'Theogony' and 'Works and Days'?",
+        "options": ["Homer", "Sappho", "Hesiod", "Pindar"],
+        "answer": "Hesiod",
+        "description": "Hesiod is recognized for his works that discuss the origins of the gods and provide moral and agricultural instruction."
+    },
+    {
+        "question": "The ______ was a significant battle in 490 BCE where the Athenians defeated the Persians.",
+        "options": ["Battle of Thermopylae", "Battle of Salamis", "Battle of Marathon", "Battle of Plataea"],
+        "answer": "Battle of Marathon",
+        "description": "The Battle of Marathon was a pivotal moment in the Greco-Persian Wars, showcasing the strength of the Athenian military against the Persian Empire."
+    },
+    {
+        "question": "The city of ______ was known for its cultural achievements and the development of democracy.",
+        "options": ["Athens", "Sparta", "Corinth", "Thebes"],
+        "answer": "Athens",
+        "description": "Athens is celebrated for its contributions to art, philosophy, and the establishment of democracy in ancient Greece."
+    },
+    {
+        "question": "______ is the ancient Greek term for 'excessive pride,' often leading to the downfall of characters in Greek tragedies.",
+        "options": ["Hubris", "Agape", "Eros", "Arete"],
+        "answer": "Hubris",
+        "description": "Hubris is a key concept in Greek tragedies, where excessive pride or arrogance leads to the downfall of the protagonist."
+    },
+    {
+        "question": "______ refers to a fortified hilltop in ancient Greek cities, often the site of temples and public buildings.",
+        "options": ["Acropolis", "Agora", "Stoa", "Ekklesia"],
+        "answer": "Acropolis",
+        "description": "The Acropolis is the elevated area of an ancient Greek city, serving as a religious and ceremonial center, with the Parthenon being the most famous example."
+    },
+    {
+        "question": "______ is the term for the public square or marketplace in ancient Greek cities where citizens gathered for political, commercial, and social activities.",
+        "options": ["Agora", "Acropolis", "Stoa", "Oikos"],
+        "answer": "Agora",
+        "description": "The Agora was the central public space in ancient Greek city-states, used for assemblies, markets, and socializing."
+    },
+    {
+        "question": "______ is the term for the ancient Greek code of honor and excellence, especially in battle.",
+        "options": ["Arete", "Hubris", "Xenia", "Physis"],
+        "answer": "Arete",
+        "description": "Arete in ancient Greece referred to the pursuit of excellence, particularly in moral virtue and physical ability, often demonstrated by warriors and athletes."
+    },
+    {
+        "question": "______ refers to the ancient Greek tradition of hospitality, where hosts were expected to treat guests with generosity and respect.",
+        "options": ["Xenia", "Arete", "Hubris", "Nomos"],
+        "answer": "Xenia",
+        "description": "Xenia was the ancient Greek concept of hospitality, where strangers were treated with generosity, reflecting the cultural emphasis on building relationships."
+    }
+]

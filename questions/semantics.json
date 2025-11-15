@@ -1,0 +1,292 @@
+[
+    {
+        "question": "What is the main focus of lexical semantics?",
+        "options": [
+            "The meaning of individual words",
+            "The structure of sentences",
+            "The use of language in context"
+        ],
+        "answer": "The meaning of individual words",
+        "description": "Lexical semantics focuses on the meaning of individual words, their relationships with other words, and their components of meaning (e.g., synonyms, antonyms, and polysemy)."
+    },
+    {
+        "question": "In the sentence 'John is a bachelor', what kind of meaning is conveyed by the word 'bachelor'?",
+        "options": [
+            "Denotative meaning",
+            "Connotative meaning",
+            "Implicature"
+        ],
+        "answer": "Denotative meaning",
+        "description": "'Bachelor' has denotative meaning in this context, which refers to its literal meaning (an unmarried man). Connotative meaning refers to associated meanings beyond the literal sense."
+    },
+    {
+        "question": "Which of the following is an example of entailment?",
+        "options": [
+            "'All dogs are mammals' entails 'Some dogs are mammals.'",
+            "'John is tall' entails 'John is a human.'",
+            "'She might come' entails 'She will come.'"
+        ],
+        "answer": "'All dogs are mammals' entails 'Some dogs are mammals.'",
+        "description": "Entailment refers to a relationship where the truth of one statement guarantees the truth of another. If all dogs are mammals, it necessarily follows that some dogs are mammals."
+    },
+    {
+        "question": "Which type of ambiguity is present in the sentence 'The bank is by the river'?",
+        "options": [
+            "Lexical ambiguity",
+            "Structural ambiguity",
+            "Pragmatic ambiguity"
+        ],
+        "answer": "Lexical ambiguity",
+        "description": "The word 'bank' is lexically ambiguous, as it could mean either the side of a river or a financial institution. Lexical ambiguity arises when a word has multiple meanings."
+    },
+    {
+        "question": "What is the term for a word that has multiple related meanings?",
+        "options": [
+            "Polysemy",
+            "Homonymy",
+            "Synonymy"
+        ],
+        "answer": "Polysemy",
+        "description": "Polysemy occurs when a word has multiple related meanings. For example, 'bank' can refer to a financial institution or the side of a river, both related through the concept of 'storing.'"
+    },
+    {
+        "question": "Which of the following is an example of a hyponym?",
+        "options": [
+            "'Dog' in relation to 'animal'",
+            "'Happy' in relation to 'sad'",
+            "'Big' in relation to 'large'"
+        ],
+        "answer": "'Dog' in relation to 'animal'",
+        "description": "'Dog' is a hyponym of 'animal' because it refers to a more specific category within the broader category of 'animal.' Hyponymy is a relationship where one word is a specific instance of another."
+    },
+    {
+        "question": "Which of the following pairs illustrates antonymy?",
+        "options": [
+            "'Hot' and 'cold'",
+            "'Dog' and 'cat'",
+            "'Chair' and 'table'"
+        ],
+        "answer": "'Hot' and 'cold'",
+        "description": "Antonymy refers to a relationship between words with opposite meanings. 'Hot' and 'cold' are gradable antonyms, representing opposite ends of a temperature spectrum."
+    },
+    {
+        "question": "What is the relationship between the words 'sofa' and 'couch'?",
+        "options": [
+            "Synonymy",
+            "Hyponymy",
+            "Antonymy"
+        ],
+        "answer": "Synonymy",
+        "description": "'Sofa' and 'couch' are synonyms because they have the same or nearly the same meaning, referring to a type of furniture used for seating."
+    },
+    {
+        "question": "In the sentence 'The king of France is bald,' what presupposition is triggered?",
+        "options": [
+            "There is a king of France",
+            "The king of France is not bald",
+            "The king of France has hair"
+        ],
+        "answer": "There is a king of France",
+        "description": "The sentence 'The king of France is bald' presupposes that there is a king of France. If this presupposition is false (since there is no current king of France), the sentence becomes problematic."
+    },
+    {
+        "question": "What type of meaning refers to a word’s use in context rather than its dictionary definition?",
+        "options": [
+            "Pragmatic meaning",
+            "Denotative meaning",
+            "Lexical meaning"
+        ],
+        "answer": "Pragmatic meaning",
+        "description": "Pragmatic meaning involves how a word or sentence is interpreted in context. For example, 'Can you pass the salt?' in context often means a request, rather than a question about ability."
+    },
+    {
+        "question": "Which of the following is a contradiction?",
+        "options": [
+            "'All cats are mammals and some cats are not mammals.'",
+            "'Some cats are mammals and some are not.'",
+            "'All cats are animals.'"
+        ],
+        "answer": "'All cats are mammals and some cats are not mammals.'",
+        "description": "A contradiction occurs when two statements cannot both be true at the same time. 'All cats are mammals' contradicts 'Some cats are not mammals,' as both cannot be true simultaneously."
+    },
+    {
+        "question": "What type of meaning is concerned with the relationship between words and the entities they refer to?",
+        "options": [
+            "Referential meaning",
+            "Social meaning",
+            "Figurative meaning"
+        ],
+        "answer": "Referential meaning",
+        "description": "Referential meaning concerns the relationship between linguistic expressions and the real-world entities they stand for, such as the word 'dog' referring to an actual animal."
+    },
+    {
+        "question": "In the phrase 'red car,' what kind of meaning does 'red' contribute?",
+        "options": [
+            "Attributive meaning",
+            "Referential meaning",
+            "Connotative meaning"
+        ],
+        "answer": "Attributive meaning",
+        "description": "'Red' in 'red car' provides attributive meaning by describing a property of the car. Attributive meaning refers to the way an adjective modifies a noun."
+    },
+    {
+        "question": "Which of the following sentences involves figurative language?",
+        "options": [
+            "'Time is money.'",
+            "'The sky is blue.'",
+            "'The cat is on the mat.'"
+        ],
+        "answer": "'Time is money.'",
+        "description": "The phrase 'Time is money' is an example of figurative language, specifically a metaphor, where time is conceptualized as a valuable commodity."
+    },
+    {
+        "question": "What kind of meaning is involved in the interpretation of 'kick the bucket' as 'to die'?",
+        "options": [
+            "Idiomatic meaning",
+            "Literal meaning",
+            "Pragmatic meaning"
+        ],
+        "answer": "Idiomatic meaning",
+        "description": "The phrase 'kick the bucket' is an idiom, meaning 'to die'. Idiomatic meaning refers to expressions whose meanings cannot be inferred from the meanings of the individual words."
+    },
+    {
+        "question": "In the sentence 'She only eats fruit,' what is the scope of 'only'?",
+        "options": [
+            "'Eats fruit'",
+            "'She'",
+            "'Fruit'"
+        ],
+        "answer": "'Fruit'",
+        "description": "In 'She only eats fruit,' 'only' modifies 'fruit,' meaning that fruit is the only thing she eats. The scope of 'only' refers to what part of the sentence it restricts."
+    },
+    {
+        "question": "Which of the following is an example of a tautology?",
+        "options": [
+            "'A bachelor is an unmarried man.'",
+            "'John is a tall man.'",
+            "'Some cats are black.'"
+        ],
+        "answer": "'A bachelor is an unmarried man.'",
+        "description": "A tautology is a statement that is true by definition, like 'A bachelor is an unmarried man.' The predicate provides no new information beyond the subject."
+    },
+    {
+        "question": "Which of the following represents a truth condition for the sentence 'The sky is blue'?",
+        "options": [
+            "The sky must actually be blue for the sentence to be true.",
+            "The sky is always blue.",
+            "The sentence is true regardless of the sky's color."
+        ],
+        "answer": "The sky must actually be blue for the sentence to be true.",
+        "description": "A truth condition for a sentence refers to the circumstances under which it would be true. For 'The sky is blue,' it is true only if the sky is indeed blue."
+    },
+    {
+        "question": "What type of entailment is illustrated by the sentence 'John is a man' entailing 'John is a human'?",
+        "options": [
+            "Hyponymic entailment",
+            "Contradiction",
+            "Metaphorical entailment"
+        ],
+        "answer": "Hyponymic entailment",
+        "description": "'John is a man' entails 'John is a human' because 'man' is a hyponym of 'human.' Hyponymic entailment occurs when the meaning of one word includes the meaning of another."
+    },
+    {
+        "question": "Which of the following illustrates a semantic anomaly?",
+        "options": [
+            "'Colorless green ideas sleep furiously.'",
+            "'The cat is on the mat.'",
+            "'The sun rises in the east.'"
+        ],
+        "answer": "'Colorless green ideas sleep furiously.'",
+        "description": "The sentence 'Colorless green ideas sleep furiously' is semantically anomalous because, while grammatically correct, the combination of words creates a nonsensical meaning."
+    },
+    {
+        "question": "What is the relationship between 'table' and 'furniture'?",
+        "options": [
+            "Hyponymy",
+            "Synonymy",
+            "Antonymy"
+        ],
+        "answer": "Hyponymy",
+        "description": "'Table' is a hyponym of 'furniture' because it represents a more specific item within the broader category of 'furniture.'"
+    },
+    {
+        "question": "Which of the following sentences contains an implicature?",
+        "options": [
+            "'Can you pass the salt?' implying a request",
+            "'The sky is blue.'",
+            "'She is a doctor.'"
+        ],
+        "answer": "'Can you pass the salt?' implying a request",
+        "description": "The sentence 'Can you pass the salt?' often implies a request rather than a literal question about ability. This implicature relies on context to convey meaning beyond the literal sense."
+    },
+    {
+        "question": "What is the term for when a word refers to a part of a whole, like 'wheels' referring to a car?",
+        "options": [
+            "Synecdoche",
+            "Metaphor",
+            "Homonymy"
+        ],
+        "answer": "Synecdoche",
+        "description": "Synecdoche is a figure of speech where a part is used to represent the whole, such as using 'wheels' to refer to a car."
+    },
+    {
+        "question": "Which of the following sentences triggers a presupposition?",
+        "options": [
+            "'Mary stopped smoking.'",
+            "'John might come tomorrow.'",
+            "'The book is on the table.'"
+        ],
+        "answer": "'Mary stopped smoking.'",
+        "description": "'Mary stopped smoking' presupposes that Mary was smoking at some point before. Presuppositions are background assumptions embedded in the sentence."
+    },
+    {
+        "question": "What is the meaning relation between the sentences 'She is rich' and 'She has a lot of money'?",
+        "options": [
+            "Paraphrase",
+            "Contradiction",
+            "Synonymy"
+        ],
+        "answer": "Paraphrase",
+        "description": "The sentences 'She is rich' and 'She has a lot of money' are paraphrases of each other, expressing the same basic meaning in different words."
+    },
+    {
+        "question": "Which of the following sentences contains a metaphor?",
+        "options": [
+            "'The world is a stage.'",
+            "'The cat is on the mat.'",
+            "'The man is tall.'"
+        ],
+        "answer": "'The world is a stage.'",
+        "description": "'The world is a stage' is a metaphor, where the world is compared to a stage to imply that life is like a performance."
+    },
+    {
+        "question": "Which of the following words is a gradable antonym?",
+        "options": [
+            "'Hot' in relation to 'cold'",
+            "'Alive' in relation to 'dead'",
+            "'Man' in relation to 'woman'"
+        ],
+        "answer": "'Hot' in relation to 'cold'",
+        "description": "'Hot' and 'cold' are gradable antonyms because they exist on a scale and can be modified by degree (e.g., very hot, slightly cold)."
+    },
+    {
+        "question": "What does the sentence 'Every student passed the exam' presuppose?",
+        "options": [
+            "There was an exam",
+            "Some students passed the exam",
+            "No student passed the exam"
+        ],
+        "answer": "There was an exam",
+        "description": "'Every student passed the exam' presupposes that an exam existed. The sentence takes for granted the existence of the exam while asserting the result."
+    },
+    {
+        "question": "Which of the following represents a metaphorical meaning?",
+        "options": [
+            "'He's on cloud nine.'",
+            "'The apple is on the table.'",
+            "'The water is cold.'"
+        ],
+        "answer": "'He's on cloud nine.'",
+        "description": "The phrase 'He's on cloud nine' is a metaphorical expression, meaning the person is very happy or elated, not literally on a cloud."
+    }
+]

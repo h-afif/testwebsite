@@ -1,0 +1,167 @@
+[
+    {
+        "question": "Which of the following sentences correctly uses the Past Perfect tense?",
+        "options": [
+            "I finished my homework before I went to bed.",
+            "I had finished my homework before I went to bed.",
+            "I had finish my homework before I went to bed.",
+            "I finish my homework before I went to bed."
+        ],
+        "answer": "I had finished my homework before I went to bed.",
+        "description": "The Past Perfect ('had finished') is used to show that one action (finishing homework) was completed before another past action (going to bed)."
+    },
+    {
+        "question": "Fill in the gap: 'By the time she arrived, we ___ (already leave) the party.'",
+        "options": [
+            "had already left",
+            "already left",
+            "have already left",
+            "were already leaving"
+        ],
+        "answer": "had already left",
+        "description": "The Past Perfect is used here because the action of leaving occurred before she arrived."
+    },
+    {
+        "question": "Which of the following sentences is in the Simple Past tense?",
+        "options": [
+            "They had eaten before the movie started.",
+            "They ate before the movie started.",
+            "They had been eating before the movie started.",
+            "They have eaten before the movie started."
+        ],
+        "answer": "They ate before the movie started.",
+        "description": "The Simple Past ('ate') is used to describe actions that happened in a sequence, without one action occurring before the other."
+    },
+    {
+        "question": "Complete the sentence with the correct tense: 'After he ___ (finish) his project, he went to sleep.'",
+        "options": [
+            "finished",
+            "had finished",
+            "was finishing",
+            "have finished"
+        ],
+        "answer": "had finished",
+        "description": "The Past Perfect is used here to indicate that finishing the project happened before going to sleep."
+    },
+    {
+        "question": "Fill in the blank: 'They ___ (never visit) Paris before their trip last year.'",
+        "options": [
+            "had never visited",
+            "never visited",
+            "have never visited",
+            "didn't visit"
+        ],
+        "answer": "had never visited",
+        "description": "The Past Perfect is used to describe an action (never visiting Paris) that was completed before another past event (the trip last year)."
+    },
+    {
+        "question": "Which of the following sentences correctly uses the Simple Past tense?",
+        "options": [
+            "He had gone home before I arrived.",
+            "He was going home before I arrived.",
+            "He went home before I arrived.",
+            "He had been going home before I arrived."
+        ],
+        "answer": "He went home before I arrived.",
+        "description": "The Simple Past ('went') is used to describe actions happening in sequence."
+    },
+    {
+        "question": "Fill in the gap: 'When I got to the station, the train ___ (already leave).' ",
+        "options": [
+            "had already left",
+            "already left",
+            "have already left",
+            "was already leaving"
+        ],
+        "answer": "had already left",
+        "description": "The Past Perfect ('had already left') is used because the train leaving happened before the speaker arrived at the station."
+    },
+    {
+        "question": "Which of the following correctly uses the Past Perfect?",
+        "options": [
+            "By the time she called, I ate dinner.",
+            "By the time she called, I had eaten dinner.",
+            "By the time she called, I eat dinner.",
+            "By the time she called, I have eaten dinner."
+        ],
+        "answer": "By the time she called, I had eaten dinner.",
+        "description": "The Past Perfect ('had eaten') shows that the action of eating occurred before the call."
+    },
+    {
+        "question": "Fill in the gap: 'She ___ (study) English before she moved to the UK.'",
+        "options": [
+            "had studied",
+            "studied",
+            "was studying",
+            "has studied"
+        ],
+        "answer": "had studied",
+        "description": "The Past Perfect ('had studied') is used because studying happened before moving."
+    },
+    {
+        "question": "Which sentence uses the Simple Past correctly?",
+        "options": [
+            "After they had arrived, they called us.",
+            "After they arrived, they called us.",
+            "After they arrived, they had called us.",
+            "After they had arrived, they had called us."
+        ],
+        "answer": "After they arrived, they called us.",
+        "description": "The Simple Past is used for two events that happened in sequence."
+    },
+    {
+        "question": "Fill in the blank: 'We ___ (not eat) before we left the house.'",
+        "options": [
+            "hadn't eaten",
+            "didn't eat",
+            "haven't eaten",
+            "weren't eating"
+        ],
+        "answer": "hadn't eaten",
+        "description": "The Past Perfect ('hadn't eaten') is used to show that not eating happened before leaving the house."
+    },
+    {
+        "question": "Choose the correct sentence using the Simple Past tense.",
+        "options": [
+            "She had lived in New York before she moved to London.",
+            "She lived in New York before she moved to London.",
+            "She had been living in New York before she moved to London.",
+            "She has lived in New York before she moved to London."
+        ],
+        "answer": "She lived in New York before she moved to London.",
+        "description": "The Simple Past is used to describe two past actions happening in sequence."
+    },
+    {
+        "question": "Fill in the blank: 'They ___ (finish) the test before the bell rang.'",
+        "options": [
+            "had finished",
+            "finished",
+            "were finishing",
+            "have finished"
+        ],
+        "answer": "had finished",
+        "description": "The Past Perfect ('had finished') indicates the test was completed before the bell rang."
+    },
+    {
+        "question": "Which sentence correctly uses the Past Perfect tense?",
+        "options": [
+            "By the time I got there, they had left.",
+            "By the time I got there, they left.",
+            "By the time I got there, they have left.",
+            "By the time I got there, they are leaving."
+        ],
+        "answer": "By the time I got there, they had left.",
+        "description": "The Past Perfect is used to show that leaving occurred before the speaker arrived."
+    },
+    {
+        "question": "Fill in the gap: 'When she came home, I ___ (already cook) dinner.'",
+        "options": [
+            "had already cooked",
+            "already cooked",
+            "have already cooked",
+            "cooked"
+        ],
+        "answer": "had already cooked",
+        "description": "The Past Perfect ('had already cooked') is used to show that cooking was completed before she came home."
+    }
+]

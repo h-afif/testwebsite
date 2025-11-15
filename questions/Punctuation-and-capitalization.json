@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Which sentence is correctly capitalized?",
+        "options": ["The Eiffel Tower is located in paris.", "My favorite book is 'to kill a mockingbird.'", "He lives in New York City.", "They will visit the grand canyon next year."],
+        "answer": "He lives in New York City.",
+        "description": "Proper nouns like 'New York City' should always be capitalized, as they refer to specific places."
+    },
+    {
+        "question": "In which of the following sentences is the comma used correctly?",
+        "options": ["I bought apples, oranges and bananas.", "She wants to travel to Spain, France, and Italy.", "We walked, ran, and swam all day", "Please bring a pen, notebook and, water bottle."],
+        "answer": "She wants to travel to Spain, France, and Italy.",
+        "description": "In a list of three or more items, the Oxford comma is correctly used before the conjunction in 'Spain, France, and Italy.'"
+    },
+    {
+        "question": "Fill in the blank: '____ summer, I went to visit my grandparents in California.'",
+        "options": ["in", "In", "On", "on"],
+        "answer": "In",
+        "description": "The first word of a sentence should always begin with a capital letter, so 'In' is correct."
+    },
+    {
+        "question": "Which of the following uses the correct capitalization for titles?",
+        "options": ["the great gatsby", "The Catcher In the Rye", "The Chronicles of narnia", "Pride and Prejudice"],
+        "answer": "Pride and Prejudice",
+        "description": "In titles, the first and last words, as well as all major words, should be capitalized."
+    },
+    {
+        "question": "What is the correct punctuation to end this sentence? 'Are you coming to the party tomorrow ____'",
+        "options": [".", "?", "!", ","],
+        "answer": "?",
+        "description": "A question mark is used at the end of a direct question, making '?' the correct choice."
+    },
+    {
+        "question": "Which sentence correctly uses quotation marks?",
+        "options": ["He said, 'I'll meet you at the cafe'.", "'Where is the meeting?' asked John.", "She said 'Good morning.'", "The sign read 'Welcome to the party'!"],
+        "answer": "'Where is the meeting?' asked John.",
+        "description": "Quotation marks should enclose the exact words spoken, and punctuation like question marks should go inside the quotation marks when part of the quote."
+    },
+    {
+        "question": "In which sentence is the colon correctly used?",
+        "options": ["There are three things I need: bread milk and eggs.", "You need to: finish your homework.", "Remember: study hard, work diligently, and stay focused.", "He said: 'I'll be late.'"],
+        "answer": "Remember: study hard, work diligently, and stay focused.",
+        "description": "A colon is correctly used to introduce a list or an explanation following an independent clause, as in this sentence."
+    },
+    {
+        "question": "Where should the apostrophe go in the following sentence? 'Its been a long time since we last met.'",
+        "options": ["It's", "Its", "Its'", "It,s"],
+        "answer": "It's",
+        "description": "'It's' is a contraction for 'it has' or 'it is', and the apostrophe is placed between 'it' and 's'."
+    },
+    {
+        "question": "True or False: 'I love reading books by authors like Hemingway, Austen, and orwell.' is capitalized correctly.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "The name 'Orwell' should be capitalized as it is a proper noun. Proper nouns are always capitalized."
+    },
+    {
+        "question": "Which sentence has correct punctuation?",
+        "options": ["She said, “I’ll see you tomorrow”, and left.", "She said, 'I’ll see you tomorrow,' and left.", "She said, 'I’ll see you tomorrow.' and left.", "She said, 'I’ll see you tomorrow' and left."],
+        "answer": "She said, 'I’ll see you tomorrow,' and left.",
+        "description": "Commas and periods that follow direct speech should be placed inside quotation marks, making this sentence correct."
+    },
+    {
+        "question": "Which sentence is correctly punctuated?",
+        "options": ["My brother who lives in California, is visiting us.", "My brother, who lives in California, is visiting us.", "My brother who lives in California is visiting us.", "My brother, who lives in California is visiting us."],
+        "answer": "My brother, who lives in California, is visiting us.",
+        "description": "The phrase 'who lives in California' is a non-essential clause that needs to be separated by commas."
+    },
+    {
+        "question": "When writing a formal letter, the salutation 'Dear Mr. Smith' should be followed by ____.",
+        "options": [",", ";", ":", "."],
+        "answer": ":",
+        "description": "In formal writing, the salutation is followed by a colon when addressing someone by name."
+    },
+    {
+        "question": "Which of the following uses correct capitalization?",
+        "options": ["I have a meeting with Professor jones on monday.", "Last year, I traveled to Spain in August.", "We went to the movies on Thursday and friday.", "I visited the Statue of liberty last summer."],
+        "answer": "Last year, I traveled to Spain in August.",
+        "description": "Months, countries, and proper nouns like 'Spain' and 'August' should always be capitalized."
+    },
+    {
+        "question": "In which sentence is the semicolon correctly used?",
+        "options": ["I have a big test tomorrow; I can't go out tonight.", "He is tall; but not very athletic.", "I ate pizza for dinner; however, I’m still hungry.", "We should leave now; because it is late."],
+        "answer": "I have a big test tomorrow; I can't go out tonight.",
+        "description": "Semicolons are used to separate two independent clauses that are closely related, as in this sentence."
+    },
+    {
+        "question": "Which of the following sentences is punctuated correctly?",
+        "options": ["I need to buy milk, bread, and eggs.", "He told me to bring, pens notebooks and a calculator.", "There are many fruits apples bananas and oranges.", "Let's eat, grandma."],
+        "answer": "I need to buy milk, bread, and eggs.",
+        "description": "This sentence uses commas correctly in a list. Each item is separated by a comma, including the optional Oxford comma before 'and.'"
+    },
+    {
+        "question": "True or False: Quotation marks should always be used around the titles of books.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "Book titles should be italicized or underlined, while quotation marks are used for shorter works like articles or poems."
+    },
+    {
+        "question": "Fill in the blank: '____ am not sure whether he will come or not.'",
+        "options": ["I", "i", "He", "he"],
+        "answer": "I",
+        "description": "The pronoun 'I' is always capitalized, regardless of its position in a sentence."
+    },
+    {
+        "question": "In the sentence, 'Her sister is a doctor, but she lives in a different city,' what is the role of the comma?",
+        "options": ["To separate independent clauses", "To introduce a list", "To show possession", "To emphasize the subject"],
+        "answer": "To separate independent clauses",
+        "description": "The comma separates two independent clauses that are joined by the coordinating conjunction 'but.'"
+    },
+    {
+        "question": "In which sentence is the exclamation point correctly used?",
+        "options": ["Stop, that hurts?", "It's raining outside!", "I have an exam tomorrow!", "Wow, what a beautiful sunset!"],
+        "answer": "Wow, what a beautiful sunset!",
+        "description": "Exclamation points are used to express strong emotion or excitement, which is suitable for this sentence."
+    },
+    {
+        "question": "Which sentence is correctly punctuated?",
+        "options": ["My brother said 'he would call me later.'", "My brother said, 'he would call me later'.", "My brother said, 'He would call me later.'", "My brother said he would 'call me later.'"],
+        "answer": "My brother said, 'He would call me later.'",
+        "description": "Proper capitalization and punctuation are used correctly here, with the comma inside the quotation marks and the first word of the quotation capitalized."
+    }
+]

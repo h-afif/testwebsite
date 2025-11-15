@@ -1,0 +1,152 @@
+[
+    {
+        "question": "The report _____ (complete) by the team before the deadline.",
+        "options": ["was completed", "is completed", "had completed", "will be completed"],
+        "answer": "was completed",
+        "description": "'Was completed' uses the past passive form, indicating that the action of completing occurred before a specific point in the past."
+    },
+    {
+        "question": "The proposal _____ (submit) to the board by John last week.",
+        "options": ["was submitted", "is submitted", "has been submitted", "will be submitted"],
+        "answer": "was submitted",
+        "description": "'Was submitted' indicates a completed action in the past, emphasizing that John took the action last week."
+    },
+    {
+        "question": "The documents need _____ (sign) by the manager.",
+        "options": ["signing", "to sign", "signed", "to be signed"],
+        "answer": "to be signed",
+        "description": "'To be signed' is the correct infinitive form, indicating that the documents require the manager’s action."
+    },
+    {
+        "question": "The new policy _____ (introduce) at the last meeting.",
+        "options": ["was introduced", "is introduced", "had been introduced", "will be introduced"],
+        "answer": "was introduced",
+        "description": "'Was introduced' denotes that the introduction of the policy occurred at a specific time in the past."
+    },
+    {
+        "question": "This software _____ (develop) to improve efficiency.",
+        "options": ["has been developed", "was developed", "is developed", "will be developed"],
+        "answer": "has been developed",
+        "description": "'Has been developed' indicates a recent action with relevance to the present, showing the ongoing impact of the development."
+    },
+    {
+        "question": "Mistakes _____ (make) in the initial phase of the project.",
+        "options": ["have been made", "are made", "were made", "will be made"],
+        "answer": "were made",
+        "description": "'Were made' signifies that mistakes occurred at a specific time in the past and are now part of the project history."
+    },
+    {
+        "question": "The project manager expects the task _____ (complete) by tomorrow.",
+        "options": ["being completed", "completed", "to complete", "to be completed"],
+        "answer": "to be completed",
+        "description": "'To be completed' is the correct form indicating expectation of future completion."
+    },
+    {
+        "question": "She got her car _____ (repair) yesterday.",
+        "options": ["repaired", "to repair", "repairing", "to be repaired"],
+        "answer": "repaired",
+        "description": "'Repaired' follows the structure of 'get' + past participle, indicating that she arranged for the car to be repaired."
+    },
+    {
+        "question": "The homework _____ (not do) by the students on time.",
+        "options": ["is not done", "has not been done", "will not be done", "was not done"],
+        "answer": "was not done",
+        "description": "'Was not done' emphasizes that the action did not occur in the past as expected."
+    },
+    {
+        "question": "The cake _____ (make) by a famous chef for the event.",
+        "options": ["has been made", "was made", "is made", "will be made"],
+        "answer": "was made",
+        "description": "'Was made' indicates that the cake's creation took place in the past and highlights the chef's role."
+    },
+    {
+        "question": "All reports _____ (review) before the meeting started.",
+        "options": ["are reviewed", "have been reviewed", "were reviewed", "will be reviewed"],
+        "answer": "were reviewed",
+        "description": "'Were reviewed' shows that the reviews were completed before another past action (the meeting)."
+    },
+    {
+        "question": "The meeting will _____ (hold) next Monday.",
+        "options": ["be held", "held", "have held", "holding"],
+        "answer": "be held",
+        "description": "'Be held' is the correct passive form indicating the future event of the meeting."
+    },
+    {
+        "question": "The new regulations should _____ (implement) by the end of the month.",
+        "options": ["be implemented", "implemented", "to implement", "implementing"],
+        "answer": "be implemented",
+        "description": "'Be implemented' conveys a necessity for future action regarding the regulations."
+    },
+    {
+        "question": "The homework is _____ (complete) by the students at home.",
+        "options": ["completed", "to complete", "completing", "complete"],
+        "answer": "completed",
+        "description": "'Completed' shows the passive structure in the present tense, indicating that students are responsible for completing the homework."
+    },
+    {
+        "question": "The book _____ (write) by an award-winning author.",
+        "options": ["is written", "has been written", "was written", "will be written"],
+        "answer": "was written",
+        "description": "'Was written' indicates that the action of writing occurred in the past and is relevant to the book's authorship."
+    },
+    {
+        "question": "The project got _____ (approve) after several revisions.",
+        "options": ["to approve", "approving", "approved", "to be approved"],
+        "answer": "approved",
+        "description": "'Approved' follows the structure of 'get' + past participle, indicating the project's successful approval."
+    },
+    {
+        "question": "The presentation _____ (not prepare) by the students, leading to confusion.",
+        "options": ["is not prepared", "has not been prepared", "will not be prepared", "was not prepared"],
+        "answer": "was not prepared",
+        "description": "'Was not prepared' indicates a past action that did not occur, which affected the outcome."
+    },
+    {
+        "question": "The equipment should _____ (handle) with care.",
+        "options": ["to handle", "handled", "handling", "be handled"],
+        "answer": "be handled",
+        "description": "'Be handled' expresses a recommendation for the correct method of dealing with the equipment."
+    },
+    {
+        "question": "The document needs _____ (sign) by all parties involved.",
+        "options": ["to be signed", "signing", "to sign", "signed"],
+        "answer": "to be signed",
+        "description": "'To be signed' indicates the required action needed for completion of the document."
+    },
+    {
+        "question": "The issue will _____ (discuss) in the next meeting.",
+        "options": ["discussed", "be discussed", "to discuss", "discussing"],
+        "answer": "be discussed",
+        "description": "'Be discussed' shows future passive construction indicating what will occur in the meeting."
+    },
+    {
+        "question": "The tasks were _____ (assign) to various teams last week.",
+        "options": ["assigned", "to assign", "assigning", "assign"],
+        "answer": "assigned",
+        "description": "'Assigned' signifies that the action was completed in the past, distributing tasks to teams."
+    },
+    {
+        "question": "He will get his work _____ (review) by the supervisor.",
+        "options": ["to review", "reviewing", "reviewed", "review"],
+        "answer": "reviewed",
+        "description": "'Reviewed' follows the 'get' + past participle structure, indicating his work will undergo evaluation."
+    },
+    {
+        "question": "This project must _____ (complete) by the end of the month.",
+        "options": ["completed", "to complete", "completing", "be completed"],
+        "answer": "be completed",
+        "description": "'Be completed' expresses necessity, emphasizing the requirement for timely completion."
+    },
+    {
+        "question": "The emails need _____ (send) out before noon.",
+        "options": ["sending", "sent", "to send", "to be sent"],
+        "answer": "to be sent",
+        "description": "'To be sent' indicates the required action for the emails, highlighting the urgency."
+    },
+    {
+        "question": "The report was _____ (write) by the new intern last week.",
+        "options": ["to write", "written", "writing", "wrote"],
+        "answer": "written",
+        "description": "'Written' indicates that the report was produced by the intern in the past."
+    }
+]

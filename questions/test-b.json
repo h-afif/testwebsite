@@ -1,0 +1,224 @@
+[
+  {
+    "question": "Which of the following is a key characteristic of the Competency-Based Approach?",
+    "options": ["Focuses on performance-based tasks", "Emphasizes rote learning", "Encourages pure memorization", "Primarily relies on lecture-based teaching"],
+    "answer": "Focuses on performance-based tasks",
+    "description": "Competency-Based Approach emphasizes performance-based tasks where students demonstrate what they can do with the language, making the learning process practical and interactive."
+  },
+  {
+    "question": "Which of these methods focuses on habit formation and drills?",
+    "options": ["The Direct Method", "The Grammar Translation Method", "The Audio-lingual Method", "Suggestopedia"],
+    "answer": "The Audio-lingual Method",
+    "description": "The Audio-lingual Method, based on behaviorist theories, emphasizes habit formation through repetition and drilling to instill correct usage of language forms."
+  },
+  {
+    "question": "In the Total Physical Response (TPR) method, which skill is emphasized the most?",
+    "options": ["Listening and speaking", "Writing", "Reading", "Grammar"],
+    "answer": "Listening and speaking",
+    "description": "TPR focuses on listening and speaking, encouraging students to respond physically to commands as a way of reinforcing language acquisition through kinesthetic activity."
+  },
+  {
+    "question": "Which learning theory is based on stimulus-response and reinforcement?",
+    "options": ["Constructivism", "Humanism", "Behaviorism", "Cognitivism"],
+    "answer": "Behaviorism",
+    "description": "Behaviorism, developed by theorists like B.F. Skinner, asserts that language learning occurs through stimulus-response associations and reinforcement, promoting habit formation."
+  },
+  {
+    "question": "What is the primary goal of the Grammar-Translation Method?",
+    "options": ["To develop speaking fluency", "To enable students to read and translate classical texts", "To foster communicative competence", "To improve listening skills"],
+    "answer": "To enable students to read and translate classical texts",
+    "description": "The Grammar-Translation Method focuses on developing students' reading and translation skills, particularly for classical texts, emphasizing the learning of grammar rules."
+  },
+  {
+    "question": "Which of the following principles applies to the Silent Way method?",
+    "options": ["Students repeat after the teacher", "The teacher remains mostly silent", "Grammar instruction is explicit", "Native language use is encouraged"],
+    "answer": "The teacher remains mostly silent",
+    "description": "In the Silent Way method, the teacher uses silence to encourage students to become more independent and self-reliant in learning, guiding them through non-verbal cues and prompts."
+  },
+  {
+    "question": "In Vygotsky's Social Constructivism theory, what plays a crucial role in language learning?",
+    "options": ["Individual discovery", "Interaction with more knowledgeable others", "Repetition and drills", "Reading classical texts"],
+    "answer": "Interaction with more knowledgeable others",
+    "description": "Vygotsky emphasized that learning occurs through social interaction, where learners engage with more knowledgeable individuals who provide support and scaffolding."
+  },
+  {
+    "question": "In the Direct Method, which practice is discouraged?",
+    "options": ["Use of the native language", "Speaking in the target language", "Conversational practice", "Inductive learning of grammar"],
+    "answer": "Use of the native language",
+    "description": "The Direct Method promotes exclusive use of the target language for communication, and the use of the native language is discouraged."
+  },
+  {
+    "question": "Which teaching method incorporates relaxation techniques to help learners absorb the language?",
+    "options": ["The Grammar-Translation Method", "The Silent Way", "Suggestopedia", "The Audio-lingual Method"],
+    "answer": "Suggestopedia",
+    "description": "Suggestopedia incorporates relaxation techniques, soft music, and positive reinforcement to lower the affective filter and help learners absorb language in a stress-free environment."
+  },
+  {
+    "question": "Formative assessment focuses on:",
+    "options": ["Assigning final grades", "Evaluating learning during the process", "Testing at the end of a unit", "Assessing overall language proficiency"],
+    "answer": "Evaluating learning during the process",
+    "description": "Formative assessment is used to monitor students' progress and guide teaching, providing feedback during the learning process rather than evaluating at the end."
+  },
+  {
+    "question": "Which principle is central to the Communicative Language Teaching (CLT) method?",
+    "options": ["Grammar instruction", "Habit formation", "Interaction for meaningful communication", "Silent observation"],
+    "answer": "Interaction for meaningful communication",
+    "description": "Communicative Language Teaching (CLT) emphasizes interaction and real-life communication to develop learners' communicative competence."
+  },
+  {
+    "question": "Which of the following frameworks focuses on Presentation, Practice, and Production?",
+    "options": ["ECRIF Framework", "PPP Framework", "Natural Approach", "Eclectic Approach"],
+    "answer": "PPP Framework",
+    "description": "The PPP Framework (Presentation, Practice, Production) is a structured approach where the teacher presents new language, students practice it, and then use it in production tasks."
+  },
+  {
+    "question": "In the Cognitive Approach, language learning is viewed as:",
+    "options": ["A passive process", "A form of habit formation", "An active process of constructing knowledge", "A natural acquisition without teaching"],
+    "answer": "An active process of constructing knowledge",
+    "description": "Cognitivism views language learning as an active process where learners mentally construct knowledge by organizing information and connecting it to what they already know."
+  },
+  {
+    "question": "Which assessment type is used to pinpoint learners' strengths and weaknesses?",
+    "options": ["Aptitude test", "Proficiency test", "Diagnostic test", "Summative test"],
+    "answer": "Diagnostic test",
+    "description": "A diagnostic test helps teachers identify learners' specific strengths and weaknesses at the beginning of a course or unit to tailor instruction accordingly."
+  },
+  {
+    "question": "Which type of motivation is based on external rewards?",
+    "options": ["Intrinsic motivation", "Extrinsic motivation", "Self-motivation", "Task-based motivation"],
+    "answer": "Extrinsic motivation",
+    "description": "Extrinsic motivation refers to the drive to perform an activity to earn rewards or avoid punishment, as opposed to intrinsic motivation, which comes from personal enjoyment or satisfaction."
+  },
+  {
+    "question": "Which method is based on the premise that language learning occurs naturally through exposure and interaction?",
+    "options": ["The Natural Approach", "Grammar-Translation Method", "Suggestopedia", "Total Physical Response"],
+    "answer": "The Natural Approach",
+    "description": "The Natural Approach focuses on creating a stress-free learning environment where students acquire language naturally through exposure and interaction, emphasizing comprehension and communication."
+  },
+  {
+    "question": "What is the main focus of a summative assessment?",
+    "options": ["Improving student performance during the course", "Evaluating final student performance", "Diagnosing strengths and weaknesses", "Providing formative feedback"],
+    "answer": "Evaluating final student performance",
+    "description": "Summative assessment focuses on evaluating students' performance at the end of a course or unit, usually for the purpose of assigning final grades."
+  },
+  {
+    "question": "In which method does the teacher act more as a facilitator than an authoritative figure?",
+    "options": ["The Grammar-Translation Method", "Audio-lingual Method", "The Silent Way", "The Direct Method"],
+    "answer": "The Silent Way",
+    "description": "In The Silent Way, the teacher acts as a facilitator, allowing students to take control of their learning, encouraging them to be more autonomous."
+  },
+  {
+    "question": "Which learning theory emphasizes the role of social interaction in the learning process?",
+    "options": ["Cognitivism", "Behaviorism", "Constructivism", "Social Constructivism"],
+    "answer": "Social Constructivism",
+    "description": "Social Constructivism, as proposed by Vygotsky, emphasizes the role of social interaction and collaboration in constructing knowledge and language learning."
+  },
+  {
+    "question": "Fill in the blank: In error correction, ________ is when a student corrects their own mistakes with guidance from the teacher.",
+    "options": ["peer-correction", "self-correction", "class-correction", "teacher-correction"],
+    "answer": "self-correction",
+    "description": "Self-correction encourages students to become more independent and reflective by identifying and fixing their own mistakes with minimal prompts from the teacher."
+  },
+  {
+    "question": "Which of the following is NOT a common type of error correction in language teaching?",
+    "options": ["Self-correction", "Peer-correction", "Teacher-correction", "Silent correction"],
+    "answer": "Silent correction",
+    "description": "Error correction in language teaching usually involves direct feedback from the teacher, peers, or self, whereas 'silent correction' is not a recognized method."
+  },
+  {
+    "question": "Fill in the blank: In Task-Based Learning (TBL), tasks are designed to be _______.",
+    "options": ["teacher-centered", "grammar-focused", "communicative", "vocabulary-heavy"],
+    "answer": "communicative",
+    "description": "TBL emphasizes using language to complete communicative tasks rather than focusing on specific grammar points."
+  },
+  {
+    "question": "Which of the following is a benefit of integrating technology in language teaching?",
+    "options": ["Limited interaction", "Immediate feedback", "Minimal learner engagement", "Static learning materials"],
+    "answer": "Immediate feedback",
+    "description": "Technology allows for immediate feedback, enhancing learners’ ability to reflect and improve in real-time."
+  },
+  {
+    "question": "Fill in the blank: _______ refers to the use of authentic tasks and tools in teaching, where students engage with language as it is used in real-world contexts.",
+    "options": ["Traditional Methodology", "Task-Based Learning", "Grammar-Translation Method", "Audio-lingual Method"],
+    "answer": "Task-Based Learning",
+    "description": "Task-Based Learning involves students using language in meaningful, real-world tasks rather than isolated language drills."
+  },
+  {
+    "question": "Which of the following describes the role of a teacher in Content and Language Integrated Learning (CLIL)?",
+    "options": ["Focusing solely on language", "Teaching content without considering language", "Teaching both content and language", "Teaching only grammar"],
+    "answer": "Teaching both content and language",
+    "description": "In CLIL, the teacher integrates language learning with subject matter content, helping students acquire both simultaneously."
+  },
+  {
+    "question": "Fill in the blank: _______ is a strategy that teachers use to check students' understanding of new concepts by asking related questions.",
+    "options": ["Concept checking", "Peer-correction", "Silent correction", "Scaffolding"],
+    "answer": "Concept checking",
+    "description": "Concept checking involves asking learners specific questions to ensure they understand a new language structure or concept."
+  },
+  {
+    "question": "Which strategy focuses on engaging learners in using language for real-world tasks to promote language learning?",
+    "options": ["Grammar-Translation", "Task-Based Learning", "The Silent Way", "Direct Method"],
+    "answer": "Task-Based Learning",
+    "description": "Task-Based Learning encourages learners to use language in meaningful tasks, which promotes natural language acquisition."
+  },
+  {
+    "question": "Fill in the blank: When teaching reading and listening skills, a _______ strategy involves getting a general understanding before focusing on specific details.",
+    "options": ["top-down", "bottom-up", "deductive", "inductive"],
+    "answer": "top-down",
+    "description": "Top-down strategies focus on understanding the general idea first, followed by closer attention to details, especially useful in reading and listening activities."
+  },
+  {
+    "question": "Which of the following is a cultural consideration that language teachers need to address in the classroom?",
+    "options": ["Teaching only the target culture", "Ignoring cultural differences", "Encouraging cultural sensitivity and awareness", "Focusing solely on grammar"],
+    "answer": "Encouraging cultural sensitivity and awareness",
+    "description": "Language teaching often involves bridging cultural gaps, and teachers need to foster an environment where cultural sensitivity and awareness are encouraged."
+  },
+  {
+    "question": "Fill in the blank: _______ is an approach that integrates language learning with the teaching of subject matter content.",
+    "options": ["Content-Based Instruction", "Grammar-Translation Method", "Audio-Lingual Method", "Direct Method"],
+    "answer": "Content-Based Instruction",
+    "description": "Content-Based Instruction (CBI) combines language teaching with the learning of subject-specific content, aiming to teach both simultaneously."
+  },
+  {
+    "question": "Which method emphasizes learning through meaning-focused tasks rather than isolated language practice?",
+    "options": ["Task-Based Learning", "Audio-Lingual Method", "Grammar-Translation Method", "Silent Way"],
+    "answer": "Task-Based Learning",
+    "description": "Task-Based Learning focuses on real-world communication tasks that require language use, promoting language acquisition naturally."
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of error correction in communicative activities?",
+    "options": ["Delayed correction", "Immediate correction of all errors", "Focused feedback", "Self-correction"],
+    "answer": "Immediate correction of all errors",
+    "description": "Immediate correction of every error can hinder communication; in communicative activities, delayed correction and focused feedback are preferred."
+  },
+  {
+    "question": "Fill in the blank: In error correction, _______ focuses on the use of positive reinforcement and modeling correct language use.",
+    "options": ["Self-correction", "Teacher correction", "Form feedback", "Peer correction"],
+    "answer": "Form feedback",
+    "description": "Form feedback focuses on reinforcing correct usage by modeling and encouraging learners to notice their own mistakes."
+  },
+  {
+    "question": "Which of the following is NOT an advantage of using technology in language teaching?",
+    "options": ["Increasing learner engagement", "Providing immediate feedback", "Limited learner interaction", "Access to authentic materials"],
+    "answer": "Limited learner interaction",
+    "description": "Technology encourages learner interaction and provides immediate feedback, whereas limited interaction would be a disadvantage."
+  },
+  {
+    "question": "Fill in the blank: In _______ correction, classmates help each other identify and correct language mistakes during activities.",
+    "options": ["teacher", "peer", "self", "class"],
+    "answer": "peer",
+    "description": "Peer correction encourages learners to collaborate and take responsibility for each other’s learning, fostering a supportive classroom environment."
+  },
+  {
+    "question": "Which strategy is used to help students process listening and reading material by first focusing on small details and gradually understanding the whole?",
+    "options": ["Top-down", "Bottom-up", "Inductive", "Deductive"],
+    "answer": "Bottom-up",
+    "description": "In the bottom-up strategy, learners focus on individual elements such as words or sentences before grasping the overall meaning."
+  },
+  {
+    "question": "Fill in the blank: Using authentic materials in teaching helps students engage with _______.",
+    "options": ["artificial texts", "simplified tasks", "real-world language", "contrived dialogues"],
+    "answer": "real-world language",
+    "description": "Authentic materials expose students to language as it is naturally used in real-world contexts, improving their ability to understand and use language in practical situations."
+  }
+]

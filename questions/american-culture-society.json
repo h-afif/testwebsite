@@ -1,0 +1,674 @@
+[
+    {
+      "question": "What is the capital city of the United States?",
+      "options": [
+        "New York",
+        "Los Angeles",
+        "Washington, D.C.",
+        "Chicago"
+      ],
+      "answer": "Washington, D.C.",
+      "description": "Washington, D.C., serves as the capital of the United States and is the political center of the country."
+    },
+    {
+      "question": "Which holiday celebrates the independence of the United States from Britain?",
+      "options": [
+        "Thanksgiving",
+        "Independence Day",
+        "Veterans Day",
+        "Memorial Day"
+      ],
+      "answer": "Independence Day",
+      "description": "Independence Day, celebrated on July 4th, marks the day the U.S. declared independence from Britain in 1776."
+    },
+    {
+      "question": "Which document starts with the words 'We the People'?",
+      "options": [
+        "The Declaration of Independence",
+        "The Bill of Rights",
+        "The U.S. Constitution",
+        "The Emancipation Proclamation"
+      ],
+      "answer": "The U.S. Constitution",
+      "description": "The U.S. Constitution begins with 'We the People' and is the supreme law of the United States."
+    },
+    {
+      "question": "Who was the first president of the United States?",
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "answer": "George Washington",
+      "description": "George Washington served as the first president of the United States from 1789 to 1797."
+    },
+    {
+      "question": "What is the national sport of the United States?",
+      "options": [
+        "Football",
+        "Basketball",
+        "Baseball",
+        "Soccer"
+      ],
+      "answer": "Baseball",
+      "description": "Baseball is often considered America's pastime and one of the most popular sports in the country."
+    },
+    {
+      "question": "Which iconic landmark in New York City was a gift from France?",
+      "options": [
+        "The White House",
+        "The Statue of Liberty",
+        "The Washington Monument",
+        "The Empire State Building"
+      ],
+      "answer": "The Statue of Liberty",
+      "description": "The Statue of Liberty was gifted to the U.S. by France in 1886 as a symbol of freedom and democracy."
+    },
+    {
+      "question": "Which holiday in the U.S. is dedicated to giving thanks for the harvest and blessings of the past year?",
+      "options": [
+        "Independence Day",
+        "Labor Day",
+        "Veterans Day",
+        "Thanksgiving"
+      ],
+      "answer": "Thanksgiving",
+      "description": "Thanksgiving is a national holiday celebrated on the fourth Thursday in November to give thanks for the harvest."
+    },
+    {
+      "question": "Which U.S. state is the largest by area?",
+      "options": [
+        "Texas",
+        "California",
+        "Alaska",
+        "Florida"
+      ],
+      "answer": "Alaska",
+      "description": "Alaska is the largest state by area in the U.S., covering over 663,000 square miles."
+    },
+    {
+      "question": "Which U.S. city is known as 'The City of Angels'?",
+      "options": [
+        "San Francisco",
+        "New York",
+        "Los Angeles",
+        "Seattle"
+      ],
+      "answer": "Los Angeles",
+      "description": "Los Angeles, often called 'The City of Angels,' is the largest city in California and known for Hollywood."
+    },
+    {
+      "question": "What is the national anthem of the United States?",
+      "options": [
+        "God Bless America",
+        "My Country, 'Tis of Thee",
+        "America the Beautiful",
+        "The Star-Spangled Banner"
+      ],
+      "answer": "The Star-Spangled Banner",
+      "description": "'The Star-Spangled Banner' is the national anthem of the United States, written by Francis Scott Key."
+    },
+    {
+      "question": "Which U.S. president is famous for freeing the slaves during the Civil War?",
+      "options": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "Theodore Roosevelt"
+      ],
+      "answer": "Abraham Lincoln",
+      "description": "Abraham Lincoln issued the Emancipation Proclamation during the Civil War, leading to the abolition of slavery."
+    },
+    {
+      "question": "Which U.S. state is known as 'The Sunshine State'?",
+      "options": [
+        "California",
+        "Florida",
+        "Hawaii",
+        "Arizona"
+      ],
+      "answer": "Florida",
+      "description": "Florida is called 'The Sunshine State' due to its warm climate and abundance of sunny days."
+    },
+    {
+      "question": "Who was the first African American president of the United States?",
+      "options": [
+        "Bill Clinton",
+        "Barack Obama",
+        "Joe Biden",
+        "Donald Trump"
+      ],
+      "answer": "Barack Obama",
+      "description": "Barack Obama was the 44th president of the United States and the first African American to hold the office."
+    },
+    {
+      "question": "What is the most widely spoken language in the United States?",
+      "options": [
+        "English",
+        "Spanish",
+        "Chinese",
+        "French"
+      ],
+      "answer": "English",
+      "description": "English is the most widely spoken language in the United States, though many other languages are spoken as well."
+    },
+    {
+      "question": "Which holiday honors the men and women who have served in the U.S. military?",
+      "options": [
+        "Memorial Day",
+        "Veterans Day",
+        "Labor Day",
+        "Columbus Day"
+      ],
+      "answer": "Veterans Day",
+      "description": "Veterans Day, celebrated on November 11th, honors all military veterans who have served in the U.S. Armed Forces."
+    },
+    {
+      "question": "Which famous speech begins with 'Four score and seven years ago'?",
+      "options": [
+        "The Gettysburg Address",
+        "The Declaration of Independence",
+        "The Emancipation Proclamation",
+        "The Bill of Rights"
+      ],
+      "answer": "The Gettysburg Address",
+      "description": "The Gettysburg Address, delivered by Abraham Lincoln, began with 'Four score and seven years ago' in reference to the founding of the U.S."
+    },
+    {
+      "question": "What is the name of the iconic U.S. building where the President lives and works?",
+      "options": [
+        "The Capitol",
+        "The Pentagon",
+        "The White House",
+        "The Lincoln Memorial"
+      ],
+      "answer": "The White House",
+      "description": "The White House, located in Washington, D.C., is the official residence and workplace of the President of the United States."
+    },
+    {
+      "question": "Which U.S. city is home to the famous Golden Gate Bridge?",
+      "options": [
+        "Los Angeles",
+        "San Francisco",
+        "New York",
+        "Chicago"
+      ],
+      "answer": "San Francisco",
+      "description": "The Golden Gate Bridge is a suspension bridge that spans the Golden Gate Strait in San Francisco, California."
+    },
+    {
+      "question": "What are the two major political parties in the United States?",
+      "options": [
+        "Democratic and Libertarian",
+        "Democratic and Republican",
+        "Libertarian and Green",
+        "Green and Republican"
+      ],
+      "answer": "Democratic and Republican",
+      "description": "The two major political parties in the U.S. are the Democratic Party and the Republican Party."
+    },
+    {
+      "question": "Which American astronaut was the first person to walk on the moon?",
+      "options": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "John Glenn"
+      ],
+      "answer": "Neil Armstrong",
+      "description": "Neil Armstrong became the first person to walk on the moon on July 20, 1969, during the Apollo 11 mission."
+    },
+    {
+      "question": "Which American holiday is celebrated on the last Monday of May to honor those who died in military service?",
+      "options": [
+        "Veterans Day",
+        "Memorial Day",
+        "Labor Day",
+        "Independence Day"
+      ],
+      "answer": "Memorial Day",
+      "description": "Memorial Day is a U.S. holiday that honors military personnel who have died in the service of their country."
+    },
+    {
+      "question": "What is the most popular fast food chain that originated in the United States?",
+      "options": [
+        "Burger King",
+        "McDonald's",
+        "KFC",
+        "Taco Bell"
+      ],
+      "answer": "McDonald's",
+      "description": "McDonald's is one of the most popular fast food chains in the world, originally founded in the U.S. in 1940."
+    },
+    {
+      "question": "Which state was the last to join the United States?",
+      "options": [
+        "Alaska",
+        "Hawaii",
+        "New Mexico",
+        "Arizona"
+      ],
+      "answer": "Hawaii",
+      "description": "Hawaii was the last state to join the United States, becoming the 50th state in 1959."
+    },
+    {
+      "question": "In which U.S. state is Mount Rushmore located?",
+      "options": [
+        "Wyoming",
+        "Colorado",
+        "South Dakota",
+        "Montana"
+      ],
+      "answer": "South Dakota",
+      "description": "Mount Rushmore, featuring the carved faces of four U.S. presidents, is located in South Dakota."
+    },
+    {
+      "question": "What is the longest river in the United States?",
+      "options": [
+        "The Mississippi River",
+        "The Missouri River",
+        "The Colorado River",
+        "The Ohio River"
+      ],
+      "answer": "The Missouri River",
+      "description": "The Missouri River is the longest river in the U.S., stretching over 2,300 miles."
+    },
+    {
+      "question": "Which American city is home to the Hollywood film industry?",
+      "options": [
+        "New York",
+        "Chicago",
+        "Los Angeles",
+        "Miami"
+      ],
+      "answer": "Los Angeles",
+      "description": "Hollywood, located in Los Angeles, California, is the center of the American film industry."
+    },
+    {
+      "question": "Which U.S. state is known as 'The Lone Star State'?",
+      "options": [
+        "Arizona",
+        "New Mexico",
+        "Texas",
+        "Nevada"
+      ],
+      "answer": "Texas",
+      "description": "Texas is called 'The Lone Star State' in reference to its former status as an independent republic."
+    },
+    {
+      "question": "What is the national motto of the United States?",
+      "options": [
+        "Liberty and Justice for All",
+        "E Pluribus Unum",
+        "In God We Trust",
+        "United We Stand"
+      ],
+      "answer": "In God We Trust",
+      "description": "'In God We Trust' is the national motto of the United States, appearing on currency and official documents."
+    },
+    {
+      "question": "Which American holiday is celebrated on the third Monday of January to honor a civil rights leader?",
+      "options": [
+        "Martin Luther King Jr. Day",
+        "Presidents' Day",
+        "Labor Day",
+        "Columbus Day"
+      ],
+      "answer": "Martin Luther King Jr. Day",
+      "description": "Martin Luther King Jr. Day is a U.S. holiday celebrating the life and achievements of the civil rights leader."
+    },
+    {
+      "question": "Which U.S. state is known for producing the most oil?",
+      "options": [
+        "Texas",
+        "Alaska",
+        "California",
+        "Louisiana"
+      ],
+      "answer": "Texas",
+      "description": "Texas is the largest oil-producing state in the U.S., known for its extensive oil fields and petroleum industry."
+    },
+    {
+      "question": "Which American historical event is known as 'The Boston Tea Party'?",
+      "options": [
+        "A colonial rebellion against British taxation",
+        "A political gathering in Boston",
+        "A tea-drinking festival",
+        "A meeting between American and British leaders"
+      ],
+      "answer": "A colonial rebellion against British taxation",
+      "description": "The Boston Tea Party was a political protest by American colonists against British taxation on tea in 1773."
+    },
+    {
+      "question": "Who is the famous inventor of the light bulb and phonograph?",
+      "options": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Henry Ford"
+      ],
+      "answer": "Thomas Edison",
+      "description": "Thomas Edison is known for inventing the light bulb, the phonograph, and many other important devices."
+    },
+    {
+      "question": "Which amendment to the U.S. Constitution gave women the right to vote?",
+      "options": [
+        "13th Amendment",
+        "14th Amendment",
+        "19th Amendment",
+        "21st Amendment"
+      ],
+      "answer": "19th Amendment",
+      "description": "The 19th Amendment, ratified in 1920, granted American women the right to vote."
+    },
+    {
+      "question": "Which U.S. city is home to the Liberty Bell?",
+      "options": [
+        "New York City",
+        "Philadelphia",
+        "Boston",
+        "Washington, D.C."
+      ],
+      "answer": "Philadelphia",
+      "description": "The Liberty Bell, an iconic symbol of American independence, is located in Philadelphia, Pennsylvania."
+    },
+    {
+      "question": "What is the official language of the United States?",
+      "options": [
+        "English",
+        "Spanish",
+        "There is no official language",
+        "French"
+      ],
+      "answer": "There is no official language",
+      "description": "The United States does not have an official language, though English is the most widely spoken."
+    },
+    {
+      "question": "Which U.S. state is home to the Grand Canyon?",
+      "options": [
+        "Utah",
+        "Nevada",
+        "Arizona",
+        "Colorado"
+      ],
+      "answer": "Arizona",
+      "description": "The Grand Canyon, one of the most famous natural landmarks in the U.S., is located in Arizona."
+    },
+    {
+      "question": "What is the highest mountain in the United States?",
+      "options": [
+        "Mount Whitney",
+        "Mount McKinley (Denali)",
+        "Mount Rainier",
+        "Mount Hood"
+      ],
+      "answer": "Mount McKinley (Denali)",
+      "description": "Denali, also known as Mount McKinley, is the highest mountain in North America, located in Alaska."
+    },
+    {
+      "question": "Which U.S. state is famous for its potatoes?",
+      "options": [
+        "Idaho",
+        "Iowa",
+        "Maine",
+        "Ohio"
+      ],
+      "answer": "Idaho",
+      "description": "Idaho is famous for its high-quality potatoes, which are a major agricultural product of the state."
+    },
+    {
+      "question": "Which American holiday is celebrated on the first Monday in September to honor workers?",
+      "options": [
+        "Memorial Day",
+        "Labor Day",
+        "Veterans Day",
+        "Independence Day"
+      ],
+      "answer": "Labor Day",
+      "description": "Labor Day is a national holiday in the U.S. that honors the contributions and achievements of American workers."
+    },
+    {
+      "question": "Who wrote the U.S. Declaration of Independence?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "Alexander Hamilton"
+      ],
+      "answer": "Thomas Jefferson",
+      "description": "Thomas Jefferson was the principal author of the U.S. Declaration of Independence, which was adopted in 1776."
+    },
+    {
+      "question": "Which popular American holiday involves dressing up in costumes and trick-or-treating?",
+      "options": [
+        "Thanksgiving",
+        "Halloween",
+        "Easter",
+        "Christmas"
+      ],
+      "answer": "Halloween",
+      "description": "Halloween is celebrated on October 31st and involves dressing in costumes, trick-or-treating, and spooky decorations."
+    },
+    {
+      "question": "Which American sport is traditionally associated with the Super Bowl?",
+      "options": [
+        "Basketball",
+        "Football",
+        "Baseball",
+        "Soccer"
+      ],
+      "answer": "Football",
+      "description": "The Super Bowl is the championship game of American football and is one of the biggest sporting events in the U.S."
+    },
+    {
+      "question": "In American schools, what is the term for the break between classes, usually lasting around 10 minutes?",
+      "options": [
+        "Recess",
+        "Intermission",
+        "Break",
+        "Passing period"
+      ],
+      "answer": "Passing period",
+      "description": "The passing period is the time given to students between classes to move from one classroom to another."
+    },
+    {
+      "question": "Which American tradition is associated with celebrating family and eating turkey?",
+      "options": [
+        "Christmas",
+        "Independence Day",
+        "Thanksgiving",
+        "Labor Day"
+      ],
+      "answer": "Thanksgiving",
+      "description": "Thanksgiving is celebrated on the fourth Thursday of November and typically involves a large meal, often with turkey."
+    },
+    {
+      "question": "Which fast food chain is famous for its golden arches and Big Mac?",
+      "options": [
+        "Burger King",
+        "Wendy's",
+        "Subway",
+        "McDonald's"
+      ],
+      "answer": "McDonald's",
+      "description": "McDonald's is an iconic American fast food chain known worldwide for its burgers and fries."
+    },
+    {
+      "question": "What is the American term for the place where students eat lunch in a school?",
+      "options": [
+        "Canteen",
+        "Dining hall",
+        "Cafeteria",
+        "Food court"
+      ],
+      "answer": "Cafeteria",
+      "description": "In American schools, the cafeteria is where students eat lunch, and it often serves a variety of food."
+    },
+    {
+      "question": "What is the American term for 'holiday' in British English, meaning a period of vacation?",
+      "options": [
+        "Trip",
+        "Holiday",
+        "Vacation",
+        "Excursion"
+      ],
+      "answer": "Vacation",
+      "description": "In American English, the term 'vacation' is used to refer to time taken off from work or school for leisure or travel."
+    },
+    {
+      "question": "Which American pastime is often associated with summer and is commonly enjoyed at parks or stadiums?",
+      "options": [
+        "Basketball",
+        "Football",
+        "Baseball",
+        "Ice hockey"
+      ],
+      "answer": "Baseball",
+      "description": "Baseball is considered America's pastime and is widely played and watched during the summer months."
+    },
+    {
+      "question": "Which American city is known for its jazz music and Mardi Gras celebration?",
+      "options": [
+        "New York",
+        "Chicago",
+        "New Orleans",
+        "Miami"
+      ],
+      "answer": "New Orleans",
+      "description": "New Orleans is famous for its vibrant music scene, especially jazz, and for its annual Mardi Gras celebrations."
+    },
+    {
+      "question": "What is a common American breakfast food, typically served with syrup?",
+      "options": [
+        "Omelette",
+        "Pancakes",
+        "Bacon and eggs",
+        "Cereal"
+      ],
+      "answer": "Pancakes",
+      "description": "Pancakes are a popular breakfast food in the U.S., often served with syrup, butter, or fruit."
+    },
+    {
+      "question": "In the United States, what is the celebration of high school seniors called when they finish their studies?",
+      "options": [
+        "Matriculation",
+        "Prom",
+        "Graduation",
+        "Homecoming"
+      ],
+      "answer": "Graduation",
+      "description": "Graduation is the ceremony held for high school and college seniors when they complete their education."
+    },
+    {
+      "question": "What is a common American dessert typically associated with Thanksgiving?",
+      "options": [
+        "Apple pie",
+        "Pumpkin pie",
+        "Cheesecake",
+        "Brownies"
+      ],
+      "answer": "Pumpkin pie",
+      "description": "Pumpkin pie is a traditional American dessert commonly served at Thanksgiving dinners."
+    },
+    {
+      "question": "Which American holiday celebrates workers and their contributions to the economy, observed on the first Monday of September?",
+      "options": [
+        "Labor Day",
+        "Memorial Day",
+        "Veterans Day",
+        "Columbus Day"
+      ],
+      "answer": "Labor Day",
+      "description": "Labor Day is a U.S. holiday that celebrates the contributions of workers and is often seen as the unofficial end of summer."
+    },
+    {
+      "question": "What is the American equivalent of 'pub' in British English?",
+      "options": [
+        "Bar",
+        "Cafe",
+        "Diner",
+        "Club"
+      ],
+      "answer": "Bar",
+      "description": "In the U.S., the term 'bar' is used instead of 'pub' for places where alcohol is served."
+    },
+    {
+      "question": "Which American artist is known as 'The King of Rock and Roll'?",
+      "options": [
+        "Elvis Presley",
+        "Chuck Berry",
+        "Michael Jackson",
+        "Bruce Springsteen"
+      ],
+      "answer": "Elvis Presley",
+      "description": "Elvis Presley, known as 'The King of Rock and Roll,' is one of the most iconic musicians in American history."
+    },
+    {
+      "question": "In American high schools, what is the name of the formal dance that takes place at the end of the school year?",
+      "options": [
+        "Homecoming",
+        "Winter Formal",
+        "Prom",
+        "Spring Fling"
+      ],
+      "answer": "Prom",
+      "description": "Prom is a formal dance held for high school students, typically at the end of their senior year."
+    },
+    {
+      "question": "Which American holiday features fireworks and barbecues and is celebrated on July 4th?",
+      "options": [
+        "Labor Day",
+        "Veterans Day",
+        "Independence Day",
+        "Presidents' Day"
+      ],
+      "answer": "Independence Day",
+      "description": "Independence Day is celebrated on July 4th to commemorate the adoption of the Declaration of Independence in 1776."
+    },
+    {
+      "question": "What is the typical American term for a grocery store where fresh produce, meat, and other items are sold?",
+      "options": [
+        "Supermarket",
+        "Convenience store",
+        "Corner shop",
+        "Bodega"
+      ],
+      "answer": "Supermarket",
+      "description": "In the U.S., 'supermarket' refers to large grocery stores where people buy fresh produce, meat, and other food items."
+    },
+    {
+      "question": "What do Americans call the school attended before college or university?",
+      "options": [
+        "Secondary school",
+        "Sixth form",
+        "High school",
+        "Junior school"
+      ],
+      "answer": "High school",
+      "description": "In the U.S., students attend high school from grades 9 through 12, typically before entering college or university."
+    },
+    {
+      "question": "What is the American word for 'flat' in British English?",
+      "options": [
+        "Condo",
+        "Apartment",
+        "Bungalow",
+        "Loft"
+      ],
+      "answer": "Apartment",
+      "description": "In the U.S., the word 'apartment' is used to describe a living space in a building, known as a 'flat' in British English."
+    },
+    {
+      "question": "What do Americans commonly eat on hot dogs at a ballgame?",
+      "options": [
+        "Mustard and ketchup",
+        "Butter and syrup",
+        "Sour cream and chives",
+        "Ranch dressing"
+      ],
+      "answer": "Mustard and ketchup",
+      "description": "At ballgames, hot dogs are typically topped with mustard, ketchup, relish, or onions."
+    }
+  ]
+

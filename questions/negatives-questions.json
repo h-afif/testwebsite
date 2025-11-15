@@ -1,0 +1,200 @@
+[
+    {
+        "question": "You could have helped, _____ you?",
+        "options": ["couldn't", "did you", "can you", "didn't you"],
+        "answer": "couldn't",
+        "description": "This is a negative question tag. The main clause implies an expectation of help, making 'couldn't you' appropriate. 'Did you' is incorrect because it changes the meaning."
+    },
+    {
+        "question": "Nobody knows the answer, _____?",
+        "options": ["does they", "do they", "do we", "do you"],
+        "answer": "do they",
+        "description": "When the subject is negative ('nobody'), the question tag needs to be positive, hence 'do they'. This also highlights the exception that 'nobody' takes a plural verb in the tag."
+    },
+    {
+        "question": "Is it true that nobody _____ for help?",
+        "options": ["is asking", "asks", "was asking", "has asked"],
+        "answer": "asks",
+        "description": "In this sentence, 'nobody' is treated as a singular subject, which means we use the base form of the verb ('asks') in the present simple tense."
+    },
+    {
+        "question": "Haven't they finished the project yet, _____?",
+        "options": ["have they", "haven't they", "did they", "are they"],
+        "answer": "have they",
+        "description": "Here, the main clause is negative. Therefore, the tag must be positive and in the same tense, so 'have they' is the correct form."
+    },
+    {
+        "question": "You never mentioned the meeting, _____ you?",
+        "options": ["did", "didn't", "don't", "have"],
+        "answer": "did",
+        "description": "With negative statements like 'You never mentioned', the question tag is positive, hence 'did you'. It's an exception to the usual rule of negativity in tags."
+    },
+    {
+        "question": "Why _____ you like this movie so much?",
+        "options": ["don't", "didn't", "haven't", "isn't"],
+        "answer": "don't",
+        "description": "'Why don’t' is appropriate for present general questions about preferences. Using 'didn't' or 'haven't' would suggest a different time frame or context."
+    },
+    {
+        "question": "She rarely _____ to meetings anymore.",
+        "options": ["go", "goes", "gone", "going"],
+        "answer": "goes",
+        "description": "With adverbs like 'rarely', we use the present simple tense, making 'goes' the correct choice as 'she' is a third-person singular subject."
+    },
+    {
+        "question": "I can’t believe he hasn't arrived yet, _____?",
+        "options": ["can he", "has he", "can't he", "could he"],
+        "answer": "can he",
+        "description": "This tag follows a negative statement ('can't believe'), so the tag must be positive and in the same tense, making 'can he' the appropriate choice."
+    },
+    {
+        "question": "There is _____ in the fridge, is there?",
+        "options": ["anything", "nothing", "something", "everything"],
+        "answer": "nothing",
+        "description": "In this context, 'nothing' fits as a negative word. The question tag 'is there' corresponds to the positive statement 'There is', showcasing an exception in the use of negatives."
+    },
+    {
+        "question": "You seldom see him, _____?",
+        "options": ["do you", "don't you", "are you", "will you"],
+        "answer": "do you",
+        "description": "In negative forms like 'seldom', the question tag is positive, making 'do you' the appropriate choice. This exemplifies how adverbs of frequency interact with question formation."
+    },
+    {
+        "question": "Nothing _____ to worry about, right?",
+        "options": ["is", "are", "was", "does"],
+        "answer": "is",
+        "description": "Even though 'nothing' is negative, it requires a singular verb, hence 'is'. This highlights the exception of treating 'nothing' as singular."
+    },
+    {
+        "question": "They shouldn't have done that, _____?",
+        "options": ["should they", "shouldn't they", "did they", "would they"],
+        "answer": "should they",
+        "description": "Following a negative statement, the tag must be positive. Since 'shouldn't' is used in the main clause, the tag should be 'should they'."
+    },
+    {
+        "question": "She has few friends, _____?",
+        "options": ["hasn't she", "does she", "has she", "isn't she"],
+        "answer": "has she",
+        "description": "'Few' indicates a negative quantity, so the tag is positive, resulting in 'has she'. This shows how negative quantifiers affect question tags."
+    },
+    {
+        "question": "Neither of them _____ come to the meeting.",
+        "options": ["have", "has", "ar   mme", "does"],
+        "answer": "has",
+        "description": "With 'neither', we treat it as singular, requiring the singular verb 'has'. This highlights an exception to the plural treatment of collective nouns."
+    },
+    {
+        "question": "How often _____ you go to the gym?",
+        "options": ["do", "does", "are", "have"],
+        "answer": "do",
+        "description": "When asking about frequency, we use 'do' in the present simple for plural subjects or 'you'."
+    },
+    {
+        "question": "They didn’t know, _____?",
+        "options": ["did they", "didn't they", "do they", "doesn't they"],
+        "answer": "did they",
+        "description": "Since the main clause is negative, the question tag is positive, requiring 'did they' as the correct form."
+    },
+    {
+        "question": "What if _____ say no to the proposal?",
+        "options": ["they", "he", "she", "you"],
+        "answer": "they",
+        "description": "In conditional sentences, the subject 'they' is correct for discussing a general situation about a group of people."
+    },
+    {
+        "question": "Few people attended the seminar, _____?",
+        "options": ["did they", "didn't they", "have they", "hasn't they"],
+        "answer": "did they",
+        "description": "Though 'few' indicates a negative amount, it remains a plural subject, so the tag is 'did they'. This demonstrates how quantity affects subject-verb agreement."
+    },
+    {
+        "question": "Where _____ you put the keys?",
+        "options": ["do", "did", "are", "have"],
+        "answer": "did",
+        "description": "In this past context, 'did' is necessary to form the question about the action of placing the keys."
+    },
+    {
+        "question": "Aren't you coming to the meeting, _____?",
+        "options": ["are you", "aren't you", "will you", "do you"],
+        "answer": "are you",
+        "description": "This tag follows a negative statement ('Aren't you'), which requires a positive form in the tag, making 'are you' correct."
+    },
+    {
+        "question": "<p>Speaker 1: I worked hard last week.</p> <p>Speaker 2: __ I.</p>",
+        "options": ["So did", "Neither did", "Too did", "Me neither"],
+        "answer": "So did",
+        "description": "Speaker 2 uses 'So did I' to agree with a positive statement about working hard."
+    },
+    {
+        "question": "<p>Speaker 1: My friends haven't gotten married yet.</p> <p>Speaker 2: __ I.</p>",
+        "options": ["So have", "Neither have", "Too have", "Me neither"],
+        "answer": "Neither have",
+        "description": "Speaker 2 uses 'Neither have I' to agree with a negative statement."
+    },
+    {
+        "question": "<p>Speaker 1: I’m hungry.</p> <p>Speaker 2: __ too.</p>",
+        "options": ["Me", "Neither", "So", "I"],
+        "answer": "Me",
+        "description": "'Me too' is commonly used in informal conversations to agree with positive statements."
+    },
+    {
+        "question": "<p>Speaker 1: I didn’t enjoy the movie last night.</p> <p>Speaker 2: __ I.</p>",
+        "options": ["Neither did", "Neither do", "Me either", "Too did"],
+        "answer": "Neither did",
+        "description": "Speaker 2 uses 'Neither did I' to agree with a negative statement about not enjoying the movie."
+    },
+    {
+        "question": "<p>Speaker 1: I haven’t eaten dinner all this week.</p> <p>Speaker 2: __ I.</p>",
+        "options": ["So have", "Neither have", "Me too", "Too have"],
+        "answer": "Neither have",
+        "description": "'Neither have I' is used to agree with a negative statement about not eating dinner."
+    },
+    {
+        "question": "<p>Speaker 1: Rick speaks Spanish fluently.</p> <p>Speaker 2: __ I.</p>",
+        "options": ["So do", "as well", "Neither do", "and"],
+        "answer": "So do",
+        "description": "Speaker 2 uses 'So do I' to agree with a positive statement about speaking Spanish."
+    },
+    {
+        "question": "<p>Speaker 1: They __ go to the mall last holiday.</p> <p>Speaker 2: Neither did we.</p>",
+        "options": ["do", "don't", "didn’t", "did"],
+        "answer": "didn’t",
+        "description": "'Neither did we' is used to agree with the negative statement about not going to the mall in the past, so as an inference 'didn't' is the correct answer"
+    },
+    {
+        "question": "<p>Speaker 1: I always have coffee in the morning.</p> <p>Speaker 2: __ I.</p>",
+        "options": ["Neither do", "So do", "Me either", "Too do"],
+        "answer": "So do",
+        "description": "'So do I' is used to agree with the positive statement about drinking coffee in the morning."
+    },
+    {
+        "question": "<p>Speaker 1: Kim is going to have a baby.</p> <p>Speaker 2: __ my sister.</p>",
+        "options": ["So is", "Me too", "Neither is", "Too is"],
+        "answer": "So is",
+        "description": "'So is my sister' is used to agree with a positive future event."
+    },
+    {
+        "question": "<p>Speaker 1: You don’t like pizza, do you?</p> <p>Speaker 2: __. (disagreement)</p>",
+        "options": ["Yes, I do", "No, I don’t", "Me neither", "Neither do I"],
+        "answer": "Yes, I do",
+        "description": "Speaker 2 disagrees with the negative tag question using 'Yes, I do.'"
+    },
+    {
+        "question": "<p>Speaker 1: She’s not coming to the party, is she?</p> <p>Speaker 2: __. (agreement)</p>",
+        "options": ["No, she isn’t", "Yes, she is", "Me neither", "So is she"],
+        "answer": "No, she isn’t",
+        "description": "Speaker 2 agrees with the negative tag question using 'No, she isn’t.'"
+    },
+    {
+        "question": "<p>Speaker 1: You’re going to the gym tomorrow, aren’t you?</p> <p>Speaker 2: __. (agreement)</p>",
+        "options": ["Yes, I am", "No, I’m not", "Neither am I", "Me either"],
+        "answer": "Yes, I am",
+        "description": "Speaker 2 agrees with the positive tag question using 'Yes, I am.'"
+    },
+    {
+        "question": "<p>Speaker 1: They won’t be here until tomorrow, will they?</p> <p>Speaker 2: __. (disagreement)</p>",
+        "options": ["Yes, they will", "No, they won’t", "Neither will they", "Me neither"],
+        "answer": "Yes, they will",
+        "description": "Speaker 2 disagrees with the negative tag question using 'Yes, they will.'"
+    }
+]

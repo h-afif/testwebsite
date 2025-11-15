@@ -1,0 +1,292 @@
+[
+    {
+        "question": "What is the correct word order in a basic English declarative sentence?",
+        "options": [
+            "Subject-Verb-Object",
+            "Verb-Object-Subject",
+            "Object-Subject-Verb"
+        ],
+        "answer": "Subject-Verb-Object",
+        "description": "In English, the default word order in declarative sentences is Subject-Verb-Object (SVO), as in 'The cat (S) eats (V) the fish (O)'."
+    },
+    {
+        "question": "Which type of phrase is 'in the garden' in the sentence 'She is sitting in the garden'?",
+        "options": [
+            "Noun Phrase",
+            "Prepositional Phrase",
+            "Verb Phrase"
+        ],
+        "answer": "Prepositional Phrase",
+        "description": "'In the garden' is a prepositional phrase (PP), as it consists of a preposition ('in') and its complement ('the garden')."
+    },
+    {
+        "question": "Which of the following is an example of a transitive verb?",
+        "options": [
+            "'Sleep'",
+            "'Run'",
+            "'Kick'"
+        ],
+        "answer": "'Kick'",
+        "description": "A transitive verb like 'kick' requires a direct object, as in 'He kicks the ball'. 'Sleep' and 'run' are intransitive, as they do not require an object."
+    },
+    {
+        "question": "What is the syntactic function of 'the ball' in the sentence 'She threw the ball'?",
+        "options": [
+            "Subject",
+            "Object",
+            "Indirect Object"
+        ],
+        "answer": "Object",
+        "description": "'The ball' is the direct object of the verb 'threw', as it receives the action of the verb in this sentence."
+    },
+    {
+        "question": "In the sentence 'I gave her a gift', which phrase is the indirect object?",
+        "options": [
+            "'I'",
+            "'Her'",
+            "'A gift'"
+        ],
+        "answer": "'Her'",
+        "description": "'Her' is the indirect object, receiving the direct object ('a gift'). The subject 'I' performs the action."
+    },
+    {
+        "question": "Which of these is a wh-movement question?",
+        "options": [
+            "'What did you buy?'",
+            "'You bought what?'",
+            "'Did you buy something?'"
+        ],
+        "answer": "'What did you buy?'",
+        "description": "In 'What did you buy?', the wh-word 'what' has moved to the front of the sentence to form a wh-question. In-situ questions like 'You bought what?' do not involve movement."
+    },
+    {
+        "question": "In X-bar theory, which element heads a phrase?",
+        "options": [
+            "Specifier",
+            "Complement",
+            "Head"
+        ],
+        "answer": "Head",
+        "description": "In X-bar theory, the head of a phrase (such as a noun, verb, or preposition) determines the type of phrase, while specifiers and complements provide additional information."
+    },
+    {
+        "question": "Which structure represents a complex sentence?",
+        "options": [
+            "'She sings beautifully.'",
+            "'She sings and dances.'",
+            "'She sings because she is happy.'"
+        ],
+        "answer": "'She sings because she is happy.'",
+        "description": "A complex sentence contains a main clause and a subordinate clause, as in 'She sings because she is happy'. The other examples are simple or compound sentences."
+    },
+    {
+        "question": "What is the term for a verb that links a subject to a complement?",
+        "options": [
+            "Transitive verb",
+            "Linking verb",
+            "Auxiliary verb"
+        ],
+        "answer": "Linking verb",
+        "description": "A linking verb, such as 'is' in 'She is happy', connects the subject to its complement (in this case, an adjective)."
+    },
+    {
+        "question": "In tree diagrams, what label is typically given to the highest node in the structure?",
+        "options": [
+            "CP (Complementizer Phrase)",
+            "VP (Verb Phrase)",
+            "IP (Inflectional Phrase)"
+        ],
+        "answer": "CP (Complementizer Phrase)",
+        "description": "The CP (Complementizer Phrase) is the highest node in the syntactic tree, representing clauses. It often contains a complementizer (like 'that') and an IP."
+    },
+    {
+        "question": "Which of the following involves subject-auxiliary inversion?",
+        "options": [
+            "'She can sing.'",
+            "'Can she sing?'",
+            "'She sings beautifully.'"
+        ],
+        "answer": "'Can she sing?'",
+        "description": "Subject-auxiliary inversion occurs when the auxiliary verb precedes the subject to form a question, as in 'Can she sing?'."
+    },
+    {
+        "question": "Which of the following sentences contains an embedded clause?",
+        "options": [
+            "'I believe that she is right.'",
+            "'She is right.'",
+            "'Can you believe it?'"
+        ],
+        "answer": "'I believe that she is right.'",
+        "description": "In 'I believe that she is right', 'that she is right' is an embedded clause functioning as the complement of the verb 'believe'."
+    },
+    {
+        "question": "What is the function of 'quickly' in the sentence 'She quickly ran to the store'?",
+        "options": [
+            "Adjective",
+            "Adverbial",
+            "Complement"
+        ],
+        "answer": "Adverbial",
+        "description": "'Quickly' functions as an adverbial, modifying the verb 'ran' by indicating the manner in which the action is performed."
+    },
+    {
+        "question": "Which of the following sentences demonstrates a passive construction?",
+        "options": [
+            "'The cake was eaten by John.'",
+            "'John ate the cake.'",
+            "'John is eating the cake.'"
+        ],
+        "answer": "'The cake was eaten by John.'",
+        "description": "In the passive sentence 'The cake was eaten by John', the object ('the cake') is promoted to the subject position, while the agent ('John') appears in a prepositional phrase."
+    },
+    {
+        "question": "What kind of syntactic function does 'to visit' serve in the sentence 'He wants to visit his family'?",
+        "options": [
+            "Subject",
+            "Direct Object",
+            "Adverbial"
+        ],
+        "answer": "Direct Object",
+        "description": "'To visit' functions as the direct object of the verb 'wants', representing the action that the subject desires to perform."
+    },
+    {
+        "question": "In Government and Binding Theory, which of these is a thematic role?",
+        "options": [
+            "Agent",
+            "Specifier",
+            "Complementizer"
+        ],
+        "answer": "Agent",
+        "description": "Thematic roles describe the function of participants in a sentence, with 'Agent' being the entity that performs the action. Specifiers and complementizers serve syntactic rather than semantic functions."
+    },
+    {
+        "question": "In the sentence 'The boy who won the race is my friend', what type of clause is 'who won the race'?",
+        "options": [
+            "Relative clause",
+            "Subordinate clause",
+            "Main clause"
+        ],
+        "answer": "Relative clause",
+        "description": "'Who won the race' is a relative clause, as it provides additional information about the noun 'boy'. It is introduced by the relative pronoun 'who'."
+    },
+    {
+        "question": "Which of the following is an example of an adjunct?",
+        "options": [
+            "'Yesterday' in 'She left yesterday.'",
+            "'She' in 'She left yesterday.'",
+            "'Left' in 'She left yesterday.'"
+        ],
+        "answer": "'Yesterday' in 'She left yesterday.'",
+        "description": "'Yesterday' functions as an adjunct because it adds optional information about when the action occurred. It is not required for the grammaticality of the sentence."
+    },
+    {
+        "question": "Which of the following sentences contains a ditransitive verb?",
+        "options": [
+            "'She gave me the book.'",
+            "'She reads every day.'",
+            "'She sleeps soundly.'"
+        ],
+        "answer": "'She gave me the book.'",
+        "description": "'Gave' is a ditransitive verb because it takes both a direct object ('the book') and an indirect object ('me')."
+    },
+    {
+        "question": "What kind of syntactic structure is 'a very big dog'?",
+        "options": [
+            "Verb Phrase",
+            "Noun Phrase",
+            "Adjective Phrase"
+        ],
+        "answer": "Noun Phrase",
+        "description": "'A very big dog' is a noun phrase (NP) with the noun 'dog' as the head, and the modifiers 'a', 'very', and 'big' providing additional information."
+    },
+    {
+        "question": "In the sentence 'If it rains, we will cancel the picnic', what type of sentence structure is being used?",
+        "options": [
+            "Complex sentence",
+            "Compound sentence",
+            "Simple sentence"
+        ],
+        "answer": "Complex sentence",
+        "description": "This is a complex sentence because it contains an independent clause ('we will cancel the picnic') and a dependent clause ('if it rains')."
+    },
+    {
+        "question": "Which of the following describes a 'subject-verb agreement' error?",
+        "options": [
+            "'The cats runs quickly.'",
+            "'She runs quickly.'",
+            "'The cat runs quickly.'"
+        ],
+        "answer": "'The cats runs quickly.'",
+        "description": "In 'The cats runs quickly', there is a subject-verb agreement error because 'cats' is plural and should agree with the plural verb 'run'."
+    },
+    {
+        "question": "What type of syntactic structure is 'running in the park'?",
+        "options": [
+            "Noun Phrase",
+            "Prepositional Phrase",
+            "Gerund Phrase"
+        ],
+        "answer": "Gerund Phrase",
+        "description": "'Running in the park' is a gerund phrase, with 'running' functioning as a noun. The prepositional phrase 'in the park' acts as a modifier."
+    },
+    {
+        "question": "What is the function of 'for you' in the sentence 'I did it for you'?",
+        "options": [
+            "Indirect Object",
+            "Prepositional Phrase",
+            "Direct Object"
+        ],
+        "answer": "Prepositional Phrase",
+        "description": "'For you' is a prepositional phrase indicating the beneficiary of the action. It serves an adverbial function, modifying 'did'."
+    },
+    {
+        "question": "Which of the following is an example of a complementizer?",
+        "options": [
+            "'That' in 'I know that she left.'",
+            "'Who' in 'The man who left.'",
+            "'And' in 'He left and she stayed.'"
+        ],
+        "answer": "'That' in 'I know that she left.'",
+        "description": "'That' is a complementizer in 'I know that she left', as it introduces a complement clause that functions as the object of the verb 'know'."
+    },
+    {
+        "question": "What is the head of the noun phrase 'the tall building'?",
+        "options": [
+            "'The'",
+            "'Tall'",
+            "'Building'"
+        ],
+        "answer": "'Building'",
+        "description": "The head of the noun phrase 'the tall building' is 'building', which is modified by 'the' (determiner) and 'tall' (adjective)."
+    },
+    {
+        "question": "In which sentence is there an ellipsis?",
+        "options": [
+            "'She can sing and he can too.'",
+            "'She sings well and he dances.'",
+            "'She sings beautifully.'"
+        ],
+        "answer": "'She can sing and he can too.'",
+        "description": "Ellipsis occurs in 'She can sing and he can too', where the verb 'sing' is omitted after 'he can' but is understood from context."
+    },
+    {
+        "question": "What kind of structure is the sentence 'The more I study, the more I learn'?",
+        "options": [
+            "Correlative structure",
+            "Relative clause",
+            "Subordinate clause"
+        ],
+        "answer": "Correlative structure",
+        "description": "The sentence 'The more I study, the more I learn' uses a correlative structure, where the comparative adjective 'more' is paired with a corresponding clause."
+    },
+    {
+        "question": "In the sentence 'The cake was baked by Sarah', what syntactic process has occurred?",
+        "options": [
+            "Topicalization",
+            "Passivization",
+            "Nominalization"
+        ],
+        "answer": "Passivization",
+        "description": "The sentence 'The cake was baked by Sarah' is an example of passivization, where the object ('the cake') is promoted to the subject position."
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "question": "What year did World War I begin?",
+        "options": ["1914", "1918", "1939", "1917"],
+        "answer": "1914",
+        "description": "World War I began in 1914 following the assassination of Archduke Franz Ferdinand of Austria, leading to a conflict between major world powers."
+    },
+    {
+        "question": "Which country was not part of the Allied Powers during World War II?",
+        "options": ["Germany", "United States", "Soviet Union", "United Kingdom"],
+        "answer": "Germany",
+        "description": "Germany was part of the Axis Powers during World War II, along with Japan and Italy. The Allies included the United States, the Soviet Union, and the United Kingdom."
+    },
+    {
+        "question": "The Cuban Missile Crisis occurred in which year?",
+        "options": ["1956", "1962", "1973", "1967"],
+        "answer": "1962",
+        "description": "The Cuban Missile Crisis took place in 1962, a tense 13-day confrontation between the United States and the Soviet Union over Soviet ballistic missiles in Cuba."
+    },
+    {
+        "question": "Gap-fill: The ______ was signed in 1648, ending the Thirty Years' War in Europe.",
+        "options": ["Treaty of Versailles", "Treaty of Utrecht", "Peace of Westphalia", "Treaty of Tordesillas"],
+        "answer": "Peace of Westphalia",
+        "description": "The Peace of Westphalia ended the Thirty Years' War, marking a turning point in European political and religious relations."
+    },
+    {
+        "question": "Which event is often cited as the start of the Cold War?",
+        "options": ["The Berlin Blockade", "The signing of NATO", "The Yalta Conference", "The dropping of the atomic bombs"],
+        "answer": "The Berlin Blockade",
+        "description": "The Berlin Blockade (1948-1949) is considered one of the first major international crises of the Cold War, with the Soviet Union blocking access to West Berlin."
+    },
+    {
+        "question": "Which of these countries was not a founding member of the United Nations?",
+        "options": ["United States", "United Kingdom", "Soviet Union", "Germany"],
+        "answer": "Germany",
+        "description": "Germany was not a founding member of the United Nations. It only joined in 1973 after its division into East and West Germany."
+    },
+    {
+        "question": "Gap-fill: The ______ Revolution in 1917 led to the fall of the Russian monarchy and the rise of communism.",
+        "options": ["French", "Chinese", "Russian", "American"],
+        "answer": "Russian",
+        "description": "The Russian Revolution of 1917 saw the overthrow of the Tsarist regime and the establishment of a communist government led by the Bolsheviks."
+    },
+    {
+        "question": "The United States dropped atomic bombs on which two Japanese cities in 1945?",
+        "options": ["Tokyo and Osaka", "Hiroshima and Nagasaki", "Kyoto and Sapporo", "Fukuoka and Yokohama"],
+        "answer": "Hiroshima and Nagasaki",
+        "description": "In August 1945, the U.S. dropped atomic bombs on Hiroshima and Nagasaki, leading to Japan’s surrender and the end of World War II."
+    },
+    {
+        "question": "Which country gained its independence from Britain in 1947, leading to the partition into two nations?",
+        "options": ["Australia", "South Africa", "India", "Canada"],
+        "answer": "India",
+        "description": "India gained independence from Britain in 1947, and the country was partitioned into India and Pakistan due to religious conflicts."
+    },
+    {
+        "question": "Which of the following countries was not colonized by a European power?",
+        "options": ["Ethiopia", "India", "Algeria", "Indonesia"],
+        "answer": "Ethiopia",
+        "description": "Ethiopia successfully resisted colonization, remaining independent while most of Africa was colonized by European powers."
+    },
+    {
+        "question": "Gap-fill: The ______ War in the 1950s saw a conflict between the communist North and the democratic South, with major international involvement.",
+        "options": ["Korean", "Vietnam", "Cold", "Gulf"],
+        "answer": "Korean",
+        "description": "The Korean War (1950-1953) was a conflict between communist North Korea and democratic South Korea, with international involvement from the U.S., China, and the Soviet Union."
+    },
+    {
+        "question": "In which year did the Berlin Wall fall, marking the symbolic end of the Cold War?",
+        "options": ["1985", "1989", "1991", "1993"],
+        "answer": "1989",
+        "description": "The Berlin Wall fell in 1989, marking the beginning of the end of the Cold War and leading to German reunification."
+    },
+    {
+        "question": "Which empire was the largest in history by land area at its peak?",
+        "options": ["The British Empire", "The Mongol Empire", "The Roman Empire", "The Ottoman Empire"],
+        "answer": "The British Empire",
+        "description": "The British Empire was the largest empire in history, at its peak covering about a quarter of the world's land area."
+    },
+    {
+        "question": "Gap-fill: The ______ genocide of 1994 resulted in the mass killing of an estimated 800,000 people in Africa.",
+        "options": ["Bosnian", "Sudanese", "Cambodian", "Rwandan"],
+        "answer": "Rwandan",
+        "description": "The Rwandan Genocide of 1994 saw the mass killing of the Tutsi minority by the Hutu majority, resulting in about 800,000 deaths."
+    },
+    {
+        "question": "What was the main cause of World War II?",
+        "options": ["The assassination of Franz Ferdinand", "The rise of Adolf Hitler and Nazi expansion", "The Russian Revolution", "The colonization of Africa"],
+        "answer": "The rise of Adolf Hitler and Nazi expansion",
+        "description": "The main cause of World War II was the aggressive expansion of Nazi Germany under Adolf Hitler, leading to global conflict."
+    },
+    {
+        "question": "Which two countries were primarily involved in the Cold War?",
+        "options": ["China and Japan", "United States and Soviet Union", "Germany and France", "United Kingdom and Spain"],
+        "answer": "United States and Soviet Union",
+        "description": "The Cold War was a period of tension and competition between the United States and the Soviet Union from the late 1940s to 1991."
+    },
+    {
+        "question": "Which of these empires fell with the capture of Constantinople in 1453?",
+        "options": ["The Byzantine Empire", "The Ottoman Empire", "The Roman Empire", "The Persian Empire"],
+        "answer": "The Byzantine Empire",
+        "description": "The fall of Constantinople in 1453 marked the end of the Byzantine Empire and the rise of the Ottoman Empire."
+    },
+    {
+        "question": "Which war began with the German invasion of Poland in 1939?",
+        "options": ["World War I", "The Korean War", "World War II", "The Cold War"],
+        "answer": "World War II",
+        "description": "World War II began in 1939 with the invasion of Poland by Nazi Germany, sparking a global conflict."
+    },
+    {
+        "question": "Gap-fill: The ______ Conference in 1884-1885 regulated European colonization and trade in Africa.",
+        "options": ["Paris", "Berlin", "Geneva", "Vienna"],
+        "answer": "Berlin",
+        "description": "The Berlin Conference regulated European colonization of Africa, formalizing the 'Scramble for Africa' and dividing the continent among European powers."
+    },
+    {
+        "question": "Which historical figure is known for leading the Indian independence movement against British colonial rule?",
+        "options": ["Nelson Mandela", "Mahatma Gandhi", "Winston Churchill", "Jawaharlal Nehru"],
+        "answer": "Mahatma Gandhi",
+        "description": "Mohandas Karamchand Gandhi (1869 – 1948) was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule."
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "options": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+        "answer": "Canberra",
+        "description": "Canberra is the capital city of Australia, selected as a compromise between rival cities Sydney and Melbourne."
+    },
+    {
+        "question": "Which country has the capital city of Tokyo?",
+        "options": ["China", "Japan", "South Korea", "Thailand"],
+        "answer": "Japan",
+        "description": "Tokyo is the capital city of Japan and one of the most populous cities in the world."
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+        "answer": "Ottawa",
+        "description": "Ottawa is the capital city of Canada, located in the province of Ontario."
+    },
+    {
+        "question": "Which continent is Brazil located in?",
+        "options": ["North America", "Africa", "Asia", "South America"],
+        "answer": "South America",
+        "description": "Brazil is the largest country in South America, known for its diverse culture and the Amazon rainforest."
+    },
+    {
+        "question": "What is the capital city of Egypt?",
+        "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+        "answer": "Cairo",
+        "description": "Cairo is the capital city of Egypt and one of the largest cities in Africa."
+    },
+    {
+        "question": "Which country has the capital city of Nairobi?",
+        "options": ["Uganda", "Tanzania", "Kenya", "Ethiopia"],
+        "answer": "Kenya",
+        "description": "Nairobi is the capital city of Kenya and is known as a major financial and cultural hub in East Africa."
+    }
+]

@@ -1,0 +1,299 @@
+[
+    {
+        "question": "What is the primary focus of the competency-based approach?",
+        "options": [
+            "Grammar rules",
+            "Learner competencies",
+            "Cultural context",
+            "Memorization techniques"
+        ],
+        "answer": "Learner competencies",
+        "description": "The competency-based approach emphasizes the development of specific skills and competencies that learners need to succeed."
+    },
+    {
+        "question": "In a standards-based approach, what is primarily used to guide curriculum and instruction?",
+        "options": [
+            "Student interests",
+            "National standards",
+            "Teacher preferences",
+            "Local traditions"
+        ],
+        "answer": "National standards",
+        "description": "Standards-based approaches rely on predetermined national or state standards to shape curriculum and assess student learning."
+    },
+    {
+        "question": "The Natural approach emphasizes which of the following?",
+        "options": [
+            "Grammar instruction",
+            "Naturalistic language acquisition",
+            "Formal assessments",
+            "Structured learning environments"
+        ],
+        "answer": "Naturalistic language acquisition",
+        "description": "The Natural approach focuses on language acquisition in a natural context, emphasizing comprehension and meaningful communication."
+    },
+    {
+        "question": "Which approach prioritizes emotional and personal growth in language learning?",
+        "options": [
+            "Cognitivism",
+            "Humanistic approach",
+            "Behaviorism",
+            "Competency-based approach"
+        ],
+        "answer": "Humanistic approach",
+        "description": "The Humanistic approach values emotional engagement and personal growth alongside language learning."
+    },
+    {
+        "question": "Content-based instruction integrates language learning with:",
+        "options": [
+            "Strict grammar rules",
+            "Content knowledge",
+            "Standardized tests",
+            "Behavioral reinforcement"
+        ],
+        "answer": "Content knowledge",
+        "description": "Content-based instruction teaches language through subject matter content, helping students acquire language while learning about other topics."
+    },
+    {
+        "question": "An eclectic approach in language teaching means:",
+        "options": [
+            "Using a single teaching method",
+            "Combining various methods and techniques",
+            "Focusing solely on grammar",
+            "Emphasizing rote memorization"
+        ],
+        "answer": "Combining various methods and techniques",
+        "description": "The eclectic approach allows teachers to adapt and combine different methods based on learners' needs and contexts."
+    },
+    {
+        "question": "Which of the following is NOT a feature of the competency-based approach?",
+        "options": [
+            "Focus on specific skills",
+            "Assessment of student performance",
+            "Emphasis on content knowledge",
+            "Student-centered learning"
+        ],
+        "answer": "Emphasis on content knowledge",
+        "description": "While competency-based approaches assess skills, they may not prioritize content knowledge as a primary focus."
+    },
+    {
+        "question": "What role do standards play in a standards-based approach?",
+        "options": [
+            "They provide flexibility in teaching methods.",
+            "They serve as a measure for accountability.",
+            "They are optional guidelines.",
+            "They limit teacher creativity."
+        ],
+        "answer": "They serve as a measure for accountability.",
+        "description": "Standards-based approaches use standards as benchmarks for accountability and measuring student progress."
+    },
+    {
+        "question": "Fill in the blank: The Natural approach focuses on the _____ of language learning.",
+        "options": [
+            "theoretical aspects",
+            "social dynamics",
+            "naturalistic context",
+            "formal assessments"
+        ],
+        "answer": "naturalistic context",
+        "description": "The Natural approach emphasizes learning language in real-life, natural contexts rather than through formal instruction."
+    },
+    {
+        "question": "Which approach encourages the use of authentic materials and experiences?",
+        "options": [
+            "Competency-based",
+            "Content-based",
+            "Humanistic",
+            "Eclectic"
+        ],
+        "answer": "Content-based",
+        "description": "Content-based instruction promotes the use of authentic materials related to specific subjects, enhancing language learning through context."
+    },
+    {
+        "question": "In the Humanistic approach, the teacher's role is primarily that of a:",
+        "options": [
+            "Controller",
+            "Facilitator",
+            "Tester",
+            "Disciplinarian"
+        ],
+        "answer": "Facilitator",
+        "description": "In the Humanistic approach, teachers facilitate and support students' emotional and personal growth alongside language learning."
+    },
+    {
+        "question": "Which of the following is a key principle of the eclectic approach?",
+        "options": [
+            "Rigid adherence to one method",
+            "Flexibility in teaching strategies",
+            "Complete independence of learners",
+            "Focus on theory over practice"
+        ],
+        "answer": "Flexibility in teaching strategies",
+        "description": "The eclectic approach values flexibility, allowing teachers to select and combine various methods to suit learners' needs."
+    },
+    {
+        "question": "Fill in the blank: A competency-based approach often involves _____ assessments.",
+        "options": [
+            "summative",
+            "formative",
+            "standardized",
+            "performance-based"
+        ],
+        "answer": "performance-based",
+        "description": "Competency-based approaches typically use performance-based assessments to evaluate specific skills and competencies."
+    },
+    {
+        "question": "Which approach emphasizes the importance of cultural context in language learning?",
+        "options": [
+            "Cognitivism",
+            "Behaviorism",
+            "Social Constructivism",
+            "Content-based"
+        ],
+        "answer": "Content-based",
+        "description": "Content-based instruction often incorporates cultural context, making language learning more relevant and meaningful."
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of the Natural approach?",
+        "options": [
+            "Focus on meaningful communication",
+            "Emphasis on grammar drills",
+            "Use of authentic language",
+            "Importance of context"
+        ],
+        "answer": "Emphasis on grammar drills",
+        "description": "The Natural approach does not emphasize grammar drills but rather focuses on meaningful communication and authentic language use."
+    },
+    {
+        "question": "In the Humanistic approach, how are students viewed?",
+        "options": [
+            "As passive recipients of information",
+            "As active participants in their learning",
+            "As competitive individuals",
+            "As data points to measure"
+        ],
+        "answer": "As active participants in their learning",
+        "description": "The Humanistic approach sees students as active participants in their own learning journey, emphasizing engagement and personal growth."
+    },
+    {
+        "question": "Which of the following best describes the eclectic approach?",
+        "options": [
+            "Use of a single method",
+            "Integration of multiple methods",
+            "Focus on one teaching strategy",
+            "Avoidance of all structure"
+        ],
+        "answer": "Integration of multiple methods",
+        "description": "The eclectic approach integrates various teaching methods to adapt to different learning situations and student needs."
+    },
+    {
+        "question": "Fill in the blank: A major advantage of the competency-based approach is its focus on _____ skills.",
+        "options": [
+            "abstract",
+            "measurable",
+            "intangible",
+            "subjective"
+        ],
+        "answer": "measurable",
+        "description": "The competency-based approach emphasizes measurable skills, allowing for clear assessment of student progress."
+    },
+    {
+        "question": "Which approach prioritizes student-centered learning environments?",
+        "options": [
+            "Competency-based",
+            "Behaviorist",
+            "Standards-based",
+            "Cognitivist"
+        ],
+        "answer": "Competency-based",
+        "description": "The competency-based approach emphasizes student-centered learning, focusing on individual learners' needs and abilities."
+    },
+    {
+        "question": "What is a key benefit of the content-based approach?",
+        "options": [
+            "It simplifies language learning.",
+            "It provides context for language use.",
+            "It focuses solely on grammar.",
+            "It limits the range of vocabulary."
+        ],
+        "answer": "It provides context for language use.",
+        "description": "The content-based approach connects language learning with real-world content, giving students context and relevance."
+    },
+    {
+        "question": "Which of the following approaches is most likely to include group work and collaboration?",
+        "options": [
+            "Behaviorism",
+            "Humanistic",
+            "Cognitivism",
+            "Competency-based"
+        ],
+        "answer": "Humanistic",
+        "description": "The Humanistic approach encourages collaborative activities, fostering a supportive and engaging learning environment."
+    },
+    {
+        "question": "Fill in the blank: In the Natural approach, language acquisition is viewed as _____ rather than a conscious process.",
+        "options": [
+            "an effortless",
+            "a stressful",
+            "a difficult",
+            "an optional"
+        ],
+        "answer": "an effortless",
+        "description": "The Natural approach posits that language acquisition occurs effortlessly, similar to first language learning."
+    },
+    {
+        "question": "What is a key characteristic of the standards-based approach?",
+        "options": [
+            "Flexibility in methods",
+            "Structured assessment",
+            "Focus on emotional development",
+            "Informal evaluation"
+        ],
+        "answer": "Structured assessment",
+        "description": "The standards-based approach involves structured assessments that measure student learning against specific standards."
+    },
+    {
+        "question": "Which approach emphasizes understanding language through meaningful communication?",
+        "options": [
+            "Behaviorism",
+            "Natural",
+            "Competency-based",
+            "Humanistic"
+        ],
+        "answer": "Natural",
+        "description": "The Natural approach emphasizes acquiring language through meaningful communication rather than formal instruction."
+    },
+    {
+        "question": "Which approach is characterized by a focus on both language and content objectives?",
+        "options": [
+            "Content-based approach",
+            "Cognitivist approach",
+            "Behaviorist approach",
+            "Humanistic approach"
+        ],
+        "answer": "Content-based approach",
+        "description": "The Content-based approach integrates language and content objectives, helping learners acquire language through relevant subject matter."
+    },
+    {
+        "question": "Fill in the blank: The Humanistic approach emphasizes the importance of _____ in learning.",
+        "options": [
+            "standardized tests",
+            "emotion",
+            "rote memorization",
+            "behavior control"
+        ],
+        "answer": "emotion",
+        "description": "The Humanistic approach prioritizes emotional engagement, recognizing its significance in the learning process."
+    },
+    {
+        "question": "In a competency-based classroom, assessment is often based on:",
+        "options": [
+            "Standardized tests",
+            "Project-based evaluations",
+            "Teacher preference",
+            "Rote memorization"
+        ],
+        "answer": "Project-based evaluations",
+        "description": "Competency-based classrooms often use project-based evaluations to assess students' abilities in real-world contexts."
+    }
+]

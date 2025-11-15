@@ -1,0 +1,310 @@
+[
+    {
+        "question": "What is the primary purpose of a lesson plan?",
+        "options": [
+            "To create a strict schedule",
+            "To outline instructional goals and methods",
+            "To evaluate student performance",
+            "To prepare teaching materials only"
+        ],
+        "answer": "To outline instructional goals and methods",
+        "description": "A lesson plan serves as a roadmap for teachers, outlining instructional goals, methods, and activities for the lesson."
+    },
+    {
+        "question": "Fill in the blank: A good lesson plan should include clear _____ for student learning.",
+        "options": [
+            "criteria",
+            "objectives",
+            "rules",
+            "resources"
+        ],
+        "answer": "objectives",
+        "description": "Objectives in a lesson plan clarify what students are expected to learn and achieve by the end of the lesson."
+    },
+    {
+        "question": "Which component is NOT typically included in a lesson plan?",
+        "options": [
+            "Learning objectives",
+            "Materials needed",
+            "Evaluation methods",
+            "Student grades"
+        ],
+        "answer": "Student grades",
+        "description": "Student grades are not included in a lesson plan, as the plan focuses on the instructional process rather than assessment outcomes."
+    },
+    {
+        "question": "What does the acronym SMART stand for in lesson planning?",
+        "options": [
+            "Simple, Measurable, Achievable, Relevant, Time-bound",
+            "Specific, Measurable, Achievable, Relevant, Time-bound",
+            "Specific, Meaningful, Attainable, Realistic, Timely",
+            "Structured, Manageable, Accurate, Relevant, Timed"
+        ],
+        "answer": "Specific, Measurable, Achievable, Relevant, Time-bound",
+        "description": "SMART criteria help in setting clear and effective objectives in lesson planning."
+    },
+    {
+        "question": "What is the purpose of using Bloom's Taxonomy in lesson planning?",
+        "options": [
+            "To organize classroom management strategies",
+            "To categorize educational goals and objectives",
+            "To assess student behavior",
+            "To select teaching materials"
+        ],
+        "answer": "To categorize educational goals and objectives",
+        "description": "Bloom's Taxonomy provides a framework for categorizing educational objectives and ensuring a comprehensive approach to teaching."
+    },
+    {
+        "question": "Which level of Bloom's Taxonomy involves analyzing information?",
+        "options": [
+            "Remembering",
+            "Understanding",
+            "Applying",
+            "Analyzing"
+        ],
+        "answer": "Analyzing",
+        "description": "The 'Analyzing' level of Bloom's Taxonomy involves breaking down information into parts and understanding its structure."
+    },
+    {
+        "question": "Fill in the blank: In a lesson plan, 'assessment' refers to the methods used to measure _____.",
+        "options": [
+            "student attendance",
+            "teacher performance",
+            "learning outcomes",
+            "classroom management"
+        ],
+        "answer": "learning outcomes",
+        "description": "Assessment methods in a lesson plan are designed to measure the learning outcomes of students based on the lesson objectives."
+    },
+    {
+        "question": "What does a top-down strategy in teaching focus on?",
+        "options": [
+            "Detailed instructions",
+            "Overall comprehension and context",
+            "Individual skills",
+            "Rote memorization"
+        ],
+        "answer": "Overall comprehension and context",
+        "description": "Top-down strategies focus on understanding the overall meaning and context before delving into details."
+    },
+    {
+        "question": "Which of the following is a characteristic of a bottom-up strategy?",
+        "options": [
+            "Starting with the overall theme",
+            "Focusing on individual sounds and words",
+            "Using broad concepts first",
+            "Encouraging critical thinking"
+        ],
+        "answer": "Focusing on individual sounds and words",
+        "description": "Bottom-up strategies emphasize building understanding from the smallest units of language, such as sounds and words."
+    },
+    {
+        "question": "Fill in the blank: Effective lesson plans should consider _____ to address diverse learning needs.",
+        "options": [
+            "differentiation",
+            "standardization",
+            "homogeneity",
+            "rigidity"
+        ],
+        "answer": "differentiation",
+        "description": "Differentiation in lesson planning allows teachers to tailor instruction to meet the diverse learning needs of all students."
+    },
+    {
+        "question": "What is a key benefit of using frameworks in teaching language components?",
+        "options": [
+            "They simplify lesson plans",
+            "They ensure uniformity in grading",
+            "They provide a structured approach to teaching",
+            "They limit teaching creativity"
+        ],
+        "answer": "They provide a structured approach to teaching",
+        "description": "Frameworks offer a structured approach to teaching language components, ensuring that all necessary aspects are covered."
+    },
+    {
+        "question": "Which of the following is NOT a level of Bloom's Taxonomy?",
+        "options": [
+            "Evaluating",
+            "Creating",
+            "Synthesis",
+            "Applying"
+        ],
+        "answer": "Synthesis",
+        "description": "While 'Synthesis' was an earlier level, it has been replaced by 'Creating' in the revised version of Bloom's Taxonomy."
+    },
+    {
+        "question": "Fill in the blank: The top-down approach in reading instruction emphasizes _____ first.",
+        "options": [
+            "decoding words",
+            "comprehending the main idea",
+            "identifying phonemes",
+            "practicing vocabulary"
+        ],
+        "answer": "comprehending the main idea",
+        "description": "In a top-down approach to reading, students focus on understanding the main idea before addressing specific details."
+    },
+    {
+        "question": "Which assessment type is often used at the end of a unit to evaluate understanding?",
+        "options": [
+            "Formative assessment",
+            "Summative assessment",
+            "Diagnostic assessment",
+            "Informal assessment"
+        ],
+        "answer": "Summative assessment",
+        "description": "Summative assessments are conducted at the end of a unit to evaluate what students have learned."
+    },
+    {
+        "question": "What is the primary goal of a lesson's 'hook' or introduction?",
+        "options": [
+            "To provide extensive background information",
+            "To engage students' interest",
+            "To summarize previous lessons",
+            "To assess prior knowledge"
+        ],
+        "answer": "To engage students' interest",
+        "description": "The 'hook' aims to grab students' attention and engage their interest in the lesson topic from the start."
+    },
+    {
+        "question": "Fill in the blank: In a well-structured lesson plan, the _____ should align with the learning objectives.",
+        "options": [
+            "assessment",
+            "classroom layout",
+            "homework assignments",
+            "teacher's mood"
+        ],
+        "answer": "assessment",
+        "description": "The assessment methods in a lesson plan should directly align with the learning objectives to accurately measure student learning."
+    },
+    {
+        "question": "Which of the following best describes 'scaffolding' in teaching?",
+        "options": [
+            "Providing continuous assessment",
+            "Breaking down tasks into manageable parts",
+            "Offering rewards for participation",
+            "Standardizing curriculum across classrooms"
+        ],
+        "answer": "Breaking down tasks into manageable parts",
+        "description": "Scaffolding involves breaking down complex tasks into smaller, manageable parts to support student understanding."
+    },
+    {
+        "question": "Fill in the blank: The primary focus of the 'Creating' level in Bloom's Taxonomy is to _____ information.",
+        "options": [
+            "recall",
+            "analyze",
+            "produce or design",
+            "evaluate"
+        ],
+        "answer": "produce or design",
+        "description": "The 'Creating' level involves producing or designing new ideas or products based on learned information."
+    },
+    {
+        "question": "What is the primary characteristic of a well-designed lesson plan?",
+        "options": [
+            "Flexibility in content",
+            "Strict adherence to the textbook",
+            "Clear objectives and methods",
+            "Minimal student interaction"
+        ],
+        "answer": "Clear objectives and methods",
+        "description": "A well-designed lesson plan features clear objectives and methods to guide instruction effectively."
+    },
+    {
+        "question": "Fill in the blank: _____ strategies emphasize the use of background knowledge and context for understanding new information.",
+        "options": [
+            "Top-down",
+            "Bottom-up",
+            "Decoding",
+            "Memorization"
+        ],
+        "answer": "Top-down",
+        "description": "Top-down strategies leverage students' background knowledge and context to enhance their understanding of new material."
+    },
+    {
+        "question": "What is an essential aspect of formative assessment?",
+        "options": [
+            "It occurs at the end of a unit.",
+            "It provides feedback for improvement.",
+            "It is always graded.",
+            "It is standardized across classrooms."
+        ],
+        "answer": "It provides feedback for improvement.",
+        "description": "Formative assessment is designed to provide ongoing feedback that helps improve student learning and instruction."
+    },
+    {
+        "question": "Which of the following frameworks focuses on the cognitive processes involved in learning?",
+        "options": [
+            "ECRIF Framework",
+            "PPP Framework",
+            "SIOP Model",
+            "Task-Based Learning"
+        ],
+        "answer": "ECRIF Framework",
+        "description": "The ECRIF Framework emphasizes cognitive processes such as experiencing, clarifying, remembering, internalizing, and fluently using new knowledge."
+    },
+    {
+        "question": "What is a primary goal of using a backward design approach in lesson planning?",
+        "options": [
+            "To start with teaching materials",
+            "To outline assessment methods first",
+            "To focus solely on content delivery",
+            "To ensure alignment of assessments with learning goals"
+        ],
+        "answer": "To ensure alignment of assessments with learning goals",
+        "description": "Backward design emphasizes starting with learning goals to ensure that assessments are aligned with desired outcomes."
+    },
+    {
+        "question": "Fill in the blank: In lesson planning, differentiation refers to tailoring instruction to meet _____ needs.",
+        "options": [
+            "teacher",
+            "administrative",
+            "student",
+            "curricular"
+        ],
+        "answer": "student",
+        "description": "Differentiation involves adjusting teaching methods and materials to cater to the diverse needs of students."
+    },
+    {
+        "question": "What is the highest level of Bloom's Taxonomy?",
+        "options": [
+            "Evaluating",
+            "Applying",
+            "Creating",
+            "Understanding"
+        ],
+        "answer": "Creating",
+        "description": "Creating is the highest level of Bloom's Taxonomy, focusing on producing new ideas or products based on learned information."
+    },
+    {
+        "question": "Which of the following is a common teaching strategy under the bottom-up approach?",
+        "options": [
+            "Using context clues",
+            "Encouraging students to infer meanings",
+            "Decoding phonemes and words",
+            "Discussing the main idea first"
+        ],
+        "answer": "Decoding phonemes and words",
+        "description": "Bottom-up approaches emphasize understanding the smallest units of language, such as phonemes and words, before moving to larger concepts."
+    },
+    {
+        "question": "Fill in the blank: The _____ framework emphasizes active engagement and social interaction in learning.",
+        "options": [
+            "PPP",
+            "ECRIF",
+            "Task-Based Learning",
+            "Content-Based Instruction"
+        ],
+        "answer": "Task-Based Learning",
+        "description": "Task-Based Learning focuses on active engagement and social interaction, encouraging students to learn through meaningful tasks."
+    },
+    {
+        "question": "What is the primary focus of the 'Applying' level in Bloom's Taxonomy?",
+        "options": [
+            "Creating new products",
+            "Understanding concepts",
+            "Using knowledge in new situations",
+            "Evaluating ideas"
+        ],
+        "answer": "Using knowledge in new situations",
+        "description": "The 'Applying' level involves using learned knowledge in practical, real-world situations."
+    }
+]

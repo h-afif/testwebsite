@@ -1,0 +1,349 @@
+[
+    {
+        "question": "Who is considered the father of the modern novel?",
+        "options": ["Charles Dickens", "Henry Fielding", "Miguel de Cervantes", "Daniel Defoe"],
+        "answer": "Miguel de Cervantes",
+        "description": "Miguel de Cervantes is often considered the father of the modern novel for his work <em>Don Quixote<em>."
+    },
+    {
+        "question": "Which of the following lists includes key elements of fiction?",
+        "options": [
+            "Plot, setting, characters", 
+            "Tone, dialogue, grammar", 
+            "Metaphor, rhyme, meter", 
+            "Symbolism, essay structure, citations"
+        ],
+        "answer": "Plot, setting, characters",
+        "description": "Key elements of fiction include plot, setting, and characters, which are essential to narrative storytelling."
+    },
+    {
+        "question": "Which combination of features defines the structure of a typical fictional narrative?",
+        "options": [
+            "Exposition, climax, resolution", 
+            "Theme, thesis statement, citations", 
+            "Dialogue, research, bibliography", 
+            "Tone, argument, evidence"
+        ],
+        "answer": "Exposition, climax, resolution",
+        "description": "A typical fictional narrative is structured with an exposition, climax, and resolution, guiding the development of the story."
+    },
+    {
+        "question": "'Stream of consciousness' is a narrative technique that follows the continuous flow of a character's thoughts and feelings.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "Stream of consciousness is a narrative mode that presents a character's thoughts, emotions, and memories in a continuous flow."
+    },
+    {
+        "question": "What is the main difference between a novella and a novel?",
+        "options": ["Length", "Subject matter", "Use of dialogue", "Point of view"],
+        "answer": "Length",
+        "description": "The primary difference is length; a novella is shorter than a novel but longer than a short story."
+    },
+    {
+        "question": "A __ is a short, fictional prose narrative that usually centers on a single event or character.",
+        "options": ["novel", "short story", "novella", "fable"],
+        "answer": "short story",
+        "description": "A short story is a brief prose narrative, typically involving few characters and focused on a specific event."
+    },
+    {
+        "question": "Which of the following authors is known for pioneering the detective fiction genre?",
+        "options": ["Edgar Allan Poe", "Mark Twain", "Virginia Woolf", "Ernest Hemingway"],
+        "answer": "Edgar Allan Poe",
+        "description": "Edgar Allan Poe is credited with creating the first modern detective story, <em>The Murders in the Rue Morgue<em>."
+    },
+    {
+        "question": "The term 'bildungsroman' refers to a novel that focuses on __.",
+        "options": ["a character's romantic life", "a detective solving a crime", "the psychological and moral growth of a character", "the tragic downfall of the protagonist"],
+        "answer": "the psychological and moral growth of a character",
+        "description": "A 'bildungsroman' is a coming-of-age story that focuses on the development of a protagonist."
+    },
+    {
+        "question": "What is a key characteristic of 'magical realism'?",
+        "options": ["An emphasis on scientific accuracy", "Incorporation of mythical elements into realistic settings", "Stories set in outer space", "Focus on historical events"],
+        "answer": "Incorporation of mythical elements into realistic settings",
+        "description": "Magical realism combines elements of the supernatural with a realistic narrative, often without explanation."
+    },
+    {
+        "question": "Which novel begins with the famous line, <em>'Call me Ishmael'<em>?",
+        "options": ["Moby-Dick", "Great Expectations", "The Scarlet Letter", "The Great Gatsby"],
+        "answer": "Moby-Dick",
+        "description": "<em>Moby-Dick<em> by Herman Melville opens with the famous line, 'Call me Ishmael.'"
+    },
+    {
+        "question": "The term 'epistolary novel' refers to a novel that is written as a series of letters.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "An epistolary novel is composed of letters, diary entries, or other personal documents."
+    },
+    {
+        "question": "Which literary term refers to the conflict between a character and their own thoughts or emotions?",
+        "options": ["Man vs. man", "Man vs. nature", "Man vs. society", "Man vs. self"],
+        "answer": "Man vs. self",
+        "description": "A 'man vs. self' conflict occurs when a character struggles with internal dilemmas."
+    },
+    {
+        "question": "Which of the following is an example of a dystopian novel?",
+        "options": ["Pride and Prejudice", "1984", "Jane Eyre", "The Adventures of Huckleberry Finn"],
+        "answer": "1984",
+        "description": "<em>1984<em> by George Orwell is a classic dystopian novel depicting a totalitarian regime."
+    },
+    {
+        "question": "Fill in the blank: In literature, a __ is a recurring element, such as a symbol, theme, or concept, that appears throughout a work.",
+        "options": ["motif", "foreshadowing", "prologue", "epilogue"],
+        "answer": "motif",
+        "description": "A motif is a recurring element that has symbolic significance in a story."
+    },
+    {
+        "question": "Which of the following authors is known for their works of Gothic fiction?",
+        "options": ["Jane Austen", "Mary Shelley", "Toni Morrison", "J.K. Rowling"],
+        "answer": "Mary Shelley",
+        "description": "Mary Shelley is best known for <em>Frankenstein<em>, a pioneering work in Gothic fiction."
+    },
+    {
+        "question": "What is the term for a type of fiction that is primarily concerned with creating an atmosphere of terror?",
+        "options": ["Romantic fiction", "Fantasy", "Horror", "Realism"],
+        "answer": "Horror",
+        "description": "Horror fiction is designed to provoke feelings of fear, dread, and horror in readers."
+    },
+    {
+        "question": "A fable is a fictional story that features animals as characters and teaches a moral lesson.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "Fables are short stories, often featuring animals, that convey a moral lesson."
+    },
+    {
+        "question": "Which of the following works is considered science fiction?",
+        "options": ["The Catcher in the Rye", "Brave New World", "Wuthering Heights", "To Kill a Mockingbird"],
+        "answer": "Brave New World",
+        "description": "<em>Brave New World<em> by Aldous Huxley is a classic example of science fiction, set in a futuristic dystopia."
+    },
+    {
+        "question": "A __ is a story within a story, where a character narrates a second story inside the main narrative.",
+        "options": ["metaphor", "frame story", "flashback", "fable"],
+        "answer": "frame story",
+        "description": "A frame story is a narrative technique where a main story contains one or more additional stories within it."
+    },
+    {
+        "question": "Which of the following is NOT a typical feature of historical fiction?",
+        "options": ["Accurate historical details", "Real historical figures", "Supernatural elements", "A setting in the past"],
+        "answer": "Supernatural elements",
+        "description": "While historical fiction often includes real historical figures and events, it typically avoids supernatural elements."
+    },
+    {
+        "question": "What is the central theme of <em>Frankenstein<em> by Mary Shelley?",
+        "options": ["Romantic love", "The consequences of playing God", "Revenge", "The search for power"],
+        "answer": "The consequences of playing God",
+        "description": "<em>Frankenstein<em> explores themes such as ambition, the dangers of knowledge, and the consequences of overreaching human limits."
+    },
+    {
+        "question": "Which author is known for their contribution to American Southern Gothic fiction?",
+        "options": ["Mark Twain", "Tennessee Williams", "Flannery O'Connor", "F. Scott Fitzgerald"],
+        "answer": "Flannery O'Connor",
+        "description": "Flannery O'Connor is famous for her works of Southern Gothic fiction, which explore themes of morality and human nature."
+    },
+    {
+        "question": "A flashback is a scene set in a time earlier than the main story.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "A flashback is a narrative device that takes the reader back to events that occurred before the main storyline."
+    },
+    {
+        "question": "What genre does <em>The Picture of Dorian Gray<em> by Oscar Wilde belong to?",
+        "options": ["Science fiction", "Gothic fiction", "Historical fiction", "Fantasy"],
+        "answer": "Gothic fiction",
+        "description": "<em>The Picture of Dorian Gray<em> is a work of Gothic fiction that explores themes of vanity, morality, and corruption."
+    },
+    {
+        "question": "A __ is a character that undergoes significant change over the course of a story.",
+        "options": ["static character", "dynamic character", "foil", "flat character"],
+        "answer": "dynamic character",
+        "description": "A dynamic character changes or grows throughout the narrative, in contrast to a static character who remains the same."
+    },
+    {
+        "question": "Which of the following is an example of a work of satire?",
+        "options": ["Moby-Dick", "Pride and Prejudice", "Gulliver's Travels", "Hamlet"],
+        "answer": "Gulliver's Travels",
+        "description": "Jonathan Swift's <em>Gulliver's Travels<em> is a satirical novel that critiques society and politics through allegory."
+    },
+    {
+        "question": "A protagonist is always a heroic character.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "The protagonist is the main character, but they may not always be heroic. They can also be an antihero or a morally complex figure."
+    },
+    {
+        "question": "What is a 'foil' in fiction?",
+        "options": ["A character who opposes the protagonist", "A character who contrasts with another character", "A type of narrator", "A plot device used for tension"],
+        "answer": "A character who contrasts with another character",
+        "description": "A foil is a character who contrasts with another character, often the protagonist, to highlight certain traits."
+    },
+    {
+        "question": "Which of the following novels is considered an example of postmodern fiction?",
+        "options": ["Jane Eyre", "The Catcher in the Rye", "Slaughterhouse-Five", "Middlemarch"],
+        "answer": "Slaughterhouse-Five",
+        "description": "Kurt Vonnegut's <em>Slaughterhouse-Five<em> is a classic example of postmodern fiction, known for its non-linear narrative and themes of absurdity."
+    },
+    {
+        "question": "A __ narrator is a narrator whose credibility has been seriously compromised.",
+        "options": ["first-person", "omniscient", "unreliable", "third-person"],
+        "answer": "unreliable",
+        "description": "An unreliable narrator is one whose credibility is questionable, often due to bias, mental instability, or dishonesty."
+    },
+    {
+        "question": "What is the primary focus of realist fiction?",
+        "options": ["Supernatural occurrences", "Romanticized ideals", "Everyday life and ordinary characters", "Abstract philosophical ideas"],
+        "answer": "Everyday life and ordinary characters",
+        "description": "Realist fiction aims to depict everyday life in a realistic manner, focusing on ordinary characters and situations."
+    },
+    {
+        "question": "Which of the following works is an example of existential fiction?",
+        "options": ["The Stranger", "The Great Gatsby", "Little Women", "Wuthering Heights"],
+        "answer": "The Stranger",
+        "description": "Albert Camus' <em>The Stranger<em> is a classic work of existential fiction, exploring themes of absurdity and meaninglessness."
+    },
+    {
+        "question": "True or False: A novel's 'setting' includes the time and place in which the story occurs.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "The setting of a novel refers to the time and place where the story takes place."
+    },
+    {
+        "question": "What is the term for a literary genre that focuses on the adventures of a rogue or lowborn adventurer?",
+        "options": ["Epic", "Picaresque", "Bildungsroman", "Gothic fiction"],
+        "answer": "Picaresque",
+        "description": "The picaresque novel is a genre that follows the adventures of a roguish but appealing protagonist, often in a satirical manner."
+    },
+    {
+        "question": "Which of the following authors is known for their works of science fiction?",
+        "options": ["George Orwell", "Ray Bradbury", "Harper Lee", "Emily Brontë"],
+        "answer": "Ray Bradbury",
+        "description": "Ray Bradbury is a celebrated author of science fiction, known for works such as <em>Fahrenheit 451<em> and <em>The Martian Chronicles<em>."
+    },
+    {
+        "question": "Fill in the blank: A __ is a fictional narrative that typically features supernatural elements, set in a distant past or mythological time.",
+        "options": ["fable", "fantasy", "realist novel", "historical fiction"],
+        "answer": "fantasy",
+        "description": "Fantasy is a genre that often includes magical or supernatural elements set in imaginary worlds."
+    },
+    {
+        "question": "Which of the following is an example of metafiction?",
+        "options": ["To Kill a Mockingbird", "Don Quixote", "The Grapes of Wrath", "Heart of Darkness"],
+        "answer": "Don Quixote",
+        "description": "Metafiction is a form of fiction that self-consciously addresses the devices of fiction, as seen in <em>Don Quixote<em>."
+    },
+    {
+        "question": "True or False: A round character is one that is complex and undergoes development throughout a story.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "A round character is a fully developed, complex character who changes throughout the story."
+    },
+    {
+        "question": "Which novel does the character Elizabeth Bennet belong to?",
+        "options": ["Wuthering Heights", "Pride and Prejudice", "Jane Eyre", "Great Expectations"],
+        "answer": "Pride and Prejudice",
+        "description": "Elizabeth Bennet is the protagonist of Jane Austen's <em>Pride and Prejudice<em>."
+    },
+    {
+        "question": "Which novel features the character Atticus Finch?",
+        "options": ["The Grapes of Wrath", "1984", "To Kill a Mockingbird", "The Catcher in the Rye"],
+        "answer": "To Kill a Mockingbird",
+        "description": "Atticus Finch is the moral and just lawyer in Harper Lee's <em>To Kill a Mockingbird<em>."
+    },
+    {
+        "question": "Which novel features the character Heathcliff?",
+        "options": ["Pride and Prejudice", "Wuthering Heights", "Jane Eyre", "Middlemarch"],
+        "answer": "Wuthering Heights",
+        "description": "Heathcliff is the brooding antihero of Emily Brontë's <em>Wuthering Heights<em>."
+    },
+    {
+        "question": "Which novel does the character Holden Caulfield belong to?",
+        "options": ["Brave New World", "Slaughterhouse-Five", "The Catcher in the Rye", "Of Mice and Men"],
+        "answer": "The Catcher in the Rye",
+        "description": "Holden Caulfield is the teenage protagonist of J.D. Salinger's <em>The Catcher in the Rye<em>."
+    },
+    {
+        "question": "What is a common theme in the works of Ernest Hemingway?",
+        "options": ["Magical realism", "The lost generation", "Exploration of colonialism", "Gothic horror"],
+        "answer": "The lost generation",
+        "description": "Hemingway often explored the disillusionment and existential struggles of the 'lost generation' post-World War I."
+    },
+    {
+        "question": "What is a key characteristic of Virginia Woolf’s literary works?",
+        "options": ["Realism", "Stream of consciousness", "Picaresque narrative", "Dystopian themes"],
+        "answer": "Stream of consciousness",
+        "description": "Virginia Woolf is known for her use of stream of consciousness, as seen in <em>Mrs. Dalloway<em> and <em>To the Lighthouse<em>."
+    },
+    {
+        "question": "What literary technique is frequently found in the novels of Charles Dickens?",
+        "options": ["Satirical exaggeration", "Gothic elements", "Social criticism and realism", "Surrealism"],
+        "answer": "Social criticism and realism",
+        "description": "Dickens' novels often feature detailed social criticism and focus on the plight of the underprivileged in Victorian England."
+    },
+    {
+        "question": "Which of the following is a key element of Jane Austen’s novels?",
+        "options": ["Focus on social class and marriage", "Exploration of colonialism", "Themes of existential dread", "Surrealist plot structures"],
+        "answer": "Focus on social class and marriage",
+        "description": "Jane Austen's novels frequently address issues of social class, marriage, and morality in the context of 19th-century England."
+    },
+    {
+        "question": "To which literary movement does the novel <em>Invisible Man<em> by Ralph Ellison belong?",
+        "options": ["Romanticism", "Harlem Renaissance", "Postmodernism", "Afro-American literature"],
+        "answer": "Afro-American literature",
+        "description": "Ralph Ellison's <em>Invisible Man<em> is a seminal work in Afro-American literature, addressing issues of race and identity."
+    },
+    {
+        "question": "<em>Heart of Darkness<em> by Joseph Conrad is often associated with which literary movement?",
+        "options": ["Romanticism", "Modernism", "Post-Colonialism", "Realism"],
+        "answer": "Modernism",
+        "description": "Conrad's <em>Heart of Darkness<em> reflects Modernist themes of existential uncertainty and critiques European colonialism."
+    },
+    {
+        "question": "Which literary movement is closely associated with Zora Neale Hurston's <em>Their Eyes Were Watching God<em>?",
+        "options": ["Harlem Renaissance", "Transcendentalism", "Romanticism", "Postmodernism"],
+        "answer": "Harlem Renaissance",
+        "description": "Zora Neale Hurston was a key figure in the Harlem Renaissance, an African-American literary and cultural movement."
+    },
+    {
+        "question": "Which literary movement emphasizes the irrational and absurd aspects of human life?",
+        "options": ["Romanticism", "Naturalism", "Existentialism", "Magical realism"],
+        "answer": "Existentialism",
+        "description": "Existentialism explores themes of meaninglessness, alienation, and absurdity in human existence."
+    },
+    {
+        "question": "Chinua Achebe’s <em>Things Fall Apart<em> is a classic example of what type of literature?",
+        "options": ["Colonial literature", "Post-Colonial literature", "Gothic literature", "Romantic literature"],
+        "answer": "Post-Colonial literature",
+        "description": "<em>Things Fall Apart<em> is a seminal work of Post-Colonial literature, examining the impact of European colonization on African societies."
+    },
+    {
+        "question": "Which literary movement is associated with the works of Langston Hughes?",
+        "options": ["Harlem Renaissance", "Modernism", "Naturalism", "Romanticism"],
+        "answer": "Harlem Renaissance",
+        "description": "Langston Hughes was a leading figure in the Harlem Renaissance, known for his contributions to African-American literature and culture."
+    },
+    {
+        "question": "Which of the following works is associated with the Postmodern literary movement?",
+        "options": ["The Great Gatsby", "Slaughterhouse-Five", "Pride and Prejudice", "The Scarlet Letter"],
+        "answer": "Slaughterhouse-Five",
+        "description": "Kurt Vonnegut's <em>Slaughterhouse-Five<em> is an iconic example of Postmodern literature, known for its fragmented narrative and absurdist elements."
+    },
+    {
+        "question": "To which literary movement does James Joyce's <em>Ulysses<em> belong?",
+        "options": ["Realism", "Modernism", "Romanticism", "Gothic fiction"],
+        "answer": "Modernism",
+        "description": "<em>Ulysses<em> is a landmark of Modernist literature, renowned for its experimental narrative techniques and stream-of-consciousness style."
+    },
+    {
+        "question": "Which literary movement does <em>Beloved<em> by Toni Morrison belong to?",
+        "options": ["Romanticism", "Afro-American literature", "Colonial literature", "Postmodernism"],
+        "answer": "Afro-American literature",
+        "description": "Toni Morrison's <em>Beloved<em> is a key work in Afro-American literature, dealing with themes of slavery, trauma, and memory."
+    },
+    {
+        "question": "What type of literature is associated with <em>The Tempest<em> by William Shakespeare?",
+        "options": ["Post-Colonial literature", "Renaissance literature", "Romantic literature", "Realist literature"],
+        "answer": "Renaissance literature",
+        "description": "<em>The Tempest<em> is a classic example of Renaissance literature, reflecting the concerns and values of the English Renaissance."
+    }
+]
+

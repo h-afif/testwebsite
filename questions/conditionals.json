@@ -1,0 +1,146 @@
+[
+    {
+        "question": "If you _____ (study) harder, you would have passed the exam.",
+        "options": ["had studied", "studied", "have studied", "were studying"],
+        "answer": "had studied",
+        "description": "'Had studied' is the correct form for the third conditional, indicating a past unreal situation and its hypothetical result."
+    },
+    {
+        "question": "You can borrow my notes if you _____ (want) them.",
+        "options": ["will want", "would want", "want", "wanted"],
+        "answer": "want",
+        "description": "This real conditional uses the present simple 'want' to indicate a possibility based on a current condition."
+    },
+    {
+        "question": "If I _____ (be) you, I would take that opportunity.",
+        "options": ["were", "am", "was", "be"],
+        "answer": "were",
+        "description": "'Were' is used here in a second conditional structure to express an unreal present situation."
+    },
+    {
+        "question": "Even if he _____ (not ask) for help, I will offer it.",
+        "options": ["didn't ask", "not asking", "hadn't asked", "doesn't ask"],
+        "answer": "doesn't ask",
+        "description": "This conditional emphasizes that help will be offered regardless of whether he asks, showcasing a real conditional structure."
+    },
+    {
+        "question": "If she _____ (finish) her project on time, she would be relieved.",
+        "options": ["finishes", "finished", "would finish", "has finished"],
+        "answer": "finishes",
+        "description": "Here, 'finishes' represents a first conditional structure indicating a possible future outcome based on a real condition."
+    },
+    {
+        "question": "Had I known about the meeting, I _____ (attend) it.",
+        "options": ["will attend", "would have attended", "attended", "would attend"],
+        "answer": "would have attended",
+        "description": "This uses the third conditional to express a past unreal situation and its hypothetical result."
+    },
+    {
+        "question": "If you _____ (not hurry), we will miss the train.",
+        "options": ["didn't hurry", "don't hurry", "hadn't hurried", "won't hurry"],
+        "answer": "don't hurry",
+        "description": "The first conditional expresses a real future possibility based on the current action of hurrying."
+    },
+    {
+        "question": "Unless you _____ (provide) the necessary documents, we cannot proceed.",
+        "options": ["will provide", "provided", "provide", "have provided"],
+        "answer": "provide",
+        "description": "This structure uses 'unless' to indicate that without providing documents, action cannot be taken, similar to a negative conditional."
+    },
+    {
+        "question": "If I _____ (know) the answer, I would tell you now.",
+        "options": ["know", "have known", "knew", "was knowing"],
+        "answer": "knew",
+        "description": "This is a second conditional, expressing an unreal present situation where the speaker does not know the answer."
+    },
+    {
+        "question": "I will attend the seminar, whether you _____ (come) or not.",
+        "options": ["came", "come", "will come", "are coming"],
+        "answer": "come",
+        "description": "Using 'whether,' this structure indicates that the seminar attendance is independent of the other person's actions."
+    },
+    {
+        "question": "If he _____ (work) harder, he would have achieved better results.",
+        "options": ["had worked", "worked", "was working", "works"],
+        "answer": "had worked",
+        "description": "This third conditional structure indicates a past unreal situation where working harder could have led to different results."
+    },
+    {
+        "question": "Even if it _____ (rain), we will go hiking.",
+        "options": ["rained", "is raining","rains", "had rained"],
+        "answer": "rains",
+        "description": "This first conditional suggests that hiking will happen regardless of rain, showcasing a real possibility."
+    },
+    {
+        "question": "If she had known the truth, she _____ (act) differently.",
+        "options": ["would have acted", "will act", "would act", "acted"],
+        "answer": "would have acted",
+        "description": "This third conditional expresses a past unreal situation and the hypothetical action that would have followed."
+    },
+    {
+        "question": "I would help you, if I _____ (have) more time.",
+        "options": ["have", "had", "will have", "would have"],
+        "answer": "had",
+        "description": "This is a second conditional indicating an unreal present situation where having more time would enable helping."
+    },
+    {
+        "question": "If they _____ (not study), they will fail the course.",
+        "options": ["didn't study", "hadn't studied", "won't study", "don't study"],
+        "answer": "don't study",
+        "description": "This first conditional shows a real future possibility based on a current condition."
+    },
+    {
+        "question": "Whether it _____ (be) sunny or rainy, the event will take place.",
+        "options": ["was", "will be", "were", "is"],
+        "answer": "is",
+        "description": "This use of 'whether' indicates that the outcome of the event is independent of the weather conditions."
+    },
+    {
+        "question": "If you had told me earlier, I _____ (help) you.",
+        "options": ["will help", "would help", "helped", "would have helped"],
+        "answer": "would have helped",
+        "description": "This third conditional shows that an earlier action would have led to a different result in the past."
+    },
+    {
+        "question": "Unless he _____ (prepare), he won’t perform well.",
+        "options": ["prepares", "will prepare", "prepared", "has prepared"],
+        "answer": "prepares",
+        "description": "This conditional indicates that preparation is necessary for a successful performance."
+    },
+    {
+        "question": "If I _____ (be) in your position, I would consult an expert.",
+        "options": ["was", "were", "am", "be"],
+        "answer": "were",
+        "description": "The use of 'were' in this second conditional highlights an unreal situation regarding the speaker's hypothetical position."
+    },
+    {
+        "question": "If you could travel anywhere, where _____ (go)?",
+        "options": ["would you go", "will you go", "do you go", "you would go"],
+        "answer": "would you go",
+        "description": "This question uses the second conditional to ask about a hypothetical travel choice."
+    },
+    {
+        "question": "If she _____ (be) more careful, she would have avoided the mistake.",
+        "options": ["had been", "was", "is", "were"],
+        "answer": "had been",
+        "description": "This third conditional indicates that being careful in the past could have prevented an error."
+    },
+    {
+        "question": "If you go to the party, I _____ (be) there too.",
+        "options": ["would be", "am", "will be", "was"],
+        "answer": "will be",
+        "description": "This first conditional expresses a future possibility dependent on the action of going to the party."
+    },
+    {
+        "question": "If he asks you for advice, _____ (give) it to him honestly.",
+        "options": ["give", "you give", "will you give", "would you give"],
+        "answer": "give",
+        "description": "This command structure indicates an expected action based on the condition of being asked."
+    },
+    {
+        "question": "I would appreciate it if you _____ (not disturb) me while I’m working.",
+        "options": ["don't disturb", "won't disturb", "didn't disturb", "hadn't disturbed"],
+        "answer": "didn't disturb",
+        "description": "This polite request uses a second conditional structure to express a desire for a future scenario."
+    }
+]

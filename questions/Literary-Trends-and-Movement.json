@@ -1,0 +1,168 @@
+[
+    {
+        "question": "______ is a 19th-century literary movement that emphasizes emotion, nature, and individualism, often in reaction to industrialization.",
+        "options": ["Romanticism", "Realism", "Modernism", "Naturalism"],
+        "answer": "Romanticism",
+        "description": "Romanticism focused on intense emotion, the beauty of nature, and the individual's experience, often as a response to the rapid industrialization of society."
+    },
+    {
+        "question": "Arrange these literary movements in chronological order: ______.",
+        "options": ["Realism, Romanticism, Modernism, Postmodernism", "Romanticism, Realism, Modernism, Postmodernism", "Postmodernism, Realism, Romanticism, Modernism", "Modernism, Romanticism, Realism, Postmodernism"],
+        "answer": "Romanticism, Realism, Modernism, Postmodernism",
+        "description": "Romanticism arose in the late 18th century, followed by Realism in the 19th century, Modernism in the early 20th century, and Postmodernism in the mid-20th century."
+    },
+    {
+        "question": "The literary movement known as ______ focuses on depicting everyday life and society as it is, often with an emphasis on the middle and lower classes.",
+        "options": ["Modernism", "Romanticism", "Realism", "Symbolism"],
+        "answer": "Realism",
+        "description": "Realism is a 19th-century movement that sought to represent life as it was, focusing on ordinary people, social issues, and the objective depiction of the world."
+    },
+    {
+        "question": "Which of the following figures is NOT associated with the Beat Generation?",
+        "options": ["Allen Ginsberg", "Jack Kerouac", "William S. Burroughs", "T.S. Eliot"],
+        "answer": "T.S. Eliot",
+        "description": "T.S. Eliot is associated with Modernism, while the Beat Generation is linked with figures like Allen Ginsberg, Jack Kerouac, and William S. Burroughs, who rebelled against the mainstream culture of the 1950s."
+    },
+    {
+        "question": "Which movement is characterized by a reaction against the Enlightenment's emphasis on reason and instead focuses on emotion, nature, and the sublime?",
+        "options": ["Romanticism", "Realism", "Naturalism", "Postmodernism"],
+        "answer": "Romanticism",
+        "description": "Romanticism rejected the Enlightenment's focus on reason, instead celebrating the power of emotion, the beauty of nature, and the sublime."
+    },
+    {
+        "question": "______ is a post-World War II literary movement known for its skepticism of grand narratives, fragmented structure, and focus on irony and pastiche.",
+        "options": ["Modernism", "Realism", "Postmodernism", "Transcendentalism"],
+        "answer": "Postmodernism",
+        "description": "Postmodernism is known for its rejection of grand narratives and its use of irony, playfulness, and pastiche in response to the disillusionment following World War II."
+    },
+    {
+        "question": "Which of the following authors is closely associated with Modernism?",
+        "options": ["William Wordsworth", "F. Scott Fitzgerald", "James Joyce", "Mark Twain"],
+        "answer": "James Joyce",
+        "description": "James Joyce is a central figure in the Modernist movement, known for his innovative narrative techniques, such as stream of consciousness."
+    },
+    {
+        "question": "What defines the Harlem Renaissance?",
+        "options": [
+            "A focus on African American cultural and intellectual life",
+            "An emphasis on the environment and the wilderness",
+            "A return to classical Greek ideals",
+            "The use of fragmented narrative structures"
+        ],
+        "answer": "A focus on African American cultural and intellectual life",
+        "description": "The Harlem Renaissance was a cultural movement in the 1920s that celebrated African American cultural, artistic, and intellectual achievements."
+    },
+    {
+        "question": "The ______ movement, founded by Ralph Waldo Emerson and Henry David Thoreau, emphasized self-reliance, nature, and the inherent goodness of humanity.",
+        "options": ["Transcendentalism", "Realism", "Romanticism", "Naturalism"],
+        "answer": "Transcendentalism",
+        "description": "Transcendentalism was a 19th-century American philosophical and literary movement that emphasized individualism, nature, and self-reliance."
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of Naturalism?",
+        "options": [
+            "Determinism, where individuals are shaped by their environment",
+            "Emphasis on social issues and class struggles",
+            "Romanticized depictions of life",
+            "Focus on the influence of heredity and environment"
+        ],
+        "answer": "Romanticized depictions of life",
+        "description": "Naturalism rejects romanticized depictions of life and focuses instead on how environment, heredity, and social conditions determine human behavior."
+    },
+    {
+        "question": "Which movement in literature is associated with a reaction against the excesses of Romanticism, focusing on logic, reason, and societal structures?",
+        "options": ["Realism", "Transcendentalism", "Modernism", "Naturalism"],
+        "answer": "Realism",
+        "description": "Realism emerged in response to the emotional intensity of Romanticism, focusing instead on the logical and realistic depiction of everyday life."
+    },
+    {
+        "question": "Which literary movement is characterized by a focus on imagination, individual freedom, and an idealized view of nature?",
+        "options": ["Realism", "Romanticism", "Modernism", "Postmodernism"],
+        "answer": "Romanticism",
+        "description": "Romanticism values imagination, individualism, and a deep connection with nature, often in an idealized or sublime form."
+    },
+    {
+        "question": "The ______ movement, active in the 1920s, involved African American artists, writers, and intellectuals celebrating black cultural heritage.",
+        "options": ["Harlem Renaissance", "Modernism", "Postmodernism", "Surrealism"],
+        "answer": "Harlem Renaissance",
+        "description": "The Harlem Renaissance was a cultural movement that celebrated African American culture and creativity during the 1920s in Harlem, New York."
+    },
+    {
+        "question": "Who is considered a major figure in the American Romantic movement?",
+        "options": ["Ralph Waldo Emerson", "Ernest Hemingway", "James Joyce", "F. Scott Fitzgerald"],
+        "answer": "Ralph Waldo Emerson",
+        "description": "Ralph Waldo Emerson was a key figure in the American Romantic and Transcendentalist movements, known for his essays on self-reliance and nature."
+    },
+    {
+        "question": "The ______ movement in literature and art emphasized the irrational, the dream state, and the unconscious mind.",
+        "options": ["Realism", "Surrealism", "Romanticism", "Postmodernism"],
+        "answer": "Surrealism",
+        "description": "Surrealism, particularly influenced by Freudian psychoanalysis, sought to unlock the power of the unconscious mind and often used dream-like imagery."
+    },
+    {
+        "question": "Which of the following is NOT associated with the Postmodernist movement?",
+        "options": ["Metanarrarive", "Irony", "Linear storytelling", "Pastiche"],
+        "answer": "Linear storytelling",
+        "description": "Postmodernism often rejects linear storytelling, embracing fragmented and non-linear narratives, along with techniques such as parody and pastiche."
+    },
+    {
+        "question": "______ is a movement in literature that emphasizes precise imagery and clear, sharp language, often in reaction to the florid style of 19th-century poetry.",
+        "options": ["Imagism", "Romanticism", "Naturalism", "Modernism"],
+        "answer": "Imagism",
+        "description": "Imagism, led by poets like Ezra Pound and H.D., emphasized clarity and economy of language, focusing on the 'thing itself' through precise imagery."
+    },
+    {
+        "question": "Which literary movement is known for its rejection of Victorian norms and its exploration of alienation, uncertainty, and fragmentation?",
+        "options": ["Modernism", "Romanticism", "Realism"],
+        "answer": "Modernism",
+        "description": "Modernism, emerging in the early 20th century, often explored themes of alienation, fragmentation, and a break from traditional forms and narratives."
+    },
+    {
+        "question": "Which literary movement is most associated with social protest and an examination of class struggle and poverty?",
+        "options": ["Naturalism", "Romanticism", "Surrealism", "Modernism"],
+        "answer": "Naturalism",
+        "description": "Naturalism often explored the darker aspects of life, including poverty, class struggle, and the influence of environment and heredity on human behavior."
+    },
+    {
+        "question": "Which movement sought to return to classical ideals, including order, clarity, and harmony, during the late 17th and 18th centuries?",
+        "options": ["Romanticism", "Classicism", "Modernism", "Postmodernism"],
+        "answer": "Classicism",
+        "description": "Classicism emphasized the values of ancient Greece and Rome, including order, clarity, balance, and restraint, as a reaction to the excesses of the Baroque and Rococo."
+    },
+    {
+        "question": "The ______ literary movement sought to capture the natural flow of thought, memory, and feeling, often using techniques like stream of consciousness.",
+        "options": ["Modernist", "Romantic", "Realist", "Naturalist"],
+        "answer": "Modernist",
+        "description": "Modernist writers, such as Virginia Woolf and James Joyce, often used stream of consciousness techniques to capture the inner workings of the mind."
+    },
+    {
+        "question": "Which of the following movements is NOT associated with the early 20th century?",
+        "options": ["Modernism", "Imagism", "Romanticism", "Surrealism"],
+        "answer": "Romanticism",
+        "description": "Romanticism is a late 18th and early 19th-century movement, while Modernism, Imagism, and Surrealism were active in the early 20th century."
+    },
+    {
+        "question": "The ______ movement in American literature was centered around the exploration of African American identity, culture, and creativity during the 1920s.",
+        "options": ["Harlem Renaissance", "Transcendentalism", "Romanticism", "Beat Generation"],
+        "answer": "Harlem Renaissance",
+        "description": "The Harlem Renaissance celebrated African American cultural, artistic, and intellectual achievements, with a focus on identity and expression during the 1920s."
+    },
+    {
+        "question": "The ______ movement focused on the irrational, dream-like aspects of life, often in rebellion against the rationalism of earlier literary movements.",
+        "options": ["Surrealism", "Classicism", "Realism", "Romanticism"],
+        "answer": "Surrealism",
+        "description": "Surrealism sought to depict the irrational and dream-like aspects of life, often challenging the rationalism and logic of earlier movements like Classicism."
+    },
+    {
+        "question": "Which movement is associated with writers like Gertrude Stein and Ernest Hemingway, who explored themes of disillusionment after World War I?",
+        "options": ["The Lost Generation", "Modernism", "Romanticism", "Postmodernism"],
+        "answer": "The Lost Generation",
+        "description": "The Lost Generation, a term coined by Gertrude Stein, refers to writers who expressed disillusionment with traditional values in the aftermath of World War I."
+    },
+    {
+        "question": "The ______ literary movement emerged after World War II and is characterized by its playful use of language, irony, and questioning of grand narratives.",
+        "options": ["Postmodern", "Romantic", "Transcendental", "Beat"],
+        "answer": "Postmodern",
+        "description": "Postmodernism, emerging after World War II, is known for its playful use of language, irony, and its rejection of absolute truths or grand narratives."
+    }
+]

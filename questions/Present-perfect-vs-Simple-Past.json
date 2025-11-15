@@ -1,0 +1,167 @@
+[
+    {
+        "question": "Which sentence correctly uses the Present Perfect tense?",
+        "options": [
+            "I have seen that movie last week.",
+            "I have seen that movie before.",
+            "I saw that movie before.",
+            "I see that movie before."
+        ],
+        "answer": "I have seen that movie before.",
+        "description": "The Present Perfect is used for experiences or actions that happened at an unspecified time in the past. 'Last week' would require Simple Past."
+    },
+    {
+        "question": "Choose the correct tense: 'She ___ (visit) France three times so far.'",
+        "options": [
+            "visited",
+            "visits",
+            "has visited",
+            "is visiting"
+        ],
+        "answer": "has visited",
+        "description": "The Present Perfect is used with 'so far' to describe actions that have happened multiple times up to the present."
+    },
+    {
+        "question": "Complete the sentence with the correct form: 'I ___ (not finish) my homework yet.'",
+        "options": [
+            "didn't finish",
+            "haven't finished",
+            "haven't finish",
+            "don't finish"
+        ],
+        "answer": "haven't finished",
+        "description": "'Yet' is commonly used with the Present Perfect to indicate that an action has not been completed at the time of speaking."
+    },
+    {
+        "question": "Identify the correct sentence using Simple Past tense.",
+        "options": [
+            "They have moved to New York last year.",
+            "They moved to New York last year.",
+            "They have been moving to New York.",
+            "They were moved to New York last year."
+        ],
+        "answer": "They moved to New York last year.",
+        "description": "The Simple Past is used for actions that happened at a specific time in the past, indicated by 'last year.'"
+    },
+    {
+        "question": "Which sentence is in the Present Perfect tense?",
+        "options": [
+            "I read that book last summer.",
+            "I have read that book before.",
+            "I was reading that book yesterday.",
+            "I am reading that book now."
+        ],
+        "answer": "I have read that book before.",
+        "description": "The Present Perfect is used for actions that happened at an unspecified time, while the Simple Past requires a specific time, such as 'last summer.'"
+    },
+    {
+        "question": "Fill in the gap: 'We ___ (live) here since 2015.'",
+        "options": [
+            "lived",
+            "are living",
+            "have lived",
+            "have been living"
+        ],
+        "answer": "have lived",
+        "description": "The Present Perfect is used with 'since' to describe an action that started in the past and continues into the present."
+    },
+    {
+        "question": "Choose the correct tense: 'They ___ (go) to the museum yesterday.'",
+        "options": [
+            "have gone",
+            "went",
+            "have been going",
+            "go"
+        ],
+        "answer": "went",
+        "description": "The Simple Past is used to refer to a completed action that occurred at a specific time in the past, like 'yesterday.'"
+    },
+    {
+        "question": "Fill in the gap: 'She ___ (never be) to Japan before.'",
+        "options": [
+            "has never been",
+            "was never being",
+            "hasn't been",
+            "never was"
+        ],
+        "answer": "has never been",
+        "description": "The Present Perfect is used to describe an experience (or lack of) up to the present time."
+    },
+    {
+        "question": "Which of the following sentences is in the Simple Past tense?",
+        "options": [
+            "I have just finished my work.",
+            "I was finishing my work.",
+            "I finished my work yesterday.",
+            "I had finished my work."
+        ],
+        "answer": "I finished my work yesterday.",
+        "description": "The Simple Past is used for actions that were completed at a specific point in the past ('yesterday')."
+    },
+    {
+        "question": "Fill in the blank: 'They ___ (not see) the movie yet.'",
+        "options": [
+            "didn't see",
+            "haven't seen",
+            "don't see",
+            "haven't see"
+        ],
+        "answer": "haven't seen",
+        "description": "The Present Perfect is used with 'yet' to describe something that hasn't happened up until now."
+    },
+    {
+        "question": "Which of the following sentences uses the Present Perfect correctly?",
+        "options": [
+            "We have visited Spain last summer.",
+            "We have visited Spain three times.",
+            "We visited Spain since last summer.",
+            "We are visiting Spain."
+        ],
+        "answer": "We have visited Spain three times.",
+        "description": "The Present Perfect is used to describe repeated actions at unspecified times in the past, not tied to a specific time like 'last summer.'"
+    },
+    {
+        "question": "Fill in the gap: 'I ___ (already eat) breakfast today.'",
+        "options": [
+            "ate",
+            "have eaten",
+            "was eating",
+            "has eaten"
+        ],
+        "answer": "have eaten",
+        "description": "The Present Perfect is used with 'already' to describe actions completed at an unspecified time before now."
+    },
+    {
+        "question": "Which sentence is in the Simple Past tense?",
+        "options": [
+            "I have seen that movie before.",
+            "I saw that movie last week.",
+            "I have been seeing that movie.",
+            "I am seeing that movie now."
+        ],
+        "answer": "I saw that movie last week.",
+        "description": "The Simple Past tense is used when an action occurred at a specific time in the past ('last week')."
+    },
+    {
+        "question": "Complete the sentence with the correct tense: 'They ___ (finish) their project last night.'",
+        "options": [
+            "have finished",
+            "finished",
+            "are finishing",
+            "has finished"
+        ],
+        "answer": "finished",
+        "description": "The Simple Past is required because the action happened at a specific time ('last night')."
+    },
+    {
+        "question": "Fill in the blank: 'We ___ (not travel) abroad this year.'",
+        "options": [
+            "didn't travel",
+            "haven't traveled",
+            "hasn't traveled",
+            "weren't traveling"
+        ],
+        "answer": "haven't traveled",
+        "description": "The Present Perfect is used to describe actions that have not happened yet this year, a time period still in progress."
+    }
+]

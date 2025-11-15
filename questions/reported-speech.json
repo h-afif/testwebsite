@@ -1,0 +1,152 @@
+[
+    {
+        "question": "She said, 'I will finish my homework tomorrow.' How would you report this statement?",
+        "options": ["She said that she will finish her homework tomorrow.", "She said that she would finish her homework tomorrow."],
+        "answer": "She said that she would finish her homework tomorrow.",
+        "description": "In reported speech, the future tense 'will' changes to 'would' to reflect the past perspective of the reporting verb."
+    },
+    {
+        "question": "He asked, 'Do you like classical music?' How would you report this question?",
+        "options": ["He asked if I liked classical music.", "He asked if I like classical music."],
+        "answer": "He asked if I liked classical music.",
+        "description": "In reported questions, the present tense is usually backshifted to the past tense, which is necessary for grammatical consistency."
+    },
+    {
+        "question": "They said, 'We are going to the concert.' How would you report this statement?",
+        "options": ["They said that they were going to the concert.", "They said that they are going to the concert."],
+        "answer": "They said that they were going to the concert.",
+        "description": "Reported speech requires the present continuous 'are going' to be changed to the past continuous 'were going' to reflect the time shift."
+    },
+    {
+        "question": "He told her, 'Close the door.' What is the reported form of this command?",
+        "options": ["He told her closing the door.", "He told her to close the door."],
+        "answer": "He told her to close the door.",
+        "description": "Commands in reported speech often use the infinitive form, which is 'to close' in this case, to convey the directive."
+    },
+    {
+        "question": "She said, 'I may go to the party.' How is this reported?",
+        "options": ["She said that she might go to the party.", "She said that she may go to the party."],
+        "answer": "She said that she might go to the party.",
+        "description": "The modal 'may' changes to 'might' in reported speech, indicating a shift from present to past modality."
+    },
+    {
+        "question": "He asked, 'Where have you been?' What is the correct reported form?",
+        "options": ["He asked where I have been.", "He asked where I had been."],
+        "answer": "He asked where I had been.",
+        "description": "In reported questions, the present perfect 'have been' changes to the past perfect 'had been' to indicate the time shift."
+    },
+    {
+        "question": "She said, 'I can help you.' How is this reported?",
+        "options": [ "She said that she can help me.", "She said that she could help me."],
+        "answer": "She said that she could help me.",
+        "description": "The modal 'can' changes to 'could' in reported speech to maintain past perspective."
+    },
+    {
+        "question": "They said, 'We have finished our project.' What is the reported version?",
+        "options": ["They said that they have finished their project.", "They said that they had finished their project."],
+        "answer": "They said that they had finished their project.",
+        "description": "Reported speech necessitates a change from present perfect to past perfect to align with the time frame."
+    },
+    {
+        "question": "He asked, 'Are you coming to the meeting?' How would you report this?",
+        "options": ["He asked if I was coming to the meeting.", "He asked if I am coming to the meeting."],
+        "answer": "He asked if I was coming to the meeting.",
+        "description": "The present continuous 'are coming' shifts to the past continuous 'was coming' in reported questions."
+    },
+    {
+        "question": "She said, 'I won't go there.' How is this reported?",
+        "options": ["She said that she won't go there.", "She said that she wouldn't go there."],
+        "answer": "She said that she wouldn't go there.",
+        "description": "In reported speech, 'won't' changes to 'wouldn't' to reflect a shift in tense."
+    },
+    {
+        "question": "He told her, 'You should see a doctor.' What is the reported command?",
+        "options": ["He told her that she should see a doctor.", "He told her to see a doctor."],
+        "answer": "He told her to see a doctor.",
+        "description": "Advice in reported speech typically uses the infinitive form 'to see' to convey the suggestion."
+    },
+    {
+        "question": "She asked, 'Will you help me?' What is the correct reported version?",
+        "options": ["She asked if I will help her.", "She asked if I would help her."],
+        "answer": "She asked if I would help her.",
+        "description": "The future tense 'will' changes to 'would' in reported questions to reflect the time shift."
+    },
+    {
+        "question": "They said, 'We are happy with the results.' How would you report this statement?",
+        "options": ["They said that they are happy with the results.", "They said that they were happy with the results."],
+        "answer": "They said that they were happy with the results.",
+        "description": "The present tense 'are' must change to the past tense 'were' in reported speech."
+    },
+    {
+        "question": "He told them, 'Don't be late.' What is the reported version?",
+        "options": ["He told them they shouldn't be late.", "He told them not to be late."],
+        "answer": "He told them not to be late.",
+        "description": "Negative commands in reported speech are often structured with 'not to' to indicate the prohibition."
+    },
+    {
+        "question": "She said, 'I might go to the conference.' How is this reported?",
+        "options": ["She said that she might go to the conference.", "She said that she may go to the conference."],
+        "answer": "She said that she might go to the conference.",
+        "description": "'Might' remains the same in reported speech, but 'may' would shift to 'might' for consistency."
+    },
+    {
+        "question": "He asked, 'When did you arrive?' What is the reported form?",
+        "options": ["He asked when I had arrived.", "He asked when I arrived."],
+        "answer": "He asked when I had arrived.",
+        "description": "The past tense 'did arrive' changes to the past perfect 'had arrived' in reported questions."
+    },
+    {
+        "question": "They said, 'We can't attend the meeting.' How is this reported?",
+        "options": ["They said that they can't attend the meeting.", "They said that they couldn't attend the meeting."],
+        "answer": "They said that they couldn't attend the meeting.",
+        "description": "The modal 'can't' changes to 'couldn't' in reported speech to indicate past modality."
+    },
+    {
+        "question": "She said, 'I would like a coffee.' How would you report this?",
+        "options": ["She said that she wanted a coffee.", "She said that she would like a coffee."],
+        "answer": "She said that she wanted a coffee.",
+        "description": "The phrase 'would like' often changes to 'wanted' to maintain past perspective in reported speech."
+    },
+    {
+        "question": "He asked, 'Could you help me with this?' What is the correct reported version?",
+        "options": ["He asked if I could help him with this.", "He asked if I can help him with this."],
+        "answer": "He asked if I could help him with this.",
+        "description": "In reported questions, 'can' typically shifts to 'could' to align with the past context."
+    },
+    {
+        "question": "She said, 'I have been studying English.' How is this reported?",
+        "options": ["She said that she had been studying English.", "She said that she has been studying English."],
+        "answer": "She said that she had been studying English.",
+        "description": "The present perfect 'have been' shifts to the past perfect 'had been' in reported speech."
+    },
+    {
+        "question": "He told them, 'Please finish your work.' What is the reported command?",
+        "options": ["He told them to finish their work.", "He told them to please finish their work."],
+        "answer": "He told them to finish their work.",
+        "description": "Requests often drop 'please' in reported speech, focusing on the action."
+    },
+    {
+        "question": "They said, 'We will not participate in the event.' How is this reported?",
+        "options": ["They said that they will not participate in the event.", "They said that they wouldn't participate in the event."],
+        "answer": "They said that they wouldn't participate in the event.",
+        "description": "In reported speech, 'will not' changes to 'would not' to reflect the time shift."
+    },
+    {
+        "question": "She asked, 'What are you doing tomorrow?' What is the correct reported form?",
+        "options": ["She asked what I was doing the next day.", "She asked what I am doing tomorrow."],
+        "answer": "She asked what I was doing the next day.",
+        "description": "In reported speech, 'are doing' changes to 'was doing,' and 'tomorrow' becomes 'the next day.'"
+    },
+    {
+        "question": "He said, 'I should start studying now.' How is this reported?",
+        "options": ["He said that he should have started studying.", "He said that he should start studying now."],
+        "answer": "He said that he should start studying now.",
+        "description": "'Should' remains unchanged in reported speech, but the context might shift."
+    },
+    {
+        "question": "They said, 'If I had known, I would have helped.' How is this reported?",
+        "options": ["They said that if they had known, they would help.", "They said that if they had known, they would have helped."],
+        "answer": "They said that if they had known, they would have helped.",
+        "description": "Conditional forms maintain their structure in reported speech, reflecting the hypothetical situation."
+    }
+]

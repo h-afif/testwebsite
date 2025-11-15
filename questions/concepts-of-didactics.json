@@ -1,0 +1,717 @@
+[
+    {
+        "question": "What is the primary focus of didactics?",
+        "options": [
+            "Curriculum development",
+            "Teaching methods and learning processes",
+            "Assessment and evaluation",
+            "Educational policy"
+        ],
+        "answer": "Teaching methods and learning processes",
+        "description": "Didactics primarily focuses on the methods and processes of teaching and learning, emphasizing how to effectively impart knowledge."
+    },
+    {
+        "question": "Fill in the blank: Didactics aims to bridge the gap between _____ and _____ in education.",
+        "options": [
+            "theory; practice",
+            "teaching; learning",
+            "content; assessment",
+            "students; teachers"
+        ],
+        "answer": "theory; practice",
+        "description": "Didactics seeks to connect educational theories with practical teaching strategies to enhance learning outcomes."
+    },
+    {
+        "question": "Which of the following is NOT a component of didactics?",
+        "options": [
+            "Content",
+            "Methods",
+            "Assessment",
+            "Budgeting"
+        ],
+        "answer": "Budgeting",
+        "description": "Budgeting is not a direct component of didactics, which focuses on content, methods, and assessment in education."
+    },
+    {
+        "question": "What term describes the systematic approach to teaching and learning?",
+        "options": [
+            "Pedagogy",
+            "Didactics",
+            "Andragogy",
+            "Heuristics"
+        ],
+        "answer": "Didactics",
+        "description": "Didactics refers to the systematic approach to teaching, focusing on methods and strategies for effective learning."
+    },
+    {
+        "question": "Which didactic principle emphasizes the importance of student engagement?",
+        "options": [
+            "Clarity",
+            "Motivation",
+            "Relevance",
+            "Feedback"
+        ],
+        "answer": "Motivation",
+        "description": "Motivation is a key principle in didactics that emphasizes the need for engaging students to enhance their learning experience."
+    },
+    {
+        "question": "Fill in the blank: Effective didactics requires _____ assessment to inform instruction.",
+        "options": [
+            "ongoing",
+            "summative",
+            "diagnostic",
+            "final"
+        ],
+        "answer": "ongoing",
+        "description": "Ongoing assessment helps teachers adjust their instruction based on student needs and progress throughout the learning process."
+    },
+    {
+        "question": "What is the primary goal of didactic methods?",
+        "options": [
+            "Maximizing test scores",
+            "Facilitating deep understanding and application of knowledge",
+            "Standardizing curriculum",
+            "Minimizing classroom disruptions"
+        ],
+        "answer": "Facilitating deep understanding and application of knowledge",
+        "description": "Didactic methods aim to enhance students' understanding and enable them to apply knowledge in various contexts."
+    },
+    {
+        "question": "Which teaching approach is characterized by student-centered learning?",
+        "options": [
+            "Direct instruction",
+            "Constructivism",
+            "Lecture-based learning",
+            "Behaviorism"
+        ],
+        "answer": "Constructivism",
+        "description": "Constructivism emphasizes student-centered learning, where learners actively construct their own understanding and knowledge."
+    },
+    {
+        "question": "Fill in the blank: In didactics, _____ is crucial for evaluating the effectiveness of teaching strategies.",
+        "options": [
+            "feedback",
+            "summarization",
+            "repetition",
+            "assumption"
+        ],
+        "answer": "feedback",
+        "description": "Feedback is essential in didactics as it helps evaluate and improve the effectiveness of teaching strategies and learning outcomes."
+    },
+    {
+        "question": "Which of the following best describes a constructivist approach?",
+        "options": [
+            "Teacher-centered instruction",
+            "Passive learning",
+            "Active participation and collaboration",
+            "Emphasis on rote memorization"
+        ],
+        "answer": "Active participation and collaboration",
+        "description": "A constructivist approach involves active participation and collaboration among students to build their own understanding."
+    },
+    {
+        "question": "What role does scaffolding play in didactics?",
+        "options": [
+            "It limits teacher involvement",
+            "It supports student learning through gradual steps",
+            "It standardizes assessments",
+            "It emphasizes competition"
+        ],
+        "answer": "It supports student learning through gradual steps",
+        "description": "Scaffolding provides support to students by breaking down learning tasks into manageable steps, facilitating understanding."
+    },
+    {
+        "question": "Fill in the blank: The _____ model emphasizes the interaction between teachers, students, and content.",
+        "options": [
+            "transactional",
+            "behavioral",
+            "constructivist",
+            "mechanical"
+        ],
+        "answer": "transactional",
+        "description": "The transactional model focuses on the dynamic interaction between teachers, students, and content in the learning process."
+    },
+    {
+        "question": "What is the purpose of reflective practice in didactics?",
+        "options": [
+            "To create strict lesson plans",
+            "To improve teaching effectiveness through self-evaluation",
+            "To limit student input",
+            "To prioritize standardized tests"
+        ],
+        "answer": "To improve teaching effectiveness through self-evaluation",
+        "description": "Reflective practice helps educators evaluate their teaching methods and effectiveness, leading to continuous improvement."
+    },
+    {
+        "question": "Which of the following is an example of formative assessment?",
+        "options": [
+            "Final exams",
+            "Quizzes during instruction",
+            "Standardized tests",
+            "End-of-term projects"
+        ],
+        "answer": "Quizzes during instruction",
+        "description": "Formative assessments, such as quizzes during instruction, provide ongoing feedback to help improve learning as it happens."
+    },
+    {
+        "question": "Fill in the blank: Didactic strategies should be _____ to accommodate diverse learners.",
+        "options": [
+            "rigid",
+            "flexible",
+            "complicated",
+            "uniform"
+        ],
+        "answer": "flexible",
+        "description": "Flexibility in didactic strategies allows teachers to adapt their methods to meet the varied needs of diverse learners."
+    },
+    {
+        "question": "What is the significance of culturally relevant pedagogy in didactics?",
+        "options": [
+            "It promotes uniformity in teaching",
+            "It ignores cultural differences",
+            "It recognizes and incorporates students' cultural backgrounds",
+            "It emphasizes rote learning"
+        ],
+        "answer": "It recognizes and incorporates students' cultural backgrounds",
+        "description": "Culturally relevant pedagogy acknowledges and utilizes students' cultural backgrounds to enhance learning experiences."
+    },
+    {
+        "question": "Which learning theory is most closely associated with behaviorism?",
+        "options": [
+            "Constructivism",
+            "Cognitivism",
+            "Social learning theory",
+            "Operant conditioning"
+        ],
+        "answer": "Operant conditioning",
+        "description": "Operant conditioning, a key concept in behaviorism, emphasizes the role of reinforcement in learning behaviors."
+    },
+    {
+        "question": "Fill in the blank: A key principle of effective didactics is _____, which involves adapting teaching to student needs.",
+        "options": [
+            "individualization",
+            "generalization",
+            "standardization",
+            "rigidity"
+        ],
+        "answer": "individualization",
+        "description": "Individualization in didactics refers to tailoring teaching methods to meet the specific needs and learning styles of each student."
+    },
+    {
+        "question": "What is the primary function of instructional objectives?",
+        "options": [
+            "To evaluate teachers",
+            "To guide lesson planning and assessment",
+            "To limit student choices",
+            "To enforce discipline"
+        ],
+        "answer": "To guide lesson planning and assessment",
+        "description": "Instructional objectives provide direction for lesson planning and assessment, ensuring that teaching aligns with desired learning outcomes."
+    },
+    {
+        "question": "Which didactic approach emphasizes experiential learning?",
+        "options": [
+            "Behaviorism",
+            "Constructivism",
+            "Cognitivism",
+            "Direct instruction"
+        ],
+        "answer": "Constructivism",
+        "description": "Constructivism emphasizes experiential learning, where students actively engage in the learning process through experiences."
+    },
+    {
+        "question": "Fill in the blank: _____ refers to the methods and techniques used to impart knowledge.",
+        "options": [
+            "Pedagogy",
+            "Didactics",
+            "Assessment",
+            "Curriculum"
+        ],
+        "answer": "Didactics",
+        "description": "Didactics refers to the specific methods and techniques employed in the teaching and learning process."
+    },
+    {
+        "question": "Which of the following is a characteristic of inquiry-based learning?",
+        "options": [
+            "Teacher-centered instruction",
+            "Passive student participation",
+            "Encouraging questions and exploration",
+            "Strict adherence to textbooks"
+        ],
+        "answer": "Encouraging questions and exploration",
+        "description": "Inquiry-based learning encourages students to ask questions and explore topics, fostering a deeper understanding of the subject matter."
+    },
+    {
+        "question": "Fill in the blank: Effective classroom management is crucial for _____ teaching.",
+        "options": [
+            "rigid",
+            "effective",
+            "standardized",
+            "passive"
+        ],
+        "answer": "effective",
+        "description": "Effective classroom management creates an environment conducive to learning, allowing for successful teaching practices."
+    },
+    {
+        "question": "What is the role of the teacher in a student-centered classroom?",
+        "options": [
+            "To deliver information only",
+            "To facilitate and guide learning",
+            "To control all classroom activities",
+            "To assess student performance exclusively"
+        ],
+        "answer": "To facilitate and guide learning",
+        "description": "In a student-centered classroom, the teacher's role is to facilitate and guide students' learning processes rather than merely delivering information."
+    },
+    {
+        "question": "Fill in the blank: The _____ model encourages learners to take responsibility for their own learning.",
+        "options": [
+            "transmissive",
+            "constructivist",
+            "behavioral",
+            "cognitive"
+        ],
+        "answer": "constructivist",
+        "description": "The constructivist model promotes learner autonomy and responsibility, encouraging students to actively participate in their learning."
+    },
+    {
+        "question": "What type of assessment is used to evaluate student learning at the end of an instructional unit?",
+        "options": [
+            "Formative assessment",
+            "Diagnostic assessment",
+            "Summative assessment",
+            "Continuous assessment"
+        ],
+        "answer": "Summative assessment",
+        "description": "Summative assessments are conducted at the end of an instructional unit to evaluate what students have learned."
+    },
+    {
+        "question": "Fill in the blank: _____ learning emphasizes social interactions as a crucial component of the learning process.",
+        "options": [
+            "Individual",
+            "Collaborative",
+            "Independent",
+            "Passive"
+        ],
+        "answer": "Collaborative",
+        "description": "Collaborative learning emphasizes the importance of social interactions and group work in facilitating learning."
+    },
+    {
+        "question": "Which approach to learning emphasizes understanding the mental processes involved in learning?",
+        "options": [
+            "Behaviorism",
+            "Cognitivism",
+            "Constructivism",
+            "Humanism"
+        ],
+        "answer": "Cognitivism",
+        "description": "Cognitivism focuses on understanding the mental processes involved in learning, such as memory, thinking, and problem-solving."
+    },
+    {
+        "question": "Fill in the blank: The concept of _____ intelligence suggests that individuals have different types of intelligences.",
+        "options": [
+            "multiple",
+            "limited",
+            "general",
+            "isolated"
+        ],
+        "answer": "multiple",
+        "description": "Multiple intelligences theory posits that individuals possess various types of intelligences, each influencing their learning styles."
+    },
+    {
+        "question": "What is the focus of behaviorist teaching methods?",
+        "options": [
+            "Cognitive processes",
+            "Observational learning",
+            "Reinforcement and behavior modification",
+            "Social interactions"
+        ],
+        "answer": "Reinforcement and behavior modification",
+        "description": "Behaviorist teaching methods focus on reinforcement and behavior modification to shape students' learning and actions."
+    },
+    {
+        "question": "Fill in the blank: The teacher's role in _____ learning is to provide guidance while students explore and discover.",
+        "options": [
+            "transmissive",
+            "constructivist",
+            "behavioral",
+            "traditional"
+        ],
+        "answer": "constructivist",
+        "description": "In constructivist learning, the teacher provides guidance as students actively explore and discover knowledge."
+    },
+    {
+        "question": "What is the purpose of a teaching philosophy?",
+        "options": [
+            "To dictate classroom rules",
+            "To reflect personal beliefs about teaching and learning",
+            "To establish grading criteria",
+            "To limit student expression"
+        ],
+        "answer": "To reflect personal beliefs about teaching and learning",
+        "description": "A teaching philosophy articulates an educator's beliefs and approaches to teaching, guiding their instructional decisions."
+    },
+    {
+        "question": "Fill in the blank: _____ is the process of evaluating and improving teaching practices based on feedback and self-reflection.",
+        "options": [
+            "Assessment",
+            "Feedback",
+            "Reflective practice",
+            "Standardization"
+        ],
+        "answer": "Reflective practice",
+        "description": "Reflective practice involves evaluating and improving teaching methods through feedback and self-reflection."
+    },
+    {
+        "question": "Which of the following best describes formative assessment?",
+        "options": [
+            "Conducted after instruction",
+            "Used for grading purposes only",
+            "Informs ongoing teaching and learning",
+            "Strictly standardized"
+        ],
+        "answer": "Informs ongoing teaching and learning",
+        "description": "Formative assessment is designed to provide feedback that informs and enhances ongoing teaching and learning."
+    },
+    {
+        "question": "Fill in the blank: _____ refers to the techniques and strategies used to create a supportive learning environment.",
+        "options": [
+            "Classroom management",
+            "Assessment",
+            "Curriculum design",
+            "Standardization"
+        ],
+        "answer": "Classroom management",
+        "description": "Classroom management involves techniques and strategies to create an organized and supportive learning environment."
+    },
+    {
+        "question": "What does the acronym SMART stand for in setting educational goals?",
+        "options": [
+            "Specific, Measurable, Achievable, Relevant, Time-bound",
+            "Simple, Manageable, Attainable, Relevant, Time-sensitive",
+            "Strategic, Meaningful, Adaptable, Realistic, Timed",
+            "Standardized, Measurable, Actionable, Realistic, Timed"
+        ],
+        "answer": "Specific, Measurable, Achievable, Relevant, Time-bound",
+        "description": "SMART goals provide a framework for setting clear, achievable, and time-bound educational objectives."
+    },
+    {
+        "question": "Fill in the blank: A _____ is a detailed plan outlining the objectives, content, and methods of instruction for a specific lesson.",
+        "options": [
+            "curriculum",
+            "lesson plan",
+            "syllabus",
+            "framework"
+        ],
+        "answer": "lesson plan",
+        "description": "A lesson plan details the objectives, content, and instructional methods for a particular lesson, guiding the teaching process."
+    },
+    {
+        "question": "What does scaffolding provide in the learning process?",
+        "options": [
+            "Rote memorization",
+            "Support and guidance",
+            "Independence",
+            "Standardized testing"
+        ],
+        "answer": "Support and guidance",
+        "description": "Scaffolding provides temporary support and guidance to help students accomplish tasks they cannot complete independently."
+    },
+    {
+        "question": "Fill in the blank: _____ intelligence involves the ability to understand and manage emotions effectively.",
+        "options": [
+            "Social",
+            "Emotional",
+            "Cognitive",
+            "Linguistic"
+        ],
+        "answer": "Emotional",
+        "description": "Emotional intelligence is the ability to recognize, understand, and manage one's own and others' emotions."
+    },
+    {
+        "question": "Which teaching method focuses on the direct teaching of vocabulary and grammar?",
+        "options": [
+            "Communicative Language Teaching",
+            "Grammar-Translation Method",
+            "Task-Based Learning",
+            "Project-Based Learning"
+        ],
+        "answer": "Grammar-Translation Method",
+        "description": "The Grammar-Translation Method emphasizes direct teaching of vocabulary and grammar, often through rote learning."
+    },
+    {
+        "question": "Fill in the blank: The _____ approach to teaching emphasizes collaboration and communication among students.",
+        "options": [
+            "individualistic",
+            "cooperative",
+            "competitive",
+            "independent"
+        ],
+        "answer": "cooperative",
+        "description": "Cooperative teaching encourages collaboration and communication among students, promoting peer learning."
+    },
+    {
+        "question": "What is the role of peer assessment in the learning process?",
+        "options": [
+            "To replace teacher assessment",
+            "To limit student feedback",
+            "To provide diverse perspectives and feedback",
+            "To standardize grades"
+        ],
+        "answer": "To provide diverse perspectives and feedback",
+        "description": "Peer assessment allows students to give and receive feedback, enriching their learning experiences through different viewpoints."
+    },
+    {
+        "question": "Fill in the blank: The _____ model of teaching focuses on the integration of theory and practice.",
+        "options": [
+            "transmissive",
+            "problem-based",
+            "cognitive",
+            "behaviorist"
+        ],
+        "answer": "problem-based",
+        "description": "The problem-based model integrates theory and practice, emphasizing real-world problem solving in learning."
+    },
+    {
+        "question": "What does 'differentiation' refer to in didactics?",
+        "options": [
+            "Uniform instruction for all students",
+            "Tailoring instruction to meet diverse needs",
+            "Strict adherence to curriculum",
+            "Limiting student choices"
+        ],
+        "answer": "Tailoring instruction to meet diverse needs",
+        "description": "Differentiation involves adjusting teaching methods and materials to address the varying needs and learning styles of students."
+    },
+    {
+        "question": "Fill in the blank: _____ learning emphasizes understanding the social and cultural contexts of knowledge.",
+        "options": [
+            "Contextual",
+            "Behavioral",
+            "Cognitive",
+            "Individual"
+        ],
+        "answer": "Contextual",
+        "description": "Contextual learning emphasizes the importance of understanding the social and cultural contexts in which knowledge is applied."
+    },
+    {
+        "question": "Which assessment type is best for evaluating students' ongoing progress?",
+        "options": [
+            "Formative",
+            "Summative",
+            "Diagnostic",
+            "Norm-referenced"
+        ],
+        "answer": "Formative",
+        "description": "Formative assessments are used to monitor student learning and provide ongoing feedback to improve teaching and learning."
+    },
+    {
+        "question": "Fill in the blank: _____ is the process of breaking down complex tasks into smaller, manageable parts for students.",
+        "options": [
+            "Simplification",
+            "Scaffolding",
+            "Assessment",
+            "Standardization"
+        ],
+        "answer": "Scaffolding",
+        "description": "Scaffolding breaks complex tasks into manageable parts, aiding student understanding and skill acquisition."
+    },
+    {
+        "question": "What is the aim of using real-world scenarios in teaching?",
+        "options": [
+            "To limit student interaction",
+            "To enhance relevance and applicability of learning",
+            "To focus solely on theory",
+            "To standardize assessments"
+        ],
+        "answer": "To enhance relevance and applicability of learning",
+        "description": "Using real-world scenarios makes learning relevant and applicable, helping students connect theory to practice."
+    },
+    {
+        "question": "Fill in the blank: The _____ approach to learning emphasizes the role of social interactions in knowledge construction.",
+        "options": [
+            "individualistic",
+            "cognitive",
+            "social constructivist",
+            "behaviorist"
+        ],
+        "answer": "social constructivist",
+        "description": "The social constructivist approach highlights the importance of social interactions in the process of knowledge construction."
+    },
+    {
+        "question": "Which of the following best describes 'active learning'?",
+        "options": [
+            "Passive reception of information",
+            "Engagement through activities and discussions",
+            "Memorization of facts",
+            "Teacher-centered instruction"
+        ],
+        "answer": "Engagement through activities and discussions",
+        "description": "Active learning involves engaging students through various activities and discussions, enhancing their involvement in the learning process."
+    },
+    {
+        "question": "Fill in the blank: _____ feedback focuses on how well a student has performed a task.",
+        "options": [
+            "Process",
+            "Outcome",
+            "Peer",
+            "Summative"
+        ],
+        "answer": "Outcome",
+        "description": "Outcome feedback addresses the final results of a student's performance, helping them understand their level of success."
+    },
+    {
+        "question": "What is the benefit of collaborative learning?",
+        "options": [
+            "Increased competition among students",
+            "Limited student interaction",
+            "Enhanced critical thinking and communication skills",
+            "Uniform understanding of content"
+        ],
+        "answer": "Enhanced critical thinking and communication skills",
+        "description": "Collaborative learning fosters critical thinking and communication skills by encouraging students to work together and share ideas."
+    },
+    {
+        "question": "Fill in the blank: The _____ model integrates theory with practice, focusing on real-life applications of knowledge.",
+        "options": [
+            "cognitive",
+            "problem-based",
+            "constructivist",
+            "behavioral"
+        ],
+        "answer": "problem-based",
+        "description": "The problem-based model emphasizes integrating theory with practice through real-life applications of knowledge."
+    },
+    {
+        "question": "What does the term 'pedagogical content knowledge' refer to?",
+        "options": [
+            "Knowledge of assessment methods",
+            "Understanding how to teach specific content",
+            "General teaching strategies",
+            "Classroom management techniques"
+        ],
+        "answer": "Understanding how to teach specific content",
+        "description": "Pedagogical content knowledge is the understanding of how to effectively teach specific subject matter."
+    },
+    {
+        "question": "Fill in the blank: _____ refers to the techniques used to motivate students in their learning process.",
+        "options": [
+            "Engagement strategies",
+            "Assessment methods",
+            "Standardization",
+            "Evaluation criteria"
+        ],
+        "answer": "Engagement strategies",
+        "description": "Engagement strategies are methods used to motivate and involve students in their learning process."
+    },
+    {
+        "question": "What is a key benefit of using technology in education?",
+        "options": [
+            "Limiting access to information",
+            "Enhancing engagement and interactivity",
+            "Standardizing learning experiences",
+            "Reducing teacher involvement"
+        ],
+        "answer": "Enhancing engagement and interactivity",
+        "description": "Technology can enhance student engagement and interactivity, providing dynamic learning experiences."
+    },
+    {
+        "question": "Fill in the blank: The _____ approach emphasizes learning through exploration and discovery.",
+        "options": [
+            "behaviorist",
+            "constructivist",
+            "traditional",
+            "directive"
+        ],
+        "answer": "constructivist",
+        "description": "The constructivist approach encourages students to learn through exploration and discovery, fostering deeper understanding."
+    },
+    {
+        "question": "Which of the following is a characteristic of effective teaching?",
+        "options": [
+            "Uniform instruction for all",
+            "Ignoring student feedback",
+            "Adaptability to student needs",
+            "Focus on memorization"
+        ],
+        "answer": "Adaptability to student needs",
+        "description": "Effective teaching is characterized by adaptability to meet the diverse needs of students in the classroom."
+    },
+    {
+        "question": "Fill in the blank: _____ refers to the strategies teachers use to motivate and engage students in learning.",
+        "options": [
+            "Instructional strategies",
+            "Assessment strategies",
+            "Feedback methods",
+            "Classroom management"
+        ],
+        "answer": "Instructional strategies",
+        "description": "Instructional strategies are the methods teachers use to engage and motivate students in their learning process."
+    },
+    {
+        "question": "What is the purpose of using formative assessments in the classroom?",
+        "options": [
+            "To assign final grades",
+            "To monitor student progress and inform instruction",
+            "To determine eligibility for advancement",
+            "To standardize learning"
+        ],
+        "answer": "To monitor student progress and inform instruction",
+        "description": "Formative assessments help teachers track student progress and adjust instruction as needed to improve learning outcomes."
+    },
+    {
+        "question": "Fill in the blank: _____ intelligence involves the ability to relate to and understand other people's emotions.",
+        "options": [
+            "Emotional",
+            "Social",
+            "Cognitive",
+            "Creative"
+        ],
+        "answer": "Social",
+        "description": "Social intelligence is the ability to navigate social situations and understand others' emotions and motivations."
+    },
+    {
+        "question": "What does the term 'constructivist teaching' imply?",
+        "options": [
+            "Teacher-centered instruction",
+            "Passive learning",
+            "Active student participation and exploration",
+            "Emphasis on rote memorization"
+        ],
+        "answer": "Active student participation and exploration",
+        "description": "Constructivist teaching implies that students actively participate and explore knowledge rather than passively receiving information."
+    },
+    {
+        "question": "Fill in the blank: The _____ model of teaching emphasizes the use of real-world problems in the learning process.",
+        "options": [
+            "traditional",
+            "behavioral",
+            "problem-based",
+            "cognitive"
+        ],
+        "answer": "problem-based",
+        "description": "The problem-based model of teaching uses real-world problems to engage students in active learning and critical thinking."
+    },
+    {
+        "question": "What is the significance of a well-structured lesson plan?",
+        "options": [
+            "To restrict teacher creativity",
+            "To guide instruction and ensure learning objectives are met",
+            "To limit student engagement",
+            "To enforce discipline"
+        ],
+        "answer": "To guide instruction and ensure learning objectives are met",
+        "description": "A well-structured lesson plan helps guide instruction, ensuring that learning objectives are effectively met."
+    },
+    {
+        "question": "Fill in the blank: _____ is the ability to critically assess and improve one's own teaching practices.",
+        "options": [
+            "Reflective practice",
+            "Standardization",
+            "Assessment",
+            "Instructional strategy"
+        ],
+        "answer": "Reflective practice",
+        "description": "Reflective practice involves critically assessing and improving one’s teaching practices through self-reflection and feedback."
+    }
+]

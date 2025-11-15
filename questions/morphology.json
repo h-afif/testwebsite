@@ -1,0 +1,302 @@
+[
+    {
+        "question": "What is the smallest unit of meaning in a language?",
+        "options": [
+            "Phoneme",
+            "Morpheme",
+            "Syllable"
+        ],
+        "answer": "Morpheme",
+        "description": "A morpheme is the smallest grammatical unit that carries meaning, such as 'un-' in 'unhappy' or 's' in 'dogs'. A phoneme is a sound, and a syllable is a unit of pronunciation."
+    },
+    {
+        "question": "Which of the following is an example of a free morpheme?",
+        "options": [
+            "'un-'",
+            "'happy'",
+            "'-ed'"
+        ],
+        "answer": "'happy'",
+        "description": "A free morpheme can stand alone as a word, like 'happy'. 'Un-' and '-ed' are bound morphemes because they must attach to another morpheme to convey meaning."
+    },
+    {
+        "question": "Which of these is a derivational morpheme?",
+        "options": [
+            "'-ed' in 'walked'",
+            "'-ness' in 'happiness'",
+            "'-s' in 'cats'"
+        ],
+        "answer": "'-ness' in 'happiness'",
+        "description": "Derivational morphemes change the grammatical category of a word, such as turning the adjective 'happy' into the noun 'happiness'. '-ed' and '-s' are inflectional morphemes."
+    },
+    {
+        "question": "What is the process of forming a new word by adding affixes to a base called?",
+        "options": [
+            "Compounding",
+            "Inflection",
+            "Derivation"
+        ],
+        "answer": "Derivation",
+        "description": "Derivation involves creating new words by adding prefixes or suffixes, such as 'happiness' from 'happy'. Compounding combines two words, and inflection alters a word to express tense or number."
+    },
+    {
+        "question": "Which of these morphemes is a suffix?",
+        "options": [
+            "'un-'",
+            "'re-'",
+            "'-ly'"
+        ],
+        "answer": "'-ly'",
+        "description": "'-ly' is a suffix because it is added to the end of a word, such as 'quickly'. Prefixes like 'un-' and 're-' are added to the beginning of a word."
+    },
+    {
+        "question": "In the word 'cats', the morpheme '-s' is an example of what kind of morpheme?",
+        "options": [
+            "Inflectional",
+            "Derivational",
+            "Lexical"
+        ],
+        "answer": "Inflectional",
+        "description": "The '-s' morpheme in 'cats' is inflectional, indicating plural form. Inflectional morphemes modify a word's tense, number, or aspect without changing its core meaning or category."
+    },
+    {
+        "question": "Which word is an example of a compound word?",
+        "options": [
+            "'Notebook'",
+            "'Runner'",
+            "'Slowly'"
+        ],
+        "answer": "'Notebook'",
+        "description": "A compound word combines two free morphemes, as in 'notebook' (note + book). 'Runner' involves derivation, and 'slowly' is an adverb formed with a suffix."
+    },
+    {
+        "question": "Which term describes a morpheme that must be attached to another morpheme?",
+        "options": [
+            "Free morpheme",
+            "Bound morpheme",
+            "Allomorph"
+        ],
+        "answer": "Bound morpheme",
+        "description": "A bound morpheme, like '-ed' or 'un-', cannot stand alone and must be attached to a root or base morpheme. Free morphemes, like 'book', can function independently."
+    },
+    {
+        "question": "Which of the following words contains both a prefix and a suffix?",
+        "options": [
+            "'Unhappiness'",
+            "'Books'",
+            "'Dislike'"
+        ],
+        "answer": "'Unhappiness'",
+        "description": "'Unhappiness' contains both a prefix ('un-') and a suffix ('-ness'). 'Books' only has a suffix, and 'dislike' only has a prefix."
+    },
+    {
+        "question": "What is the process of creating a new word by removing an affix called?",
+        "options": [
+            "Backformation",
+            "Compounding",
+            "Derivation"
+        ],
+        "answer": "Backformation",
+        "description": "Backformation involves removing an affix to create a new word, such as forming 'edit' from 'editor'. Compounding combines words, and derivation adds affixes to change meaning."
+    },
+    {
+        "question": "In the word 'singer', the morpheme '-er' is an example of what?",
+        "options": [
+            "Inflectional morpheme",
+            "Derivational morpheme",
+            "Allomorph"
+        ],
+        "answer": "Derivational morpheme",
+        "description": "'-er' is a derivational morpheme because it turns the verb 'sing' into the noun 'singer'. Inflectional morphemes like '-s' or '-ed' modify tense or number."
+    },
+    {
+        "question": "Which of the following words is formed through compounding?",
+        "options": [
+            "'Blackboard'",
+            "'Rebuild'",
+            "'Happiness'"
+        ],
+        "answer": "'Blackboard'",
+        "description": "'Blackboard' is a compound word combining 'black' and 'board'. 'Rebuild' uses a prefix, and 'happiness' involves a suffix."
+    },
+    {
+        "question": "Which of these morphemes is considered inflectional?",
+        "options": [
+            "'-ed'",
+            "'-ful'",
+            "'un-'"
+        ],
+        "answer": "'-ed'",
+        "description": "The morpheme '-ed' is inflectional, as it indicates past tense without changing the core meaning or category of the word. Derivational morphemes like '-ful' change the word’s meaning or category."
+    },
+    {
+        "question": "What type of morpheme is 's' in the word 'dogs'?",
+        "options": [
+            "Free morpheme",
+            "Bound morpheme",
+            "Root morpheme"
+        ],
+        "answer": "Bound morpheme",
+        "description": "'S' is a bound morpheme because it cannot stand alone and must attach to a root (in this case, 'dog') to indicate plural."
+    },
+    {
+        "question": "Which of the following is an example of a portmanteau word?",
+        "options": [
+            "'Brunch'",
+            "'Playground'",
+            "'Unkind'"
+        ],
+        "answer": "'Brunch'",
+        "description": "A portmanteau word blends parts of two words to create a new one, as in 'brunch' (breakfast + lunch). 'Playground' is a compound word, and 'unkind' involves prefixation."
+    },
+    {
+        "question": "What is the term for a morpheme that provides the core meaning of a word?",
+        "options": [
+            "Root morpheme",
+            "Inflectional morpheme",
+            "Affix"
+        ],
+        "answer": "Root morpheme",
+        "description": "A root morpheme provides the base meaning of a word and can be free or bound. Affixes (prefixes or suffixes) modify the meaning or grammatical role of the root."
+    },
+    {
+        "question": "In the word 'nationalization', how many morphemes are there?",
+        "options": [
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "4",
+        "description": "The word 'nationalization' has four morphemes: 'nation' (root), '-al' (derivational suffix), '-ize' (verb-forming suffix), and '-tion' (noun-forming suffix)."
+    },
+    {
+        "question": "What is the term for different realizations of the same morpheme?",
+        "options": [
+            "Allomorphs",
+            "Inflections",
+            "Derivations"
+        ],
+        "answer": "Allomorphs",
+        "description": "Allomorphs are variants of a morpheme, such as the plural morpheme '-s' being realized as /s/, /z/, or /ɪz/ depending on the phonetic context."
+    },
+    {
+        "question": "In the word 'cats', which part is the root morpheme?",
+        "options": [
+            "'Cat'",
+            "'s'",
+            "'Both cat and s'"
+        ],
+        "answer": "'Cat'",
+        "description": "The root morpheme in 'cats' is 'cat', as it carries the core meaning. The '-s' is an inflectional morpheme indicating plural."
+    },
+    {
+        "question": "What type of morpheme changes the grammatical category of a word?",
+        "options": [
+            "Derivational morpheme",
+            "Inflectional morpheme",
+            "Bound morpheme"
+        ],
+        "answer": "Derivational morpheme",
+        "description": "A derivational morpheme changes the grammatical category or meaning of a word, such as turning the adjective 'happy' into the noun 'happiness'."
+    },
+    {
+        "question": "What is the process called when a new word is formed by blending parts of two words?",
+        "options": [
+            "Compounding",
+            "Blending",
+            "Affixation"
+        ],
+        "answer": "Blending",
+        "description": "Blending combines parts of two words to create a new one, like 'smog' (smoke + fog). Compounding combines full words, and affixation adds prefixes or suffixes."
+    },
+    {
+        "question": "What is an example of a zero morpheme?",
+        "options": [
+            "'Sheep' (singular and plural form)",
+            "'Cats'",
+            "'Running'"
+        ],
+        "answer": "'Sheep' (singular and plural form)",
+        "description": "A zero morpheme is an implied morpheme that doesn’t change the word’s form, as in 'sheep' where the singular and plural are the same."
+    },
+    {
+        "question": "In which of the following words is an inflectional morpheme used?",
+        "options": [
+            "'Talking'",
+            "'Kindness'",
+            "'Unhappy'"
+        ],
+        "answer": "'Talking'",
+        "description": "'Talking' uses the inflectional morpheme '-ing' to indicate progressive tense. 'Kindness' and 'unhappy' involve derivational morphemes that change meaning or category."
+    },
+    {
+        "question": "What is a clipped word?",
+        "options": [
+            "'Lab' from 'laboratory'",
+            "'Happiness'",
+            "'Unkind'"
+        ],
+        "answer": "'Lab' from 'laboratory'",
+        "description": "A clipped word is a shortened form of a longer word, such as 'lab' from 'laboratory'. This process involves reducing the original word without changing its meaning."
+    },
+    {
+        "question": "Which of the following is an example of reduplication?",
+        "options": [
+            "'Bye-bye'",
+            "'Running'",
+            "'Unkind'"
+        ],
+        "answer": "'Bye-bye'",
+        "description": "Reduplication involves repeating a part of a word, as in 'bye-bye'. It’s a morphological process that often indicates repetition or emphasis."
+    },
+    {
+        "question": "In the word 'teachers', which part represents the derivational morpheme?",
+        "options": [
+            "'Teach'",
+            "'-er'",
+            "'-s'"
+        ],
+        "answer": "'-er'",
+        "description": "'-er' is the derivational morpheme in 'teachers' because it turns the verb 'teach' into a noun. The '-s' is inflectional, indicating plurality."
+    },
+    {
+        "question": "What is the difference between an affix and a root morpheme?",
+        "options": [
+            "An affix modifies meaning, while a root is the core meaning",
+            "An affix is always free, while a root is always bound",
+            "Affixes are derivational, while roots are inflectional"
+        ],
+        "answer": "An affix modifies meaning, while a root is the core meaning",
+        "description": "An affix (prefix or suffix) modifies the meaning or function of a root morpheme, which provides the core meaning of the word."
+    },
+    {
+        "question": "Which of the following words contains a derivational morpheme?",
+        "options": [
+            "'Misunderstand'",
+            "'Cats'",
+            "'Walked'"
+        ],
+        "answer": "'Misunderstand'",
+        "description": "'Misunderstand' has a derivational morpheme ('mis-'), which changes the meaning of the base 'understand'. The other options involve inflectional morphemes for tense and number."
+    },
+    {
+        "question": "Which of the following words shows inflectional morphology?",
+        "options": [
+            "'Walked'",
+            "'Unkind'",
+            "'Unhappiness'"
+        ],
+        "answer": "'Walked'",
+        "description": "'Walked' uses the inflectional morpheme '-ed' to indicate past tense. 'Unkind' and 'unhappiness' involve derivational morphemes."
+    },
+    {
+        "question": "In morphology, what is a suppletive form?",
+        "options": [
+            "A form where an entirely different word is used to express a grammatical contrast",
+            "A morpheme that has the same form in all contexts",
+            "A morpheme that must be attached to a root"
+        ],
+        "answer": "A form where an entirely different word is used to express a grammatical contrast",
+        "description": "Suppletion occurs when a completely different word is used for a grammatical form, like 'go' and 'went'. It contrasts with regular morphological patterns."
+    }
+]

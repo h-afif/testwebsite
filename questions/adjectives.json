@@ -1,0 +1,320 @@
+[
+    {
+        "question": "Which order is correct: She bought a __, __ car.",
+        "options": ["red, beautiful", "beautiful, red", "beautiful red", "red beautiful"],
+        "answer": "beautiful, red",
+        "description": "Adjective order typically places opinion adjectives ('beautiful') before color adjectives ('red')."
+    },
+    {
+        "question": "He is __ than his brother when it comes to solving math problems.",
+        "options": ["more intelligent", "intelligent", "most intelligent", "intelligenter"],
+        "answer": "more intelligent",
+        "description": "'More intelligent' is the correct comparative form, comparing intelligence between two people."
+    },
+    {
+        "question": "The movie was __ boring, and I nearly fell asleep.",
+        "options": ["absolutely", "slightly", "barely", "moderately"],
+        "answer": "absolutely",
+        "description": "'Absolutely' is used to intensify adjectives like 'boring', emphasizing that it was extremely boring."
+    },
+    {
+        "question": "Which order is correct: It was a __, __, __ day.",
+        "options": ["hot, long, tiring", "long, tiring, hot", "tiring, hot, long", "tiring, long, hot"],
+        "answer": "long, tiring, hot",
+        "description": "When using multiple adjectives, duration ('long') comes before opinion ('tiring') and temperature ('hot')."
+    },
+    {
+        "question": "The food was not only tasty but also __ prepared.",
+        "options": ["beautifully", "beautiful", "beauty", "beautify"],
+        "answer": "beautifully",
+        "description": "'Beautifully' is the correct adverb form modifying 'prepared,' indicating how the food was presented."
+    },
+    {
+        "question": "Which order is correct: She has a __, __ dog.",
+        "options": ["small, cute", "cute, small", "cutely, small", "small cutely"],
+        "answer": "cute, small",
+        "description": "Opinion ('cute') comes before size ('small') in adjective order."
+    },
+    {
+        "question": "The conference was __ organized, with speakers from all over the world.",
+        "options": ["well", "good", "best", "better"],
+        "answer": "well",
+        "description": "'Well' is the correct adverb form, describing how the conference was organized."
+    },
+    {
+        "question": "He is the __ talented musician in the band.",
+        "options": ["most", "more", "much", "best"],
+        "answer": "most",
+        "description": "'Most' is used with longer adjectives (like 'talented') to form the superlative."
+    },
+    {
+        "question": "This is one of the __ interesting books I have ever read.",
+        "options": ["most", "more", "much", "best"],
+        "answer": "most",
+        "description": "'Most' is used as a superlative to indicate the highest degree of interest among many."
+    },
+    {
+        "question": "She wore a __-made dress to the gala event.",
+        "options": ["hand", "handmade", "making-hand", "hand-making"],
+        "answer": "handmade",
+        "description": "'Handmade' is a compound adjective describing something made by hand."
+    },
+    {
+        "question": "I love the __ flowers you picked for the garden.",
+        "options": ["bright", "brighter", "brightness", "brightest"],
+        "answer": "bright",
+        "description": "'Bright' is a simple descriptive adjective that modifies 'flowers.'"
+    },
+    {
+        "question": "She is __ as her sister when it comes to dancing.",
+        "options": ["as talented", "so talented", "more talented", "talented"],
+        "answer": "as talented",
+        "description": "'As talented as' is used to show equal ability between two people."
+    },
+    {
+        "question": "The __-decorated house stood out among the others.",
+        "options": ["well", "best", "better", "good"],
+        "answer": "well",
+        "description": "'Well' is an adverb modifying 'decorated', describing how the house was decorated."
+    },
+    {
+        "question": "Which is correct: __, __ and __ are the forms of comparison for the adjective 'happy.'",
+        "options": ["happy, happier, happiest", "happy, more happy, most happy", "happier, happiest, happy", "happiest, happier, happy"],
+        "answer": "happy, happier, happiest",
+        "description": "For most one-syllable adjectives like 'happy,' the comparative is formed by adding '-er' and the superlative by adding '-est.'"
+    },
+    {
+        "question": "She lives in a __-clean apartment near the city center.",
+        "options": ["spotlessly", "spotless", "spots", "spotless clean"],
+        "answer": "spotlessly",
+        "description": "'Spotlessly' is the correct adverb form modifying 'clean,' describing the high standard of cleanliness."
+    },
+    {
+        "question": "His jokes are __ funnier than I expected.",
+        "options": ["much", "more", "most", "best"],
+        "answer": "much",
+        "description": "'Much' is used to intensify the comparative 'funnier,' indicating a large degree of difference."
+    },
+    {
+        "question": "Choose the correct phrase: She is __ skilled __ creative.",
+        "options": ["both, and", "both, also", "as, as", "more, than"],
+        "answer": "both, and",
+        "description": "The correct structure is 'both ... and' when describing two qualities in the same subject."
+    },
+    {
+        "question": "I was __ disappointed when they canceled the concert.",
+        "options": ["extremely", "absolute", "extreme", "much"],
+        "answer": "extremely",
+        "description": "'Extremely' is used to intensify the adjective 'disappointed,' indicating a high level of disappointment."
+    },
+    {
+        "question": "The __-shaped vase on the table is my favorite.",
+        "options": ["oval", "ovally", "oval-shaped", "shape-oval"],
+        "answer": "oval-shaped",
+        "description": "'Oval-shaped' is a compound adjective that describes the shape of the vase."
+    },
+    {
+        "question": "Which order is correct: She owns a __, __ house by the lake.",
+        "options": ["beautiful, small", "small, beautiful", "small beautiful", "beautiful small"],
+        "answer": "beautiful, small",
+        "description": "Opinion adjectives ('beautiful') come before size adjectives ('small')."
+    },
+    {
+        "question": "Her proposal was __ innovative than the others presented at the meeting.",
+        "options": ["more", "most", "much", "best"],
+        "answer": "more",
+        "description": "'More' is used to form the comparative for longer adjectives like 'innovative.'"
+    },
+    {
+        "question": "The __ flowers filled the room with fragrance.",
+        "options": ["fresh", "freshly", "fresher", "freshest"],
+        "answer": "fresh",
+        "description": "'Fresh' is a simple descriptive adjective describing the state of the flowers."
+    },
+    {
+        "question": "Which sentence is correct: She is the __ dancer in the group.",
+        "options": ["most graceful", "gracefulest", "more graceful", "graceful"],
+        "answer": "most graceful",
+        "description": "'Most graceful' is the correct superlative form for longer adjectives like 'graceful.'"
+    },
+    {
+        "question": "Her mood was getting __ the longer she waited.",
+        "options": ["worse", "worst", "bad", "badly"],
+        "answer": "worse",
+        "description": "'Worse' is the correct comparative form of 'bad,' showing a decline in her mood over time."
+    },
+    {
+        "question": "The __-looking cat wandered into the kitchen.",
+        "options": ["tired", "tiring", "tiredly", "most tired"],
+        "answer": "tired",
+        "description": "'Tired' is the participle adjective used here to describe the cat's state."
+    },
+    {
+        "question": "Which order is correct: She bought a __, __ car.",
+        "options": ["red, beautiful", "beautiful, red", "beautiful red", "red beautiful"],
+        "answer": "beautiful, red",
+        "description": "In English, adjectives follow a specific order. Opinion adjectives like 'beautiful' come before color adjectives like 'red.'"
+    },
+    {
+        "question": "He is __ than his brother when it comes to solving math problems.",
+        "options": ["more intelligent", "intelligent", "most intelligent", "intelligenter"],
+        "answer": "more intelligent",
+        "description": "'Intelligent' has more than one syllable, so it requires 'more' to form the comparative, not the suffix '-er.'"
+    },
+    {
+        "question": "The movie was __ boring, and I nearly fell asleep.",
+        "options": ["absolutely", "slightly", "barely", "moderately"],
+        "answer": "absolutely",
+        "description": "'Absolutely' is used to emphasize extreme adjectives like 'boring,' showing the movie was extremely dull."
+    },
+    {
+        "question": "Which order is correct: It was a __, __, __ day.",
+        "options": ["hot, long, tiring", "long, tiring, hot", "tiring, hot, long", "tiring, long, hot"],
+        "answer": "long, tiring, hot",
+        "description": "The correct order for adjectives is duration ('long'), opinion ('tiring'), and finally temperature ('hot')."
+    },
+    {
+        "question": "The food was not only tasty but also __ prepared.",
+        "options": ["beautifully", "beautiful", "beauty", "beautify"],
+        "answer": "beautifully",
+        "description": "The adverb 'beautifully' is needed to modify the verb 'prepared,' explaining how the food was prepared."
+    },
+    {
+        "question": "Which order is correct: She has a __, __ dog.",
+        "options": ["small, cute", "cute, small", "cutely, small", "small cutely"],
+        "answer": "cute, small",
+        "description": "Opinion adjectives ('cute') come before size adjectives ('small')."
+    },
+    {
+        "question": "The conference was __ organized, with speakers from all over the world.",
+        "options": ["well", "good", "best", "better"],
+        "answer": "well",
+        "description": "'Well' is an adverb that modifies 'organized.' Adverbs, not adjectives, describe how something is done."
+    },
+    {
+        "question": "He is the __ talented musician in the band.",
+        "options": ["most", "more", "much", "best"],
+        "answer": "most",
+        "description": "For adjectives with three or more syllables, 'most' is used to form the superlative."
+    },
+    {
+        "question": "This is one of the __ interesting books I have ever read.",
+        "options": ["most", "more", "much", "best"],
+        "answer": "most",
+        "description": "'Interesting' is a three-syllable adjective, so 'most' is used to form the superlative, not '-est.'"
+    },
+    {
+        "question": "She wore a __-made dress to the gala event.",
+        "options": ["hand", "handmade", "making-hand", "hand-making"],
+        "answer": "handmade",
+        "description": "'Handmade' is a compound adjective describing something crafted by hand."
+    },
+    {
+        "question": "I love the __ flowers you picked for the garden.",
+        "options": ["bright", "brighter", "brightness", "brightest"],
+        "answer": "bright",
+        "description": "'Bright' is a descriptive adjective and fits best in this context to modify 'flowers.'"
+    },
+    {
+        "question": "She is __ as her sister when it comes to dancing.",
+        "options": ["as talented", "so talented", "more talented", "talented"],
+        "answer": "as talented",
+        "description": "The construction 'as...as' is used to express equality in comparison."
+    },
+    {
+        "question": "The __-decorated house stood out among the others.",
+        "options": ["well", "best", "better", "good"],
+        "answer": "well",
+        "description": "'Well' is the adverb needed to modify 'decorated,' describing how the house was decorated."
+    },
+    {
+        "question": "Which is correct: __, __ and __ are the forms of comparison for the adjective 'happy.'",
+        "options": ["happy, happier, happiest", "happy, more happy, most happy", "happier, happiest, happy", "happiest, happier, happy"],
+        "answer": "happy, happier, happiest",
+        "description": "'Happy' is a two-syllable adjective ending in '-y,' which changes to '-ier' and '-iest' for the comparative and superlative forms."
+    },
+    {
+        "question": "She lives in a __-clean apartment near the city center.",
+        "options": ["spotlessly", "spotless", "spots", "spotless clean"],
+        "answer": "spotlessly",
+        "description": "The adverb 'spotlessly' is needed to modify 'clean,' describing the degree of cleanliness."
+    },
+    {
+        "question": "His jokes are __ funnier than I expected.",
+        "options": ["much", "more", "most", "best"],
+        "answer": "much",
+        "description": "'Much' is used to intensify comparative adjectives like 'funnier.'"
+    },
+    {
+        "question": "Choose the correct phrase: She is __ skilled __ creative.",
+        "options": ["both, and", "both, also", "as, as", "more, than"],
+        "answer": "both, and",
+        "description": "'Both ... and' is used to connect two equally important qualities."
+    },
+    {
+        "question": "I was __ disappointed when they canceled the concert.",
+        "options": ["extremely", "absolute", "extreme", "much"],
+        "answer": "extremely",
+        "description": "'Extremely' is used to intensify adjectives like 'disappointed,' expressing a high degree."
+    },
+    {
+        "question": "The __-shaped vase on the table is my favorite.",
+        "options": ["oval", "ovally", "oval-shaped", "shape-oval"],
+        "answer": "oval-shaped",
+        "description": "A compound adjective like 'oval-shaped' is used to describe the form of the vase."
+    },
+    {
+        "question": "Which order is correct: She owns a __, __ house by the lake.",
+        "options": ["beautiful, small", "small, beautiful", "small beautiful", "beautiful small"],
+        "answer": "beautiful, small",
+        "description": "Opinion adjectives ('beautiful') come before size adjectives ('small')."
+    },
+    {
+        "question": "Her proposal was __ innovative than the others presented at the meeting.",
+        "options": ["more", "most", "much", "best"],
+        "answer": "more",
+        "description": "Adjectives with three or more syllables like 'innovative' require 'more' to form the comparative."
+    },
+    {
+        "question": "The __ flowers filled the room with fragrance.",
+        "options": ["fresh", "freshly", "fresher", "freshest"],
+        "answer": "fresh",
+        "description": "'Fresh' is a simple adjective used here to describe the flowers."
+    },
+    {
+        "question": "Which sentence is correct: She is the __ dancer in the group.",
+        "options": ["most graceful", "gracefulest", "more graceful", "graceful"],
+        "answer": "most graceful",
+        "description": "Adjectives with three syllables or more, such as 'graceful,' require 'most' to form the superlative."
+    },
+    {
+        "question": "Her mood was getting __ the longer she waited.",
+        "options": ["worse", "worst", "bad", "badly"],
+        "answer": "worse",
+        "description": "'Worse' is the correct comparative form of 'bad.'"
+    },
+    {
+        "question": "The __-looking cat wandered into the kitchen.",
+        "options": ["tired", "tiring", "tiredly", "most tired"],
+        "answer": "tired",
+        "description": "'Tired' is a participle adjective that describes the appearance or state of the cat."
+    },
+    {
+        "question": "Which sentence is correct: This was one of the __ interesting books I've ever read.",
+        "options": ["most", "more", "very", "better"],
+        "answer": "most",
+        "description": "'Most' is used with adjectives that have three syllables or more, like 'interesting,' to form the superlative."
+    },
+    {
+        "question": "It is __ to plan ahead when working on a project.",
+        "options": ["important", "importantly", "more important", "importance"],
+        "answer": "important",
+        "description": "'Important' is a simple descriptive adjective needed to convey the necessity of planning."
+    },
+    {
+        "question": "She felt __ after the long meeting.",
+        "options": ["exhausted", "exhaust", "exhausting", "exhaustedly"],
+        "answer": "exhausted",
+        "description": "'Exhausted' is a participle adjective that describes her feeling after the meeting."
+    }
+]

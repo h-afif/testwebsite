@@ -1,0 +1,712 @@
+[
+    {
+        "question": "What is the main difference between an approach and a method in language teaching?",
+        "options": [
+            "An approach is broader than a method.",
+            "A method is broader than an approach.",
+            "They are the same."
+        ],
+        "answer": "An approach is broader than a method.",
+        "description": "An approach outlines theoretical principles, while a method is a specific way to implement those principles."
+    },
+    {
+        "question": "Which learning theory emphasizes observable behaviors?",
+        "options": [
+            "Cognitivism",
+            "Constructivism",
+            "Behaviourism"
+        ],
+        "answer": "Behaviourism",
+        "description": "Behaviourism focuses on observable and measurable aspects of students' behavior."
+    },
+    {
+        "question": "Fill in the blank: The _____ approach focuses on the needs and interests of learners.",
+        "options": [
+            "Competency-based",
+            "Grammar-Translation",
+            "Audio-lingual"
+        ],
+        "answer": "Competency-based",
+        "description": "Competency-based approaches prioritize the skills and knowledge that learners need."
+    },
+    {
+        "question": "What does the Total Physical Response method involve?",
+        "options": [
+            "Listening only",
+            "Physical movement in response to language",
+            "Reading texts aloud"
+        ],
+        "answer": "Physical movement in response to language",
+        "description": "Total Physical Response engages students in physical actions to reinforce language learning."
+    },
+    {
+        "question": "Which of the following is a type of intelligence according to Gardner's theory?",
+        "options": [
+            "Linguistic intelligence",
+            "Physical intelligence",
+            "Artificial intelligence"
+        ],
+        "answer": "Linguistic intelligence",
+        "description": "Linguistic intelligence is the ability to use language effectively, one of the multiple intelligences proposed by Gardner."
+    },
+    {
+        "question": "Which skill is primarily developed through listening activities?",
+        "options": [
+            "Reading",
+            "Speaking",
+            "Writing"
+        ],
+        "answer": "Speaking",
+        "description": "Listening skills support speaking development by providing models of language use."
+    },
+    {
+        "question": "What is a key characteristic of the Grammar-Translation Method?",
+        "options": [
+            "Focus on speaking",
+            "Emphasis on grammar and vocabulary memorization",
+            "Use of multimedia"
+        ],
+        "answer": "Emphasis on grammar and vocabulary memorization",
+        "description": "The Grammar-Translation Method relies heavily on explicit grammar instruction and vocabulary drills."
+    },
+    {
+        "question": "Fill in the blank: The _____ approach incorporates elements from various methods to suit learners' needs.",
+        "options": [
+            "Eclectic",
+            "Direct",
+            "Silent"
+        ],
+        "answer": "Eclectic",
+        "description": "An eclectic approach combines different teaching methods for a more tailored learning experience."
+    },
+    {
+        "question": "Which of the following best describes intrinsic motivation?",
+        "options": [
+            "Motivation driven by external rewards",
+            "Motivation driven by internal satisfaction",
+            "Motivation based on peer pressure"
+        ],
+        "answer": "Motivation driven by internal satisfaction",
+        "description": "Intrinsic motivation arises from personal interest and enjoyment in the learning process."
+    },
+    {
+        "question": "What is a common method for assessing student learning?",
+        "options": [
+            "Standardized testing",
+            "Avoiding assessments",
+            "Personal opinions"
+        ],
+        "answer": "Standardized testing",
+        "description": "Standardized tests provide a consistent measure of student performance across various settings."
+    },
+    {
+        "question": "Complete the sentence: A good lesson plan should include _____ objectives.",
+        "options": [
+            "vague",
+            "clear and specific",
+            "irrelevant"
+        ],
+        "answer": "clear and specific",
+        "description": "Clear objectives help guide instruction and provide focus for the lesson."
+    },
+    {
+        "question": "Which teaching method focuses on using everyday language in context?",
+        "options": [
+            "Community Language Learning",
+            "Grammar-Translation",
+            "Suggestopedia"
+        ],
+        "answer": "Community Language Learning",
+        "description": "This method emphasizes interaction and real communication in the language learning process."
+    },
+    {
+        "question": "Fill in the blank: The _____ framework emphasizes teaching language in three stages: Presentation, Practice, and Production.",
+        "options": [
+            "PPP",
+            "ECRIF",
+            "GTM"
+        ],
+        "answer": "PPP",
+        "description": "The PPP framework structures lessons to introduce, practice, and then produce new language."
+    },
+    {
+        "question": "Which type of classroom management involves setting clear expectations?",
+        "options": [
+            "Reactive management",
+            "Proactive management",
+            "Unstructured management"
+        ],
+        "answer": "Proactive management",
+        "description": "Proactive management involves anticipating issues and setting expectations to create a positive learning environment."
+    },
+    {
+        "question": "What is the primary purpose of assessment in education?",
+        "options": [
+            "To grade students",
+            "To measure student learning and guide instruction",
+            "To provide busywork"
+        ],
+        "answer": "To measure student learning and guide instruction",
+        "description": "Assessment helps educators understand student progress and informs teaching strategies."
+    },
+    {
+        "question": "Which learning style focuses on hands-on activities?",
+        "options": [
+            "Auditory",
+            "Kinesthetic",
+            "Visual"
+        ],
+        "answer": "Kinesthetic",
+        "description": "Kinesthetic learners thrive through physical engagement and hands-on experiences."
+    },
+    {
+        "question": "What is a key principle of constructivist learning?",
+        "options": [
+            "Knowledge is transmitted from teacher to student.",
+            "Students construct their own understanding.",
+            "Memorization is prioritized."
+        ],
+        "answer": "Students construct their own understanding.",
+        "description": "Constructivism posits that learners build their own knowledge through experiences."
+    },
+    {
+        "question": "Which of the following is a challenge in teaching writing skills?",
+        "options": [
+            "Lack of student interest",
+            "Too much guidance",
+            "Too many resources"
+        ],
+        "answer": "Lack of student interest",
+        "description": "Engaging students in writing can be challenging if they lack motivation or interest."
+    },
+    {
+        "question": "Fill in the blank: _____ motivation is driven by factors such as rewards and grades.",
+        "options": [
+            "Extrinsic",
+            "Intrinsic",
+            "Self"
+        ],
+        "answer": "Extrinsic",
+        "description": "Extrinsic motivation comes from external rewards or pressures rather than personal satisfaction."
+    },
+    {
+        "question": "What is the focus of the Humanistic approach to teaching?",
+        "options": [
+            "Grammar rules",
+            "Emotional and social needs of learners",
+            "Drill-based practice"
+        ],
+        "answer": "Emotional and social needs of learners",
+        "description": "The Humanistic approach emphasizes addressing students' emotional and social needs in the learning process."
+    },
+    {
+        "question": "Which of the following methods involves the use of music and relaxation?",
+        "options": [
+            "Suggestopedia",
+            "Audio-lingual",
+            "Community Language Learning"
+        ],
+        "answer": "Suggestopedia",
+        "description": "Suggestopedia uses music and a relaxed atmosphere to enhance learning."
+    },
+    {
+        "question": "Complete the sentence: In a constructivist classroom, students are encouraged to _____ their own knowledge.",
+        "options": [
+            "memorize",
+            "discover and construct",
+            "avoid"
+        ],
+        "answer": "discover and construct",
+        "description": "Constructivism promotes active engagement in learning and knowledge construction."
+    },
+    {
+        "question": "What type of assessment focuses on comparing student performance to a standard?",
+        "options": [
+            "Formative assessment",
+            "Summative assessment",
+            "Diagnostic assessment"
+        ],
+        "answer": "Summative assessment",
+        "description": "Summative assessment evaluates student learning at the end of an instructional unit by comparing it to a standard."
+    },
+    {
+        "question": "Fill in the blank: The _____ model of language learning emphasizes social interaction.",
+        "options": [
+            "Cognitive",
+            "Behavioral",
+            "Sociocultural"
+        ],
+        "answer": "Sociocultural",
+        "description": "Sociocultural theory posits that social interaction plays a fundamental role in cognitive development."
+    },
+    {
+        "question": "Which of the following is an example of a classroom management strategy?",
+        "options": [
+            "Using a seating chart",
+            "Ignoring disruptive behavior",
+            "Only focusing on academics"
+        ],
+        "answer": "Using a seating chart",
+        "description": "Seating charts can help manage student behavior and promote a conducive learning environment."
+    },
+    {
+        "question": "What is one of the main goals of error correction in language learning?",
+        "options": [
+            "To embarrass students",
+            "To help students recognize and learn from mistakes",
+            "To make lessons longer"
+        ],
+        "answer": "To help students recognize and learn from mistakes",
+        "description": "Error correction is crucial for helping learners improve their language skills."
+    },
+    {
+        "question": "Fill in the blank: A well-prepared teacher should have a clear _____ for each lesson.",
+        "options": [
+            "plan",
+            "agenda",
+            "distraction"
+        ],
+        "answer": "plan",
+        "description": "A clear lesson plan guides the teacher's instruction and helps achieve learning objectives."
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of effective feedback?",
+        "options": [
+            "Specific",
+            "Timely",
+            "Vague"
+        ],
+        "answer": "Vague",
+        "description": "Effective feedback should be clear and specific to guide student improvement."
+    },
+    {
+        "question": "What does the acronym SMART stand for in goal setting?",
+        "options": [
+            "Specific, Measurable, Achievable, Relevant, Time-bound",
+            "Simple, Manageable, Accurate, Realistic, Tangible",
+            "Structured, Meaningful, Assessable, Repeatable, Timely"
+        ],
+        "answer": "Specific, Measurable, Achievable, Relevant, Time-bound",
+        "description": "SMART goals help in creating clear and reachable objectives in education."
+    },
+    {
+        "question": "Which learning style benefits from discussions and verbal instructions?",
+        "options": [
+            "Visual",
+            "Auditory",
+            "Kinesthetic"
+        ],
+        "answer": "Auditory",
+        "description": "Auditory learners prefer listening and verbal communication for better understanding."
+    },
+    {
+        "question": "What is the primary purpose of teaching language functions?",
+        "options": [
+            "To memorize vocabulary",
+            "To enable effective communication in specific contexts",
+            "To focus solely on grammar"
+        ],
+        "answer": "To enable effective communication in specific contexts",
+        "description": "Teaching language functions equips learners with the ability to use language appropriately in various situations."
+    },
+    {
+        "question": "Which type of feedback is provided during the learning process?",
+        "options": [
+            "Formative feedback",
+            "Summative feedback",
+            "No feedback"
+        ],
+        "answer": "Formative feedback",
+        "description": "Formative feedback helps guide learners throughout their learning journey."
+    },
+    {
+        "question": "Fill in the blank: In a successful classroom, students should feel _____ to share their ideas.",
+        "options": [
+            "intimidated",
+            "encouraged",
+            "ignored"
+        ],
+        "answer": "encouraged",
+        "description": "A supportive environment fosters participation and idea sharing among students."
+    },
+    {
+        "question": "Which approach focuses on the learner's emotional and psychological needs?",
+        "options": [
+            "Behaviorism",
+            "Humanistic approach",
+            "Cognitivism"
+        ],
+        "answer": "Humanistic approach",
+        "description": "The Humanistic approach addresses the emotional and psychological aspects of learning."
+    },
+    {
+        "question": "What is a benefit of using technology in language teaching?",
+        "options": [
+            "Decreased student engagement",
+            "Access to a wide range of resources",
+            "Increased reliance on rote memorization"
+        ],
+        "answer": "Access to a wide range of resources",
+        "description": "Technology provides diverse resources and tools that enhance language learning."
+    },
+    {
+        "question": "Fill in the blank: The _____ method uses storytelling to engage learners.",
+        "options": [
+            "Suggestopedia",
+            "Grammar-Translation",
+            "Direct"
+        ],
+        "answer": "Suggestopedia",
+        "description": "Suggestopedia often involves storytelling and creative techniques to make learning enjoyable."
+    },
+    {
+        "question": "Which of the following is an effective strategy for teaching vocabulary?",
+        "options": [
+            "Memorization without context",
+            "Using visual aids and examples",
+            "Focusing solely on definitions"
+        ],
+        "answer": "Using visual aids and examples",
+        "description": "Contextual learning through visuals helps students understand and retain new vocabulary."
+    },
+    {
+        "question": "Complete the sentence: The _____ approach emphasizes learning through meaningful communication.",
+        "options": [
+            "Communicative",
+            "Grammar-Translation",
+            "Behaviorist"
+        ],
+        "answer": "Communicative",
+        "description": "The Communicative approach prioritizes interaction and real-life language use."
+    },
+    {
+        "question": "What is the role of a teacher in a constructivist classroom?",
+        "options": [
+            "To transmit knowledge",
+            "To facilitate learning and guide discovery",
+            "To control all classroom activities"
+        ],
+        "answer": "To facilitate learning and guide discovery",
+        "description": "In constructivist classrooms, teachers support and guide students in their learning journeys."
+    },
+    {
+        "question": "Fill in the blank: Classroom management includes strategies to maintain _____ in the learning environment.",
+        "options": [
+            "chaos",
+            "order",
+            "distraction"
+        ],
+        "answer": "order",
+        "description": "Effective classroom management fosters an orderly environment conducive to learning."
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of summative assessment?",
+        "options": [
+            "Conducted at the end of an instructional unit",
+            "Measures overall performance",
+            "Provides ongoing feedback"
+        ],
+        "answer": "Provides ongoing feedback",
+        "description": "Summative assessments evaluate learning at the end of a unit, unlike formative assessments, which provide ongoing feedback."
+    },
+    {
+        "question": "What does the acronym 'ELT' stand for?",
+        "options": [
+            "English Language Teaching",
+            "Effective Learning Techniques",
+            "Early Language Training"
+        ],
+        "answer": "English Language Teaching",
+        "description": "'ELT' refers to the practice of teaching English as a foreign or second language."
+    },
+    {
+        "question": "Fill in the blank: The main goal of error analysis is to identify and address _____ in language learning.",
+        "options": [
+            "successes",
+            "mistakes",
+            "assumptions"
+        ],
+        "answer": "mistakes",
+        "description": "Error analysis helps educators understand and correct students' language errors."
+    },
+    {
+        "question": "Which of the following best describes a deductive approach to teaching grammar?",
+        "options": [
+            "Teaching rules before examples",
+            "Learning through discovery",
+            "Focusing on usage in context"
+        ],
+        "answer": "Teaching rules before examples",
+        "description": "In deductive grammar teaching, rules are presented first, followed by examples and practice."
+    },
+    {
+        "question": "What is the focus of the ECRIF framework?",
+        "options": [
+            "Formative assessment",
+            "Error correction",
+            "Language learning stages"
+        ],
+        "answer": "Language learning stages",
+        "description": "ECRIF emphasizes the stages learners go through in acquiring a new language."
+    },
+    {
+        "question": "Complete the sentence: The role of a teacher includes being a _____ of knowledge.",
+        "options": [
+            "distributor",
+            "gatekeeper",
+            "manager"
+        ],
+        "answer": "distributor",
+        "description": "Teachers facilitate access to knowledge, providing resources and guidance to students."
+    },
+    {
+        "question": "What is the goal of a needs analysis in language teaching?",
+        "options": [
+            "To create irrelevant lessons",
+            "To understand learners' goals and requirements",
+            "To impose a fixed curriculum"
+        ],
+        "answer": "To understand learners' goals and requirements",
+        "description": "Needs analysis helps tailor instruction to meet students' specific learning objectives."
+    },
+    {
+        "question": "Fill in the blank: A teacher's _____ should reflect their philosophy and approach to education.",
+        "options": [
+            "style",
+            "attitude",
+            "agenda"
+        ],
+        "answer": "style",
+        "description": "A teacher's style encompasses their methods and approaches to facilitating learning."
+    },
+    {
+        "question": "Which of the following is NOT a component of effective lesson planning?",
+        "options": [
+            "Assessment strategies",
+            "Random topic selection",
+            "Learning objectives"
+        ],
+        "answer": "Random topic selection",
+        "description": "Effective lesson planning involves structured topics and clear objectives, not random selection."
+    },
+    {
+        "question": "What does it mean to have a learner-centered approach?",
+        "options": [
+            "Focusing solely on the teacher's needs",
+            "Prioritizing students' interests and needs",
+            "Ignoring student feedback"
+        ],
+        "answer": "Prioritizing students' interests and needs",
+        "description": "A learner-centered approach places students at the heart of the educational process."
+    },
+    {
+        "question": "Fill in the blank: In an effective classroom, feedback should be _____ and constructive.",
+        "options": [
+            "harsh",
+            "vague",
+            "specific"
+        ],
+        "answer": "specific",
+        "description": "Specific feedback helps students understand what they did well and what they need to improve."
+    },
+    {
+        "question": "Which of the following is a common strategy for developing reading skills?",
+        "options": [
+            "Silent reading only",
+            "Encouraging summarization and questioning",
+            "Ignoring comprehension"
+        ],
+        "answer": "Encouraging summarization and questioning",
+        "description": "Active engagement through summarization and questioning enhances reading comprehension."
+    },
+    {
+        "question": "What does the acronym CLT stand for in language teaching?",
+        "options": [
+            "Collaborative Learning Techniques",
+            "Communicative Language Teaching",
+            "Cognitive Learning Theory"
+        ],
+        "answer": "Communicative Language Teaching",
+        "description": "CLT emphasizes interaction and the use of language in real-life situations."
+    },
+    {
+        "question": "Fill in the blank: A key characteristic of the Direct Method is the use of _____ instruction.",
+        "options": [
+            "grammar-focused",
+            "meaningful",
+            "translation-based"
+        ],
+        "answer": "meaningful",
+        "description": "The Direct Method emphasizes teaching vocabulary and grammar through context and meaning rather than translation."
+    },
+    {
+        "question": "Which of the following is an example of an intrinsic motivator?",
+        "options": [
+            "Praise from a teacher",
+            "Personal interest in learning",
+            "Grades"
+        ],
+        "answer": "Personal interest in learning",
+        "description": "Intrinsic motivators are internal drives that inspire learners to engage with the material."
+    },
+    {
+        "question": "Complete the sentence: The role of the teacher as a _____ involves facilitating student learning.",
+        "options": [
+            "manager",
+            "dictator",
+            "follower"
+        ],
+        "answer": "manager",
+        "description": "Teachers manage the learning environment to promote student engagement and understanding."
+    },
+    {
+        "question": "What is the purpose of using visual aids in the classroom?",
+        "options": [
+            "To distract students",
+            "To enhance understanding and retention",
+            "To reduce interaction"
+        ],
+        "answer": "To enhance understanding and retention",
+        "description": "Visual aids help clarify concepts and support different learning styles."
+    },
+    {
+        "question": "Fill in the blank: A successful lesson often ends with a _____ of the key points.",
+        "options": [
+            "summary",
+            "confusion",
+            "distraction"
+        ],
+        "answer": "summary",
+        "description": "Summarizing helps reinforce learning and clarify any remaining questions."
+    },
+    {
+        "question": "Which of the following is a common characteristic of effective teaching?",
+        "options": [
+            "Rigid adherence to a single method",
+            "Adaptability to students' needs",
+            "Minimal student interaction"
+        ],
+        "answer": "Adaptability to students' needs",
+        "description": "Effective teaching requires flexibility to adjust methods based on learner feedback and context."
+    },
+    {
+        "question": "What does the term 'scaffolding' refer to in education?",
+        "options": [
+            "Providing permanent support",
+            "Temporary support to enhance learning",
+            "Ignoring student needs"
+        ],
+        "answer": "Temporary support to enhance learning",
+        "description": "Scaffolding involves providing guidance and support that is gradually removed as students gain independence."
+    },
+    {
+        "question": "Fill in the blank: Effective communication in the classroom requires _____ from both teachers and students.",
+        "options": [
+            "distraction",
+            "engagement",
+            "monologue"
+        ],
+        "answer": "engagement",
+        "description": "Active engagement fosters better communication and understanding in the learning environment."
+    },
+    {
+        "question": "Which of the following is a component of the PPP framework?",
+        "options": [
+            "Presentation, Practice, Production",
+            "Planning, Practice, Participation",
+            "Preparation, Presentation, Performance"
+        ],
+        "answer": "Presentation, Practice, Production",
+        "description": "PPP is a structured approach that facilitates effective language learning."
+    },
+    {
+        "question": "What does it mean to differentiate instruction?",
+        "options": [
+            "To teach the same way to all students",
+            "To tailor teaching methods to meet diverse needs",
+            "To ignore student differences"
+        ],
+        "answer": "To tailor teaching methods to meet diverse needs",
+        "description": "Differentiation ensures that all students receive the support they need to succeed."
+    },
+    {
+        "question": "Fill in the blank: A teacher’s _____ includes strategies for evaluating student progress.",
+        "options": [
+            "philosophy",
+            "evaluation plan",
+            "plan"
+        ],
+        "answer": "evaluation plan",
+        "description": "An evaluation plan outlines how student progress will be assessed throughout the learning process."
+    },
+    {
+        "question": "Which of the following is a benefit of using group work in the classroom?",
+        "options": [
+            "Increased individual focus",
+            "Opportunities for collaboration and communication",
+            "Less responsibility for learning"
+        ],
+        "answer": "Opportunities for collaboration and communication",
+        "description": "Group work encourages students to engage and communicate with peers, enhancing learning."
+    },
+    {
+        "question": "What is a key aspect of the Silent Way method?",
+        "options": [
+            "Teacher-led instruction",
+            "Emphasis on student independence",
+            "Use of multimedia"
+        ],
+        "answer": "Emphasis on student independence",
+        "description": "The Silent Way encourages students to take charge of their learning and problem-solving."
+    },
+    {
+        "question": "Complete the sentence: Effective language teaching incorporates the use of _____ to engage students.",
+        "options": [
+            "monotonous tasks",
+            "variety of activities",
+            "rigid structure"
+        ],
+        "answer": "variety of activities",
+        "description": "A variety of activities helps keep students engaged and caters to different learning styles."
+    },
+    {
+        "question": "Fill in the blank: An assessment that measures specific skills is called a _____ assessment.",
+        "options": [
+            "formative",
+            "diagnostic",
+            "summative"
+        ],
+        "answer": "diagnostic",
+        "description": "Diagnostic assessments help identify students' strengths and weaknesses before instruction begins."
+    },
+    {
+        "question": "Which teaching method focuses on using dialogue as the primary tool for learning?",
+        "options": [
+            "Communicative Language Teaching",
+            "Grammar-Translation",
+            "Direct Method"
+        ],
+        "answer": "Communicative Language Teaching",
+        "description": "This method emphasizes real communication and interaction in language learning."
+    },
+    {
+        "question": "What does it mean to assess student learning formatively?",
+        "options": [
+            "To evaluate at the end of a unit",
+            "To provide ongoing feedback during the learning process",
+            "To ignore progress"
+        ],
+        "answer": "To provide ongoing feedback during the learning process",
+        "description": "Formative assessment focuses on monitoring student learning to provide continuous feedback."
+    },
+    {
+        "question": "Fill in the blank: The _____ approach incorporates students' backgrounds and experiences in learning.",
+        "options": [
+            "Culturally responsive",
+            "Traditional",
+            "Standardized"
+        ],
+        "answer": "Culturally responsive",
+        "description": "Culturally responsive teaching acknowledges and values students' diverse backgrounds."
+    }
+]

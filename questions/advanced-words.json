@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Fill in the blank: The researcher’s ______ findings challenged the long-established theories in the field.",
+        "options": ["conventional", "innovative", "stagnant", "rudimentary"],
+        "answer": "innovative",
+        "description": "'Innovative' refers to something new or creative, which fits the context of challenging old theories."
+    },
+    {
+        "question": "What is the synonym of 'advocate'?",
+        "options": ["oppose", "defend", "criticize", "ignore"],
+        "answer": "defend",
+        "description": "'Defend' means to support or promote a particular cause, similar to the meaning of 'advocate'."
+    },
+    {
+        "question": "Choose the antonym of 'diminish':",
+        "options": ["reduce", "increase", "weaken", "narrow"],
+        "answer": "increase",
+        "description": "'Increase' is the opposite of 'diminish', which means to make something smaller or less important."
+    },
+    {
+        "question": "What does 'prevalent' mean in the sentence: 'This theory has become increasingly prevalent in recent studies'?",
+        "options": ["dominant", "rare", "irrelevant", "outdated"],
+        "answer": "dominant",
+        "description": "In this context, 'prevalent' means something that is widespread or commonly accepted, making 'dominant' the best synonym."
+    },
+    {
+        "question": "Fill in the blank: The professor’s lecture was ______, providing detailed explanations on a variety of complex topics.",
+        "options": ["superficial", "comprehensive", "ambiguous", "fragmented"],
+        "answer": "comprehensive",
+        "description": "'Comprehensive' means covering a wide range of topics in detail, which matches the context."
+    },
+    {
+        "question": "What is the synonym of 'coherent'?",
+        "options": ["logical", "disjointed", "confusing", "chaotic"],
+        "answer": "logical",
+        "description": "'Coherent' means logical and consistent, making 'logical' the correct synonym."
+    },
+    {
+        "question": "What is the antonym of 'mitigate'?",
+        "options": ["aggravate", "alleviate", "lessen", "soften"],
+        "answer": "aggravate",
+        "description": "'Aggravate' means to make something worse, which is the opposite of 'mitigate', meaning to make less severe."
+    },
+    {
+        "question": "What does 'inherent' mean in the sentence: 'The risks are inherent in any investment strategy'?",
+        "options": ["external", "impossible", "intrinsic", "avoidable"],
+        "answer": "intrinsic",
+        "description": "'Inherent' refers to something that is naturally part of something else, like 'intrinsic'."
+    },
+    {
+        "question": "Fill in the blank: The experiment was designed to ______ the validity of the hypothesis.",
+        "options": ["refute", "confirm", "nullify", "reject"],
+        "answer": "confirm",
+        "description": "In this context, 'confirm' means to prove or validate the hypothesis."
+    },
+    {
+        "question": "What is the synonym of 'detrimental'?",
+        "options": ["harmful", "beneficial", "constructive", "advantageous"],
+        "answer": "harmful",
+        "description": "'Harmful' is a synonym for 'detrimental', which means causing damage or harm."
+    },
+    {
+        "question": "What is the antonym of 'compliant'?",
+        "options": ["obedient", "defiant", "submissive", "flexible"],
+        "answer": "defiant",
+        "description": "'Defiant' means resisting authority or control, which is the opposite of 'compliant'."
+    },
+    {
+        "question": "What does 'ambiguous' mean in the sentence: 'The statement was ambiguous and could be interpreted in multiple ways'?",
+        "options": ["clear", "vague", "concise", "precise"],
+        "answer": "vague",
+        "description": "'Ambiguous' refers to something that is unclear or open to multiple interpretations, similar to 'vague'."
+    },
+    {
+        "question": "Fill in the blank: The company has ______ strict environmental regulations in recent years.",
+        "options": ["violated", "adhered to", "neglected", "dismissed"],
+        "answer": "adhered to",
+        "description": "'Adhered to' means to follow or obey rules or regulations, which fits the context."
+    },
+    {
+        "question": "What is the synonym of 'plausible'?",
+        "options": ["unlikely", "believable", "unreliable", "false"],
+        "answer": "believable",
+        "description": "'Plausible' means something that seems reasonable or credible, making 'believable' the correct synonym."
+    },
+    {
+        "question": "What is the antonym of 'augment'?",
+        "options": ["increase", "expand", "reduce", "enhance"],
+        "answer": "reduce",
+        "description": "'Reduce' means to make something smaller, the opposite of 'augment', which means to increase."
+    },
+    {
+        "question": "What does 'exacerbate' mean in the sentence: 'The new policy may exacerbate the existing problems'?",
+        "options": ["solve", "intensify", "alleviate", "ignore"],
+        "answer": "intensify",
+        "description": "'Exacerbate' means to make something worse or more intense, similar to 'intensify'."
+    },
+    {
+        "question": "Fill in the blank: His argument was well-reasoned, but it was ______ by the lack of concrete evidence.",
+        "options": ["strengthened", "undermined", "enhanced", "validated"],
+        "answer": "undermined",
+        "description": "'Undermined' means to weaken or diminish the effectiveness of something, which fits this context."
+    },
+    {
+        "question": "What is the synonym of 'ubiquitous'?",
+        "options": ["rare", "omnipresent", "limited", "scarce"],
+        "answer": "omnipresent",
+        "description": "'Ubiquitous' means something that is present everywhere, like 'omnipresent'."
+    },
+    {
+        "question": "What is the antonym of 'transient'?",
+        "options": ["brief", "permanent", "fleeting", "momentary"],
+        "answer": "permanent",
+        "description": "'Permanent' is the opposite of 'transient', which means something temporary or short-lived."
+    },
+    {
+        "question": "What does 'imminent' mean in the sentence: 'The crisis seemed imminent as tensions continued to rise'?",
+        "options": ["avoidable", "delayed", "likely", "immediate"],
+        "answer": "immediate",
+        "description": "'Imminent' refers to something that is about to happen, which aligns with 'immediate'."
+    },
+    {
+        "question": "Fill in the blank: The new policy is expected to have a ______ effect on the economy.",
+        "options": ["negligible", "profound", "insignificant", "marginal"],
+        "answer": "profound",
+        "description": "'Profound' refers to something of great significance or impact."
+    },
+    {
+        "question": "What is the synonym of 'elaborate'?",
+        "options": ["simple", "complicated", "minimal", "basic"],
+        "answer": "complicated",
+        "description": "'Elaborate' means something that is detailed or complex, similar to 'complicated'."
+    },
+    {
+        "question": "What is the antonym of 'scarce'?",
+        "options": ["plentiful", "rare", "limited", "sparse"],
+        "answer": "plentiful",
+        "description": "'Plentiful' is the opposite of 'scarce', which means something that is in short supply."
+    },
+    {
+        "question": "What does 'conducive' mean in the sentence: 'The quiet environment was conducive to studying'?",
+        "options": ["harmful", "favorable", "irrelevant", "detrimental"],
+        "answer": "favorable",
+        "description": "'Conducive' means something that makes a situation more likely or favorable, aligning with 'favorable'."
+    },
+    {
+        "question": "Fill in the blank: The scientist provided a ______ analysis of the data, leaving no room for doubt.",
+        "options": ["vague", "thorough", "superficial", "incomplete"],
+        "answer": "thorough",
+        "description": "'Thorough' means detailed and complete, which fits the context of the analysis."
+    },
+    {
+        "question": "What is the synonym of 'mitigate'?",
+        "options": ["intensify", "worsen", "alleviate", "aggravate"],
+        "answer": "alleviate",
+        "description": "'Alleviate' means to make something less severe, similar to 'mitigate'."
+    },
+    {
+        "question": "What is the antonym of 'discreet'?",
+        "options": ["careless", "cautious", "reserved", "prudent"],
+        "answer": "careless",
+        "description": "'Careless' is the opposite of 'discreet', which means to act with caution and sensitivity."
+    },
+    {
+        "question": "What does 'retrospective' mean in the sentence: 'The exhibition was a retrospective of the artist’s long career'?",
+        "options": ["forward-looking", "incomplete", "backward-looking", "insightful"],
+        "answer": "backward-looking",
+        "description": "'Retrospective' refers to something that looks back at the past, like 'backward-looking'."
+    },
+    {
+        "question": "Fill in the blank: The success of the project is largely ______ on the availability of funding.",
+        "options": ["dependent", "independent", "irrelevant", "assured"],
+        "answer": "dependent",
+        "description": "'Dependent' means reliant on something, which fits the context of the sentence."
+    },
+    {
+        "question": "What is the synonym of 'disparity'?",
+        "options": ["similarity", "difference", "balance", "equality"],
+        "answer": "difference",
+        "description": "'Disparity' refers to a great difference between two things, making 'difference' the correct synonym."
+    }
+]

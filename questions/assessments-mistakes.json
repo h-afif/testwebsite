@@ -1,0 +1,354 @@
+[
+    {
+        "question": "What is the primary purpose of assessment in education?",
+        "options": [
+            "To punish students",
+            "To evaluate student learning and progress",
+            "To reduce classroom interaction",
+            "To create competition among students"
+        ],
+        "answer": "To evaluate student learning and progress",
+        "description": "The primary purpose of assessment is to evaluate how well students are learning and progressing in their education."
+    },
+    {
+        "question": "Fill in the blank: A _____ is a systematic way of collecting information about student performance.",
+        "options": [
+            "test",
+            "quiz",
+            "measurement",
+            "review"
+        ],
+        "answer": "measurement",
+        "description": "Measurement refers to the systematic collection of information about student performance, which can include tests, observations, and more."
+    },
+    {
+        "question": "Which type of assessment is conducted before instruction begins?",
+        "options": [
+            "Formative assessment",
+            "Summative assessment",
+            "Diagnostic assessment",
+            "Norm-referenced assessment"
+        ],
+        "answer": "Diagnostic assessment",
+        "description": "Diagnostic assessment is conducted before instruction to identify students' existing knowledge and skills."
+    },
+    {
+        "question": "What is the main difference between formative and summative assessment?",
+        "options": [
+            "Timing and purpose",
+            "Number of questions",
+            "Types of feedback",
+            "Level of difficulty"
+        ],
+        "answer": "Timing and purpose",
+        "description": "Formative assessment occurs during the learning process to monitor progress, while summative assessment evaluates learning at the end of a unit."
+    },
+    {
+        "question": "Which assessment type is typically used to measure learning outcomes at the end of a course?",
+        "options": [
+            "Formative assessment",
+            "Summative assessment",
+            "Diagnostic assessment",
+            "Continuous assessment"
+        ],
+        "answer": "Summative assessment",
+        "description": "Summative assessment is used to evaluate student learning outcomes at the end of a course or instructional period."
+    },
+    {
+        "question": "Fill in the blank: The primary goal of _____ assessment is to improve learning as it occurs.",
+        "options": [
+            "summative",
+            "diagnostic",
+            "formative",
+            "norm-referenced"
+        ],
+        "answer": "formative",
+        "description": "Formative assessment aims to improve student learning by providing ongoing feedback during the learning process."
+    },
+    {
+        "question": "Which type of testing compares a student's performance to a norm group?",
+        "options": [
+            "Criterion-referenced testing",
+            "Norm-referenced testing",
+            "Performance-based testing",
+            "Authentic assessment"
+        ],
+        "answer": "Norm-referenced testing",
+        "description": "Norm-referenced testing compares an individual student's performance to that of a group to determine relative performance."
+    },
+    {
+        "question": "What does criterion-referenced assessment evaluate?",
+        "options": [
+            "Student performance relative to peers",
+            "Student performance against a standard or criterion",
+            "Student effort and participation",
+            "Classroom behavior"
+        ],
+        "answer": "Student performance against a standard or criterion",
+        "description": "Criterion-referenced assessment evaluates student performance based on specific standards or criteria, not compared to peers."
+    },
+    {
+        "question": "Fill in the blank: An example of _____ assessment is a final exam that measures knowledge acquired over a semester.",
+        "options": [
+            "formative",
+            "summative",
+            "diagnostic",
+            "informal"
+        ],
+        "answer": "summative",
+        "description": "A final exam that assesses overall knowledge is an example of summative assessment, as it measures learning at the end of a period."
+    },
+    {
+        "question": "What is a key feature of performance-based assessment?",
+        "options": [
+            "Multiple-choice questions",
+            "Authentic tasks reflecting real-world skills",
+            "Standardized testing conditions",
+            "Focus on theoretical knowledge"
+        ],
+        "answer": "Authentic tasks reflecting real-world skills",
+        "description": "Performance-based assessment focuses on evaluating students through authentic tasks that require the application of real-world skills."
+    },
+    {
+        "question": "Which of the following is an example of a formative assessment?",
+        "options": [
+            "Midterm exam",
+            "End-of-term project",
+            "Weekly quizzes",
+            "Final presentation"
+        ],
+        "answer": "Weekly quizzes",
+        "description": "Weekly quizzes serve as formative assessments, providing feedback on student learning throughout the course."
+    },
+    {
+        "question": "What type of assessment involves peer reviews and self-assessment?",
+        "options": [
+            "Norm-referenced assessment",
+            "Formative assessment",
+            "Authentic assessment",
+            "Reflective assessment"
+        ],
+        "answer": "Reflective assessment",
+        "description": "Reflective assessment includes peer reviews and self-assessment, allowing students to evaluate their own and others' work."
+    },
+    {
+        "question": "Fill in the blank: The process of gathering information to inform instructional decisions is called _____ assessment.",
+        "options": [
+            "formative",
+            "summative",
+            "diagnostic",
+            "ongoing"
+        ],
+        "answer": "ongoing",
+        "description": "Ongoing assessment involves continually gathering information about student learning to inform instructional decisions."
+    },
+    {
+        "question": "Which type of error occurs due to lack of knowledge of the rules?",
+        "options": [
+            "Mistake",
+            "Slip",
+            "Error",
+            "Fluency error"
+        ],
+        "answer": "Error",
+        "description": "An error occurs when a learner lacks knowledge of the rules, leading to incorrect use of language."
+    },
+    {
+        "question": "What distinguishes a mistake from an error in language learning?",
+        "options": [
+            "Awareness of the incorrectness",
+            "Type of language used",
+            "Frequency of occurrence",
+            "Complexity of structure"
+        ],
+        "answer": "Awareness of the incorrectness",
+        "description": "A mistake is an incorrect form that a learner can recognize and correct, while an error indicates a lack of knowledge."
+    },
+    {
+        "question": "Fill in the blank: A _____ is a lapse in performance that does not indicate a lack of knowledge.",
+        "options": [
+            "mistake",
+            "error",
+            "failure",
+            "slip"
+        ],
+        "answer": "slip",
+        "description": "A slip is a temporary lapse in performance that learners can usually correct, distinguishing it from an error."
+    },
+    {
+        "question": "Which type of assessment primarily evaluates knowledge retention?",
+        "options": [
+            "Diagnostic assessment",
+            "Summative assessment",
+            "Formative assessment",
+            "Peer assessment"
+        ],
+        "answer": "Summative assessment",
+        "description": "Summative assessment primarily evaluates how much knowledge students have retained after instruction."
+    },
+    {
+        "question": "In language teaching, how can teachers effectively address errors?",
+        "options": [
+            "Ignore them completely",
+            "Correct them immediately during speaking",
+            "Use them as learning opportunities",
+            "Focus solely on testing"
+        ],
+        "answer": "Use them as learning opportunities",
+        "description": "Using errors as learning opportunities helps students understand their mistakes and improve their language skills."
+    },
+    {
+        "question": "What is the purpose of diagnostic assessment?",
+        "options": [
+            "To evaluate learning at the end of a unit",
+            "To identify strengths and weaknesses before instruction",
+            "To assess fluency in speaking",
+            "To determine overall classroom performance"
+        ],
+        "answer": "To identify strengths and weaknesses before instruction",
+        "description": "Diagnostic assessment aims to identify students' strengths and weaknesses prior to instruction, guiding lesson planning."
+    },
+    {
+        "question": "Fill in the blank: Effective assessment should be _____ to accurately measure student learning.",
+        "options": [
+            "ambiguous",
+            "subjective",
+            "valid and reliable",
+            "difficult"
+        ],
+        "answer": "valid and reliable",
+        "description": "Effective assessment should be valid (measuring what it is intended to measure) and reliable (producing consistent results)."
+    },
+    {
+        "question": "Which of the following is an informal assessment method?",
+        "options": [
+            "Standardized test",
+            "Final exam",
+            "Classroom observations",
+            "Midterm exam"
+        ],
+        "answer": "Classroom observations",
+        "description": "Classroom observations are informal assessment methods that provide insight into student engagement and learning behaviors."
+    },
+    {
+        "question": "What type of assessment is characterized by high-stakes testing?",
+        "options": [
+            "Formative assessment",
+            "Summative assessment",
+            "Diagnostic assessment",
+            "Ongoing assessment"
+        ],
+        "answer": "Summative assessment",
+        "description": "Summative assessment is often high-stakes testing, evaluating student performance at critical points."
+    },
+    {
+        "question": "Fill in the blank: Using rubrics in assessment helps ensure _____ in grading.",
+        "options": [
+            "consistency",
+            "ambiguity",
+            "subjectivity",
+            "difficulties"
+        ],
+        "answer": "consistency",
+        "description": "Rubrics provide clear criteria for assessment, ensuring consistency and fairness in grading across different students."
+    },
+    {
+        "question": "What is a potential drawback of relying heavily on standardized tests?",
+        "options": [
+            "They provide comprehensive feedback",
+            "They assess a wide range of skills",
+            "They may not reflect students' actual abilities",
+            "They promote critical thinking"
+        ],
+        "answer": "They may not reflect students' actual abilities",
+        "description": "Standardized tests may not capture the full range of a student's abilities and skills, leading to incomplete evaluations."
+    },
+    {
+        "question": "Which term describes an error that can be attributed to a momentary lapse in performance?",
+        "options": [
+            "Mistake",
+            "Error",
+            "Slip",
+            "Fault"
+        ],
+        "answer": "Slip",
+        "description": "A slip is a temporary lapse in performance that does not reflect a learner's overall knowledge of the language."
+    },
+    {
+        "question": "Fill in the blank: In assessing language skills, teachers should focus on both _____ and _____.",
+        "options": [
+            "fluency; accuracy",
+            "speed; vocabulary",
+            "grammar; pronunciation",
+            "reading; writing"
+        ],
+        "answer": "fluency; accuracy",
+        "description": "Assessing language skills involves focusing on both fluency (smoothness of speech) and accuracy (correctness of language use)."
+    },
+    {
+        "question": "Which assessment method allows for immediate feedback to students?",
+        "options": [
+            "Written exams",
+            "Online quizzes",
+            "Standardized tests",
+            "Oral presentations"
+        ],
+        "answer": "Online quizzes",
+        "description": "Online quizzes often provide immediate feedback, helping students understand their performance right away."
+    },
+    {
+        "question": "What is the term for a systematic review of students' work to inform future teaching?",
+        "options": [
+            "Feedback",
+            "Assessment",
+            "Evaluation",
+            "Reflection"
+        ],
+        "answer": "Reflection",
+        "description": "Reflection involves systematically reviewing students' work to inform and improve future teaching practices."
+    },
+    {
+        "question": "Fill in the blank: Effective assessments should be _____ to accommodate diverse learning styles.",
+        "options": [
+            "rigid",
+            "flexible",
+            "complicated",
+            "uniform"
+        ],
+        "answer": "flexible",
+        "description": "Flexible assessments can accommodate diverse learning styles, allowing all students to demonstrate their knowledge effectively."
+    },
+    {
+        "question": "Which type of assessment is least likely to be influenced by external factors?",
+        "options": [
+            "Standardized testing",
+            "Informal assessment",
+            "Peer assessment",
+            "Self-assessment"
+        ],
+        "answer": "Standardized testing",
+        "description": "Standardized testing is designed to minimize external factors, ensuring a uniform testing environment."
+    },
+    {
+        "question": "What is a common characteristic of effective feedback?",
+        "options": [
+            "Vague and general",
+            "Timely and specific",
+            "Unrelated to performance",
+            "Only given at the end of the course"
+        ],
+        "answer": "Timely and specific",
+        "description": "Effective feedback is timely and specific, allowing students to understand what they did well and where they can improve."
+    },
+    {
+        "question": "Fill in the blank: Errors in language learning are often categorized as _____ or _____ errors.",
+        "options": [
+            "phonological; syntactic",
+            "slips; mistakes",
+            "systematic; random",
+            "global; local"
+        ],
+        "answer": "global; local",
+        "description": "Errors can be categorized as global (affecting overall communication) or local (affecting smaller aspects of language)."
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "question": "What rhetorical device is used in the following sentence? <p><em>'She sells seashells by the seashore.'<em></p>",
+        "options": ["Metaphor", "Alliteration", "Personification", "Irony"],
+        "answer": "Alliteration",
+        "description": "Alliteration is the repetition of the same consonant sounds at the beginning of words in close succession."
+    },
+    {
+        "question": "Which of the following best defines 'metaphor'?",
+        "options": ["A comparison using 'like' or 'as'", "An exaggeration for effect", "A direct comparison between two unlike things", "Giving human traits to non-human things"],
+        "answer": "A direct comparison between two unlike things",
+        "description": "A metaphor directly compares two unlike things by stating one is the other."
+    },
+    {
+        "question": "What rhetorical device is being used in this statement? <p><em>'The wind whispered through the trees.'<em></p>",
+        "options": ["Metaphor", "Hyperbole", "Personification", "Irony"],
+        "answer": "Personification",
+        "description": "Personification attributes human characteristics to non-human things or abstract ideas."
+    },
+    {
+        "question": "Identify the rhetorical device: <p><em>'It’s so cold, I saw polar bears wearing jackets.'<em></p>",
+        "options": ["Simile", "Hyperbole", "Irony", "Oxymoron"],
+        "answer": "Hyperbole",
+        "description": "Hyperbole is an extreme exaggeration used for emphasis or effect."
+    },
+    {
+        "question": "Which of the following is an example of an 'oxymoron'?",
+        "options": ["Jumbo shrimp", "As brave as a lion", "The stars winked at me", "I'm so hungry I could eat a horse"],
+        "answer": "Jumbo shrimp",
+        "description": "An oxymoron is a figure of speech in which contradictory terms appear together."
+    },
+    {
+        "question": "What rhetorical device is used in this example? <p><em>'She was as quiet as a mouse.'<em></p>",
+        "options": ["Metaphor", "Simile", "Irony", "Alliteration"],
+        "answer": "Simile",
+        "description": "A simile compares two unlike things using 'like' or 'as.'"
+    },
+    {
+        "question": "'Onomatopoeia' refers to words that imitate the sound they describe.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "Onomatopoeia refers to words whose pronunciation mimics the sound they describe, like 'buzz' or 'sizzle.'"
+    },
+    {
+        "question": "What literary device is being used in this sentence? <p><em>'The pen is mightier than the sword.'<em></p>",
+        "options": ["Metaphor", "Irony", "Synecdoche", "Metonymy"],
+        "answer": "Metonymy",
+        "description": "Metonymy is a figure of speech where one word or phrase is substituted for another with which it is closely associated."
+    },
+    {
+        "question": "__ is the repetition of a word or phrase at the beginning of successive clauses or sentences.",
+        "options": ["Anaphora", "Epistrophe", "Alliteration", "Chiasmus"],
+        "answer": "Anaphora",
+        "description": "Anaphora is the deliberate repetition of the first part of a sentence or clause to achieve an artistic effect."
+    },
+    {
+        "question": "What rhetorical device is used in this sentence? <p><em>'I came, I saw, I conquered.'<em></p>",
+        "options": ["Anaphora", "Antithesis", "Asyndeton", "Allusion"],
+        "answer": "Asyndeton",
+        "description": "Asyndeton is the omission of conjunctions between parts of a sentence for rhetorical effect."
+    },
+    {
+        "question": "Which of the following is an example of 'irony'?",
+        "options": ["A fire station burning down", "The thunder roared loudly", "She sang a sweet song", "A mountain as tall as the sky"],
+        "answer": "A fire station burning down",
+        "description": "Irony involves a contrast between expectation and reality, such as a fire station catching fire."
+    },
+    {
+        "question": "What rhetorical device is used in this example? 'All hands on deck!'",
+        "options": ["Metaphor", "Synecdoche", "Simile", "Oxymoron"],
+        "answer": "Synecdoche",
+        "description": "Synecdoche is a figure of speech in which a part is used to represent the whole, as in 'hands' representing people."
+    },
+    {
+        "question": "Which of the following best defines 'paradox'?",
+        "options": ["A statement that seems self-contradictory but reveals a deeper truth", "A figure of speech using 'like' or 'as'", "An exaggeration used for effect", "A word that imitates a sound"],
+        "answer": "A statement that seems self-contradictory but reveals a deeper truth",
+        "description": "A paradox is a seemingly contradictory statement that may reveal a deeper truth."
+    },
+    {
+        "question": "What rhetorical device is being used in the following statement? <p><em>'Success is a journey, not a destination.'<em></p>",
+        "options": ["Metaphor", "Simile", "Antithesis", "Personification"],
+        "answer": "Antithesis",
+        "description": "Antithesis involves contrasting ideas expressed in a parallel structure, as in 'journey' vs 'destination.'"
+    },
+    {
+        "question": "Which rhetorical device is being used here? 'A government of the people, by the people, for the people.'",
+        "options": ["Metonymy", "Anaphora", "Parallelism", "Personification"],
+        "answer": "Parallelism",
+        "description": "Parallelism is the repetition of similar grammatical structures to create a sense of rhythm and balance."
+    },
+    {
+        "question": "__ refers to the use of contradictory terms in conjunction, such as 'deafening silence.'",
+        "options": ["Simile", "Oxymoron", "Metonymy", "Allusion"],
+        "answer": "Oxymoron",
+        "description": "An oxymoron is a figure of speech in which contradictory terms appear together for effect."
+    },
+    {
+        "question": "What rhetorical device is used in this statement? <p><em>'She was drowning in a sea of grief.'<em></p>",
+        "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+        "answer": "Metaphor",
+        "description": "A metaphor makes a direct comparison between two unlike things by stating one is the other."
+    },
+    {
+        "question": "Which of the following is an example of a 'euphemism'?",
+        "options": ["He passed away", "The wind howled", "She’s as fast as a cheetah", "The sun smiled down on us"],
+        "answer": "He passed away",
+        "description": "A euphemism is a mild or indirect word used to replace a harsh or blunt one, as in 'passed away' for 'died.'"
+    },
+    {
+        "question": "What rhetorical device is being used in this example? 'The ball is in your court now.'",
+        "options": ["Simile", "Metaphor", "Alliteration", "Personification"],
+        "answer": "Metaphor",
+        "description": "The metaphor compares the situation to a game, implying the next move is the listener's responsibility."
+    },
+    {
+        "question": "Which rhetorical device involves an exaggeration for emphasis or effect?",
+        "options": ["Irony", "Hyperbole", "Simile", "Metonymy"],
+        "answer": "Hyperbole",
+        "description": "Hyperbole is an extreme exaggeration used to make a point or emphasize an idea."
+    },
+    {
+        "question": "What literary device is being used in the following sentence? <p><em>'The car complained as the engine sputtered.'<em></p>",
+        "options": ["Metaphor", "Personification", "Hyperbole", "Simile"],
+        "answer": "Personification",
+        "description": "Personification attributes human characteristics to non-human objects, like 'complained' for a car."
+    },
+    {
+        "question": "A __ is a reference to another work of literature, person, or event.",
+        "options": ["Allusion", "Metaphor", "Simile", "Euphemism"],
+        "answer": "Allusion",
+        "description": "An allusion is an indirect reference to a well-known work, person, or event."
+    },
+    {
+        "question": "'Epistrophe' is the repetition of a word or phrase at the end of successive clauses.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "Epistrophe is the repetition of a word or phrase at the end of successive sentences or clauses."
+    },
+    {
+        "question": "What rhetorical device is being used in this sentence? <p><em>'The teacher gave us mountains of homework.'<em></p>",
+        "options": ["Simile", "Metaphor", "Hyperbole", "Personification"],
+        "answer": "Hyperbole",
+        "description": "Hyperbole is used here to exaggerate the amount of homework for effect."
+    },
+    {
+        "question": "Which of the following is an example of 'chiasmus'?",
+        "options": ["She sells seashells by the seashore", "Fair is foul, and foul is fair", "It was the best of times, it was the worst of times", "He was brave, but also timid"],
+        "answer": "Fair is foul, and foul is fair",
+        "description": "Chiasmus is a rhetorical device in which two or more clauses are balanced against each other by the reversal of their structures."
+    },
+    {
+        "question": "What rhetorical device is used in the following sentence? <p><em>'A stitch in time saves nine.'<em></p>",
+        "options": ["Proverb", "Simile", "Metonymy", "Hyperbole"],
+        "answer": "Proverb",
+        "description": "A proverb is a simple, traditional saying that expresses a perceived truth based on common sense or experience."
+    },
+    {
+        "question": "__ is a rhetorical device where the speaker poses a question and then answers it.",
+        "options": ["Hypophora", "Rhetorical question", "Paradox", "Irony"],
+        "answer": "Hypophora",
+        "description": "Hypophora occurs when a speaker asks a question and immediately provides the answer."
+    },
+    {
+        "question": "What rhetorical device is being used in this sentence? <p><em>'The path to success is not a sprint but a marathon.'<em></p>",
+        "options": ["Metaphor", "Simile", "Allusion", "Hyperbole"],
+        "answer": "Metaphor",
+        "description": "This metaphor compares success to a marathon, suggesting that it requires endurance and patience."
+    },
+    {
+        "question": "Which of the following best defines 'litotes'?",
+        "options": ["An understatement by using double negatives", "An exaggeration for effect", "A comparison using 'like' or 'as'", "A figure of speech where the part represents the whole"],
+        "answer": "An understatement by using double negatives",
+        "description": "Litotes is a form of understatement that uses double negatives to express a positive idea."
+    },
+    {
+        "question": "What rhetorical device is being used in this example? <p><em>'I have to study all night—no pressure!'<em></p>",
+        "options": ["Irony", "Euphemism", "Hyperbole", "Metonymy"],
+        "answer": "Irony",
+        "description": "Irony is used here because the phrase 'no pressure' contrasts with the stress implied by studying all night."
+    },
+    {
+        "question": "__ is the repetition of vowel sounds within words.",
+        "options": ["Alliteration", "Consonance", "Assonance", "Onomatopoeia"],
+        "answer": "Assonance",
+        "description": "Assonance is the repetition of vowel sounds in nearby words, creating a rhythmic effect."
+    },
+    {
+        "question": "What rhetorical device is used in this sentence? <p><em>'He’s not the sharpest tool in the shed.'<em></p>",
+        "options": ["Euphemism", "Irony", "Litotes", "Hyperbole"],
+        "answer": "Litotes",
+        "description": "Litotes is a form of understatement that uses double negatives or a soft phrasing to downplay something."
+    },
+    {
+        "question": "Which of the following is an example of 'zeugma'?",
+        "options": ["He lost his coat and his temper", "Life is a highway", "The stars winked at me", "It’s raining cats and dogs"],
+        "answer": "He lost his coat and his temper",
+        "description": "Zeugma is a figure of speech where a word applies to multiple parts of the sentence, often in an unexpected way."
+    },
+    {
+        "question": "What rhetorical device is used in the following phrase? <p><em>'Let us never negotiate out of fear, but let us never fear to negotiate.'<em></p>",
+        "options": ["Parallelism", "Chiasmus", "Anaphora", "Metonymy"],
+        "answer": "Chiasmus",
+        "description": "Chiasmus involves reversing the order of words or phrases to create contrast or emphasis."
+    }
+]

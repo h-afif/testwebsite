@@ -1,0 +1,376 @@
+[
+    {
+      "question": "What is the capital city of the United Kingdom?",
+      "options": [
+        "London",
+        "Edinburgh",
+        "Cardiff",
+        "Belfast"
+      ],
+      "answer": "London",
+      "description": "London is the capital city of the UK and is known for its rich history and culture."
+    },
+    {
+      "question": "Which famous British monarch ruled for 63 years, becoming the second longest-reigning monarch?",
+      "options": [
+        "Queen Elizabeth I",
+        "Queen Victoria",
+        "King George VI",
+        "Queen Anne"
+      ],
+      "answer": "Queen Victoria",
+      "description": "Queen Victoria reigned from 1837 to 1901 and her era saw the expansion of the British Empire."
+    },
+    {
+      "question": "What is the name of the traditional British meal typically eaten on Sundays?",
+      "options": [
+        "Fish and chips",
+        "Full English breakfast",
+        "Sunday roast",
+        "Afternoon tea"
+      ],
+      "answer": "Sunday roast",
+      "description": "The Sunday roast is a popular meal featuring roast meat, vegetables, and Yorkshire pudding."
+    },
+    {
+      "question": "Which British city is famous for The Beatles and its football teams?",
+      "options": [
+        "Liverpool",
+        "Manchester",
+        "London",
+        "Birmingham"
+      ],
+      "answer": "Liverpool",
+      "description": "Liverpool is known for being the birthplace of The Beatles and its two football teams, Liverpool FC and Everton."
+    },
+    {
+      "question": "Which of the following is NOT a constituent country of the United Kingdom?",
+      "options": [
+        "Scotland",
+        "Wales",
+        "Ireland",
+        "Northern Ireland"
+      ],
+      "answer": "Ireland",
+      "description": "Ireland is a separate country, while Northern Ireland is part of the UK."
+    },
+    {
+      "question": "In which month is the British national day, known as St. George's Day, celebrated?",
+      "options": [
+        "March",
+        "April",
+        "May",
+        "June"
+      ],
+      "answer": "April",
+      "description": "St. George's Day is celebrated on April 23rd, commemorating England's patron saint."
+    },
+    {
+      "question": "What is the legal voting age in the United Kingdom?",
+      "options": [
+        "16",
+        "18",
+        "21",
+        "17"
+      ],
+      "answer": "18",
+      "description": "In the UK, the legal voting age is 18 years old."
+    },
+    {
+      "question": "What is the name of the traditional English dessert made of layers of sponge cake, custard, fruit, and cream?",
+      "options": [
+        "Trifle",
+        "Pudding",
+        "Scones",
+        "Victoria sponge"
+      ],
+      "answer": "Trifle",
+      "description": "Trifle is a popular dessert often served at British celebrations and family gatherings."
+    },
+    {
+      "question": "Which British author wrote the famous novel series 'Harry Potter'?",
+      "options": [
+        "J.R.R. Tolkien",
+        "Jane Austen",
+        "J.K. Rowling",
+        "Charles Dickens"
+      ],
+      "answer": "J.K. Rowling",
+      "description": "J.K. Rowling is the author of the 'Harry Potter' series, one of the best-selling book series in history."
+    },
+    {
+      "question": "What is the highest mountain in the United Kingdom?",
+      "options": [
+        "Snowdon",
+        "Ben Nevis",
+        "Scafell Pike",
+        "Pen y Fan"
+      ],
+      "answer": "Ben Nevis",
+      "description": "Ben Nevis, located in Scotland, is the highest mountain in the UK at 1,345 meters (4,413 feet)."
+    },
+    {
+      "question": "Which of the following sports was invented in Britain?",
+      "options": [
+        "Tennis",
+        "Basketball",
+        "Baseball",
+        "Ice hockey"
+      ],
+      "answer": "Tennis",
+      "description": "Modern tennis originated in England in the late 19th century and is now one of the most popular sports worldwide."
+    },
+    {
+      "question": "Which flower is the national symbol of England?",
+      "options": [
+        "Shamrock",
+        "Daffodil",
+        "Thistle",
+        "Rose"
+      ],
+      "answer": "Rose",
+      "description": "The rose has been England's national flower since the Wars of the Roses in the 15th century."
+    },
+    {
+      "question": "Which British festival is celebrated on the 5th of November with fireworks?",
+      "options": [
+        "Guy Fawkes Night",
+        "Bonfire Night",
+        "Boxing Day",
+        "Burns Night"
+      ],
+      "answer": "Guy Fawkes Night",
+      "description": "Guy Fawkes Night, also known as Bonfire Night, commemorates the failed Gunpowder Plot of 1605."
+    },
+    {
+      "question": "What is the British currency called?",
+      "options": [
+        "Euro",
+        "Dollar",
+        "Pound Sterling",
+        "Yen"
+      ],
+      "answer": "Pound Sterling",
+      "description": "The Pound Sterling is the currency used in the United Kingdom."
+    },
+    {
+      "question": "What is the name of the river that flows through London?",
+      "options": [
+        "River Clyde",
+        "River Thames",
+        "River Severn",
+        "River Tyne"
+      ],
+      "answer": "River Thames",
+      "description": "The River Thames is the longest river in England and flows through London."
+    },
+    {
+      "question": "Which famous British playwright is often referred to as the 'Bard of Avon'?",
+      "options": [
+        "William Shakespeare",
+        "Christopher Marlowe",
+        "George Bernard Shaw",
+        "Oscar Wilde"
+      ],
+      "answer": "William Shakespeare",
+      "description": "William Shakespeare, often called the 'Bard of Avon', is widely regarded as one of the greatest writers in the English language."
+    },
+    {
+      "question": "Which of these is a prestigious British university?",
+      "options": [
+        "Harvard",
+        "Yale",
+        "Oxford",
+        "MIT"
+      ],
+      "answer": "Oxford",
+      "description": "The University of Oxford is one of the oldest and most prestigious universities in the world."
+    },
+    {
+      "question": "What is the official residence of the British Prime Minister?",
+      "options": [
+        "Buckingham Palace",
+        "10 Downing Street",
+        "Windsor Castle",
+        "Houses of Parliament"
+      ],
+      "answer": "10 Downing Street",
+      "description": "10 Downing Street, often referred to as 'Number 10', is the official residence of the Prime Minister."
+    },
+    {
+      "question": "Which historical event took place in 1066 in England?",
+      "options": [
+        "The Great Fire of London",
+        "The Battle of Hastings",
+        "The English Civil War",
+        "The signing of the Magna Carta"
+      ],
+      "answer": "The Battle of Hastings",
+      "description": "The Battle of Hastings in 1066 was a pivotal moment in British history, leading to the Norman conquest of England."
+    },
+    {
+      "question": "What is the age children in the UK start primary school?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "description": "Children in the UK typically start primary school at the age of 5."
+    },
+    {
+      "question": "Which British city is famous for its Roman baths?",
+      "options": [
+        "Bath",
+        "York",
+        "Edinburgh",
+        "Canterbury"
+      ],
+      "answer": "Bath",
+      "description": "The city of Bath is known for its well-preserved Roman baths, which attract many tourists each year."
+    },
+    {
+      "question": "Which British holiday involves exchanging gifts on the day after Christmas?",
+      "options": [
+        "Easter",
+        "Guy Fawkes Night",
+        "Boxing Day",
+        "Remembrance Day"
+      ],
+      "answer": "Boxing Day",
+      "description": "Boxing Day is celebrated on the 26th of December and is a day when people traditionally give gifts to service workers."
+    },
+    {
+      "question": "Which British television show features a time-traveling alien called The Doctor?",
+      "options": [
+        "Sherlock",
+        "EastEnders",
+        "Doctor Who",
+        "Downton Abbey"
+      ],
+      "answer": "Doctor Who",
+      "description": "'Doctor Who' is a popular British sci-fi television show that first aired in 1963."
+    },
+    {
+      "question": "Which traditional British event involves wearing fancy hats and takes place in June?",
+      "options": [
+        "The Edinburgh Festival",
+        "Royal Ascot",
+        "Glastonbury Festival",
+        "The Proms"
+      ],
+      "answer": "Royal Ascot",
+      "description": "Royal Ascot is a major horse racing event where attendees often wear fancy hats and formal attire."
+    },
+    {
+      "question": "Which British queen celebrated her Platinum Jubilee in 2022?",
+      "options": [
+        "Queen Elizabeth I",
+        "Queen Victoria",
+        "Queen Elizabeth II",
+        "Queen Anne"
+      ],
+      "answer": "Queen Elizabeth II",
+      "description": "Queen Elizabeth II celebrated her Platinum Jubilee in 2022, marking 70 years on the throne."
+    },
+    {
+      "question": "Which major British sporting event is held annually at Wimbledon?",
+      "options": [
+        "Cricket",
+        "Golf",
+        "Football",
+        "Tennis"
+      ],
+      "answer": "Tennis",
+      "description": "Wimbledon is one of the four Grand Slam tennis tournaments and is held annually in London."
+    },
+    {
+      "question": "Which river forms part of the border between England and Scotland?",
+      "options": [
+        "River Severn",
+        "River Tweed",
+        "River Trent",
+        "River Thames"
+      ],
+      "answer": "River Tweed",
+      "description": "The River Tweed forms part of the border between England and Scotland."
+    },
+    {
+      "question": "Fill in the blank: The United Kingdom is made up of England, Scotland, Wales, and _____.",
+      "options": [
+        "Northern Ireland",
+        "Ireland",
+        "Cornwall",
+        "The Isle of Man"
+      ],
+      "answer": "Northern Ireland",
+      "description": "The United Kingdom consists of four countries: England, Scotland, Wales, and Northern Ireland."
+    },
+    {
+      "question": "What is the name of the British Royal family’s official residence in London?",
+      "options": [
+        "Buckingham Palace",
+        "Kensington Palace",
+        "Windsor Castle",
+        "St. James's Palace"
+      ],
+      "answer": "Buckingham Palace",
+      "description": "Buckingham Palace is the official residence of the British monarch in London."
+    },
+    {
+      "question": "Which iconic British landmark is a giant prehistoric stone monument located in Wiltshire?",
+      "options": [
+        "Stonehenge",
+        "Hadrian's Wall",
+        "Big Ben",
+        "The Tower of London"
+      ],
+      "answer": "Stonehenge",
+      "description": "Stonehenge is one of the most famous prehistoric monuments in the world, located in Wiltshire, England."
+    },
+    {
+      "question": "In which British city would you find the famous university rivalry between 'The Boat Race' teams?",
+      "options": [
+        "Oxford and Cambridge",
+        "London and Edinburgh",
+        "Manchester and Liverpool",
+        "Bristol and Bath"
+      ],
+      "answer": "Oxford and Cambridge",
+      "description": "The Boat Race is an annual rowing competition between the University of Oxford and the University of Cambridge."
+    },
+    {
+      "question": "Which British newspaper is known for its 'red top' tabloid style?",
+      "options": [
+        "The Times",
+        "The Guardian",
+        "The Sun",
+        "The Independent"
+      ],
+      "answer": "The Sun",
+      "description": "The Sun is one of the most widely-read 'red top' tabloid newspapers in the UK, known for its sensationalist style."
+    },
+    {
+      "question": "In British schools, what is the name given to the uniformed monitors who help children cross the road safely?",
+      "options": [
+        "Crossing guards",
+        "Lollipop men/women",
+        "School prefects",
+        "Traffic wardens"
+      ],
+      "answer": "Lollipop men/women",
+      "description": "Lollipop men and women help children cross roads safely, named after the stop sign they carry, which looks like a lollipop."
+    },
+    {
+      "question": "What is the traditional British event where tea is served with cakes and sandwiches?",
+      "options": [
+        "High tea",
+        "Afternoon tea",
+        "Brunch",
+        "Full English breakfast"
+      ],
+      "answer": "Afternoon tea",
+      "description": "Afternoon tea is a British tradition where tea is served with cakes, pastries, and sandwiches in the late afternoon."
+    }
+  ]

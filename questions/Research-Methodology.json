@@ -1,0 +1,284 @@
+[
+    {
+        "question": "What is the first step in the research process?",
+        "options": ["Formulating a hypothesis", "Identifying the research problem", "Collecting data", "Reviewing the literature"],
+        "answer": "Identifying the research problem",
+        "description": "The research process begins with identifying a clear and focused research problem or question that guides the rest of the study."
+    },
+    {
+        "question": "Which of the following is a characteristic of qualitative research?",
+        "options": ["Focus on numerical data", "Subjective interpretation of data", "Use of large sample sizes", "Statistical analysis"],
+        "answer": "Subjective interpretation of data",
+        "description": "Qualitative research emphasizes understanding phenomena through subjective interpretation, often involving in-depth exploration of smaller samples."
+    },
+    {
+        "question": "Which research method is most suitable for determining cause-and-effect relationships?",
+        "options": ["Survey", "Experiment", "Case study", "Ethnography"],
+        "answer": "Experiment",
+        "description": "Experiments are designed to test cause-and-effect relationships by manipulating variables and controlling conditions."
+    },
+    {
+        "question": "Which type of research aims to solve practical problems?",
+        "options": ["Basic research", "Applied research", "Exploratory research", "Descriptive research"],
+        "answer": "Applied research",
+        "description": "Applied research is conducted to address specific, real-world issues or problems, focusing on practical applications of knowledge."
+    },
+    {
+        "question": "What does 'peer review' in academic publishing refer to?",
+        "options": ["Authors reviewing their own work", "Colleagues providing informal feedback", "Experts evaluating a manuscript before publication", "The editor reviewing the paper alone"],
+        "answer": "Experts evaluating a manuscript before publication",
+        "description": "In peer review, subject matter experts assess the quality and validity of a research manuscript to ensure it meets academic standards before publication."
+    },
+    {
+        "question": "Which of the following is a primary source in research?",
+        "options": ["Textbook summary", "A research article reporting original findings", "Encyclopedia entry", "Literature review"],
+        "answer": "A research article reporting original findings",
+        "description": "A primary source provides original data or firsthand evidence, such as research articles presenting new findings from experiments or studies."
+    },
+    {
+        "question": "In mixed methods research, what does the term 'concurrent triangulation' refer to?",
+        "options": ["Collecting both qualitative and quantitative data at different times", "Analyzing qualitative and quantitative data separately", "Collecting and analyzing qualitative and quantitative data simultaneously", "Using only one type of data for analysis"],
+        "answer": "Collecting and analyzing qualitative and quantitative data simultaneously",
+        "description": "Concurrent triangulation involves collecting and analyzing both qualitative and quantitative data at the same time to compare and validate the results."
+    },
+    {
+        "question": "Which research design is best for exploring phenomena without any preconceived hypotheses?",
+        "options": ["Explanatory", "Exploratory", "Descriptive", "Experimental"],
+        "answer": "Exploratory",
+        "description": "Exploratory research is used when little is known about a phenomenon and aims to gather preliminary insights without testing specific hypotheses."
+    },
+    {
+        "question": "Which citation style is most commonly used in the social sciences?",
+        "options": ["MLA", "APA", "Chicago", "Harvard"],
+        "answer": "APA",
+        "description": "APA (American Psychological Association) style is frequently used in the social sciences for formatting and citing sources."
+    },
+    {
+        "question": "What type of sampling involves selecting participants who are readily available?",
+        "options": ["Random sampling", "Snowball sampling", "Purposive sampling", "Convenience sampling"],
+        "answer": "Convenience sampling",
+        "description": "Convenience sampling is a non-probability sampling method where participants are chosen based on their accessibility and proximity to the researcher."
+    },
+    {
+        "question": "Which research approach focuses on understanding participants' lived experiences?",
+        "options": ["Positivism", "Interpretivism", "Realism", "Post-positivism"],
+        "answer": "Interpretivism",
+        "description": "Interpretivism emphasizes understanding the subjective experiences and meanings individuals attach to social phenomena, often using qualitative methods."
+    },
+    {
+        "question": "What is the purpose of a literature review in research?",
+        "options": ["To present original findings", "To provide statistical analysis", "To summarize existing knowledge and identify gaps", "To develop research hypotheses"],
+        "answer": "To summarize existing knowledge and identify gaps",
+        "description": "A literature review critically examines existing research on a topic, helping to identify gaps and inform the research questions or hypotheses."
+    },
+    {
+        "question": "Which type of variable is manipulated in an experimental study?",
+        "options": ["Dependent variable", "Control variable", "Extraneous variable", "Independent variable"],
+        "answer": "Independent variable",
+        "description": "In experiments, the independent variable is the one manipulated by the researcher to observe its effect on the dependent variable."
+    },
+    {
+        "question": "Which of the following research methods is often used in ethnographic studies?",
+        "options": ["Participant observation", "Content analysis", "Surveys", "Experiments"],
+        "answer": "Participant observation",
+        "description": "Ethnography typically involves participant observation, where the researcher immerses themselves in the study environment to observe behaviors and interactions."
+    },
+    {
+        "question": "Which of the following is a key feature of longitudinal studies?",
+        "options": ["Study conducted at a single point in time", "Data collected over an extended period", "Random assignment of participants", "Simultaneous collection of qualitative and quantitative data"],
+        "answer": "Data collected over an extended period",
+        "description": "Longitudinal studies involve repeated observations of the same variables over long periods, allowing researchers to track changes over time."
+    },
+    {
+        "question": "Which term describes the consistency of a research study or measuring test?",
+        "options": ["Validity", "Reliability", "Generalizability", "Falsifiability"],
+        "answer": "Reliability",
+        "description": "Reliability refers to the consistency and repeatability of a study or test, indicating that the same results would be obtained if the research were repeated under similar conditions."
+    },
+    {
+        "question": "In quantitative research, what does the term 'population' refer to?",
+        "options": ["A group of variables", "The specific sample selected for the study", "All individuals or units of interest", "The dependent variables"],
+        "answer": "All individuals or units of interest",
+        "description": "In quantitative research, the 'population' refers to the entire group of individuals, objects, or events that the researcher is interested in studying."
+    },
+    {
+        "question": "Which approach to research prioritizes objectivity and seeks to explain phenomena through scientific methods?",
+        "options": ["Critical theory", "Constructivism", "Positivism", "Interpretivism"],
+        "answer": "Positivism",
+        "description": "Positivism emphasizes the use of scientific methods and objectivity to explain and predict phenomena, often through quantitative research."
+    },
+    {
+        "question": "What is the main focus of case study research?",
+        "options": ["Exploring a single instance or case in depth", "Testing a hypothesis in a large population", "Measuring the prevalence of a phenomenon", "Conducting a broad survey of a population"],
+        "answer": "Exploring a single instance or case in depth",
+        "description": "Case study research focuses on an in-depth exploration of a particular case or situation to gain detailed insights into a specific phenomenon."
+    },
+    {
+        "question": "What is the purpose of a control group in experimental research?",
+        "options": ["To manipulate the independent variable", "To provide a baseline for comparison", "To generate new hypotheses", "To explore secondary variables"],
+        "answer": "To provide a baseline for comparison",
+        "description": "A control group is used in experiments to provide a baseline, allowing researchers to compare the effects of the independent variable on the experimental group."
+    },
+    {
+        "question": "Which of the following describes 'triangulation' in research?",
+        "options": ["Using multiple researchers", "Using multiple methods or data sources", "Using only qualitative data", "Using random sampling methods"],
+        "answer": "Using multiple methods or data sources",
+        "description": "Triangulation refers to using multiple methods, data sources, or researchers to cross-verify findings, increasing the credibility of the research results."
+    },
+    {
+        "question": "Which citation style is most commonly used in the humanities?",
+        "options": ["APA", "Chicago", "Harvard", "MLA"],
+        "answer": "MLA",
+        "description": "MLA (Modern Language Association) style is commonly used in the humanities, especially in disciplines like literature, art, and philosophy."
+    },
+    {
+        "question": "Which type of reasoning involves deriving specific predictions from general principles or theories?",
+        "options": ["Inductive reasoning", "Deductive reasoning", "Abductive reasoning", "Exploratory reasoning"],
+        "answer": "Deductive reasoning",
+        "description": "Deductive reasoning starts with a general theory or premise and uses it to reach a specific conclusion."
+    },
+    {
+        "question": "Deductive reasoning starts with a general theory or premise and uses it to ____ specific predictions or conclusions.",
+        "options": ["derive", "reject", "formulate", "validate"],
+        "answer": "derive",
+        "description": "Deductive reasoning involves starting from a general principle and using it to derive specific conclusions or predictions."
+    },
+    {
+        "question": "In qualitative research, ____ is often used to identify patterns or themes in textual data.",
+        "options": ["Statistical analysis", "Content analysis", "Numerical coding", "Regression analysis"],
+        "answer": "Content analysis",
+        "description": "Content analysis is a method used to identify recurring patterns or themes in qualitative data, such as interviews or texts."
+    },
+    {
+        "question": "Which method is typically used to gather quantitative data from a large population?",
+        "options": ["Surveys", "Case studies", "Ethnography", "Grounded theory"],
+        "answer": "Surveys",
+        "description": "Surveys are commonly used in quantitative research to collect data from large populations, often through questionnaires or structured interviews."
+    },
+    {
+        "question": "In research, the process of determining if the findings of a study can be applied to the wider population is called ____. ",
+        "options": ["Generalization", "Validation", "Reliability", "Verification"],
+        "answer": "Generalization",
+        "description": "Generalization refers to the extent to which the findings of a study can be applied or extended to broader populations beyond the sample studied."
+    },
+    {
+        "question": "Which term refers to the ethical principle of keeping participants' identities private in research?",
+        "options": ["Anonymity", "Informed consent", "Confidentiality", "Voluntary participation"],
+        "answer": "Confidentiality",
+        "description": "Confidentiality involves protecting participants' personal information and ensuring it is not disclosed in the research report."
+    },
+    {
+        "question": "In experimental research, controlling for ____ variables is important to ensure that only the independent variable affects the dependent variable.",
+        "options": ["Dependent", "Extraneous", "Independent", "Qualitative"],
+        "answer": "Extraneous",
+        "description": "Extraneous variables are any variables other than the independent variable that could influence the outcome of the study, and controlling for them helps ensure valid results."
+    },
+    {
+        "question": "Which type of research typically starts with a theory and aims to test its hypotheses?",
+        "options": ["Descriptive", "Deductive", "Inductive", "Exploratory"],
+        "answer": "Deductive",
+        "description": "Deductive research starts with a general theory or hypothesis and seeks to test it through empirical observation."
+    },
+    {
+        "question": "An academic paper that synthesizes existing research to provide an overview of a particular topic is called a ____. ",
+        "options": ["Case study", "Theoretical framework", "Literature review", "Research hypothesis"],
+        "answer": "Literature review",
+        "description": "A literature review synthesizes and evaluates previous research on a specific topic to identify patterns, gaps, and insights."
+    },
+    {
+        "question": "When researchers adjust their data collection methods based on what they learn in the field, it is known as ____ sampling.",
+        "options": ["Convenience", "Random", "Adaptive", "Theoretical"],
+        "answer": "Adaptive",
+        "description": "Adaptive sampling allows researchers to modify their data collection methods based on new information gathered during the research process."
+    },
+    {
+        "question": "In which type of study are participants randomly assigned to different groups to test the effects of a variable?",
+        "options": ["Survey", "Ethnography", "Experimental", "Case study"],
+        "answer": "Experimental",
+        "description": "In experimental research, participants are randomly assigned to groups (e.g., treatment and control groups) to measure the effect of an independent variable on an outcome."
+    },
+    {
+        "question": "A research design that compares two or more groups but does not randomly assign participants is called a ____ study.",
+        "options": ["Randomized", "Quasi-experimental", "Ethnographic", "Cross-sectional"],
+        "answer": "Quasi-experimental",
+        "description": "Quasi-experimental designs compare groups without random assignment, which limits the control over potential confounding variables."
+    },
+    {
+        "question": "A systematic error that consistently skews results in one direction is referred to as ____.",
+        "options": ["Random error", "Bias", "Validity", "Precision"],
+        "answer": "Bias",
+        "description": "Bias is a systematic error in the research process that leads to inaccurate or misleading results, often in a particular direction."
+    },
+    {
+        "question": "Which research method is primarily used to study individuals' perceptions, emotions, and experiences?",
+        "options": ["Quantitative analysis", "Statistical analysis", "Qualitative analysis", "Meta-analysis"],
+        "answer": "Qualitative analysis",
+        "description": "Qualitative analysis focuses on understanding individuals' subjective experiences, emotions, and perceptions, often through methods like interviews or observations."
+    },
+    {
+        "question": "Which part of the research paper typically discusses how the data was collected?",
+        "options": ["Introduction", "Literature Review", "Methodology", "Discussion"],
+        "answer": "Methodology",
+        "description": "The methodology section details the research design, data collection methods, and procedures used in the study."
+    },
+    {
+        "question": "In quantitative research, the term used to describe the accuracy and consistency of a measurement instrument is ____.",
+        "options": ["Validity", "Reliability", "Falsifiability", "Reproducibility"],
+        "answer": "Reliability",
+        "description": "Reliability refers to the consistency of a measurement instrument or procedure over time, ensuring that it yields the same results under similar conditions."
+    },
+    {
+        "question": "Which research approach begins with data collection and uses it to form a theory?",
+        "options": ["Deductive", "Exploratory", "Inductive", "Longitudinal"],
+        "answer": "Inductive",
+        "description": "Inductive research starts with observations or data collection and then uses the information to develop broader theories or generalizations."
+    },
+    {
+        "question": "____ is the process of combining qualitative and quantitative research methods to gain a comprehensive understanding of a research problem.",
+        "options": ["Triangulation", "Mixed methods", "Data synthesis", "Concurrent analysis"],
+        "answer": "Mixed methods",
+        "description": "Mixed methods research combines both qualitative and quantitative approaches to offer a more complete understanding of a research question."
+    },
+    {
+        "question": "In the context of research ethics, ____ refers to participants' right to understand the risks and benefits of the study before agreeing to take part.",
+        "options": ["Anonymity", "Informed consent", "Confidentiality", "Deception"],
+        "answer": "Informed consent",
+        "description": "Informed consent ensures that participants are fully aware of the study's nature, risks, and benefits before agreeing to participate."
+    },
+    {
+        "question": "The concept of ____ validity refers to how well a test or research study measures what it claims to measure.",
+        "options": ["External", "Internal", "Construct", "Ecological"],
+        "answer": "Construct",
+        "description": "Construct validity refers to the extent to which a test or instrument measures the theoretical construct it is intended to assess."
+    },
+    {
+        "question": "Which of the following is NOT a type of qualitative research method?",
+        "options": ["Case study", "Grounded theory", "Phenomenology", "Correlation analysis"],
+        "answer": "Correlation analysis",
+        "description": "Correlation analysis is a quantitative method used to assess the statistical relationship between two variables, while the other methods are qualitative."
+    },
+    {
+        "question": "The primary goal of ____ research is to explore the relationships between two or more variables.",
+        "options": ["Correlational", "Descriptive", "Experimental", "Ethnographic"],
+        "answer": "Correlational",
+        "description": "Correlational research aims to examine the relationships between variables, without manipulating them, to determine if a relationship exists."
+    },
+    {
+        "question": "In research, ____ occurs when researchers influence the results of their study, either intentionally or unintentionally.",
+        "options": ["Observer bias", "Random error", "Reliability", "Validity"],
+        "answer": "Observer bias",
+        "description": "Observer bias happens when researchers' expectations or beliefs influence the outcomes of a study, leading to skewed results."
+    },
+    {
+        "question": "In APA citation style, which information should be italicized in a reference list?",
+        "options": ["The author's name", "The publication year", "The title of the journal", "The volume number"],
+        "answer": "The title of the journal",
+        "description": "In APA style, the title of the journal is italicized in the reference list, along with book titles and other works."
+    },
+    {
+        "question": "Which term refers to the extent to which the results of a study can be generalized to other settings or populations?",
+        "options": ["Internal validity", "Ecological validity", "External validity", "Construct validity"],
+        "answer": "External validity",
+        "description": "External validity refers to the extent to which the results of a study can be applied or generalized to different populations, settings, or times."
+    }
+]

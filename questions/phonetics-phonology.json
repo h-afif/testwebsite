@@ -1,0 +1,202 @@
+[
+    {
+        "question": "What is the term for the smallest unit of sound in a language that can distinguish meaning?",
+        "options": [
+            "Morpheme",
+            "Phoneme",
+            "Allophone"
+        ],
+        "answer": "Phoneme",
+        "description": "A phoneme is the smallest sound unit in a language that can change the meaning of a word, such as the difference between /p/ and /b/ in 'pat' and 'bat'."
+    },
+    {
+        "question": "Which of the following describes the place of articulation for the sound /θ/ as in 'think'?",
+        "options": [
+            "Labiodental",
+            "Dental",
+            "Alveolar"
+        ],
+        "answer": "Dental",
+        "description": "The sound /θ/ is produced with the tongue placed against the upper teeth, which makes it a dental sound. Labiodental involves the lips and teeth, and alveolar involves the tongue touching the alveolar ridge."
+    },
+    {
+        "question": "Which of these is a voiced bilabial plosive?",
+        "options": [
+            "/b/",
+            "/p/",
+            "/v/"
+        ],
+        "answer": "/b/",
+        "description": "The /b/ sound is produced with both lips (bilabial) and involves vibration of the vocal cords, making it voiced. In contrast, /p/ is voiceless, and /v/ is a fricative, not a plosive."
+    },
+    {
+        "question": "In which word does aspiration occur in English?",
+        "options": [
+            "Spin",
+            "Pin",
+            "Bin"
+        ],
+        "answer": "Pin",
+        "description": "Aspiration occurs when there is a burst of air after a voiceless stop. In 'pin', the /p/ is aspirated. However, the /p/ in 'spin' is unaspirated because it follows an /s/."
+    },
+    {
+        "question": "Which of the following pairs are minimal pairs in English?",
+        "options": [
+            "Ship and Sheep",
+            "Cat and Cart",
+            "Table and Stable"
+        ],
+        "answer": "Ship and Sheep",
+        "description": "Minimal pairs are words that differ by only one phoneme. 'Ship' and 'sheep' differ in the vowel sounds /ɪ/ and /i:/, making them a minimal pair, unlike 'cat' and 'cart', which differ by more than one sound."
+    },
+    {
+        "question": "What kind of sound is the glottal stop /ʔ/?",
+        "options": [
+            "A plosive",
+            "A fricative",
+            "An affricate"
+        ],
+        "answer": "A plosive",
+        "description": "The glottal stop /ʔ/ is a plosive sound because it involves a complete closure of the vocal cords (glottis) followed by a sudden release of air, much like other plosive sounds."
+    },
+    {
+        "question": "Which of the following is an example of a diphthong?",
+        "options": [
+            "/eɪ/ as in 'say'",
+            "/a/ as in 'cat'",
+            "/i/ as in 'sit'"
+        ],
+        "answer": "/eɪ/ as in 'say'",
+        "description": "A diphthong is a complex vowel sound that begins with one vowel and glides to another within the same syllable. /eɪ/ starts with /e/ and glides toward /ɪ/, making it a diphthong."
+    },
+    {
+        "question": "Which term describes sounds produced with the airflow obstructed completely, followed by a sudden release?",
+        "options": [
+            "Nasal",
+            "Fricative",
+            "Plosive"
+        ],
+        "answer": "Plosive",
+        "description": "Plosive sounds, like /p/ and /b/, involve a complete blockage of the airflow followed by a quick release. In contrast, fricatives involve a partial blockage, and nasals let air pass through the nose."
+    },
+    {
+        "question": "What is the manner of articulation for the sound /s/ in 'sit'?",
+        "options": [
+            "Fricative",
+            "Plosive",
+            "Nasal"
+        ],
+        "answer": "Fricative",
+        "description": "The /s/ sound is a fricative because it is produced by forcing air through a narrow constriction, causing friction. Plosives involve a complete stop of airflow, and nasals let air pass through the nose."
+    },
+    {
+        "question": "Which of these sounds is produced at the alveolar ridge?",
+        "options": [
+            "/t/",
+            "/k/",
+            "/m/"
+        ],
+        "answer": "/t/",
+        "description": "The sound /t/ is produced with the tongue touching the alveolar ridge, making it an alveolar sound. /k/ is velar, produced at the back of the mouth, and /m/ is bilabial."
+    },
+    {
+        "question": "What is the primary difference between /ʃ/ and /ʒ/ in English?",
+        "options": [
+            "Place of articulation",
+            "Voicing",
+            "Manner of articulation"
+        ],
+        "answer": "Voicing",
+        "description": "The sounds /ʃ/ (as in 'she') and /ʒ/ (as in 'measure') differ primarily in voicing. /ʃ/ is voiceless, while /ʒ/ is voiced. Both are fricatives and have the same place of articulation (palatal)."
+    },
+    {
+        "question": "Which of the following sounds is not a nasal?",
+        "options": [
+            "/m/",
+            "/n/",
+            "/g/"
+        ],
+        "answer": "/g/",
+        "description": "/g/ is a voiced velar plosive, not a nasal. Nasal sounds like /m/ and /n/ involve airflow passing through the nose, while plosives involve a complete stop of airflow."
+    },
+    {
+        "question": "What is the place of articulation for the sound /ŋ/ as in 'sing'?",
+        "options": [
+            "Velar",
+            "Alveolar",
+            "Bilabial"
+        ],
+        "answer": "Velar",
+        "description": "/ŋ/ is a velar nasal, produced at the back of the mouth with the tongue against the velum. It is distinct from alveolar sounds like /n/ and bilabial sounds like /m/."
+    },
+    {
+        "question": "Which of the following words contains a voiced fricative?",
+        "options": [
+            "Think",
+            "Ship",
+            "This"
+        ],
+        "answer": "This",
+        "description": "The /ð/ sound in 'this' is a voiced dental fricative. 'Think' contains the voiceless /θ/ and 'ship' contains the voiceless fricative /ʃ/."
+    },
+    {
+        "question": "Which feature distinguishes an affricate from a plosive?",
+        "options": [
+            "Manner of articulation",
+            "Voicing",
+            "Place of articulation"
+        ],
+        "answer": "Manner of articulation",
+        "description": "An affricate, like /tʃ/ in 'church', combines a stop followed by a fricative, making the manner of articulation distinct from plosives, which only have a stop and release."
+    },
+    {
+        "question": "Which vowel is classified as a high front unrounded vowel?",
+        "options": [
+            "/i/ as in 'see'",
+            "/u/ as in 'too'",
+            "/æ/ as in 'cat'"
+        ],
+        "answer": "/i/ as in 'see'",
+        "description": "/i/ is a high front unrounded vowel, as the tongue is high in the mouth and positioned toward the front, and the lips are not rounded."
+    },
+    {
+        "question": "What is the process by which two sounds become more alike in a word called?",
+        "options": [
+            "Assimilation",
+            "Elision",
+            "Epenthesis"
+        ],
+        "answer": "Assimilation",
+        "description": "Assimilation is the process where two sounds become more similar to each other in connected speech, such as in 'input' where /n/ can become /m/ before /p/."
+    },
+    {
+        "question": "Which of the following terms describes the dropping of a sound in fast speech?",
+        "options": [
+            "Assimilation",
+            "Elision",
+            "Insertion"
+        ],
+        "answer": "Elision",
+        "description": "Elision refers to the omission of a sound, often occurring in casual speech, such as the dropping of the /t/ sound in 'next day' to sound like 'nex day'."
+    },
+    {
+        "question": "Which of the following is a voiced velar plosive?",
+        "options": [
+            "/g/",
+            "/d/",
+            "/k/"
+        ],
+        "answer": "/g/",
+        "description": "/g/ is a voiced velar plosive, produced at the velum with vocal cord vibration, whereas /k/ is its voiceless counterpart and /d/ is alveolar."
+    },
+    {
+        "question": "Which of the following is an example of an approximant?",
+        "options": [
+            "/r/",
+            "/p/",
+            "/s/"
+        ],
+        "answer": "/r/",
+        "description": "An approximant like /r/ is produced with a minimal obstruction of airflow, unlike /p/ (a plosive) or /s/ (a fricative), which have more constriction."
+    }
+]

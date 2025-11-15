@@ -1,0 +1,170 @@
+[
+    {
+        "question": "The United States declared independence from Britain in ______.",
+        "options": ["1776", "1783", "1775", "1789"],
+        "answer": "1776",
+        "description": "The United States declared independence on July 4, 1776, with the endorsement of the Declaration of Independence by the Continental Congress."
+    },
+    {
+        "question": "The first country that recognized the United States as a sovereign entity was ______.",
+        "options": ["India", "Morocco", "Nigeria", "Italy"],
+        "answer": "Morocco",
+        "description": "Morocco was one of the first countries to accord recognition of the new American republic when it allowed American ships access to Moroccan ports in 1777."
+    },
+    {
+        "question": "Gap-fill: The first permanent European settlement in the United States was established by the Spanish in ______.",
+        "options": ["Jamestown", "St. Augustine", "Plymouth", "Roanoke"],
+        "answer": "St. Augustine",
+        "description": "St. Augustine, founded in 1565 by the Spanish, was the first permanent European settlement in the present-day United States."
+    },
+    {
+        "question": "Which event marked the end of the American Civil War?",
+        "options": ["Battle of Gettysburg", "Lincoln's assassination", "Lee's surrender at Appomattox", "The Emancipation Proclamation"],
+        "answer": "Lee's surrender at Appomattox",
+        "description": "The American Civil War ended when General Robert E. Lee surrendered to Ulysses S. Grant at Appomattox Court House on April 9, 1865."
+    },
+    {
+        "question": "Why did the United States enter World War I in 1917?",
+        "options": ["The sinking of the Lusitania", "German unrestricted submarine warfare", "The Zimmermann Telegram", "All of the above"],
+        "answer": "All of the above",
+        "description": "The U.S. entered World War I after Germany resumed unrestricted submarine warfare, and the Zimmermann Telegram revealed German intentions to ally with Mexico against the U.S."
+    },
+    {
+        "question": "Gap-fill: The United States' victory in the ______ War resulted in the acquisition of Puerto Rico, Guam, and the Philippines.",
+        "options": ["Mexican-American", "Spanish-American", "War of 1812", "World War I"],
+        "answer": "Spanish-American",
+        "description": "The U.S. won the Spanish-American War in 1898, gaining control of former Spanish territories, including Puerto Rico, Guam, and the Philippines."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "options": ["John Adams", "George Washington", "Thomas Jefferson", "James Madison"],
+        "answer": "George Washington",
+        "description": "George Washington became the first president of the U.S. in 1789 after leading the Continental Army during the Revolutionary War."
+    },
+    {
+        "question": "What was the main reason for the U.S. Civil War (1861-1865)?",
+        "options": ["States' rights", "Taxation", "Slavery", "Religious freedom"],
+        "answer": "Slavery",
+        "description": "Although there were several causes, the main reason for the Civil War was the conflict between the North and South over slavery and its expansion."
+    },
+    {
+        "question": "Gap-fill: The 1960s in the U.S. saw significant movements such as the Civil Rights Movement, led by figures like ______.",
+        "options": ["Martin Luther King Jr.", "Malcolm X", "Rosa Parks", "All of the above"],
+        "answer": "All of the above",
+        "description": "The Civil Rights Movement was spearheaded by leaders like Martin Luther King Jr., Malcolm X, and Rosa Parks, who fought for racial equality and justice."
+    },
+    {
+        "question": "Which of the following was not a result of the Treaty of Versailles in 1919?",
+        "options": ["Germany was required to pay reparations", "The League of Nations was established", "The U.S. gained new territories", "The U.S. refused to join the League of Nations"],
+        "answer": "The U.S. gained new territories",
+        "description": "While the Treaty of Versailles imposed reparations on Germany and created the League of Nations, the U.S. did not gain new territories and refused to join the League."
+    },
+    {
+        "question": "What was the main reason for the U.S. entering World War II?",
+        "options": ["German invasion of Poland", "Japanese attack on Pearl Harbor", "Sinking of the Lusitania", "Zimmermann Telegram"],
+        "answer": "Japanese attack on Pearl Harbor",
+        "description": "The U.S. entered World War II after Japan attacked Pearl Harbor on December 7, 1941, leading to the U.S. declaring war on Japan and its Axis allies."
+    },
+    {
+        "question": "Gap-fill: The ______, passed in 1865, officially abolished slavery in the United States.",
+        "options": ["12th Amendment", "13th Amendment", "14th Amendment", "15th Amendment"],
+        "answer": "13th Amendment",
+        "description": "The 13th Amendment to the U.S. Constitution abolished slavery in the U.S. following the Civil War."
+    },
+    {
+        "question": "Which of these events is associated with the Great Depression?",
+        "options": ["The sinking of the Lusitania", "The Stock Market Crash of 1929", "The Prohibition", "The Treaty of Paris"],
+        "answer": "The Stock Market Crash of 1929",
+        "description": "The Great Depression was triggered by the Stock Market Crash of 1929, leading to widespread economic hardship in the U.S. and globally."
+    },
+    {
+        "question": "Why was the Louisiana Purchase significant in U.S. history?",
+        "options": ["It doubled the size of the U.S.", "It ended the War of 1812", "It was the start of the abolitionist movement", "It gave the U.S. control of Canada"],
+        "answer": "It doubled the size of the U.S.",
+        "description": "The Louisiana Purchase in 1803 doubled the size of the U.S. by acquiring vast territory from France."
+    },
+    {
+        "question": "Gap-fill: In 1920, the ______ Amendment gave women the right to vote in the U.S.",
+        "options": ["18th", "19th", "21st", "22nd"],
+        "answer": "19th",
+        "description": "The 19th Amendment, ratified in 1920, granted women the right to vote in the U.S."
+    },
+    {
+        "question": "Who delivered the famous 'I Have a Dream' speech during the March on Washington in 1963?",
+        "options": ["Malcolm X", "John F. Kennedy", "Martin Luther King Jr.", "Lyndon B. Johnson"],
+        "answer": "Martin Luther King Jr.",
+        "description": "Martin Luther King Jr. delivered his 'I Have a Dream' speech during the March on Washington in 1963, advocating for civil rights and racial equality."
+    },
+    {
+        "question": "What was the main purpose of the Monroe Doctrine (1823)?",
+        "options": ["To end slavery", "To limit European interference in the Americas", "To declare U.S. independence", "To acquire new territories"],
+        "answer": "To limit European interference in the Americas",
+        "description": "The Monroe Doctrine, announced in 1823, aimed to prevent European intervention in the Americas and solidify U.S. influence in the Western Hemisphere."
+    },
+    {
+        "question": "Gap-fill: The ______ Act of 1965 aimed to eliminate racial discrimination in voting.",
+        "options": ["Civil Rights Act", "Voting Rights Act", "Emancipation Act", "Equal Rights Act"],
+        "answer": "Voting Rights Act",
+        "description": "The Voting Rights Act of 1965 aimed to eliminate racial discrimination in voting, particularly in Southern states where discriminatory practices were widespread."
+    },
+    {
+        "question": "Which president signed the Civil Rights Act of 1964 into law?",
+        "options": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Harry Truman"],
+        "answer": "Lyndon B. Johnson",
+        "description": "Lyndon B. Johnson signed the Civil Rights Act of 1964, which outlawed discrimination based on race, color, religion, sex, or national origin."
+    },
+    {
+        "question": "Why was the Boston Tea Party in 1773 significant?",
+        "options": ["It marked the beginning of the American Revolution", "It was a protest against British taxation", "It established the first U.S. Congress", "It led to the drafting of the U.S. Constitution"],
+        "answer": "It was a protest against British taxation",
+        "description": "The Boston Tea Party was a colonial protest against British taxation, particularly the tax on tea, leading to heightened tensions and eventually the American Revolution."
+    },
+    {
+        "question": "Gap-fill: The U.S. landed the first men on the Moon in ______.",
+        "options": ["1969", "1972", "1965", "1975"],
+        "answer": "1969",
+        "description": "In 1969, NASA's Apollo 11 mission successfully landed the first humans on the Moon, with Neil Armstrong and Buzz Aldrin becoming the first men to walk on the lunar surface."
+    },
+    {
+        "question": "What was the main cause of the Vietnam War protests in the U.S. during the 1960s and 1970s?",
+        "options": ["Economic recession", "Racial inequality", "Opposition to U.S. involvement in the Vietnam War", "Demand for voting rights"],
+        "answer": "Opposition to U.S. involvement in the Vietnam War",
+        "description": "The Vietnam War protests were fueled by public opposition to U.S. military involvement in Vietnam and the draft system, leading to widespread protests across the country."
+    },
+    {
+        "question": "Who was the first African American president of the United States?",
+        "options": ["Bill Clinton", "Barack Obama", "Colin Powell", "Jesse Jackson"],
+        "answer": "Barack Obama",
+        "description": "Barack Obama became the first African American president of the United States when he was elected in 2008."
+    },
+    {
+        "question": "Gap-fill: The ______ occurred in 2008, leading to a global financial crisis.",
+        "options": ["Stock Market Crash", "Housing Market Crash", "Savings and Loan Crisis", "Dot-com Bubble"],
+        "answer": "Housing Market Crash",
+        "description": "The housing market crash of 2008 led to a global financial crisis, as many Americans defaulted on their home loans, causing major banks to collapse."
+    },
+    {
+        "question": "Which U.S. President initiated the New Deal to combat the Great Depression?",
+        "options": ["Herbert Hoover", "Franklin D. Roosevelt", "Theodore Roosevelt", "Woodrow Wilson"],
+        "answer": "Franklin D. Roosevelt",
+        "description": "Franklin D. Roosevelt's New Deal, introduced in the 1930s, included a series of programs and reforms aimed at recovering from the Great Depression."
+    },
+    {
+        "question": "Gap-fill: The ______ was a program launched by the U.S. government to rebuild Europe after World War II.",
+        "options": ["New Deal", "Great Society", "Marshall Plan", "Monroe Doctrine"],
+        "answer": "Marshall Plan",
+        "description": "The Marshall Plan, launched in 1948, provided financial aid to rebuild European economies after World War II, aiming to prevent the spread of communism."
+    },
+    {
+        "question": "Which U.S. President is most associated with the Watergate scandal?",
+        "options": ["John F. Kennedy", "Richard Nixon", "Gerald Ford", "Lyndon B. Johnson"],
+        "answer": "Richard Nixon",
+        "description": "Richard Nixon resigned from the presidency in 1974 due to the Watergate scandal, which involved a cover-up of a break-in at the Democratic National Committee headquarters."
+    },
+    {
+        "question": "Which of the following U.S. landmarks is a symbol of freedom and democracy, and was a gift from France?",
+        "options": ["Mount Rushmore", "The White House", "The Statue of Liberty", "The Lincoln Memorial"],
+        "answer": "The Statue of Liberty",
+        "description": "The Statue of Liberty was a gift from France to the U.S. in 1886 and stands as a symbol of freedom, democracy, and international friendship."
+    }
+]

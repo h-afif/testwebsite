@@ -1,0 +1,338 @@
+[
+    {
+        "question": "The conference starts __ 9 AM sharp tomorrow.",
+        "options": ["at", "in", "on", "by"],
+        "answer": "at",
+        "description": "'At' is used for specific times, such as 'at 9 AM'."
+    },
+    {
+        "question": "We have been working __ this project for the last six months.",
+        "options": ["in", "on", "at", "during"],
+        "answer": "on",
+        "description": "'On' is used to indicate the focus of work or study, such as 'working on a project'."
+    },
+    {
+        "question": "The museum will be closed __ the holidays.",
+        "options": ["for", "during", "since", "at"],
+        "answer": "during",
+        "description": "'During' is used to indicate a period when something happens, such as 'during the holidays'."
+    },
+    {
+        "question": "She has been living in Paris __ 2015.",
+        "options": ["for", "since", "during", "in"],
+        "answer": "since",
+        "description": "'Since' is used to specify the starting point of an action that continues to the present, such as 'since 2015'."
+    },
+    {
+        "question": "The cat is sleeping __ the couch.",
+        "options": ["at", "in", "on", "by"],
+        "answer": "on",
+        "description": "'On' is used to describe something located on a surface, like 'on the couch'."
+    },
+    {
+        "question": "The restaurant is located __ the center of town.",
+        "options": ["at", "in", "on", "by"],
+        "answer": "in",
+        "description": "'In' is used to describe something located within an area or place, such as 'in the center of town'."
+    },
+    {
+        "question": "The picture is hanging __ the wall.",
+        "options": ["above", "below", "between", "under"],
+        "answer": "above",
+        "description": "'Above' indicates a position higher than something else, such as 'above the wall'."
+    },
+    {
+        "question": "The dog is hiding __ the table.",
+        "options": ["under", "between", "on", "at"],
+        "answer": "under",
+        "description": "'Under' is used to describe something positioned directly below another object, like 'under the table'."
+    },
+    {
+        "question": "The bookstore is situated __ the library and the café.",
+        "options": ["between", "under", "behind", "above"],
+        "answer": "between",
+        "description": "'Between' is used to describe something located in the middle of two objects, such as 'between the library and the café'."
+    },
+    {
+        "question": "We walked __ the park to get to the café.",
+        "options": ["across", "along", "into", "by"],
+        "answer": "across",
+        "description": "'Across' indicates movement from one side to the other side of something, like 'across the park'."
+    },
+    {
+        "question": "The new bridge was built __ the river to connect the two towns.",
+        "options": ["over", "by", "under", "through"],
+        "answer": "over",
+        "description": "'Over' indicates movement or placement above something, like 'over the river'."
+    },
+    {
+        "question": "She completed the task __ her own.",
+        "options": ["by", "with", "of", "on"],
+        "answer": "by",
+        "description": "'By' indicates the means or agent through which something is done, such as 'by her own'."
+    },
+    {
+        "question": "The manager is known for his approach __ teamwork.",
+        "options": ["to", "with", "of", "for"],
+        "answer": "to",
+        "description": "'To' is used to indicate a particular attitude or approach, such as 'approach to teamwork'."
+    },
+    {
+        "question": "Everyone enjoyed the movie __ the critics' negative reviews.",
+        "options": ["except", "for", "besides", "without"],
+        "answer": "except",
+        "description": "'Except' is used to exclude something from a general statement, such as 'except the critics' reviews'."
+    },
+    {
+        "question": "He went to the meeting __ his partner.",
+        "options": ["with", "by", "for", "at"],
+        "answer": "with",
+        "description": "'With' indicates accompaniment or association, such as 'with his partner'."
+    },
+    {
+        "question": "She succeeded __ finishing the project ahead of the deadline.",
+        "options": ["in", "on", "at", "by"],
+        "answer": "in",
+        "description": "'In' is used to indicate success in achieving something, like 'succeeded in finishing the project'."
+    },
+    {
+        "question": "The seminar will be held __ the university campus.",
+        "options": ["in", "on", "at", "by"],
+        "answer": "on",
+        "description": "'On' is used for events happening on specific locations like 'on the university campus'."
+    },
+    {
+        "question": "We have a meeting scheduled __ next Tuesday.",
+        "options": ["for", "on", "at", "in"],
+        "answer": "on",
+        "description": "'On' is used with days and dates, such as 'on next Tuesday'."
+    },
+    {
+        "question": "The cat jumped __ the table to reach the food.",
+        "options": ["onto", "into", "above", "over"],
+        "answer": "onto",
+        "description": "'Onto' indicates movement towards a surface, like 'jumped onto the table'."
+    },
+    {
+        "question": "He was promoted __ his hard work and dedication.",
+        "options": ["because of", "in spite of", "despite", "without"],
+        "answer": "because of",
+        "description": "'Because of' indicates a reason or cause, such as 'promoted because of his hard work'."
+    },
+    {
+        "question": "They arrived __ the airport early to catch their flight.",
+        "options": ["at", "in", "on", "by"],
+        "answer": "at",
+        "description": "'At' is used for specific locations, such as 'at the airport'."
+    },
+    {
+        "question": "She worked __ a strict deadline, so she finished early.",
+        "options": ["under", "for", "with", "by"],
+        "answer": "under",
+        "description": "'Under' indicates working within the constraints of something, like 'under a deadline'."
+    },
+    {
+        "question": "The bird flew __ the house and landed on the roof.",
+        "options": ["over", "through", "around", "above"],
+        "answer": "over",
+        "description": "'Over' is used to indicate movement across the top of something, like 'flew over the house'."
+    },
+    {
+        "question": "The car broke down __ the highway during the storm.",
+        "options": ["on", "in", "at", "by"],
+        "answer": "on",
+        "description": "'On' is used for surfaces like highways, such as 'on the highway'."
+    },
+    {
+        "question": "The research was conducted __ a team of experts.",
+        "options": ["with", "by", "of", "in"],
+        "answer": "by",
+        "description": "'By' indicates the agent performing an action, like 'conducted by a team of experts'."
+    },
+    {
+        "question": "She was absent from the meeting __ a personal emergency.",
+        "options": ["because of", "besides", "except", "without"],
+        "answer": "because of",
+        "description": "'Because of' is used to explain the reason for something, such as 'absent because of a personal emergency'."
+    },
+    {
+        "question": "He has been working hard to catch up __ his colleagues.",
+        "options": ["with", "by", "to", "for"],
+        "answer": "with",
+        "description": "'With' indicates the group or person someone is trying to match or catch up to, like 'catch up with his colleagues'."
+    },
+    {
+        "question": "They discussed the proposal __ a lot of detail during the meeting.",
+        "options": ["in", "with", "at", "by"],
+        "answer": "in",
+        "description": "'In' is used to denote the extent or depth of something, like 'in detail'."
+    },
+    {
+        "question": "The books are located __ the second shelf from the top.",
+        "options": ["on", "in", "under", "above"],
+        "answer": "on",
+        "description": "'On' describes the location of something resting on a surface, such as 'on the second shelf'."
+    },
+    {
+        "question": "She looked __ the window and saw the beautiful sunset.",
+        "options": ["out of", "into", "through", "over"],
+        "answer": "out of",
+        "description": "'Out of' is used to describe looking from inside to the outside, like 'out of the window'."
+    },
+    {
+        "question": "The store is open __ Sundays, but closed on other days.",
+        "options": ["on", "in", "at", "by"],
+        "answer": "on",
+        "description": "'On' is used for specific days of the week, such as 'on Sundays'."
+    },
+    {
+        "question": "The team will be traveling __ the city for the championship game.",
+        "options": ["across", "around", "through", "into"],
+        "answer": "around",
+        "description": "'Around' indicates movement within the boundaries of a place, like 'traveling around the city'."
+    },
+    {
+        "question": "The new policy applies __ all employees, including management.",
+        "options": ["to", "for", "with", "by"],
+        "answer": "to",
+        "description": "'To' shows the scope or application of something, such as 'applies to all employees'."
+    },
+    {
+        "question": "The dog ran __ the yard chasing after a squirrel.",
+        "options": ["through", "across", "around", "onto"],
+        "answer": "through",
+        "description": "'Through' describes movement from one side to the other within an area, like 'ran through the yard'."
+    },
+    {
+        "question": "He was praised __ his innovative approach to solving the problem.",
+        "options": ["for", "with", "by", "to"],
+        "answer": "for",
+        "description": "'For' is used to indicate the reason or cause of praise, such as 'praised for his approach'."
+    },
+    {
+        "question": "The contract was finalized __ the legal team after thorough review.",
+        "options": ["with", "by", "from", "in"],
+        "answer": "by",
+        "description": "'By' indicates the agent responsible for completing an action, like 'finalized by the legal team'."
+    },
+    {
+        "question": "The book fell __ the shelf and landed on the floor.",
+        "options": ["off", "from", "under", "by"],
+        "answer": "off",
+        "description": "'Off' indicates movement away from a surface, like 'fell off the shelf'."
+    },
+    {
+        "question": "The car drove __ the bridge and onto the new highway.",
+        "options": ["over", "through", "by", "around"],
+        "answer": "over",
+        "description": "'Over' describes movement from one side of something to the other side, like 'drove over the bridge'."
+    },
+    {
+        "question": "She is proficient __ several programming languages.",
+        "options": ["in", "on", "at", "with"],
+        "answer": "in",
+        "description": "'In' is used to describe proficiency or skill within a field or subject, like 'proficient in programming languages'."
+    },
+    {
+        "question": "The event is scheduled __ the 25th of this month.",
+        "options": ["for", "on", "at", "by"],
+        "answer": "on",
+        "description": "'On' is used with specific dates, such as 'on the 25th'."
+    },
+    {
+        "question": "They are looking __ new ways to improve their services.",
+        "options": ["for", "into", "to", "after"],
+        "answer": "for",
+        "description": "'For' is used to indicate seeking or searching, like 'looking for new ways'."
+    },
+    {
+        "question": "He has been waiting __ the bus for over an hour.",
+        "options": ["at", "in", "for", "on"],
+        "answer": "for",
+        "description": "'For' is used to indicate the duration of waiting, such as 'waiting for the bus'."
+    },
+    {
+        "question": "The artist was inspired __ the beauty of the natural world.",
+        "options": ["by", "with", "from", "to"],
+        "answer": "by",
+        "description": "'By' indicates the source of inspiration, such as 'inspired by the natural world'."
+    },
+    {
+        "question": "The hotel is located __ the outskirts of the city, providing a quiet retreat.",
+        "options": ["on", "in", "at", "by"],
+        "answer": "on",
+        "description": "'On' is used for locations situated within a general area, like 'on the outskirts'."
+    },
+    {
+        "question": "She was excluded __ the meeting because she was not on the invite list.",
+        "options": ["from", "of", "by", "at"],
+        "answer": "from",
+        "description": "'From' is used to indicate exclusion from a group or event, like 'excluded from the meeting'."
+    },
+    {
+        "question": "They set up the new equipment __ the laboratory this morning.",
+        "options": ["in", "at", "on", "by"],
+        "answer": "in",
+        "description": "'In' is used to indicate the interior of a location, such as 'in the laboratory'."
+    },
+    {
+        "question": "The cat jumped __ the counter and knocked over the vase.",
+        "options": ["off", "over", "onto", "into"],
+        "answer": "onto",
+        "description": "'Onto' indicates movement towards a surface, like 'jumped onto the counter'."
+    },
+    {
+        "question": "The conference starts __ 9 AM sharp tomorrow.",
+        "options": ["at", "in", "on", "by"],
+        "answer": "at",
+        "description": "'At' is used for specific times, such as 'at 9 AM.'"
+    },
+    {
+        "question": "The book is __ the table.",
+        "options": ["in", "on", "at", "by"],
+        "answer": "on",
+        "description": "'On' indicates a surface, as in 'on the table.'"
+    },
+    {
+        "question": "She will arrive __ the end of the week.",
+        "options": ["in", "at", "by", "for"],
+        "answer": "by",
+        "description": "'By' indicates a deadline or the latest time something will happen, as in 'by the end of the week.'"
+    },
+    {
+        "question": "He was born __ June 5th.",
+        "options": ["in", "on", "at", "during"],
+        "answer": "on",
+        "description": "'On' is used for specific dates, as in 'on June 5th.'"
+    },
+    {
+        "question": "The cat jumped __ the fence.",
+        "options": ["over", "in", "through", "at"],
+        "answer": "over",
+        "description": "'Over' indicates movement above something, as in 'jumped over the fence.'"
+    },
+    {
+        "question": "What role do prepositions play in a sentence?",
+        "options": ["They link nouns to other words.", "They indicate time only.", "They describe actions.", "They modify adjectives."],
+        "answer": "They link nouns to other words.",
+        "description": "Prepositions show the relationship between nouns (or pronouns) and other words in a sentence."
+    },
+    {
+        "question": "Identify the case in the following sentence: 'She gave the book to him.'",
+        "options": ["Nominative", "Accusative", "Dative", "Genitive"],
+        "answer": "Dative",
+        "description": "The preposition 'to' indicates the dative case, showing the indirect object receiving the book."
+    },
+    {
+        "question": "What term describes a preposition that is part of a phrasal verb?",
+        "options": ["Adverb", "Particle", "Conjunction", "Interjection"],
+        "answer": "Particle",
+        "description": "In phrasal verbs, the preposition acts as a particle, modifying the verb's meaning, such as in 'give up.'"
+    },
+    {
+        "question": "In the phrase 'look forward to', what role does the preposition 'to' serve?",
+        "options": ["Connector", "Particle", "Noun", "Modifier"],
+        "answer": "Particle",
+        "description": "'To' functions as a particle in this phrasal verb, linking the verb 'look forward' to its object."
+    }
+]

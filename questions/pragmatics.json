@@ -1,0 +1,232 @@
+[
+    {
+        "question": "What does the term 'speech act' refer to?",
+        "options": [
+            "The act of speaking",
+            "A communicative action that performs a function",
+            "A type of sentence structure"
+        ],
+        "answer": "A communicative action that performs a function",
+        "description": "A speech act is a communicative act that performs a function, such as making a statement, asking a question, giving a command, or making a promise."
+    },
+    {
+        "question": "What is implicature?",
+        "options": [
+            "A direct statement",
+            "An implied meaning not explicitly stated",
+            "A contradiction"
+        ],
+        "answer": "An implied meaning not explicitly stated",
+        "description": "Implicature refers to the implied meaning in a conversation that is not explicitly stated but can be inferred from the context and what is said."
+    },
+    {
+        "question": "Which of the following is an example of a presupposition?",
+        "options": [
+            "'Have you stopped cheating on exams?'",
+            "'She is a great teacher.'",
+            "'It is raining outside.'"
+        ],
+        "answer": "'Have you stopped cheating on exams?'",
+        "description": "The question presupposes that the person has cheated on exams at some point. Presuppositions are background assumptions taken for granted in discourse."
+    },
+    {
+        "question": "In the context of politeness theory, what does 'face' refer to?",
+        "options": [
+            "Physical appearance",
+            "Social value and self-esteem",
+            "Cultural identity"
+        ],
+        "answer": "Social value and self-esteem",
+        "description": "'Face' refers to an individual's social value and self-esteem in interaction. Politeness strategies are used to maintain or enhance face during communication."
+    },
+    {
+        "question": "What type of deixis is the word HERE 'I will meet you here tomorrow'?",
+        "options": [
+            "Person deixis",
+            "Temporal deixis",
+            "Spatial deixis"
+        ],
+        "answer": "Spatial deixis",
+        "description": "'here' indicates the location of the meeting relative to the speaker's current position."
+    },
+    {
+        "question": "What does Grice's Maxim of Quantity entail?",
+        "options": [
+            "Be as informative as necessary",
+            "Avoid ambiguity",
+            "Be polite"
+        ],
+        "answer": "Be as informative as necessary",
+        "description": "Grice's Maxim of Quantity suggests that speakers should provide the right amount of information—neither too much nor too little—for effective communication."
+    },
+    {
+        "question": "Which of the following is an example of a directive speech act?",
+        "options": [
+            "'Please close the door.'",
+            "'The door is closed.'",
+            "'I promise to help you.'"
+        ],
+        "answer": "'Please close the door.'",
+        "description": "A directive speech act aims to get the listener to do something, such as a request or command. 'Please close the door' is a direct request."
+    },
+    {
+        "question": "What is the main focus of discourse analysis?",
+        "options": [
+            "Sentence structure",
+            "Language use in context",
+            "Word meanings"
+        ],
+        "answer": "Language use in context",
+        "description": "Discourse analysis focuses on understanding language use in context, examining how larger units of language (like conversations or texts) function in communication."
+    },
+    {
+        "question": "Which of the following illustrates a case of conversational implicature?",
+        "options": [
+            "'I have a car.' implies 'I can drive you.'",
+            "'It's cold outside.'",
+            "'She loves chocolate.'"
+        ],
+        "answer": "'I have a car.' implies 'I can drive you.'",
+        "description": "Conversational implicature involves an implied meaning based on context. Saying 'I have a car' can imply the ability to give someone a ride."
+    },
+    {
+        "question": "What does the term 'deixis' refer to?",
+        "options": [
+            "The study of word meaning",
+            "Words that point to time, place, and identity",
+            "The structure of sentences"
+        ],
+        "answer": "Words that point to time, place, and identity",
+        "description": "Deixis refers to words or phrases that cannot be fully understood without additional contextual information, such as 'here,' 'now,' 'I,' or 'you.'"
+    },
+    {
+        "question": "Which politeness strategy involves minimizing the imposition on the listener?",
+        "options": [
+            "Positive politeness",
+            "Negative politeness",
+            "Directness"
+        ],
+        "answer": "Negative politeness",
+        "description": "Negative politeness strategies are used to avoid imposing on the listener and include phrases like 'I’m sorry to bother you.' This approach respects the listener's autonomy."
+    },
+    {
+        "question": "What is the difference between literal and non-literal language?",
+        "options": [
+            "Literal language conveys exact meaning, non-literal language involves figurative or implied meaning.",
+            "Non-literal language is more formal than literal language.",
+            "Literal language is used in spoken discourse, non-literal in written discourse."
+        ],
+        "answer": "Literal language conveys exact meaning, non-literal language involves figurative or implied meaning.",
+        "description": "Literal language communicates precise, dictionary definitions, while non-literal language includes figurative expressions like metaphors, idioms, and hyperbole."
+    },
+    {
+        "question": "What does the term 'context' refer to in pragmatics?",
+        "options": [
+            "The physical location of a conversation",
+            "The background information relevant to understanding a discourse",
+            "The structure of a sentence"
+        ],
+        "answer": "The background information relevant to understanding a discourse",
+        "description": "In pragmatics, context refers to all relevant background information, including social, cultural, and situational factors that influence how language is interpreted."
+    },
+    {
+        "question": "Which of the following is an example of an indirect speech act?",
+        "options": [
+            "'Can you open the window?'",
+            "'The meeting starts at 10.'",
+            "'I regret your decision.'"
+        ],
+        "answer": "'Can you open the window?'",
+        "description": "An indirect speech act occurs when a speaker asks something in a way that implies a request rather than stating it directly. 'Can you open the window?' indirectly requests the action."
+    },
+    {
+        "question": "What does the term 'maxim of manner' refer to in Grice's cooperative principle?",
+        "options": [
+            "Be clear and orderly in communication",
+            "Provide the right amount of information",
+            "Avoid ambiguity"
+        ],
+        "answer": "Be clear and orderly in communication",
+        "description": "The maxim of manner encourages clarity in communication by urging speakers to be orderly, avoiding obscurity and ambiguity in their expression."
+    },
+    {
+        "question": "In pragmatics, what is a 'performative utterance'?",
+        "options": [
+            "An utterance that describes a fact",
+            "An utterance that performs an action by being spoken",
+            "An utterance that asks a question"
+        ],
+        "answer": "An utterance that performs an action by being spoken",
+        "description": "A performative utterance is one that performs an action simply by being said, such as 'I apologize' or 'I promise.'"
+    },
+    {
+        "question": "What does 'politeness strategy' refer to?",
+        "options": [
+            "The way speakers structure their sentences",
+            "The techniques used to maintain face in communication",
+            "The vocabulary choices made by speakers"
+        ],
+        "answer": "The techniques used to maintain face in communication",
+        "description": "Politeness strategies involve techniques that speakers use to manage their social relationships and maintain face, ensuring respect and minimizing offense."
+    },
+    {
+        "question": "What type of implicature occurs when a speaker's statement implies something not directly stated?",
+        "options": [
+            "Conventional implicature",
+            "Conversational implicature",
+            "Semantic implicature"
+        ],
+        "answer": "Conversational implicature",
+        "description": "Conversational implicature arises from the context of the conversation and the cooperative principle, suggesting meanings based on what is implied rather than explicitly stated."
+    },
+    {
+        "question": "Which of the following is an example of a deixis related to place?",
+        "options": [
+            "'I am here.'",
+            "'I will see you tomorrow.'",
+            "'This is my friend.'"
+        ],
+        "answer": "'I am here.'",
+        "description": "In the sentence 'I am here,' 'here' is a deictic expression that requires context to understand the specific location being referred to."
+    },
+    {
+        "question": "What is a face-threatening act (FTA)?",
+        "options": [
+            "An act that enhances someone's social standing",
+            "An act that challenges someone's face needs",
+            "An act that maintains politeness"
+        ],
+        "answer": "An act that challenges someone's face needs",
+        "description": "A face-threatening act (FTA) undermines an individual's self-esteem or social value, such as making a request or giving criticism that may offend the listener."
+    },
+    {
+        "question": "In the phrase 'You did a great job,' what type of speech act is being performed?",
+        "options": [
+            "Expressive",
+            "Assertive",
+            "Directive"
+        ],
+        "answer": "Expressive",
+        "description": "The statement 'You did a great job' is an expressive speech act, conveying the speaker's feelings of approval or praise about the listener's performance."
+    },
+    {
+        "question": "What does 'negative politeness' aim to achieve?",
+        "options": [
+            "Maximizing the listener's freedom",
+            "Building rapport",
+            "Making direct requests"
+        ],
+        "answer": "Maximizing the listener's freedom",
+        "description": "Negative politeness strategies aim to minimize imposition on the listener, allowing them to maintain their autonomy and freedom in a conversation."
+    },
+    {
+        "question": "Which of the following best describes the term 'contextualization cues'?",
+        "options": [
+            "Visual signals during communication",
+            "Verbal and non-verbal signals that indicate how to interpret a message",
+            "Linguistic structures that convey meaning"
+        ],
+        "answer": "Verbal and non-verbal signals that indicate how to interpret a message",
+        "description": "Contextualization cues are signals, both verbal and non-verbal, that help listeners interpret the intended meaning based on the context of the communication."
+    }
+]

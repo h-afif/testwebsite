@@ -1,0 +1,167 @@
+[
+    {
+        "question": "Which sentence correctly uses the Present Continuous tense to describe an ongoing action?",
+        "options": [
+            "John is always taking the bus to work because it's faster than driving.",
+            "John takes the bus to work every day because it's faster than driving.",
+            "John is taking the bus to work yesterday because it was faster than driving.",
+            "John will take the bus to work every day because it will be faster than driving."
+        ],
+        "answer": "John is always taking the bus to work because it's faster than driving.",
+        "description": "The Present Continuous ('is always taking') is used here to express a repeated or habitual action with some emphasis or annoyance. The Present Simple would normally be used for regular habits, but 'always' in the continuous form adds emphasis."
+    },
+    {
+        "question": "Fill in the gap with the correct form: 'I usually ___ (go) to the gym in the evenings, but this week I ___ (try) a morning routine instead.'",
+        "options": [
+            "go, am trying",
+            "am going, am trying",
+            "go, try",
+            "am going, try"
+        ],
+        "answer": "go, am trying",
+        "description": "The Present Simple ('go') is used to describe the regular habit of going to the gym, while the Present Continuous ('am trying') is used for a temporary action happening this week."
+    },
+    {
+        "question": "Choose the correct sentence to describe a general fact about the company’s operations.",
+        "options": [
+            "The company is producing high-quality equipment every year for international markets.",
+            "The company produces high-quality equipment every year for international markets.",
+            "The company is producing high-quality equipment right now for international markets every year.",
+            "The company will produce high-quality equipment every year for international markets."
+        ],
+        "answer": "The company produces high-quality equipment every year for international markets.",
+        "description": "The Present Simple ('produces') is used to describe a general fact or regular action. The Present Continuous would be used for a specific ongoing action."
+    },
+    {
+        "question": "Fill in the gap with the correct verb forms: 'While we ___ (prepare) for the presentation, the rest of the team ___ (work) on gathering the data for the project.'",
+        "options": [
+            "prepare, works",
+            "are preparing, is working",
+            "are preparing, works",
+            "prepare, are working"
+        ],
+        "answer": "are preparing, is working",
+        "description": "The Present Continuous ('are preparing' and 'is working') is used to describe actions happening at the same time or in progress right now."
+    },
+    {
+        "question": "Which sentence correctly uses the Present Simple to describe a habitual action?",
+        "options": [
+            "She is going to the park every weekend to practice yoga with her friends.",
+            "She goes to the park every weekend to practice yoga with her friends.",
+            "She will go to the park every weekend to practice yoga with her friends.",
+            "She is always going to the park every weekend to practice yoga with her friends."
+        ],
+        "answer": "She goes to the park every weekend to practice yoga with her friends.",
+        "description": "The Present Simple ('goes') is used here to describe a regular or habitual action that happens every weekend."
+    },
+    {
+        "question": "Fill in the blank with the correct tenses: 'Right now, I ___ (study) for my final exams, but usually, I ___ (go) to the library at night to study.'",
+        "options": [
+            "am studying, go",
+            "study, am going",
+            "am studying, am going",
+            "study, go"
+        ],
+        "answer": "am studying, go",
+        "description": "The Present Continuous ('am studying') is used to describe the current action, while the Present Simple ('go') describes the usual habit of going to the library."
+    },
+    {
+        "question": "Which sentence is correct for describing a temporary situation using the Present Continuous tense?",
+        "options": [
+            "At the moment, we are discussing new plans for the company, and we have meetings every day.",
+            "At the moment, we are discussing new plans for the company, and we are having meetings every day.",
+            "At the moment, we discuss new plans for the company, and we have meetings every day.",
+            "At the moment, we discuss new plans for the company, and we are having meetings every day."
+        ],
+        "answer": "At the moment, we are discussing new plans for the company, and we are having meetings every day.",
+        "description": "The Present Continuous ('are discussing' and 'are having') is used to describe actions that are happening temporarily at the present time."
+    },
+    {
+        "question": "Fill in the blank: 'They ___ (currently work) on a new project that will launch next month, but they usually ___ (focus) on shorter-term tasks.'",
+        "options": [
+            "are currently working, focus",
+            "work, are focusing",
+            "are working, are focusing",
+            "work, focus"
+        ],
+        "answer": "are currently working, focus",
+        "description": "The Present Continuous ('are currently working') describes the ongoing project, while the Present Simple ('focus') describes their general or regular tasks."
+    },
+    {
+        "question": "Which sentence correctly uses the Present Simple to express a general truth?",
+        "options": [
+            "Water is boiling at 100 degrees Celsius.",
+            "Water boils at 100 degrees Celsius.",
+            "Water is boiling when it reaches 100 degrees Celsius.",
+            "Water has boiled at 100 degrees Celsius."
+        ],
+        "answer": "Water boils at 100 degrees Celsius.",
+        "description": "The Present Simple ('boils') is used to describe general truths or scientific facts."
+    },
+    {
+        "question": "Fill in the blank: 'At the moment, I ___ (look) for a new apartment to move into, but normally, I ___ (not worry) about where to live.'",
+        "options": [
+            "am looking, don't worry",
+            "look, am not worrying",
+            "am looking, don't worrying",
+            "look, am not worrying"
+        ],
+        "answer": "am looking, don't worry",
+        "description": "The Present Continuous ('am looking') is used to describe a temporary action happening now, while the Present Simple ('don't worry') is used to describe the speaker's usual situation."
+    },
+    {
+        "question": "Which sentence correctly uses the Present Continuous tense for an action happening right now?",
+        "options": [
+            "She always eats her lunch at noon, but right now, she is eating it early.",
+            "She is always eating her lunch at noon, but right now, she eats it early.",
+            "She always eats her lunch at noon, but right now, she eats it early.",
+            "She always eating her lunch at noon, but right now, she is eating it early."
+        ],
+        "answer": "She always eats her lunch at noon, but right now, she is eating it early.",
+        "description": "The Present Continuous ('is eating') is used to describe an action happening at the moment of speaking, while the Present Simple ('eats') is used for regular habits."
+    },
+    {
+        "question": "Fill in the gap: 'Normally, the team ___ (meet) every Friday, but this month they ___ (meet) every Monday to prepare for the launch.'",
+        "options": [
+            "meets, are meeting",
+            "is meeting, are meeting",
+            "meets, meet",
+            "is meeting, meets"
+        ],
+        "answer": "meets, are meeting",
+        "description": "The Present Simple ('meets') is used for the regular Friday meetings, while the Present Continuous ('are meeting') is used for the temporary meetings happening every Monday."
+    },
+    {
+        "question": "Which sentence correctly uses the Present Simple to describe a habitual action?",
+        "options": [
+            "She is always watching TV at night before she goes to bed.",
+            "She always watches TV at night before she goes to bed.",
+            "She always watch TV at night before she is going to bed.",
+            "She is always watching TV at night before she is going to bed."
+        ],
+        "answer": "She always watches TV at night before she goes to bed.",
+        "description": "The Present Simple ('watches') is used to describe a regular or habitual action that happens every night."
+    },
+    {
+        "question": "Fill in the gap: 'At the moment, our manager ___ (review) the budget proposal, but she typically ___ (not handle) financial tasks.'",
+        "options": [
+            "is reviewing, doesn't handle",
+            "reviews, is not handling",
+            "is reviewing, don't handle",
+            "reviews, doesn't handle"
+        ],
+        "answer": "is reviewing, doesn't handle",
+        "description": "The Present Continuous ('is reviewing') is used to describe a temporary action, while the Present Simple ('doesn't handle') describes the manager's typical duties."
+    },
+    {
+        "question": "Which sentence correctly contrasts habitual and temporary actions?",
+        "options": [
+            "I go to the gym on weekdays, but this week, I am taking yoga classes instead.",
+            "I am going to the gym on weekdays, but this week, I take yoga classes instead.",
+            "I go to the gym on weekdays, but this week, I take yoga classes instead.",
+            "I am going to the gym on weekdays, but this week, I am take yoga classes instead."
+        ],
+        "answer": "I go to the gym on weekdays, but this week, I am taking yoga classes instead.",
+        "description": "The Present Simple ('go to the gym') is used to describe the habitual action, while the Present Continuous ('am taking') is used for a temporary action happening this week."
+    }
+]

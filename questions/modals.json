@@ -1,0 +1,153 @@
+[
+
+    {
+        "question": "If you had studied harder, you _____ passed the exam.",
+        "options": ["could have", "should have", "might have", "would have"],
+        "answer": "could have",
+        "description": "'Could have' indicates an unrealized possibility in the past, implying that passing was feasible if conditions had been different."
+    },
+    {
+        "question": "He _____ have gone to the conference; his tickets are missing.",
+        "options": ["might", "must", "could", "should"],
+        "answer": "must",
+        "description": "'Must' suggests a strong deduction based on evidence (missing tickets), implying it’s likely he attended the conference."
+    },
+    {
+        "question": "You _____ have seen that movie before; it’s quite popular.",
+        "options": ["can", "might", "could", "must"],
+        "answer": "might",
+        "description": "'Might' suggests a possibility, indicating that it’s feasible you have seen the movie due to its popularity."
+    },
+    {
+        "question": "They _____ have submitted the report already, given the deadline.",
+        "options": ["might", "can", "must", "should"],
+        "answer": "must",
+        "description": "'Must' indicates a strong assumption based on the deadline, implying it’s likely they have submitted it."
+    },
+    {
+        "question": "You _____ apologize for your mistake if you want to mend things.",
+        "options": ["should", "might", "can", "must"],
+        "answer": "should",
+        "description": "'Should' suggests a recommendation for mending relationships, indicating that an apology is advisable."
+    },
+    {
+        "question": "She _____ be able to attend the conference next month.",
+        "options": ["might", "could", "can", "should"],
+        "answer": "might",
+        "description": "'Might' indicates a possibility regarding her attendance, reflecting uncertainty about her schedule."
+    },
+    {
+        "question": "You _____ not enter the lab without protective gear.",
+        "options": ["must", "can", "should", "may"],
+        "answer": "must",
+        "description": "'Must' implies a strong obligation, making it clear that entering the lab without gear is prohibited."
+    },
+    {
+        "question": "He _____ have finished the project by now; he's been working on it for weeks.",
+        "options": ["can", "could", "must", "might"],
+        "answer": "must",
+        "description": "'Must' expresses a deduction based on the duration of his effort, indicating it’s highly likely he has completed it."
+    },
+    {
+        "question": "I _____ go to the meeting tomorrow, but I’m unsure.",
+        "options": ["will", "must", "may", "might"],
+        "answer": "may",
+        "description": "'May' suggests permission or possibility regarding attending the meeting, reflecting uncertainty."
+    },
+    {
+        "question": "You _____ drive a car if you have a license.",
+        "options": ["can", "must", "should", "could"],
+        "answer": "can",
+        "description": "'Can' indicates ability contingent upon having a license, making it the correct choice."
+    },
+    {
+        "question": "She said she _____ call you later.",
+        "options": ["might", "should", "must", "could"],
+        "answer": "might",
+        "description": "'Might' indicates a possibility regarding her action of calling you, showcasing uncertainty in her plans."
+    },
+    {
+        "question": "You _____ not worry about the exam; you’ve prepared well.",
+        "options": ["need", "must", "can", "should"],
+        "answer": "need",
+        "description": "'Need' expresses lack of necessity in worrying due to adequate preparation, highlighting reassurance."
+    },
+    {
+        "question": "I _____ attend the seminar next week; I’ll let you know.",
+        "options": ["might", "will", "should", "can"],
+        "answer": "might",
+        "description": "'Might' conveys possibility, indicating that attendance is uncertain at this stage."
+    },
+    {
+        "question": "You _____ be more careful with your experiments.",
+        "options": ["ought to", "might", "should", "could"],
+        "answer": "ought to",
+        "description": "'Ought to' suggests strong advice, indicating that increased caution is recommended in the context of experiments."
+    },
+    {
+        "question": "They _____ go to the event, but they haven't decided yet.",
+        "options": ["can", "must", "might", "should"],
+        "answer": "might",
+        "description": "'Might' indicates possibility regarding their decision to attend the event, reflecting uncertainty."
+    },
+    {
+        "question": "You _____ come with us if you want to.",
+        "options": ["can", "must", "should", "could"],
+        "answer": "can",
+        "description": "'Can' indicates permission to join, emphasizing that coming along is optional."
+    },
+    {
+        "question": "She _____ have taken the train instead of driving.",
+        "options": ["could", "might", "should", "must"],
+        "answer": "could",
+        "description": "'Could' suggests a past possibility, indicating that taking the train was an option she had."
+    },
+    {
+        "question": "You _____ have completed the assignment by now; it was due last week.",
+        "options": ["must", "might", "can’t", "should"],
+        "answer": "must",
+        "description": "'Must' indicates a deduction based on the due date, suggesting it’s highly likely the assignment is done."
+    },
+    {
+        "question": "He _____ understand the material; he has been studying diligently.",
+        "options": ["can", "should", "might", "must"],
+        "answer": "must",
+        "description": "'Must' conveys a strong assumption about his understanding due to his diligent study habits."
+    },
+    {
+        "question": "You _____ help me with this task; I really need assistance.",
+        "options": ["could", "can", "should", "might"],
+        "answer": "can",
+        "description": "'Can' expresses ability and permission, indicating that help is both requested and possible."
+    },
+    {
+        "question": "They _____ plan the meeting for next week; let’s finalize it today.",
+        "options": ["should", "must", "might", "can"],
+        "answer": "should",
+        "description": "'Should' indicates a recommendation to plan the meeting, suggesting it’s advisable to finalize details soon."
+    },
+    {
+        "question": "You _____ have a degree to apply for this position.",
+        "options": ["must", "can", "should", "might"],
+        "answer": "must",
+        "description": "'Must' conveys a strong necessity, indicating that having a degree is a requirement for the application."
+    },
+    {
+        "question": "We _____ not be late for the presentation; it's crucial.",
+        "options": ["can", "must", "might", "should"],
+        "answer": "must",
+        "description": "'Must' expresses a strong obligation, emphasizing the importance of punctuality for the presentation."
+    },
+    {
+        "question": "He _____ use my laptop if his is broken.",
+        "options": ["can", "must", "should", "might"],
+        "answer": "can",
+        "description": "'Can' indicates permission, allowing him to use the laptop as needed."
+    },
+    {
+        "question": "You _____ work harder if you want to pass the course.",
+        "options": ["must", "might", "should", "could"],
+        "answer": "must",
+        "description": "'Must' emphasizes the necessity of working harder to achieve the goal of passing the course."
+    }
+]

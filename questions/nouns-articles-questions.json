@@ -1,0 +1,270 @@
+[
+  {
+    "question": "Fill in the blank: I bought _____ pair of shoes.",
+    "options": ["a", "an", "the", "Ø"],
+    "answer": "a",
+    "description": "Since 'pair of shoes' is a singular countable noun, 'a' is used as the indefinite article for singular nouns that are introduced for the first time."
+  },
+  {
+    "question": "Which article is correct: She saw _____ movie last night?",
+    "options": ["a", "an", "the", "Ø"],
+    "answer": "a",
+    "description": "We use 'a' before a singular countable noun like 'movie' when referring to it for the first time."
+  },
+  {
+    "question": "Fill in the blank: Would you like _____ snack with salami or cheese?",
+    "options": ["a", "the", "Ø", "an"],
+    "answer": "a",
+    "description": "'Snack' is a singular countable noun, and as it is introduced for the first time, 'a' is used as the indefinite article."
+  },
+  {
+    "question": "What is the correct article usage: Look at _____ woman over there! She is a famous actress.",
+    "options": ["a", "the", "an", "Ø"],
+    "answer": "the",
+    "description": "'The' is used because we are pointing to a specific woman whom the listener can identify."
+  },
+  {
+    "question": "Which article should be used: Sara can play _____ guitar well.",
+    "options": ["the", "a", "an", "Ø"],
+    "answer": "the",
+    "description": "'The' is used with musical instruments when making generalizations (e.g., 'the piano,' 'the guitar')."
+  },
+  {
+    "question": "Fill in the blanks: I live in _____ apartment. _____ apartment is new.",
+    "options": ["a / The", "an / A", "the / A", "a / Ø"],
+    "answer": "a / The",
+    "description": "In the first sentence, 'a' is used to introduce the apartment for the first time. In the second sentence, 'the' is used because it refers to the specific apartment already mentioned."
+  },
+  {
+    "question": "Choose the correct article: John traveled to _____ Mexico.",
+    "options": ["the", "a", "an", "Ø"],
+    "answer": "Ø",
+    "description": "No article is used before most country names, including 'Mexico.'"
+  },
+  {
+    "question": "What is the correct article usage: I read _____ amazing story yesterday.",
+    "options": ["an", "a", "the", "Ø"],
+    "answer": "an",
+    "description": "'An' is used before words that start with a vowel sound, like 'amazing.'"
+  },
+  {
+    "question": "Fill in the blank: I need _____ hundred dollars to buy a new phone.",
+    "options": ["the", "a", "Ø", "an"],
+    "answer": "a",
+    "description": "'A' is used in expressions of quantity, such as 'a hundred,' 'a thousand,' etc."
+  },
+  {
+    "question": "Which article is correct: _____ Pacific Ocean is the largest ocean on Earth.",
+    "options": ["The", "A", "An", "Ø"],
+    "answer": "The",
+    "description": "'The' is used with names of oceans, seas, and other geographical features, like 'the Pacific Ocean.'"
+  },
+  {
+    "question": "Fill in the blanks: I am _____ English lecturer at _____ college near _____ center of _____ town.",
+    "options": ["an / the / the / the", "an / Ø / the / the", "Ø / the / Ø / a", "an / Ø / Ø / the"],
+    "answer": "an / Ø / the / the",
+    "description": "'An' is used before 'English lecturer' as it starts with a vowel sound. No article is used before 'college.' 'The' is used before 'center' and 'town' as they are specific."
+  },
+  {
+    "question": "Which of the following sentences is correct?",
+    "options": [
+      "I went to the school to pick up my child.",
+      "I went to a school to meet my friend.",
+      "I went to school to learn.",
+      "I went to an school to learn."
+    ],
+    "answer": "I went to school to learn.",
+    "description": "'To school' (without an article) is used when referring to the primary purpose of the place, i.e., learning. Articles are omitted in such cases."
+  },
+  {
+    "question": "Which of the following sentences is correct?",
+    "options": [
+      "I live in a city.",
+      "I live in the city.",
+      "I live in city.",
+      "I live in an city."
+    ],
+    "answer": "I live in a city.",
+    "description": "'A city' is correct because 'city' is a singular countable noun and this is the first mention of it."
+  },
+  {
+    "question": "Choose the correct article: Can you give me _____ book on the table?",
+    "options": ["the", "a", "an", "Ø"],
+    "answer": "the",
+    "description": "'The' is used because the phrase 'on the table' specifies which book is being referred to."
+  },
+  {
+    "question": "Fill in the blanks: I usually go to _____ work by _____ car.",
+    "options": ["Ø / Ø", "the / the", "a / the", "Ø / the"],
+    "answer": "Ø / Ø",
+    "description": "No articles are needed before 'work' or 'car' when referring to work in general and transportation by car."
+  },
+  {
+    "question": "What is the correct usage: Would you like _____ glass of water?",
+    "options": ["a", "an", "the", "Ø"],
+    "answer": "a",
+    "description": "'A' is used because 'glass of water' is a singular, countable noun introduced for the first time."
+  },
+  {
+    "question": "Fill in the blanks: We had _____ great dinner at _____ new restaurant last night.",
+    "options": ["a / the", "the / the", "an / a", "a / Ø"],
+    "answer": "a / a",
+    "description": "'A' is used to introduce both 'dinner' and 'restaurant' for the first time, as they are singular countable nouns."
+  },
+  {
+    "question": "Which article is correct: She is _____ best student in the class.",
+    "options": ["the", "a", "Ø", "an"],
+    "answer": "the",
+    "description": "'The' is used with superlatives, such as 'the best,' to show that the student is one of a kind in the class."
+  },
+  {
+    "question": "Choose the correct article: _____ earth revolves around the sun.",
+    "options": ["The", "An", "A", "Ø"],
+    "answer": "The",
+    "description": "'The' is used for unique objects, such as 'the earth' and 'the sun.'"
+  },
+  {
+    "question": "Fill in the blank: He bought _____ dog and _____ dog is very friendly.",
+    "options": ["a / the", "the / the", "an / the", "a / Ø"],
+    "answer": "a / the",
+    "description": "'A' is used for the first mention of 'dog,' and 'the' is used to refer back to the same dog in the next sentence."
+  },
+  {
+    "question": "What is the correct article usage: _____ Eiffel Tower is in Paris.",
+    "options": ["The", "An", "A", "Ø"],
+    "answer": "The",
+    "description": "'The' is used before famous landmarks, such as 'the Eiffel Tower.'"
+  },
+  {
+    "question": "Choose the correct article: She left _____ office at _____ lunch time.",
+    "options": ["the / Ø", "a / a", "Ø / the", "the / the"],
+    "answer": "the / Ø",
+    "description": "'The office' is specific, and no article is needed before 'lunch time' when used in a general sense."
+  },
+  {
+    "question": "Fill in the blank: I need to buy _____ loaf of bread.",
+    "options": ["a", "an", "the", "Ø"],
+    "answer": "a",
+    "description": "'A' is used because 'loaf' is a singular countable noun, and this is the first mention of it."
+  },
+  {
+    "question": "Which article is correct: _____ Nile is the longest river in Africa.",
+    "options": ["The", "A", "An", "Ø"],
+    "answer": "The",
+    "description": "'The' is used with names of rivers, such as 'the Nile.'"
+  },
+  {
+    "question": "Fill in the blanks: _____ apples on the table are _____ best I've ever tasted.",
+    "options": ["The / the", "The / a", "Ø / the", "A / the"],
+    "answer": "The / the",
+    "description": "'The' is used because both 'apples' and 'best' are specific in this context."
+  },
+  {
+    "question": "Choose the correct article: They are watching _____ news on _____ television.",
+    "options": ["the / Ø", "the / the", "a / the", "a / Ø"],
+    "answer": "the / Ø",
+    "description": "'The' is used with 'news' as it is specific, and no article is used before 'television' when referring to the medium."
+  },
+  {
+    "question": "Fill in the blanks: _____ man and _____ woman were talking in the park.",
+    "options": ["A / a", "The / the", "An / a", "Ø / Ø"],
+    "answer": "A / a",
+    "description": "'A' is used to introduce both the man and woman for the first time, as they are singular countable nouns."
+  },
+  {
+    "question": "Which article is correct: He has _____ uncle who lives in London.",
+    "options": ["an", "a", "the", "Ø"],
+    "answer": "an",
+    "description": "'An' is used before 'uncle' because it starts with a vowel sound."
+  },
+  {
+    "question": "Choose the correct article: I need to read _____ books for my class.",
+    "options": ["the", "a", "an", "Ø"],
+    "answer": "the",
+    "description": "'The' is used because it refers to specific books for the class."
+  },
+  {
+    "question": "Fill in the blank: I found _____ keys I lost last week.",
+    "options": ["the", "a", "an", "Ø"],
+    "answer": "the",
+    "description": "'The' is used because it refers to specific keys already mentioned or known to the listener."
+  },
+  {
+    "question": "Fill in the blank: The plural of 'thesis' is _____.",
+    "options": ["theses", "thesis", "thesises", "thes"],
+    "answer": "theses",
+    "description": "The correct plural of 'thesis' is 'theses,' following the irregular plural rule for Greek and Latin-origin words."
+  },
+  {
+    "question": "What is the plural form of 'child'?",
+    "options": ["childs", "childrens", "children", "childes"],
+    "answer": "children",
+    "description": "'Children' is the irregular plural of 'child.'"
+  },
+  {
+    "question": "Fill in the blank: The plural of 'criterion' is _____.",
+    "options": ["criterions", "criteria", "criteries", "criterion"],
+    "answer": "criteria",
+    "description": "The plural form of 'criterion' is 'criteria,' an irregular plural derived from Greek."
+  },
+  {
+    "question": "Which plural form is correct: The plural of 'bacterium' is _____.",
+    "options": ["bacteriums", "bacteria", "bacteries", "bacteri"],
+    "answer": "bacteria",
+    "description": "'Bacteria' is the plural of 'bacterium,' following the Latin-origin irregular plural rule."
+  },
+  {
+    "question": "What is the plural form of 'goose'?",
+    "options": ["geese", "gooses", "goosies", "goose"],
+    "answer": "geese",
+    "description": "'Geese' is the irregular plural of 'goose.'"
+  },
+  {
+    "question": "Fill in the blank: The plural of 'phenomenon' is _____.",
+    "options": ["phenomena", "phenomenons", "phenomes", "phenoms"],
+    "answer": "phenomena",
+    "description": "'Phenomena' is the correct plural of 'phenomenon,' following the Greek-origin irregular plural rule."
+  },
+  {
+    "question": "Which plural form is correct: The plural of 'analysis' is _____.",
+    "options": ["analysises", "analysi", "analyses", "analysis"],
+    "answer": "analyses",
+    "description": "'Analyses' is the correct plural form of 'analysis,' following the irregular plural rule for words ending in -is."
+  },
+  {
+    "question": "Fill in the blank: The plural of 'foot' is _____.",
+    "options": ["foots", "feet", "footes", "fets"],
+    "answer": "feet",
+    "description": "'Feet' is the irregular plural form of 'foot.'"
+  },
+  {
+    "question": "Fill in the blank: The plural of 'cactus' is _____.",
+    "options": ["cactuses", "cacti", "cacties", "cactos"],
+    "answer": "cacti",
+    "description": "'Cacti' is the correct plural form of 'cactus,' following the irregular plural rule for Latin-origin words."
+  },
+  {
+    "question": "What is the plural form of 'person'?",
+    "options": ["peoples", "persons", "people", "persones"],
+    "answer": "people",
+    "description": "'People' is the irregular plural form of 'person,' commonly used to refer to groups of individuals."
+  },
+  {
+    "question": "Fill in the blank: The plural of 'ox' is _____.",
+    "options": ["oxes", "oxen", "oxens", "oxs"],
+    "answer": "oxen",
+    "description": "'Oxen' is the irregular plural form of 'ox,' following the old English pluralization rule."
+  },
+  {
+    "question": "What is the plural form of 'tooth'?",
+    "options": ["teeth", "toothes", "tooth", "teethes"],
+    "answer": "teeth",
+    "description": "'Teeth' is the irregular plural form of 'tooth,' which follows a vowel change pattern in its pluralization."
+  },
+  {
+    "question": "Fill in the blank: The plural of 'index' is _____.",
+    "options": ["indexes", "indexies", "indices", "indics"],
+    "answer": "indices",
+    "description": "'Indices' is the correct plural of 'index,' particularly in academic or mathematical contexts, following Latin-origin rules."
+  }
+]

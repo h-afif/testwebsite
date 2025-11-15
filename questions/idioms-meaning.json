@@ -1,0 +1,232 @@
+[
+    {
+        "question": "What does the idiom 'break the ice' mean?",
+        "options": [
+            "To start a conversation in a social setting",
+            "To destroy something",
+            "To become angry"
+        ],
+        "answer": "To start a conversation in a social setting",
+        "description": "'Break the ice' refers to initiating conversation in a way that eases tension or awkwardness in social situations."
+    },
+    {
+        "question": "What does the idiom 'bite the bullet' mean?",
+        "options": [
+            "To refuse to act",
+            "To endure a painful experience",
+            "To speak loudly"
+        ],
+        "answer": "To endure a painful experience",
+        "description": "'Bite the bullet' means to face a difficult or unpleasant situation with courage and resolve."
+    },
+    {
+        "question": "What does the idiom 'burn the midnight oil' mean?",
+        "options": [
+            "To sleep late",
+            "To work late into the night",
+            "To waste time"
+        ],
+        "answer": "To work late into the night",
+        "description": "'Burn the midnight oil' refers to staying up late working or studying, especially when trying to finish a task."
+    },
+    {
+        "question": "What does the idiom 'let the cat out of the bag' mean?",
+        "options": [
+            "To reveal a secret",
+            "To adopt a pet",
+            "To cause a problem"
+        ],
+        "answer": "To reveal a secret",
+        "description": "'Let the cat out of the bag' means to inadvertently disclose a secret or reveal information that was meant to be kept hidden."
+    },
+    {
+        "question": "What does the idiom 'hit the nail on the head' mean?",
+        "options": [
+            "To make a mistake",
+            "To get something exactly right",
+            "To cause an injury"
+        ],
+        "answer": "To get something exactly right",
+        "description": "'Hit the nail on the head' means to be exactly correct about something or to identify the precise issue."
+    },
+    {
+        "question": "What does the idiom 'cost an arm and a leg' mean?",
+        "options": [
+            "To be very expensive",
+            "To be free of charge",
+            "To require physical effort"
+        ],
+        "answer": "To be very expensive",
+        "description": "'Cost an arm and a leg' refers to something that is very costly or requires a lot of money to obtain."
+    },
+    {
+        "question": "What does the idiom 'piece of cake' mean?",
+        "options": [
+            "A difficult task",
+            "Something very easy",
+            "A dessert item"
+        ],
+        "answer": "Something very easy",
+        "description": "'Piece of cake' means that something is very easy to do or accomplish."
+    },
+    {
+        "question": "What does the idiom 'once in a blue moon' mean?",
+        "options": [
+            "Very rarely",
+            "Often",
+            "In the future"
+        ],
+        "answer": "Very rarely",
+        "description": "'Once in a blue moon' refers to something that happens infrequently or rarely."
+    },
+    {
+        "question": "What does the idiom 'the ball is in your court' mean?",
+        "options": [
+            "You need to make a decision",
+            "You are not responsible",
+            "The situation is confusing"
+        ],
+        "answer": "You need to make a decision",
+        "description": "'The ball is in your court' means that it is now your turn to take action or make a decision."
+    },
+    {
+        "question": "What does the idiom 'under the weather' mean?",
+        "options": [
+            "Feeling sick",
+            "Having a good day",
+            "Enjoying the outdoors"
+        ],
+        "answer": "Feeling sick",
+        "description": "'Under the weather' means feeling ill or unwell."
+    },
+    {
+        "question": "What does the idiom 'a blessing in disguise' mean?",
+        "options": [
+            "Something that appears bad but is good",
+            "A fortunate event",
+            "A hidden gift"
+        ],
+        "answer": "Something that appears bad but is good",
+        "description": "'A blessing in disguise' refers to something that initially seems negative but ultimately results in a positive outcome."
+    },
+    {
+        "question": "What does the idiom 'break a leg' mean?",
+        "options": [
+            "To injure oneself",
+            "To wish someone good luck",
+            "To fail at something"
+        ],
+        "answer": "To wish someone good luck",
+        "description": "'Break a leg' is a phrase used to wish someone good luck, especially before a performance."
+    },
+    {
+        "question": "What does the idiom 'throw in the towel' mean?",
+        "options": [
+            "To give up or surrender",
+            "To start a fight",
+            "To ask for help"
+        ],
+        "answer": "To give up or surrender",
+        "description": "'Throw in the towel' means to concede defeat or give up on a challenge."
+    },
+    {
+        "question": "What does the idiom 'the elephant in the room' mean?",
+        "options": [
+            "An obvious problem that is being ignored",
+            "A large animal",
+            "A hidden agenda"
+        ],
+        "answer": "An obvious problem that is being ignored",
+        "description": "'The elephant in the room' refers to a significant issue that everyone is aware of but is reluctant to discuss."
+    },
+    {
+        "question": "What does the idiom 'burning the candle at both ends' mean?",
+        "options": [
+            "Working excessively hard",
+            "Saving energy",
+            "Being unproductive"
+        ],
+        "answer": "Working excessively hard",
+        "description": "'Burning the candle at both ends' means to overwork oneself, especially by getting up early and staying up late."
+    },
+    {
+        "question": "What does the idiom 'jump on the bandwagon' mean?",
+        "options": [
+            "To start a trend",
+            "To join others in doing something popular",
+            "To be indifferent"
+        ],
+        "answer": "To join others in doing something popular",
+        "description": "'Jump on the bandwagon' means to adopt a popular activity or trend that others are participating in."
+    },
+    {
+        "question": "What does the idiom 'get your act together' mean?",
+        "options": [
+            "To organize your life or behavior",
+            "To perform well in public",
+            "To take time off"
+        ],
+        "answer": "To organize your life or behavior",
+        "description": "'Get your act together' means to start behaving in a more organized or effective way."
+    },
+    {
+        "question": "What does the idiom 'no pain, no gain' mean?",
+        "options": [
+            "Avoid discomfort",
+            "Hard work is necessary for success",
+            "Take it easy"
+        ],
+        "answer": "Hard work is necessary for success",
+        "description": "'No pain, no gain' implies that without hard work and struggle, success cannot be achieved."
+    },
+    {
+        "question": "What does the idiom 'a penny for your thoughts' mean?",
+        "options": [
+            "I want to know what you are thinking",
+            "Thoughts are valuable",
+            "It's too expensive to think"
+        ],
+        "answer": "I want to know what you are thinking",
+        "description": "'A penny for your thoughts' is a way of asking someone what they are thinking, often when they seem preoccupied."
+    },
+    {
+        "question": "What does the idiom 'the tip of the iceberg' mean?",
+        "options": [
+            "A small part of a larger problem",
+            "A large discovery",
+            "An obvious truth"
+        ],
+        "answer": "A small part of a larger problem",
+        "description": "'The tip of the iceberg' refers to a small, visible part of a much larger issue or problem."
+    },
+    {
+        "question": "What does the idiom 'call it a day' mean?",
+        "options": [
+            "To stop working for the day",
+            "To make a phone call",
+            "To celebrate an achievement"
+        ],
+        "answer": "To stop working for the day",
+        "description": "'Call it a day' means to decide to stop working for the rest of the day."
+    },
+    {
+        "question": "What does the idiom 'keeping your chin up' mean?",
+        "options": [
+            "Stay positive during tough times",
+            "Looking down",
+            "Ignoring problems"
+        ],
+        "answer": "Stay positive during tough times",
+        "description": "'Keeping your chin up' means to maintain a positive attitude in difficult circumstances."
+    },
+    {
+        "question": "What does the idiom 'to have a chip on your shoulder' mean?",
+        "options": [
+            "To be angry or resentful",
+            "To be happy",
+            "To carry a burden"
+        ],
+        "answer": "To be angry or resentful",
+        "description": "'To have a chip on your shoulder' refers to having a lingering feeling of anger or resentment, often due to past grievances."
+    }
+]

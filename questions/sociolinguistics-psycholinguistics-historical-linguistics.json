@@ -1,0 +1,272 @@
+[
+    {
+        "question": "What does the term 'code-switching' refer to?",
+        "options": [
+            "Switching dialects within a conversation",
+            "Changing languages in a conversation",
+            "Switching between formal and informal registers"
+        ],
+        "answer": "Changing languages in a conversation",
+        "description": "Code-switching is the practice of alternating between two or more languages or dialects within a conversation, often reflecting social context or identity."
+    },
+    {
+        "question": "What is a dialect?",
+        "options": [
+            "A variation of a language associated with a particular region or social group",
+            "The standard form of a language",
+            "An entirely separate language"
+        ],
+        "answer": "A variation of a language associated with a particular region or social group",
+        "description": "A dialect is a regional or social variant of a language characterized by distinct vocabulary, grammar, and pronunciation."
+    },
+    {
+        "question": "What is 'sociolinguistic competence'?",
+        "options": [
+            "Knowledge of grammatical rules",
+            "Awareness of how language varies in social contexts",
+            "The ability to speak multiple languages"
+        ],
+        "answer": "Awareness of how language varies in social contexts",
+        "description": "Sociolinguistic competence refers to the ability to use language appropriately in different social contexts, considering factors like audience, setting, and social norms."
+    },
+    {
+        "question": "In sociolinguistics, what does 'register' refer to?",
+        "options": [
+            "A dialect used by a specific profession",
+            "The historical development of a language",
+            "A list of vocabulary words"
+        ],
+        "answer": "A dialect used by a specific profession",
+        "description": "Register refers to the variety of language used in a particular social or professional context, characterized by specific vocabulary and conventions."
+    },
+    {
+        "question": "What is the main focus of psycholinguistics?",
+        "options": [
+            "The social aspects of language use",
+            "The cognitive processes underlying language acquisition and use",
+            "The historical development of languages"
+        ],
+        "answer": "The cognitive processes underlying language acquisition and use",
+        "description": "Psycholinguistics studies how language is processed in the mind, including how it is acquired, understood, and produced."
+    },
+    {
+        "question": "Which of the following is an example of a speech community?",
+        "options": [
+            "People who speak different languages",
+            "A group of people who share a common dialect",
+            "Everyone in a country"
+        ],
+        "answer": "A group of people who share a common dialect",
+        "description": "A speech community is a group of people who share a common dialect or language variety, often interacting and communicating in specific ways."
+    },
+    {
+        "question": "What does the term 'linguistic relativity' suggest?",
+        "options": [
+            "Language has no effect on thought.",
+            "Language shapes thought and perception.",
+            "All languages are equally complex."
+        ],
+        "answer": "Language shapes thought and perception.",
+        "description": "Linguistic relativity posits that the structure of a language influences how its speakers perceive and think about the world."
+    },
+    {
+        "question": "What is the significance of the 'critical period hypothesis' in language acquisition?",
+        "options": [
+            "Language can only be learned in early childhood.",
+            "Adults learn languages faster than children.",
+            "There is no limit to when language can be learned."
+        ],
+        "answer": "Language can only be learned in early childhood.",
+        "description": "The critical period hypothesis suggests that there is a window of time in early childhood during which language acquisition occurs most naturally and effectively."
+    },
+    {
+        "question": "In historical linguistics, what is 'comparative reconstruction'?",
+        "options": [
+            "The process of comparing languages to find similarities",
+            "Reconstructing the phonetics of ancient languages",
+            "Analyzing the social factors affecting language change"
+        ],
+        "answer": "The process of comparing languages to find similarities",
+        "description": "Comparative reconstruction involves comparing similarities and differences between languages to reconstruct aspects of their historical forms."
+    },
+    {
+        "question": "What is 'pidgin'?",
+        "options": [
+            "A fully developed language",
+            "A simplified form of speech that develops as a means of communication between speakers of different languages",
+            "A dialect of a major language"
+        ],
+        "answer": "A simplified form of speech that develops as a means of communication between speakers of different languages",
+        "description": "Pidgin is a simplified language that emerges as a means of communication between speakers of different native languages, often lacking complex grammatical structures."
+    },
+    {
+        "question": "What does the term 'diglossia' refer to?",
+        "options": [
+            "The use of two languages in the same community",
+            "The coexistence of high and low varieties of the same language",
+            "The ability to switch between languages"
+        ],
+        "answer": "The coexistence of high and low varieties of the same language",
+        "description": "Diglossia describes a situation where two varieties of the same language are used in different social contexts, often with one considered 'high' (formal) and the other 'low' (informal)."
+    },
+    {
+        "question": "In psycholinguistics, what is 'lexical access'?",
+        "options": [
+            "The retrieval of word meanings from memory",
+            "The ability to create new words",
+            "The understanding of syntax"
+        ],
+        "answer": "The retrieval of word meanings from memory",
+        "description": "Lexical access refers to the process of retrieving word meanings and associated information from memory during language comprehension and production."
+    },
+    {
+        "question": "What does 'semantic change' refer to in historical linguistics?",
+        "options": [
+            "The change in pronunciation of words",
+            "The evolution of meanings of words over time",
+            "The loss of languages"
+        ],
+        "answer": "The evolution of meanings of words over time",
+        "description": "Semantic change refers to the ways in which the meanings of words can shift and evolve over time due to cultural and social factors."
+    },
+    {
+        "question": "What is 'sociolect'?",
+        "options": [
+            "A language used by a specific region",
+            "A dialect used by a particular social group",
+            "A language that is dying out"
+        ],
+        "answer": "A dialect used by a particular social group",
+        "description": "A sociolect is a variety of language used by a particular social class or group, reflecting specific social, cultural, or economic characteristics."
+    },
+    {
+        "question": "What is 'language attrition'?",
+        "options": [
+            "The loss of language skills over time",
+            "The development of a new language",
+            "The merging of two languages"
+        ],
+        "answer": "The loss of language skills over time",
+        "description": "Language attrition refers to the process whereby individuals lose proficiency in a language they once spoke, often due to lack of use."
+    },
+    {
+        "question": "Which of the following is an example of a linguistic variable?",
+        "options": [
+            "The use of different tenses",
+            "A word with multiple meanings",
+            "Accent variations based on social class"
+        ],
+        "answer": "Accent variations based on social class",
+        "description": "A linguistic variable is an aspect of language that varies among different speakers, such as accent or pronunciation differences influenced by social class."
+    },
+    {
+        "question": "What is 'anchoring' in psycholinguistics?",
+        "options": [
+            "The process of linking words to their meanings",
+            "The method of maintaining focus during reading",
+            "The influence of prior knowledge on language processing"
+        ],
+        "answer": "The influence of prior knowledge on language processing",
+        "description": "Anchoring refers to the phenomenon where prior knowledge influences the interpretation and processing of new information during language comprehension."
+    },
+    {
+        "question": "What does 'language death' refer to?",
+        "options": [
+            "The evolution of a language into a new form",
+            "The extinction of a language when no longer spoken",
+            "The simplification of a language over time"
+        ],
+        "answer": "The extinction of a language when no longer spoken",
+        "description": "Language death occurs when a language ceases to be spoken by any community, often as a result of social, political, or cultural pressures."
+    },
+    {
+        "question": "In historical linguistics, what is a 'substratum'?",
+        "options": [
+            "The original language that influences a new language",
+            "The standard form of a language",
+            "A dialect that has disappeared"
+        ],
+        "answer": "The original language that influences a new language",
+        "description": "A substratum is a language that influences a dominant language during a period of language contact, often contributing features of vocabulary or syntax."
+    },
+    {
+        "question": "What is 'contextualization' in sociolinguistics?",
+        "options": [
+            "The process of interpreting language in social contexts",
+            "The historical development of language",
+            "The grammatical structure of sentences"
+        ],
+        "answer": "The process of interpreting language in social contexts",
+        "description": "Contextualization involves understanding how language is shaped by and reflects social context, including cultural norms and power dynamics."
+    },
+    {
+        "question": "What is 'phonetic variation'?",
+        "options": [
+            "The change in word meaning over time",
+            "Differences in pronunciation among speakers",
+            "The evolution of grammar"
+        ],
+        "answer": "Differences in pronunciation among speakers",
+        "description": "Phonetic variation refers to differences in the way sounds are pronounced by different speakers, often influenced by region, social class, or ethnicity."
+    },
+    {
+        "question": "In psycholinguistics, what is 'sentence processing'?",
+        "options": [
+            "Understanding the meaning of sentences",
+            "The ability to create complex sentences",
+            "The analysis of sentence structure"
+        ],
+        "answer": "Understanding the meaning of sentences",
+        "description": "Sentence processing involves the cognitive mechanisms that allow individuals to comprehend and interpret sentences during communication."
+    },
+    {
+        "question": "What is 'anaphora' in linguistics?",
+        "options": [
+            "Referring back to a previously mentioned entity",
+            "The use of synonyms",
+            "Changing the subject of conversation"
+        ],
+        "answer": "Referring back to a previously mentioned entity",
+        "description": "Anaphora is a linguistic term for the use of a word (often a pronoun) to refer back to another word or phrase mentioned earlier in discourse."
+    },
+    {
+        "question": "What is 'linguistic diversity'?",
+        "options": [
+            "The existence of different languages and dialects",
+            "The similarity of languages worldwide",
+            "The decline of languages"
+        ],
+        "answer": "The existence of different languages and dialects",
+        "description": "Linguistic diversity refers to the variety of languages and dialects spoken within a particular region or globally, reflecting cultural richness."
+    },
+    {
+        "question": "What is the role of 'social networks' in sociolinguistics?",
+        "options": [
+            "To study the evolution of languages",
+            "To examine language use and variation among different groups",
+            "To analyze sentence structure"
+        ],
+        "answer": "To examine language use and variation among different groups",
+        "description": "Social networks refer to the connections among individuals in a community, which can influence language use, variation, and change."
+    },
+    {
+        "question": "What does 'historical linguistics' primarily study?",
+        "options": [
+            "The psychological aspects of language",
+            "The evolution and change of languages over time",
+            "The social implications of language use"
+        ],
+        "answer": "The evolution and change of languages over time",
+        "description": "Historical linguistics focuses on the study of how languages evolve, including changes in phonetics, grammar, and vocabulary across time."
+    },
+    {
+        "question": "What is a 'creole'?",
+        "options": [
+            "A simplified language developed for trade",
+            "A stable natural language that has developed from a mixture of different languages",
+            "A dialect of a major language"
+        ],
+        "answer": "A stable natural language that has developed from a mixture of different languages",
+        "description": "A creole is a stable, fully developed natural language that arises from the mixing of two or more languages, often in a context of social contact."
+    }
+]

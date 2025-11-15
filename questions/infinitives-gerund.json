@@ -1,0 +1,212 @@
+[
+    {
+        "question": "___ of the students were late to the class, but ___ was on time.",
+        "options": ["Some / no", "Some / none", "None / some", "No / some"],
+        "answer": "Some / none",
+        "description": "'Some' is used to refer to a part of a group, and 'none' indicates that no one from that group was on time."
+    },
+    {
+        "question": "___ of the project is completed, but ___ tasks are still pending.",
+        "options": ["Half / all", "All / half", "Half / some", "Some / all"],
+        "answer": "Half / some",
+        "description": "'Half' refers to 50% of the project being completed, and 'some' indicates that there are still pending tasks."
+    },
+    {
+        "question": "___ employee forgot to submit ___ report, but ___ other employees did the same.",
+        "options": ["Every / the / no", "Each / their / none", "Each / the / no", "Every / a / none"],
+        "answer": "Each / the / no",
+        "description": "'Each' refers to every individual in the group, 'the' specifies a particular report, and 'no' indicates that no other employees forgot the report."
+    },
+    {
+        "question": "___ of the cake was left uneaten, and ___ of the guests had already left.",
+        "options": ["Much / some", "A lot / most", "A few / a lot", "Many / most"],
+        "answer": "Much / most",
+        "description": "'Much' refers to the quantity of the cake that was left, and 'most' indicates the majority of guests had left."
+    },
+    {
+        "question": "I have ___ apples, but ___ of them are ripe yet.",
+        "options": ["a few / none", "few / some", "many / none", "a lot / none"],
+        "answer": "a few / none",
+        "description": "'A few' indicates a small number of apples, and 'none' shows that none of them are ripe yet."
+    },
+    {
+        "question": "___ of the options are available, and ___ is the most suitable for the project.",
+        "options": ["Each / some", "All / one", "All / some", "Each / none"],
+        "answer": "All / one",
+        "description": "'All' refers to the complete set of options, and 'one' is the most suitable among them."
+    },
+    {
+        "question": "___ of the time, ___ would find the solution, but ___ seems to be different.",
+        "options": ["Most / we / this", "Many / you / it", "Most / you / this", "All / they / that"],
+        "answer": "Most / we / this",
+        "description": "'Most' indicates a large portion of the time, 'we' refers to the group that would typically find the solution, and 'this' refers to the current situation."
+    },
+    {
+        "question": "___ time I visit my grandparents, ___ ask me about my studies.",
+        "options": ["Every / they", "Each / they", "Each / she", "Every / she"],
+        "answer": "Every / they",
+        "description": "'Every' refers to all instances of visiting, and 'they' is used to refer to the grandparents who ask about the studies."
+    },
+    {
+        "question": "___ cake is too sweet for my taste, but ___ might be just right.",
+        "options": ["This / that", "That / this", "These / those", "This / those"],
+        "answer": "This / that",
+        "description": "'This' refers to the cake in front of the speaker, and 'that' refers to another cake which might be more suitable."
+    },
+    {
+        "question": "___ of the research has been published, and ___ is yet to be reviewed.",
+        "options": ["Some / much", "Much / some", "All / few", "Few / much"],
+        "answer": "Some / much",
+        "description": "'Some' indicates part of the research has been published, while 'much' signifies a large amount of research is still pending review."
+    },
+    {
+        "question": "___ books on the shelf are rare editions, and ___ of them are worth a lot.",
+        "options": ["All / some", "Each / none", "Some / all", "Many / most"],
+        "answer": "All / some",
+        "description": "'All' refers to every book being a rare edition, and 'some' indicates a portion of these books are highly valuable."
+    },
+    {
+        "question": "___ people in the room are familiar to me, but ___ are new faces.",
+        "options": ["Many / some", "Few / all", "Some / all", "Most / none"],
+        "answer": "Many / some",
+        "description": "'Many' indicates a large number of familiar people, and 'some' refers to the people who are unfamiliar."
+    },
+    {
+        "question": "___ students in the class passed the exam with ___ grade.",
+        "options": ["Most / a high", "A few / a low", "All / a high", "Many / an average"],
+        "answer": "Most / a high",
+        "description": "'Most' refers to the majority of students, and 'a high' describes the quality of the grade they achieved."
+    },
+    {
+        "question": "___ of the answers provided were correct, but ___ were completely wrong.",
+        "options": ["None / some", "Some / none", "Few / some", "All / some"],
+        "answer": "Some / none",
+        "description": "'Some' refers to a portion of the answers being correct, and 'none' indicates that no answers were completely wrong."
+    },
+    {
+        "question": "___ of the room was decorated for the party, and ___ of the guests arrived early.",
+        "options": ["Half / some", "All / many", "Most / none", "Half / most"],
+        "answer": "Half / some",
+        "description": "'Half' indicates that a part of the room was decorated, and 'some' shows that not all guests arrived early."
+    },
+    {
+        "question": "I need ___ information to complete the report, but ___ provided is insufficient.",
+        "options": ["more / what was", "most / that", "a lot of / this", "some / none"],
+        "answer": "more / what was",
+        "description": "'More' indicates the need for additional information, and 'what was' refers to the insufficient information already provided."
+    },
+    {
+        "question": "___ of the cake did you eat? I ate ___ slice myself.",
+        "options": ["How much / a whole", "How many / one", "How much / one", "How many / a whole"],
+        "answer": "How much / one",
+        "description": "'How much' asks for a quantity of an uncountable noun (cake), and 'one' refers to a countable slice."
+    },
+    {
+        "question": "___ is necessary for the recipe, but ___ is too much to handle.",
+        "options": ["A little / much", "Much / little", "Many / a little", "A lot / none"],
+        "answer": "A little / much",
+        "description": "'A little' refers to a small but sufficient amount, while 'much' indicates an excessive quantity."
+    },
+    {
+        "question": "___ of the audience enjoyed the performance, but ___ left before it ended.",
+        "options": ["Most / some", "Some / many", "All / none", "Few / most"],
+        "answer": "Most / some",
+        "description": "'Most' refers to the majority of the audience, and 'some' indicates that a part of the audience left early."
+    },
+    {
+        "question": "___ of the participants completed the survey, and ___ found it helpful.",
+        "options": ["All / most", "Few / some", "Most / all", "Many / few"],
+        "answer": "All / most",
+        "description": "'All' indicates every participant completed the survey, and 'most' suggests that the majority found it helpful."
+    },
+    {
+        "question": "___ of the issues have been addressed, but ___ are still pending.",
+        "options": ["Many / some", "Few / none", "All / many", "Some / most"],
+        "answer": "Many / some",
+        "description": "'Many' refers to a large number of issues addressed, while 'some' indicates that a portion are still unresolved."
+    },
+    {
+        "question": "___ of the information was incorrect, and ___ of it was useful.",
+        "options": ["Much / none", "A lot / most", "Most / some", "Few / a lot"],
+        "answer": "Most / some",
+        "description": "'Most' refers to the majority of information being incorrect, and 'some' indicates a portion was useful."
+    },
+    {
+        "question": "___ students completed their assignments on time, and ___ had to ask for extensions.",
+        "options": ["All / some", "Most / none", "Many / all", "Some / few"],
+        "answer": "All / some",
+        "description": "'All' indicates every student completed their assignments, while 'some' had to request extensions."
+    },
+    {
+        "question": "___ of the meeting was productive, but ___ was spent discussing minor issues.",
+        "options": ["Most / some", "Some / much", "Many / a few", "Few / most"],
+        "answer": "Most / some",
+        "description": "'Most' refers to the productive part of the meeting, and 'some' indicates time spent on less important issues."
+    },
+    {
+        "question": "___ of these solutions are viable, but ___ requires further investigation.",
+        "options": ["Several / one", "Few / all", "Many / none", "All / some"],
+        "answer": "Several / one",
+        "description": "'Several' solutions are viable, while 'one' requires additional scrutiny."
+    },
+    {
+        "question": "___ people volunteered for the event, and ___ of them had prior experience.",
+        "options": ["A few / some", "Many / none", "Few / all", "All / a few"],
+        "answer": "A few / some",
+        "description": "'A few' volunteered, and 'some' of them had prior experience."
+    },
+    {
+        "question": "___ of the answers were correct, but ___ of them were partially correct.",
+        "options": ["None / some", "Few / all", "Most / some", "All / none"],
+        "answer": "Most / some",
+        "description": "'Most' answers were correct, and 'some' were partially correct."
+    },
+    {
+        "question": "___ of the room was decorated with lights, and ___ of the furniture was rearranged.",
+        "options": ["Half / most", "All / some", "Much / few", "Few / most"],
+        "answer": "Half / most",
+        "description": "'Half' of the room was decorated, and 'most' of the furniture was rearranged."
+    },
+    {
+        "question": "___ of the paintings were sold at the auction, but ___ remained unsold.",
+        "options": ["Many / a few", "All / many", "Few / most", "Most / some"],
+        "answer": "Many / a few",
+        "description": "'Many' paintings were sold, and 'a few' remained unsold."
+    },
+    {
+        "question": "___ of the project was completed on time, and ___ of the tasks are still in progress.",
+        "options": ["Much / many", "Most / some", "All / few", "Few / all"],
+        "answer": "Most / some",
+        "description": "'Most' of the project was completed on time, and 'some' tasks are still ongoing."
+    },
+    {
+        "question": "___ of the staff were involved in the training session, and ___ missed it.",
+        "options": ["All / some", "Few / most", "Many / a few", "Most / none"],
+        "answer": "All / some",
+        "description": "'All' staff were involved in the training, while 'some' missed it."
+    },
+    {
+        "question": "___ of the committee members voted in favor of the proposal, and ___ opposed it.",
+        "options": ["Most / a few", "Many / all", "Few / some", "All / none"],
+        "answer": "Most / a few",
+        "description": "'Most' voted in favor, while 'a few' opposed the proposal."
+    },
+    {
+        "question": "___ of the new policies have been implemented, but ___ are still under review.",
+        "options": ["Some / others", "All / a few", "Many / none", "Few / many"],
+        "answer": "Some / others",
+        "description": "'Some' policies have been put into action, while 'others' are still being reviewed."
+    },
+    {
+        "question": "___ of the ingredients are needed for the recipe, but ___ are optional.",
+        "options": ["Most / some", "A few / all", "All / a few", "Many / some"],
+        "answer": "Most / some",
+        "description": "'Most' of the ingredients are necessary, and 'some' are optional."
+    },
+    {
+        "question": "___ of the team members contributed to the report, and ___ had no input.",
+        "options": ["All / some", "Most / a few", "Few / all", "Many / none"],
+        "answer": "All / some",
+        "description": "'All' contributed, while 'some' team members did not provide any input."
+    }
+]

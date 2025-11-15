@@ -1,0 +1,200 @@
+[
+    {
+        "question": "______ is the study of literature that focuses on the text itself, rather than historical or biographical contexts.",
+        "options": ["New Criticism", "Marxism", "Psychoanalysis", "Feminist Criticism"],
+        "answer": "New Criticism",
+        "description": "New Criticism emphasizes close reading and analysis of the text itself, avoiding external contexts like the author’s background or historical events."
+    },
+    {
+        "question": "______ refers to the frameworks and methodologies used to analyze texts, while ______ applies these frameworks to specific works.",
+        "options": ["Literary theory, Literary criticism", "Literary criticism, Literary theory", "Formalism, Structuralism", "New Criticism, Postmodernism"],
+        "answer": "Literary theory, Literary criticism",
+        "description": "Literary theory provides the conceptual tools and frameworks for understanding literature, while literary criticism is the practice of applying those theories to analyze and interpret specific texts."
+    },
+    {
+        "question": "Which figure is NOT associated with Marxist literary criticism?",
+        "options": ["Karl Marx", "Terry Eagleton", "Friedrich Engels", "Jacques Derrida"],
+        "answer": "Jacques Derrida",
+        "description": "Jacques Derrida is known for his work in deconstruction, not Marxist criticism, which focuses on class struggle and materialist analysis of literature."
+    },
+    {
+        "question": "Arrange the following schools of criticism in chronological order: ______.",
+        "options": ["Formalism, Structuralism, Post-Structuralism, Deconstruction", "Deconstruction, Structuralism, Formalism, Post-Structuralism", "Post-Structuralism, Formalism, Deconstruction, Structuralism", "Structuralism, Formalism, Post-Structuralism, Deconstruction"],
+        "answer": "Formalism, Structuralism, Post-Structuralism, Deconstruction",
+        "description": "Formalism emerged in the early 20th century, followed by Structuralism, which was later critiqued by Post-Structuralism and Deconstruction."
+    },
+    {
+        "question": "Which of the following is NOT a feature of Postcolonial Criticism?",
+        "options": ["Analysis of imperialism's impact", "Examination of subaltern voices", "Focus on Western cultural supremacy", "Close reading without external context"],
+        "answer": "Close reading without external context",
+        "description": "Postcolonial Criticism often includes analysis of cultural and political contexts, particularly imperialism, rather than purely focusing on close reading."
+    },
+    {
+        "question": "______ is a psychoanalytic literary critic who emphasized the 'uncanny' in literature, where the familiar becomes strange or unsettling.",
+        "options": ["Sigmund Freud", "Carl Jung", "Jacques Lacan", "Roland Barthes"],
+        "answer": "Sigmund Freud",
+        "description": "Freud introduced the concept of the 'uncanny,' which refers to something that is familiar yet disturbing, a theme often explored in literature."
+    },
+    {
+        "question": "Which literary theory focuses on the reader’s experience and interpretation of a text?",
+        "options": ["Reader-Response Criticism", "Structuralism", "Psychoanalysis", "Feminist Criticism"],
+        "answer": "Reader-Response Criticism",
+        "description": "Reader-Response Criticism emphasizes the reader's role in creating meaning, arguing that a text’s interpretation is not fixed but changes with each reader."
+    },
+    {
+        "question": "Which of the following figures is associated with Deconstruction?",
+        "options": ["Jacques Derrida", "Roland Barthes", "Michel Foucault", "Frantz Fanon"],
+        "answer": "Jacques Derrida",
+        "description": "Jacques Derrida is a key figure in Deconstruction, a method of reading texts that reveals contradictions and ambiguities in language."
+    },
+    {
+        "question": "Which of the following is NOT an approach within Psychoanalytic Criticism?",
+        "options": ["Freudian analysis", "Lacanian analysis", "Formal analysis", "Jungian analysis"],
+        "answer": "Formal analysis",
+        "description": "Formal analysis focuses on the structure and form of the text, unlike psychoanalytic approaches, which examine the subconscious motivations of characters and authors."
+    },
+    {
+        "question": "The ______ theory suggests that literary texts are shaped by social, political, and economic forces, particularly focusing on power and class struggle.",
+        "options": ["Psychoanalytic", "Marxist", "Postmodernist", "Formalist"],
+        "answer": "Marxist",
+        "description": "Marxist literary theory focuses on the relationship between literature and social class, examining how texts reflect and critique economic inequalities."
+    },
+    {
+        "question": "Who wrote 'The Death of the Author,' a seminal essay questioning the role of the author's intention in interpreting texts?",
+        "options": ["Roland Barthes", "Michel Foucault", "T.S. Eliot", "Claude Lévi-Strauss"],
+        "answer": "Roland Barthes",
+        "description": "'The Death of the Author' by Roland Barthes argues that the interpretation of a text should not be limited by the author's intention but open to multiple readings."
+    },
+    {
+        "question": "______ Criticism explores how literature reinforces or challenges power relations related to gender, often focusing on the representation of women.",
+        "options": ["Feminist", "Psychoanalytic", "New Historicist", "Marxist"],
+        "answer": "Feminist",
+        "description": "Feminist Criticism examines how literature perpetuates or subverts traditional gender roles, often focusing on the depiction of women in patriarchal societies."
+    },
+    {
+        "question": "Which concept is central to Structuralism, suggesting that meaning is generated through binary oppositions?",
+        "options": ["Dialogism", "Deconstruction", "Binary oppositions", "Intertextuality"],
+        "answer": "Binary oppositions",
+        "description": "Binary oppositions, such as light/dark or good/evil, are central to Structuralism, which argues that meaning arises from these oppositions within a structure."
+    },
+    {
+        "question": "Who is NOT typically associated with Feminist literary criticism?",
+        "options": ["Simone de Beauvoir", "Judith Butler", "Elaine Showalter", "Sigmund Freud"],
+        "answer": "Sigmund Freud",
+        "description": "Freud is associated with psychoanalysis, while Beauvoir, Butler, and Showalter have all contributed significantly to feminist literary criticism."
+    },
+    {
+        "question": "The concept of ______ refers to literature that challenges dominant cultural narratives and reflects the voices of colonized or marginalized groups.",
+        "options": ["Postmodernism", "Postcolonialism", "Structuralism", "Feminism"],
+        "answer": "Postcolonialism",
+        "description": "Postcolonialism analyzes how literature reflects or critiques colonial power structures and often gives voice to colonized peoples."
+    },
+    {
+        "question": "Who is considered the founder of Formalism, a literary theory that focuses on the form and structure of texts?",
+        "options": ["Viktor Shklovsky", "Roland Barthes", "Mikhail Bakhtin", "Franz Kafka"],
+        "answer": "Viktor Shklovsky",
+        "description": "Viktor Shklovsky is one of the key figures in Russian Formalism, which focuses on how form and literary devices shape meaning."
+    },
+    {
+        "question": "______ is a term in literary criticism that refers to the interrelatedness of all texts, suggesting that no text is completely original.",
+        "options": ["Intertextuality", "Metafiction", "Dialogism", "Hypertext"],
+        "answer": "Intertextuality",
+        "description": "Intertextuality refers to the way texts reference or are connected to other texts, suggesting that all literature is part of a larger network of meaning."
+    },
+    {
+        "question": "Which figure is NOT associated with Postcolonial theory?",
+        "options": ["Edward Said", "Homi K. Bhabha", "Chinua Achebe", "Michel Foucault"],
+        "answer": "Michel Foucault",
+        "description": "While Foucault’s work on power and discourse influences many fields, Postcolonial theory is more closely associated with figures like Said, Bhabha, and Achebe."
+    },
+    {
+        "question": "Which literary theory focuses on how texts create meaning through the interplay of signs and systems of language?",
+        "options": ["Structuralism", "Psychoanalysis", "Marxism", "Deconstruction"],
+        "answer": "Structuralism",
+        "description": "Structuralism emphasizes how meaning is generated through the relationships between elements within a language system, such as words and symbols."
+    },
+    {
+        "question": "______ Criticism focuses on how historical and cultural contexts shape the meaning of a literary work, often challenging the idea of fixed interpretation.",
+        "options": ["New Historicism", "Formalism", "Reader-Response", "Structuralism"],
+        "answer": "New Historicism",
+        "description": "New Historicism examines how literature interacts with the historical and cultural contexts in which it is produced and interpreted."
+    },
+    {
+        "question": "Who is considered a leading figure in Reader-Response theory, emphasizing the active role of the reader in creating meaning?",
+        "options": ["Stanley Fish", "T.S. Eliot", "Jacques Lacan", "Harold Bloom"],
+        "answer": "Stanley Fish",
+        "description": "Stanley Fish is a central figure in Reader-Response theory, which argues that meaning is created by readers, not just inherent in the text."
+    },
+    {
+        "question": "The term ______ refers to the 'death of the reader' and emphasizes that the reader’s interpretation is central to understanding a text.",
+        "options": ["Reception theory", "Affective fallacy", "Reader-Response theory", "New Criticism"],
+        "answer": "Reader-Response theory",
+        "description": "Reader-Response theory emphasizes the importance of the reader's interpretation, often suggesting that multiple meanings can emerge from the same text."
+    },
+    {
+        "question": "Which of the following concepts is NOT central to Postmodern literary theory?",
+        "options": ["Metanarratives", "Fragmentation", "Irony", "Formal coherence"],
+        "answer": "Formal coherence",
+        "description": "Postmodernism often rejects formal coherence and emphasizes fragmentation, irony, and the questioning of grand narratives."
+    },
+    {
+        "question": "______ is the literary theory that questions the existence of stable meaning in texts and argues that language is inherently unstable.",
+        "options": ["Deconstruction", "Marxism", "Formalism", "Reader-Response Criticism"],
+        "answer": "Deconstruction",
+        "description": "Deconstruction, pioneered by Derrida, posits that texts contain inherent contradictions and that meaning is not fixed but fluid."
+    },
+    {
+        "question": "______ Criticism explores the role of unconscious desires, fears, and motivations in literature, often drawing on the work of Freud and Lacan.",
+        "options": ["Psychoanalytic", "Feminist", "Reader-Response", "Marxist"],
+        "answer": "Psychoanalytic",
+        "description": "Psychoanalytic Criticism analyzes how literature reflects the unconscious desires, anxieties, and psychological conflicts of both characters and authors."
+    },
+    {
+        "question": "Who wrote 'Orientalism,' a foundational text in Postcolonial studies?",
+        "options": ["Frantz Fanon", "Edward Said", "Homi K. Bhabha", "Gayatri Spivak"],
+        "answer": "Edward Said",
+        "description": "'Orientalism' by Edward Said critiques the Western representations of the East, showing how they reinforce colonialist perspectives."
+    },
+    {
+        "question": "______ Criticism examines the cultural products of mass media and consumerism, exploring how they reflect and reinforce power structures.",
+        "options": ["Cultural Studies", "New Historicism", "Reader-Response", "Formalism"],
+        "answer": "Cultural Studies",
+        "description": "Cultural Studies examines popular culture and media, often critiquing how they reproduce societal power relations and ideologies."
+    },
+    {
+        "question": "Which concept in Marxist criticism refers to the way dominant classes impose their worldview as universal and natural?",
+        "options": ["Hegemony", "Reification", "Alienation", "Base and superstructure"],
+        "answer": "Hegemony",
+        "description": "Hegemony refers to the dominance of one social class's worldview being accepted as the cultural norm, thereby reinforcing their power."
+    },
+    {
+        "question": "Which literary theory critiques the idea that human nature is fixed and questions traditional categories of identity, such as gender and race?",
+        "options": ["Postmodernism", "Formalism", "Feminist Criticism", "Marxism"],
+        "answer": "Postmodernism",
+        "description": "Postmodernism often challenges fixed notions of identity and human nature, questioning categories like gender, race, and class as social constructs."
+    },
+    {
+        "question": "______ Criticism often draws on the works of Karl Marx to analyze how literature reflects and critiques economic class structures.",
+        "options": ["Marxist", "Feminist", "New Historicist", "Deconstruction"],
+        "answer": "Marxist",
+        "description": "Marxist Criticism focuses on the ways literature reflects class struggles and economic conditions, often critiquing capitalist ideologies."
+    },
+    {
+        "question": "______ said, 'The history of all hitherto existing society is the history of class struggles.'",
+        "options": ["Michel Foucault", "Karl Marx", "Roland Barthes", "Sigmund Freud"],
+        "answer": "Karl Marx",
+        "description": "This quote from 'The Communist Manifesto' by Karl Marx and Friedrich Engels is central to Marxist Criticism, which focuses on class conflict and materialism as key forces in shaping society and literature."
+    },
+    {
+        "question": "'There is nothing outside the text' is a key statement in ______, emphasizing that meaning is constructed through language.",
+        "options": ["Deconstruction", "Psychoanalytic Criticism", "New Historicism", "Formalism"],
+        "answer": "Deconstruction",
+        "description": "This quote is attributed to Jacques Derrida, the father of Deconstruction, which argues that texts are inherently unstable, and meaning is constructed through the reader's interpretation of language."
+    },
+    {
+        "question": "______ argued that <em>'Power is everywhere'<em> and <em>'comes from everywhere,'<em> linking the concept of power to knowledge.",
+        "options": ["Michel Foucault", "Edward Said", "Judith Butler", "Homi K. Bhabha"],
+        "answer": "Michel Foucault",
+        "description": "Michel Foucault, in works like 'Discipline and Punish' and 'The History of Sexuality,' examined how power is not centralized but diffused throughout society."
+    }
+]

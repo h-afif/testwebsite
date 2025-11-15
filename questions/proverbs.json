@@ -1,0 +1,252 @@
+[
+    {
+        "question": "Complete the proverb: 'A penny saved is a _____.'",
+        "options": [
+            "penny earned",
+            "penny lost",
+            "penny spent"
+        ],
+        "answer": "penny earned",
+        "description": "This proverb suggests that saving money is just as valuable as earning it."
+    },
+    {
+        "question": "Fill in the blank: 'Actions speak louder than _____.'",
+        "options": [
+            "words",
+            "thoughts",
+            "promises"
+        ],
+        "answer": "words",
+        "description": "This proverb means that what people do is more important than what they say."
+    },
+    {
+        "question": "Complete the proverb: 'When in Rome, do as the _____.'",
+        "options": [
+            "Romans do",
+            "locals do",
+            "visitors do"
+        ],
+        "answer": "Romans do",
+        "description": "This proverb suggests that one should adapt to the customs of the places they visit."
+    },
+    {
+        "question": "Fill in the blank: 'The early bird catches the _____.'",
+        "options": [
+            "worm",
+            "sun",
+            "food"
+        ],
+        "answer": "worm",
+        "description": "This proverb indicates that those who start early or act quickly will gain advantages."
+    },
+    {
+        "question": "Complete the proverb: 'You can’t judge a book by its _____.'",
+        "options": [
+            "author",
+            "cover",
+            "title"
+        ],
+        "answer": "cover",
+        "description": "This means you shouldn’t judge someone or something based solely on appearance."
+    },
+    {
+        "question": "Fill in the blank: 'Too many cooks spoil the _____.'",
+        "options": [
+            "meal",
+            "broth",
+            "soup"
+        ],
+        "answer": "broth",
+        "description": "This proverb suggests that too many people involved in a task can ruin it."
+    },
+    {
+        "question": "Complete the proverb: 'Better late than _____.'",
+        "options": [
+            "never",
+            "early",
+            "wrong"
+        ],
+        "answer": "never",
+        "description": "This proverb indicates that it is better to do something late than not do it at all."
+    },
+    {
+        "question": "Fill in the blank: 'Don't count your chickens before they _____.'",
+        "options": [
+            "hatch",
+            "fly",
+            "run"
+        ],
+        "answer": "hatch",
+        "description": "This means you should not assume success before it actually happens."
+    },
+    {
+        "question": "Complete the proverb: 'A bird in the hand is worth two in the _____.'",
+        "options": [
+            "bush",
+            "sky",
+            "tree"
+        ],
+        "answer": "bush",
+        "description": "This suggests that it is better to have a sure thing than to risk it for more."
+    },
+    {
+        "question": "Fill in the blank: 'What goes around, comes _____.'",
+        "options": [
+            "around",
+            "back",
+            "forward"
+        ],
+        "answer": "around",
+        "description": "This proverb indicates that the consequences of one’s actions will eventually return to them."
+    },
+    {
+        "question": "Complete the proverb: 'If it ain't broke, don't _____ it.'",
+        "options": [
+            "fix",
+            "change",
+            "break"
+        ],
+        "answer": "fix",
+        "description": "This means if something is working well, there is no need to change it."
+    },
+    {
+        "question": "Fill in the blank: 'Rome wasn't built in a _____.'",
+        "options": [
+            "day",
+            "year",
+            "week"
+        ],
+        "answer": "day",
+        "description": "This suggests that great things take time to achieve."
+    },
+    {
+        "question": "Complete the proverb: 'You can lead a horse to water, but you can't make it _____.'",
+        "options": [
+            "drink",
+            "eat",
+            "run"
+        ],
+        "answer": "drink",
+        "description": "This means you can provide someone with an opportunity, but you can't force them to take it."
+    },
+    {
+        "question": "Fill in the blank: 'All that glitters is not _____.'",
+        "options": [
+            "gold",
+            "silver",
+            "true"
+        ],
+        "answer": "gold",
+        "description": "This means not everything that looks valuable is actually so."
+    },
+    {
+        "question": "Complete the proverb: 'A watched pot never _____.'",
+        "options": [
+            "boils",
+            "cools",
+            "overflows"
+        ],
+        "answer": "boils",
+        "description": "This means that time seems to move more slowly when you are waiting for something."
+    },
+    {
+        "question": "Fill in the blank: 'The squeaky wheel gets the _____.'",
+        "options": [
+            "grease",
+            "attention",
+            "oil"
+        ],
+        "answer": "grease",
+        "description": "This means that the most noticeable problems are the ones that get addressed first."
+    },
+    {
+        "question": "Complete the proverb: 'An apple a day keeps the _____ away.'",
+        "options": [
+            "doctor",
+            "sickness",
+            "fat"
+        ],
+        "answer": "doctor",
+        "description": "This suggests that eating healthy can help maintain good health."
+    },
+    {
+        "question": "Fill in the blank: 'Two heads are better than _____.'",
+        "options": [
+            "one",
+            "none",
+            "three"
+        ],
+        "answer": "one",
+        "description": "This means collaboration can lead to better outcomes than working alone."
+    },
+    {
+        "question": "Complete the proverb: 'Out of sight, out of _____.'",
+        "options": [
+            "mind",
+            "sight",
+            "reach"
+        ],
+        "answer": "mind",
+        "description": "This means that when something is not visible, it is easily forgotten."
+    },
+    {
+        "question": "Fill in the blank: 'The pen is mightier than the _____.'",
+        "options": [
+            "sword",
+            "gun",
+            "fist"
+        ],
+        "answer": "sword",
+        "description": "This suggests that written communication is more effective than violence."
+    },
+    {
+        "question": "Complete the proverb: 'Necessity is the mother of _____.'",
+        "options": [
+            "invention",
+            "creativity",
+            "desire"
+        ],
+        "answer": "invention",
+        "description": "This means that when the need for something becomes imperative, you are forced to find ways to achieve it."
+    },
+    {
+        "question": "Fill in the blank: 'A fool and his money are soon _____.'",
+        "options": [
+            "parted",
+            "lost",
+            "together"
+        ],
+        "answer": "parted",
+        "description": "This means that those who are foolish with their finances will quickly lose their money."
+    },
+    {
+        "question": "Complete the proverb: 'Beauty is in the eye of the _____.'",
+        "options": [
+            "beholder",
+            "observer",
+            "viewer"
+        ],
+        "answer": "beholder",
+        "description": "This means that perceptions of beauty are subjective and vary from person to person."
+    },
+    {
+        "question": "Fill in the blank: 'Barking dogs seldom _____.'",
+        "options": [
+            "bite",
+            "attack",
+            "harm"
+        ],
+        "answer": "bite",
+        "description": "This means that those who make the most noise often pose the least threat."
+    },
+    {
+        "question": "Complete the proverb: 'Blood is thicker than _____.'",
+        "options": [
+            "water",
+            "oil",
+            "wine"
+        ],
+        "answer": "water",
+        "description": "This means that family relationships are stronger than other relationships."
+    }
+]

@@ -1,0 +1,459 @@
+[
+    {
+        "question": "Which sentence is a correct simple sentence?",
+        "options": ["The cat sleeping.", "Sleeping the cat.", "The cat sleeps.","The cat was sleeps."],
+        "answer": "The cat sleeps.",
+        "description": "A simple sentence contains a subject ('The cat') and a verb ('sleeps') forming a complete idea."
+    },
+    {
+        "question": "Identify the correct sentence with a subject and verb.",
+        "options": ["He running fast.", "He runs fast.", "Running he fast.", "He run fast."],
+        "answer": "He runs fast.",
+        "description": "The subject 'He' is correctly paired with the present tense verb 'runs' to form a valid sentence."
+    },
+    {
+        "question": "Which sentence uses the correct verb with its object?",
+        "options": ["She reads the book.", "She reading book.", "She readed the book.", "She is book read."],
+        "answer": "She reads the book.",
+        "description": "The verb 'reads' is correctly followed by the object 'the book'. The verb must agree with the subject and tense."
+    },
+    {
+        "question": "Identify the sentence with an indirect object.",
+        "options": ["She give him gift.", "She gave a gift.", "she smiles.", "She gives gifts."],
+        "answer": "She gave him a gift.",
+        "description": "The sentence uses 'him' as the indirect object and 'a gift' as the direct object, which is a common sentence structure."
+    },
+    {
+        "question": "Which of the following is a linking verb?",
+        "options": ["run", "appear", "see", "jump"],
+        "answer": "appear",
+        "description": "Linking verbs, like 'appear', connect the subject to a subject complement, rather than showing action."
+    },
+    {
+        "question": "Which sentence correctly includes a compound verb?",
+        "options": ["She sings and dances.", "She is singing and dance.", "Sings she and dances.", "She singing and dances."],
+        "answer": "She sings and dances.",
+        "description": "A compound sentence combines two actions ('sings' and 'dances') performed by the same subject."
+    },
+    {
+        "question": "In which sentence is the verb correctly linked with a clause?",
+        "options": ["I know she will comes.", "I know that she coming.", "Know I that she will come.", "I know that she will come."],
+        "answer": "I know that she will come.",
+        "description": "The sentence correctly uses 'know' followed by a clause 'that she will come' as its object."
+    },
+    {
+        "question": "Which sentence has a subject-verb agreement?",
+        "options": ["He likes apples.", "He like apples.", "Likes he apples.", "He liking apples."],
+        "answer": "He likes apples.",
+        "description": "The subject 'He' agrees with the singular verb 'likes', following the basic subject-verb agreement rule."
+    },
+    {
+        "question": "Which sentence contains a compound subject?",
+        "options": ["John and Mary are studying.", "John studies.", "Mary is studying.", "John studying and Mary."],
+        "answer": "John and Mary are studying.",
+        "description": "A compound subject contains more than one noun ('John and Mary') performing the action of the verb."
+    },
+    {
+        "question": "Which sentence correctly uses a direct and indirect object?",
+        "options": ["She sent a letter her friend.", "Her friend sent letter she.", "She sent her friend a letter.", "She sends letter her friend."],
+        "answer": "She sent her friend a letter.",
+        "description": "'Her friend' is the indirect object and 'a letter' is the direct object, both positioned correctly."
+    },
+    {
+        "question": "Which sentence uses a linking verb correctly?",
+        "options": ["He seems tired.", "He seem tired.", "He seem to tired.", "He seems tiring."],
+        "answer": "He seems tired.",
+        "description": "The linking verb 'seems' connects the subject 'He' with the subject complement 'tired', indicating a state of being."
+    },
+    {
+        "question": "Which sentence has the correct subject-verb-object structure?",
+        "options": ["They bought a new car.", "They buy car new.", "They buying new car.", "They bought car new."],
+        "answer": "They bought a new car.",
+        "description": "The structure is subject ('They'), verb ('bought'), and object ('a new car'), following the typical SVO order."
+    },
+    {
+        "question": "Which of the following is a correct compound sentence?",
+        "options": ["She read the book, and he watched TV.", "She read, he watched TV.", "Reading she, watching TV.", "She read and watched TV."],
+        "answer": "She read the book, and he watched TV.",
+        "description": "A compound sentence consists of two independent clauses connected by a coordinating conjunction ('and')."
+    },
+    {
+        "question": "Which sentence uses the correct form of the verb with an indirect object?",
+        "options": ["He told her the story.", "He tell her the story.", "Her told story him.", "Telling he her story."],
+        "answer": "He told her the story.",
+        "description": "The verb 'told' takes 'her' as the indirect object and 'the story' as the direct object."
+    },
+    {
+        "question": "Which sentence correctly includes a clause as an object?",
+        "options": ["I believe he is honesty.", "Believe I he is honest.", "I believe that he is honest.", "That he honest I believe."],
+        "answer": "I believe that he is honest.",
+        "description": "The verb 'believe' takes the clause 'that he is honest' as its object, which is grammatically correct."
+    },
+    {
+        "question": "Which sentence is a correct example of a complex sentence?",
+        "options": ["Although he was tired, he finished the work.", "He was tired, he finished work.", "Tired although he finished work.", "He finished although work tired."],
+        "answer": "Although he was tired, he finished the work.",
+        "description": "A complex sentence contains an independent clause and a dependent clause linked by a subordinating conjunction ('Although')."
+    },
+    {
+        "question": "Which of the following sentences has a correct subject-verb agreement?",
+        "options": ["The team win the match.", "Team win the match.", "Team wins match.", "The team wins the match."],
+        "answer": "The team wins the match.",
+        "description": "The singular subject 'The team' requires the singular verb 'wins' to maintain subject-verb agreement."
+    },
+    {
+        "question": "Which sentence uses a transitive verb with an object correctly?",
+        "options": ["He threw.", "He threw the ball.", "He throwing ball.", "Threw he ball."],
+        "answer": "He threw the ball.",
+        "description": "'Threw' is a transitive verb requiring the direct object 'the ball' to complete the meaning."
+    },
+    {
+        "question": "Which sentence correctly uses a compound sentence structure?",
+        "options": ["She like coffee but tea he prefers.", "She likes coffee but prefer tea.", "She likes coffee, but he prefers tea.", "Coffee likes she but tea prefers."],
+        "answer": "She likes coffee, but he prefers tea.",
+        "description": "A compound sentence joins two independent clauses with a coordinating conjunction ('but')."
+    },
+    {
+        "question": "Which sentence correctly uses an indirect object and a clause?",
+        "options": ["She tell me that come.", "She told me she coming.", "Telling me she would come.", "She told me that she would come."],
+        "answer": "She told me that she would come.",
+        "description": "The verb 'told' is followed by the indirect object 'me' and the clause 'that she would come' as the direct object."
+    },
+    {
+        "question": "Which of the following sentences is a correct complex sentence?",
+        "options": ["He arrived when the meeting started.", "When arrived he, meeting started.", "Arrived he when meeting started.", "When he arrived, the meeting had already started."],
+        "answer": "When he arrived, the meeting had already started.",
+        "description": "A complex sentence contains a dependent clause ('When he arrived') and an independent clause ('the meeting had already started')."
+    },
+    {
+        "question": "Which sentence uses a correct linking verb?",
+        "options": ["She is a teacher.", "She teaches a teacher.", "She is teaching teacher.", "Teacher is she."],
+        "answer": "She is a teacher.",
+        "description": "'Is' is a linking verb that connects the subject 'She' to the complement 'a teacher'."
+    },
+    {
+        "question": "Which sentence includes a correct subject and compound verb?",
+        "options": ["They run and swim every morning.", "They runs and swim every morning.", "They running swim morning.", "They are run and swim."],
+        "answer": "They run and swim every morning.",
+        "description": "The subject 'They' is followed by two verbs 'run and swim', creating a compound verb structure."
+    },
+    {
+        "question": "Which sentence has correct subject-verb-object agreement?",
+        "options": ["Dog chase ball.", "The dog chasing ball.", "Chased the dog ball.", "The dog chased the ball."],
+        "answer": "The dog chased the ball.",
+        "description": "The sentence correctly follows the subject-verb-object (SVO) structure with agreement between 'The dog' and 'chased'."
+    },
+    {
+        "question": "Which of the following sentences is a correct compound sentence?",
+        "options": ["She studies hard, but she still struggles.", "She studies hard but struggle still.", "Studying hard she struggles still.", "She study hard but struggles."],
+        "answer": "She studies hard, but she still struggles.",
+        "description": "A compound sentence consists of two independent clauses ('She studies hard' and 'she still struggles') joined by 'but'."
+    },
+    {
+        "question": "Which sentence uses a linking verb with a subject complement?",
+        "options": ["He seem happiness.", "He seems happy.", "He seem to happy.", "Seem he happy."],
+        "answer": "He seems happy.",
+        "description": "'Seems' is a linking verb connecting the subject 'He' to the complement 'happy'."
+    },
+    {
+        "question": "Which sentence includes an indirect object with a clause?",
+        "options": ["She told her friend that she would visit.", "She tells friend that would visit.", "She telling her friend visit.", "She told her that visit she friend."],
+        "answer": "She told her friend that she would visit.",
+        "description": "'Told' is followed by 'her friend' as the indirect object and 'that she would visit' as the clause acting as the direct object."
+    },
+    {
+        "question": "Which of the following sentences is a correct complex sentence?",
+        "options": ["Because it was raining, they stayed inside.", "They stayed inside for talking.", "was it raining?", "Because rain inside staying."],
+        "answer": "Because it was raining, they stayed inside.",
+        "description": "A complex sentence contains a dependent clause ('Because it was raining') and an independent clause ('they stayed inside')."
+    },
+    {
+        "question": "What is a sentence?",
+        "options": [
+            "A complete set of words that conveys meaning",
+            "A phrase without a subject or verb",
+            "A dependent clause with a subordinating conjunction",
+            "A question without a verb"
+        ],
+        "answer": "A complete set of words that conveys meaning",
+        "description": "A sentence is a complete set of words that conveys meaning, such as a statement, command, exclamation, or question."
+    },
+    {
+        "question": "Which sentence type contains two independent clauses linked by a coordinating conjunction?",
+        "options": [
+            "Simple sentence",
+            "Compound sentence",
+            "Complex sentence",
+            "Compound-complex sentence"
+        ],
+        "answer": "Compound sentence",
+        "description": "A compound sentence contains two independent clauses, often linked by a coordinating conjunction."
+    },
+    {
+        "question": "A dependent clause can stand alone as a complete sentence.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "A dependent clause cannot stand alone; it relies on the rest of the sentence for meaning."
+    },
+    {
+        "question": "Which of the following sentences is a simple sentence?",
+        "options": [
+            "Johnny rode his bike to school.",
+            "I like apples, but my sister loves bananas.",
+            "Although she was sick, she went to class.",
+            "He will arrive on time, and he will attend the meeting."
+        ],
+        "answer": "Johnny rode his bike to school.",
+        "description": "A simple sentence contains only one independent clause, like 'Johnny rode his bike to school.'"
+    },
+    {
+        "question": "Which sentence type combines one or more independent clauses and one or more dependent clauses?",
+        "options": [
+            "Simple sentence",
+            "Compound sentence",
+            "Complex sentence",
+            "Compound-complex sentence"
+        ],
+        "answer": "Compound-complex sentence",
+        "description": "A compound-complex sentence combines complex and compound sentence structures, containing multiple clauses."
+    },
+    {
+        "question": "A __ sentence contains one independent clause.",
+        "options": [
+            "complex",
+            "compound",
+            "simple",
+            "compound-complex"
+        ],
+        "answer": "simple",
+        "description": "A simple sentence contains one independent clause and conveys a single idea."
+    },
+    {
+        "question": "What function does a simple sentence typically serve?",
+        "options": [
+            "To give concise directions",
+            "To express contrasting ideas",
+            "To elaborate on a claim",
+            "To compare complex ideas"
+        ],
+        "answer": "To give concise directions",
+        "description": "A simple sentence is often used to give concise directions or state a direct statement."
+    },
+    {
+        "question": "Which of the following is an example of a complex sentence?",
+        "options": [
+            "She went to class even though she was sick.",
+            "I like apples, but my sister loves bananas.",
+            "Johnny rode his bike to school.",
+            "He will arrive on time and attend the meeting."
+        ],
+        "answer": "She went to class even though she was sick.",
+        "description": "A complex sentence contains one independent clause and one or more dependent clauses, such as <em>'She went to class even though she was sick.'<em>"
+    },
+    {
+        "question": "A compound-complex sentence contains only one independent clause.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "A compound-complex sentence contains two or more independent clauses and at least one dependent clause."
+    },
+    {
+        "question": "What is the main function of compound sentences?",
+        "options": [
+            "To combine similar ideas",
+            "To compare simple ideas",
+            "To ask a question",
+            "To declare a single statement"
+        ],
+        "answer": "To combine similar ideas",
+        "description": "Compound sentences are often used to combine similar or related ideas with the use of coordinating conjunctions."
+    },
+    {
+        "question": "Which coordinating conjunction is used in the following sentence: <p><em>'She wanted to go on vacation, __ she saved up her money.'<em></p>",
+        "options": [
+            "but",
+            "so",
+            "for",
+            "or"
+        ],
+        "answer": "so",
+        "description": "In this sentence, 'so' is the coordinating conjunction used to link two independent clauses."
+    },
+    {
+        "question": "__ conjunctions are used to create dependent clauses that rely on the rest of the sentence for meaning.",
+        "options": [
+            "Subordinating",
+            "Coordinating",
+            "Correlative",
+            "Conjunctive"
+        ],
+        "answer": "Subordinating",
+        "description": "Subordinating conjunctions like 'because,' 'although,' and 'while' create dependent clauses."
+    },
+    {
+        "question": "Which of the following is a dependent clause?",
+        "options": [
+            "When I go to the movies",
+            "I like to watch comedies",
+            "We went for a walk",
+            "She eats lunch at noon"
+        ],
+        "answer": "When I go to the movies",
+        "description": "'When I go to the movies' is a dependent clause because it cannot stand alone as a complete sentence."
+    },
+    {
+        "question": "What is the purpose of using compound-complex sentences?",
+        "options": [
+            "To elaborate on a claim and extend reasoning",
+            "To ask simple questions",
+            "To make a list of items",
+            "To state a command"
+        ],
+        "answer": "To elaborate on a claim and extend reasoning",
+        "description": "Compound-complex sentences allow for more detailed elaboration on claims and reasoning by combining clauses."
+    },
+    {
+        "question": "A sentence must contain both a subject and a verb to be considered complete.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "description": "A complete sentence must contain both a subject and a verb to convey a full thought."
+    },
+    {
+        "question": "Which sentence structure is used in the following example: <p><em>'If he got the job, he would have to commute 50 miles to work, so he decided the job was not worth it.'?<em></p>",
+        "options": [
+            "Simple sentence",
+            "Compound sentence",
+            "Complex sentence",
+            "Compound-complex sentence"
+        ],
+        "answer": "Compound-complex sentence",
+        "description": "This sentence is a compound-complex sentence because it contains multiple clauses, including dependent and independent ones."
+    },
+    {
+        "question": "What is the function of a question in a sentence?",
+        "options": [
+            "To ask for information",
+            "To declare a statement",
+            "To display a list",
+            "To give concise directions"
+        ],
+        "answer": "To ask for information",
+        "description": "The primary function of a question is to seek information or clarification."
+    },
+    {
+        "question": "Which of the following is NOT a type of sentence function?",
+        "options": [
+            "Command",
+            "Exclamation",
+            "Statement",
+            "List"
+        ],
+        "answer": "List",
+        "description": "The main sentence functions are statements, questions, commands, and exclamations. A list is not considered a sentence function."
+    },
+    {
+        "question": "What kind of sentence is used to express strong emotions or feelings?",
+        "options": [
+            "Statement",
+            "Command",
+            "Exclamation",
+            "Question"
+        ],
+        "answer": "Exclamation",
+        "description": "An exclamation is used to express strong emotions or feelings, often ending with an exclamation mark."
+    },
+    {
+        "question": "Which conjunction is often used to introduce dependent clauses?",
+        "options": [
+            "and",
+            "so",
+            "because",
+            "yet"
+        ],
+        "answer": "because",
+        "description": "'Because' is a subordinating conjunction often used to introduce dependent clauses."
+    },
+    {
+        "question": "Compound sentences can contain dependent clauses.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "Compound sentences consist only of independent clauses. Dependent clauses appear in complex and compound-complex sentences."
+    },
+    {
+        "question": "Which sentence type is best for presenting a sequence of events?",
+        "options": [
+            "Simple sentence",
+            "Complex sentence",
+            "Compound-complex sentence",
+            "Compound sentence"
+        ],
+        "answer": "Compound-complex sentence",
+        "description": "Compound-complex sentences are well-suited for describing sequences of events due to the use of multiple clauses."
+    },
+    {
+        "question": "A __ sentence can combine similar ideas, contrast ideas, or convey cause and effect.",
+        "options": [
+            "simple",
+            "compound",
+            "complex",
+            "imperative"
+        ],
+        "answer": "compound",
+        "description": "Compound sentences can combine similar ideas, contrast ideas, or show cause and effect through the use of coordinating conjunctions."
+    },
+    {
+        "question": "Which of the following correctly identifies a sentence type and its function: <p><em>'Although she felt guilty for missing her friend’s birthday, she took her out to dinner the next day, and they had a great time.'?<em></p>",
+        "options": [
+            "Simple sentence; declaration of an event",
+            "Compound sentence; comparison of two events",
+            "Complex sentence; description of feelings",
+            "Compound-complex sentence; elaboration on a chain of events"
+        ],
+        "answer": "Compound-complex sentence; elaboration on a chain of events",
+        "description": "This is a compound-complex sentence, used to elaborate on a chain of events."
+    },
+    {
+        "question": "Simple sentences are not appropriate for academic writing.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "Simple sentences can be effective in academic writing for clarity and conciseness."
+    },
+    {
+        "question": "What is the function of an imperative sentence?",
+        "options": [
+            "To give a command",
+            "To ask a question",
+            "To declare an idea",
+            "To compare two ideas"
+        ],
+        "answer": "To give a command",
+        "description": "Imperative sentences are used to give commands or instructions."
+    },
+    {
+        "question": "Which sentence structure is used to explain cause and effect in this sentence: <p><em>'Since the researchers did not come to the correct conclusion, they restructured their hypothesis, and they will attempt the experiment again.'?<em></p>",
+        "options": [
+            "Simple sentence",
+            "Compound sentence",
+            "Complex sentence",
+            "Compound-complex sentence"
+        ],
+        "answer": "Compound-complex sentence",
+        "description": "This is a compound-complex sentence that explains a cause and effect relationship."
+    },
+    {
+        "question": "Which sentence type is used to make a direct statement?",
+        "options": [
+            "Imperative",
+            "Interrogative",
+            "Declarative",
+            "Exclamatory"
+        ],
+        "answer": "Declarative",
+        "description": "Declarative sentences are used to make direct statements."
+    },
+    {
+        "question": "A complex sentence must have more than one independent clause.",
+        "options": ["True", "False"],
+        "answer": "False",
+        "description": "A complex sentence contains one independent clause and at least one dependent clause."
+    }
+]

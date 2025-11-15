@@ -1,0 +1,519 @@
+[
+    {
+        "question": "What is the primary purpose of a constitution?",
+        "options": [
+            "To declare war",
+            "To establish laws and principles of governance",
+            "To provide for the economy",
+            "To promote religion"
+        ],
+        "answer": "To establish laws and principles of governance",
+        "description": "A constitution serves as the foundational legal document that outlines the structure, powers, and limits of government and guarantees certain rights to the citizens."
+    },
+    {
+        "question": "Which political ideology advocates for the abolition of private property?",
+        "options": [
+            "Liberalism",
+            "Conservatism",
+            "Socialism",
+            "Libertarianism"
+        ],
+        "answer": "Socialism",
+        "description": "Socialism seeks to eliminate private ownership of the means of production and advocates for collective or governmental control to promote equality."
+    },
+    {
+        "question": "In which country did the Velvet Revolution take place in 1989?",
+        "options": [
+            "Poland",
+            "Czechoslovakia",
+            "Hungary",
+            "East Germany"
+        ],
+        "answer": "Czechoslovakia",
+        "description": "The Velvet Revolution was a peaceful protest movement in Czechoslovakia that led to the end of communist rule in 1989."
+    },
+    {
+        "question": "What is the term for the political system where power is held by a single leader or a small elite group?",
+        "options": [
+            "Democracy",
+            "Oligarchy",
+            "Monarchy",
+            "Anarchy"
+        ],
+        "answer": "Oligarchy",
+        "description": "Oligarchy is a form of power structure where a small group of people have control over a country or organization."
+    },
+    {
+        "question": "What does the term 'gerrymandering' refer to?",
+        "options": [
+            "Redrawing electoral district boundaries for political advantage",
+            "The practice of voting without representation",
+            "The process of impeaching a president",
+            "Creating laws to restrict immigration"
+        ],
+        "answer": "Redrawing electoral district boundaries for political advantage",
+        "description": "Gerrymandering involves manipulating the boundaries of electoral districts to favor one party over another."
+    },
+    {
+        "question": "Which document declared the American colonies' independence from Britain?",
+        "options": [
+            "The Constitution",
+            "The Articles of Confederation",
+            "The Declaration of Independence",
+            "The Bill of Rights"
+        ],
+        "answer": "The Declaration of Independence",
+        "description": "The Declaration of Independence, adopted on July 4, 1776, formally announced the colonies' separation from British rule."
+    },
+    {
+        "question": "Who is considered the father of modern political philosophy?",
+        "options": [
+            "Thomas Hobbes",
+            "John Locke",
+            "Niccolò Machiavelli",
+            "Jean-Jacques Rousseau"
+        ],
+        "answer": "Niccolò Machiavelli",
+        "description": "Niccolò Machiavelli is often referred to as the father of modern political philosophy, known for his works like 'The Prince,' which discusses power dynamics."
+    },
+    {
+        "question": "What is the primary function of a political party?",
+        "options": [
+            "To enforce laws",
+            "To run candidates for public office",
+            "To represent foreign interests",
+            "To manage the economy"
+        ],
+        "answer": "To run candidates for public office",
+        "description": "Political parties primarily aim to gain control of government by electing candidates to public office who represent their ideologies and policies."
+    },
+    {
+        "question": "Which international organization was established after World War II to promote peace and security?",
+        "options": [
+            "The League of Nations",
+            "The United Nations",
+            "NATO",
+            "The European Union"
+        ],
+        "answer": "The United Nations",
+        "description": "The United Nations (UN) was founded in 1945 to foster international cooperation and prevent future conflicts."
+    },
+    {
+        "question": "What is the highest court in the United States?",
+        "options": [
+            "The Circuit Court",
+            "The Supreme Court",
+            "The District Court",
+            "The Court of Appeals"
+        ],
+        "answer": "The Supreme Court",
+        "description": "The Supreme Court is the highest court in the U.S. judicial system and has the final authority on legal interpretations of the Constitution."
+    },
+    {
+        "question": "What is the term for a system where the government owns and controls the means of production?",
+        "options": [
+            "Capitalism",
+            "Socialism",
+            "Fascism",
+            "Feudalism"
+        ],
+        "answer": "Socialism",
+        "description": "Socialism involves state ownership and control of the means of production, aiming to reduce inequality and promote social welfare."
+    },
+    {
+        "question": "What event sparked the beginning of the French Revolution in 1789?",
+        "options": [
+            "The Storming of the Bastille",
+            "The execution of King Louis XVI",
+            "The Reign of Terror",
+            "The signing of the Declaration of the Rights of Man"
+        ],
+        "answer": "The Storming of the Bastille",
+        "description": "The Storming of the Bastille on July 14, 1789, marked the start of the French Revolution, symbolizing the uprising against monarchy and tyranny."
+    },
+    {
+        "question": "Which political system is characterized by a single-party rule, where political dissent is suppressed?",
+        "options": [
+            "Democracy",
+            "Authoritarianism",
+            "Liberalism",
+            "Anarchy"
+        ],
+        "answer": "Authoritarianism",
+        "description": "Authoritarianism is a political system where a single party or leader maintains strict control over political power, often suppressing opposition."
+    },
+    {
+        "question": "What was the main cause of the American Civil War?",
+        "options": [
+            "Taxation without representation",
+            "The issue of slavery",
+            "Territorial expansion",
+            "Economic differences between the North and South"
+        ],
+        "answer": "The issue of slavery",
+        "description": "The American Civil War was primarily fought over the contentious issue of slavery and its expansion into new territories."
+    },
+    {
+        "question": "Gap-fill: The ______ was a significant political scandal in the U.S. during the 1970s that led to the resignation of President Richard Nixon.",
+        "options": [
+            "Watergate",
+            "Iran-Contra Affair",
+            "Lewinsky Scandal",
+            "Teapot Dome Scandal"
+        ],
+        "answer": "Watergate",
+        "description": "The Watergate scandal involved a break-in at the Democratic National Committee headquarters and subsequent cover-up efforts, leading to Nixon's resignation in 1974."
+    },
+    {
+        "question": "Which political movement aimed to promote equal rights for women in the 20th century?",
+        "options": [
+            "The Civil Rights Movement",
+            "The Suffrage Movement",
+            "The Labor Movement",
+            "The Environmental Movement"
+        ],
+        "answer": "The Suffrage Movement",
+        "description": "The Suffrage Movement sought to secure voting rights for women, culminating in the 19th Amendment to the U.S. Constitution in 1920."
+    },
+    {
+        "question": "What is the primary purpose of the International Monetary Fund (IMF)?",
+        "options": [
+            "To provide military support",
+            "To promote global economic stability and growth",
+            "To regulate trade",
+            "To provide humanitarian aid"
+        ],
+        "answer": "To promote global economic stability and growth",
+        "description": "The IMF aims to ensure global monetary cooperation, financial stability, and facilitate international trade to promote economic growth."
+    },
+    {
+        "question": "Which political philosopher wrote 'The Social Contract'?",
+        "options": [
+            "John Locke",
+            "Thomas Hobbes",
+            "Jean-Jacques Rousseau",
+            "Karl Marx"
+        ],
+        "answer": "Jean-Jacques Rousseau",
+        "description": "'The Social Contract' by Rousseau discusses the idea of a collective agreement among individuals to form a society and government."
+    },
+    {
+        "question": "What is the purpose of a parliamentary system?",
+        "options": [
+            "To establish a monarchy",
+            "To separate powers among branches of government",
+            "To allow the executive branch to dominate",
+            "To combine legislative and executive powers"
+        ],
+        "answer": "To combine legislative and executive powers",
+        "description": "In a parliamentary system, the executive branch derives its democratic legitimacy from the legislature (parliament) and is accountable to it."
+    },
+    {
+        "question": "Which event is known as the Tiananmen Square Massacre?",
+        "options": [
+            "A peaceful protest for democracy in China in 1989",
+            "The overthrow of the Qing Dynasty",
+            "The signing of the Treaty of Nanking",
+            "A military coup in 1966"
+        ],
+        "answer": "A peaceful protest for democracy in China in 1989",
+        "description": "The Tiananmen Square Massacre refers to the violent suppression of pro-democracy protests in Beijing in 1989 by the Chinese government."
+    },
+    {
+        "question": "Gap-fill: The ______ is the economic and political agreement between Canada, Mexico, and the United States that promotes trade.",
+        "options": [
+            "NAFTA",
+            "EU",
+            "ASEAN",
+            "APEC"
+        ],
+        "answer": "NAFTA",
+        "description": "NAFTA, the North American Free Trade Agreement, was established to eliminate trade barriers and promote economic cooperation between the three countries."
+    },
+    {
+        "question": "Which movement in the United States aimed to address issues of racial inequality?",
+        "options": [
+            "The Labor Movement",
+            "The Women's Rights Movement",
+            "The Civil Rights Movement",
+            "The Environmental Movement"
+        ],
+        "answer": "The Civil Rights Movement",
+        "description": "The Civil Rights Movement aimed to end racial discrimination and promote equal rights for African Americans, particularly during the 1950s and 1960s."
+    },
+    {
+        "question": "What is the primary goal of diplomacy?",
+        "options": [
+            "To engage in military conflict",
+            "To negotiate and maintain peaceful relationships between countries",
+            "To conduct economic sanctions",
+            "To enforce international law"
+        ],
+        "answer": "To negotiate and maintain peaceful relationships between countries",
+        "description": "Diplomacy is the practice of managing international relations through negotiation and dialogue to avoid conflict and promote cooperation."
+    },
+    {
+        "question": "Which country is known for the policy of Apartheid, which enforced racial segregation until the early 1990s?",
+        "options": [
+            "Brazil",
+            "South Africa",
+            "India",
+            "Australia"
+        ],
+        "answer": "South Africa",
+        "description": "Apartheid was a system of institutionalized racial segregation and discrimination in South Africa that lasted until the early 1990s."
+    },
+    {
+        "question": "What is the main purpose of the United Nations Security Council?",
+        "options": [
+            "To make international laws",
+            "To maintain international peace and security",
+            "To conduct elections",
+            "To oversee economic development"
+        ],
+        "answer": "To maintain international peace and security",
+        "description": "The UN Security Council is responsible for maintaining international peace and security, making decisions that member states are obligated to implement."
+    },
+    {
+        "question": "What economic system is characterized by private ownership of production and a free market?",
+        "options": [
+            "Socialism",
+            "Communism",
+            "Capitalism",
+            "Feudalism"
+        ],
+        "answer": "Capitalism",
+        "description": "Capitalism is an economic system where private individuals or businesses own capital goods and production is guided by the profit motive."
+    },
+    {
+        "question": "The philosophy advocating for the greatest good for the greatest number is known as ______.",
+        "options": [
+            "Utilitarianism",
+            "Existentialism",
+            "Nihilism",
+            "Rationalism"
+        ],
+        "answer": "Utilitarianism",
+        "description": "Utilitarianism is an ethical theory that posits actions are right if they promote happiness or pleasure, emphasizing the outcomes of actions."
+    },
+    {
+        "question": "What term describes the political system where power is held by a single ruler or authoritarian government?",
+        "options": [
+            "Democracy",
+            "Autocracy",
+            "Oligarchy",
+            "Anarchy"
+        ],
+        "answer": "Autocracy",
+        "description": "Autocracy is a political system where a single person or group holds absolute power and authority, often with limited political freedoms."
+    },
+    {
+        "question": "________ is an ideology that emphasizes the importance of individual rights and freedoms.",
+        "options": [
+            "Libertarianism",
+            "Fascism",
+            "Socialism",
+            "Communism"
+        ],
+        "answer": "Libertarianism",
+        "description": "Libertarianism advocates for minimal state intervention in the lives of individuals, emphasizing personal freedom and voluntary association."
+    },
+    {
+        "question": "The concept of ______ suggests that a society’s economic structure influences its political and cultural systems.",
+        "options": [
+            "Cultural hegemony",
+            "Historical materialism",
+            "Structuralism",
+            "Idealism"
+        ],
+        "answer": "Historical materialism",
+        "description": "Historical materialism, associated with Marxist theory, posits that material conditions and economic factors shape societal development."
+    },
+    {
+        "question": "Which political philosophy promotes the idea of a classless society where the means of production are collectively owned?",
+        "options": [
+            "Socialism",
+            "Anarchism",
+            "Communism",
+            "Liberalism"
+        ],
+        "answer": "Communism",
+        "description": "Communism advocates for the abolition of private property and aims for a society where goods are distributed according to need."
+    },
+    {
+        "question": "________ is a form of government in which a single political party controls the state, often characterized by dictatorial rule.",
+        "options": [
+            "Totalitarianism",
+            "Democracy",
+            "Theocracy",
+            "Plutocracy"
+        ],
+        "answer": "Totalitarianism",
+        "description": "Totalitarianism is a political system where the state seeks to regulate every aspect of public and private life, typically led by a single party."
+    },
+    {
+        "question": "The economic theory that supports government intervention to achieve full employment is known as ______.",
+        "options": [
+            "Keynesian economics",
+            "Monetarism",
+            "Supply-side economics",
+            "Classical economics"
+        ],
+        "answer": "Keynesian economics",
+        "description": "Keynesian economics, developed by John Maynard Keynes, advocates for increased government spending and intervention during economic downturns."
+    },
+    {
+        "question": "________ is the political theory that emphasizes the need for government based on religious principles.",
+        "options": [
+            "Theocracy",
+            "Secularism",
+            "Liberalism",
+            "Democracy"
+        ],
+        "answer": "Theocracy",
+        "description": "A theocracy is a system of government in which priests or religious leaders control the government, interpreting laws based on religious doctrines."
+    },
+    {
+        "question": "What ideology emphasizes social ownership and democratic control of the means of production?",
+        "options": [
+            "Socialism",
+            "Liberalism",
+            "Conservatism",
+            "Fascism"
+        ],
+        "answer": "Socialism",
+        "description": "Socialism advocates for social ownership and democratic control of the means of production, aiming to reduce inequality and promote social welfare."
+    },
+    {
+        "question": "________ is a form of governance where citizens participate directly in decision-making.",
+        "options": [
+            "Representative democracy",
+            "Direct democracy",
+            "Oligarchy",
+            "Autocracy"
+        ],
+        "answer": "Direct democracy",
+        "description": "Direct democracy allows citizens to directly participate in the decision-making process rather than through elected representatives."
+    },
+    {
+        "question": "What is the term for the political philosophy that seeks to reduce government intervention in both economic and personal matters?",
+        "options": [
+            "Libertarianism",
+            "Socialism",
+            "Communism",
+            "Fascism"
+        ],
+        "answer": "Libertarianism",
+        "description": "Libertarianism seeks to maximize individual liberty and minimize government intervention in personal and economic affairs."
+    },
+    {
+        "question": "________ refers to the concentration of power in a few individuals or groups within a political system.",
+        "options": [
+            "Oligarchy",
+            "Monarchy",
+            "Democracy",
+            "Plutocracy"
+        ],
+        "answer": "Oligarchy",
+        "description": "Oligarchy is a form of power structure where a small group of individuals or organizations hold significant power and influence."
+    },
+    {
+        "question": "Which political ideology focuses on tradition, hierarchy, and authority?",
+        "options": [
+            "Liberalism",
+            "Conservatism",
+            "Progressivism",
+            "Socialism"
+        ],
+        "answer": "Conservatism",
+        "description": "Conservatism emphasizes the importance of preserving traditional institutions, values, and social order."
+    },
+    {
+        "question": "________ is the economic theory that emphasizes free markets and minimal government intervention.",
+        "options": [
+            "Mercantilism",
+            "Keynesianism",
+            "Neoliberalism",
+            "Socialism"
+        ],
+        "answer": "Neoliberalism",
+        "description": "Neoliberalism promotes free-market capitalism, deregulation, and a reduction in government spending on social programs."
+    },
+    {
+        "question": "What movement sought to address issues of inequality and civil rights for African Americans in the United States during the 1950s and 1960s?",
+        "options": [
+            "The Labor Movement",
+            "The Civil Rights Movement",
+            "The Women's Suffrage Movement",
+            "The Environmental Movement"
+        ],
+        "answer": "The Civil Rights Movement",
+        "description": "The Civil Rights Movement aimed to end racial segregation and discrimination against African Americans, advocating for equal rights."
+    },
+    {
+        "question": "Which political system is based on the idea of a single ruler with absolute power?",
+        "options": [
+            "Democracy",
+            "Monarchy",
+            "Authoritarianism",
+            "Constitutionalism"
+        ],
+        "answer": "Monarchy",
+        "description": "Monarchy is a political system where a single ruler, usually a king or queen, holds absolute power, though constitutional monarchies exist as well."
+    },
+    {
+        "question": "________ is a form of government in which power is vested in the people, who exercise that power directly or through elected representatives.",
+        "options": [
+            "Totalitarianism",
+            "Democracy",
+            "Autocracy",
+            "Theocracy"
+        ],
+        "answer": "Democracy",
+        "description": "Democracy is a system of government in which the power lies with the people, typically exercised through voting."
+    },
+    {
+        "question": "What is the primary aim of populism in politics?",
+        "options": [
+            "To advocate for elite interests",
+            "To represent the common people against the elite",
+            "To maintain the status quo",
+            "To promote globalization"
+        ],
+        "answer": "To represent the common people against the elite",
+        "description": "Populism seeks to represent the interests of ordinary people, often positioning them against a perceived corrupt elite."
+    },
+    {
+        "question": "Which ideology promotes environmental protection and sustainability as central principles?",
+        "options": [
+            "Conservatism",
+            "Environmentalism",
+            "Socialism",
+            "Capitalism"
+        ],
+        "answer": "Environmentalism",
+        "description": "Environmentalism advocates for the protection of the natural environment and promotes sustainability to ensure a healthy planet."
+    },
+    {
+        "question": "________ refers to the political and economic theory advocating for a classless society and the abolition of private property.",
+        "options": [
+            "Socialism",
+            "Communism",
+            "Libertarianism",
+            "Fascism"
+        ],
+        "answer": "Communism",
+        "description": "Communism seeks to create a classless society where the means of production are communally owned, eliminating private property."
+    },
+    {
+        "question": "Which political concept focuses on individual liberty, free market, and limited government intervention?",
+        "options": [
+            "Socialism",
+            "Liberalism",
+            "Fascism",
+            "Populism"
+        ],
+        "answer": "Liberalism",
+        "description": "Liberalism emphasizes individual rights and freedoms, advocating for democratic governance and free-market policies."
+    }
+]

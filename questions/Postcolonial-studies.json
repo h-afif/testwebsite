@@ -1,0 +1,158 @@
+[
+    {
+        "question": "Which key thinker is best known for the concept of 'Orientalism'?",
+        "options": ["Frantz Fanon", "Edward Said", "Gayatri Spivak", "Homi Bhabha"],
+        "answer": "Edward Said",
+        "description": "Edward Said developed the concept of 'Orientalism,' arguing that the West constructs a distorted image of the East to justify colonial dominance."
+    },
+    {
+        "question": "Frantz Fanon's 'The Wretched of the Earth' primarily focuses on _____.",
+        "options": ["Colonial language", "Psychological effects of colonization", "Postcolonial feminism", "Hybridity"],
+        "answer": "Psychological effects of colonization",
+        "description": "In 'The Wretched of the Earth,' Frantz Fanon examines the psychological trauma and violence that colonialism inflicts on the colonized."
+    },
+    {
+        "question": "Which of the following is a prominent theme in Chinua Achebe's 'Things Fall Apart'?",
+        "options": ["Cultural hybridity", "The impact of colonialism on indigenous traditions", "Orientalism", "Diaspora"],
+        "answer": "The impact of colonialism on indigenous traditions",
+        "description": "'Things Fall Apart' explores how colonialism disrupts the social, political, and cultural traditions of the Igbo society in Nigeria."
+    },
+    {
+        "question": "'Can the Subaltern Speak?' is a famous work by _____.",
+        "options": ["Gayatri Spivak", "Edward Said", "Homi Bhabha", "Chinua Achebe"],
+        "answer": "Gayatri Spivak",
+        "description": "In 'Can the Subaltern Speak?' Gayatri Spivak critiques how Western intellectuals marginalize and silence the voices of the colonized or subaltern groups."
+    },
+    {
+        "question": "Homi Bhabha's concept of 'Hybridity' refers to _____.",
+        "options": ["The blending of cultures and identities in postcolonial societies", "The suppression of indigenous languages", "The economic impact of colonization", "Colonial power structures"],
+        "answer": "The blending of cultures and identities in postcolonial societies",
+        "description": "Homi Bhabha's concept of 'Hybridity' examines how colonized and colonizer cultures merge, creating new, hybrid identities in postcolonial contexts."
+    },
+    {
+        "question": "Derek Walcott's poetry often explores the legacy of _____.",
+        "options": ["Colonialism in the Caribbean", "African independence movements", "Indian postcolonial identity", "Western feminism"],
+        "answer": "Colonialism in the Caribbean",
+        "description": "Derek Walcott's poetry examines the cultural and historical effects of British colonialism in the Caribbean and the creation of a creolized identity."
+    },
+    {
+        "question": "Which novel is considered one of the foundational texts of postcolonial African literature?",
+        "options": ["Season of Migration to the North", "Wide Sargasso Sea", "Things Fall Apart", "The God of Small Things"],
+        "answer": "Things Fall Apart",
+        "description": "'Things Fall Apart' by Chinua Achebe is regarded as a seminal work in postcolonial African literature, addressing the clash between traditional Igbo culture and European colonialism."
+    },
+    {
+        "question": "'Hybridity' in postcolonial theory challenges the idea of _____.",
+        "options": ["Racial purity", "Colonial hegemony", "Cultural authenticity", "Orientalism"],
+        "answer": "Cultural authenticity",
+        "description": "'Hybridity' destabilizes the idea of a fixed, 'authentic' culture by showing how colonized societies blend elements of indigenous and colonial cultures."
+    },
+    {
+        "question": "Salman Rushdie's 'Midnight’s Children' can be considered postcolonial because it _____.",
+        "options": ["Critiques British colonial rule", "Explores Indian independence and identity", "Focuses on language and colonialism", "Depicts diasporic experiences"],
+        "answer": "Explores Indian independence and identity",
+        "description": "'Midnight's Children' is a postcolonial novel that explores the complexities of Indian identity and history following independence from British colonial rule."
+    },
+    {
+        "question": "Ngũgĩ wa Thiong'o advocates for the use of indigenous languages in postcolonial literature to _____.",
+        "options": ["Resist cultural imperialism", "Create global understanding", "Imitate colonial narratives", "Ensure linguistic diversity"],
+        "answer": "Resist cultural imperialism",
+        "description": "Ngũgĩ wa Thiong'o believes that writing in indigenous languages resists cultural imperialism and reclaims the voice and identity of colonized peoples."
+    },
+    {
+        "question": "The term 'Neocolonialism' refers to _____.",
+        "options": [
+            "Direct colonial rule by European powers",
+            "Economic and cultural dominance after the end of formal colonialism",
+            "The spread of Western religion",
+            "The transition from colonies to independent nations"
+        ],
+        "answer": "Economic and cultural dominance after the end of formal colonialism",
+        "description": "Neocolonialism refers to how former colonial powers continue to exert control over former colonies through economic, political, and cultural means, despite formal independence."
+    },
+    {
+        "question": "In postcolonial theory, 'Diaspora' refers to _____.",
+        "options": ["The movement and scattering of peoples across different locations", "The hybridization of cultures", "The colonizer’s guilt", "The economic effects of colonization"],
+        "answer": "The movement and scattering of peoples across different locations",
+        "description": "'Diaspora' refers to the displacement and migration of people, often as a result of colonialism, and the creation of transnational, hybrid identities."
+    },
+    {
+        "question": "Which novel is a reworking of Charlotte Brontë’s 'Jane Eyre,' giving voice to a postcolonial character?",
+        "options": ["Season of Migration to the North", "Wide Sargasso Sea", "The God of Small Things", "Beloved"],
+        "answer": "Wide Sargasso Sea",
+        "description": "'Wide Sargasso Sea' by Jean Rhys retells the story of 'Jane Eyre' from the perspective of Bertha Mason, the Creole wife of Mr. Rochester, giving a voice to a previously marginalized character."
+    },
+    {
+        "question": "'Mimicry' in postcolonial theory, according to Homi Bhabha, refers to _____.",
+        "options": [
+            "The colonized subject imitating the colonizer’s behavior while subverting colonial power",
+            "The colonizer adopting indigenous customs",
+            "The use of indigenous languages in literature",
+            "The resistance to colonial rule through literature"
+        ],
+        "answer": "The colonized subject imitating the colonizer’s behavior while subverting colonial power",
+        "description": "'Mimicry' describes how colonized people adopt the behaviors and customs of the colonizer, but this imitation simultaneously exposes the artificiality of colonial authority."
+    },
+    {
+        "question": "Gayatri Spivak's term 'Strategic Essentialism' refers to _____.",
+        "options": [
+            "The essentialization of postcolonial identities",
+            "Temporarily using essentialist identities for political solidarity",
+            "A critique of Western feminism",
+            "Rejecting cultural hybridity"
+        ],
+        "answer": "Temporarily using essentialist identities for political solidarity",
+        "description": "'Strategic Essentialism' is the act of marginalized groups temporarily adopting a unified identity for political purposes, while acknowledging the fluidity of identity in other contexts."
+    },
+    {
+        "question": "Arundhati Roy's 'The God of Small Things' explores postcolonial themes such as _____.",
+        "options": ["Caste and class hierarchies in India", "The role of indigenous languages", "Resistance to British colonialism", "The psychological effects of colonization"],
+        "answer": "Caste and class hierarchies in India",
+        "description": "'The God of Small Things' examines postcolonial themes, particularly the intersection of caste, class, and gender in postcolonial India."
+    },
+    {
+        "question": "Which thinker is associated with the critique of 'Eurocentrism' in postcolonial studies?",
+        "options": ["Edward Said", "Frantz Fanon", "Gayatri Spivak", "Aime Cesaire"],
+        "answer": "Edward Said",
+        "description": "Edward Said critiqued Eurocentrism, the idea that European culture and values are the standard by which other cultures are judged, as part of his larger critique of Orientalism."
+    },
+    {
+        "question": "Frantz Fanon's concept of 'Colonial Violence' suggests that _____.",
+        "options": [
+            "Colonialism relies solely on military force",
+            "Violence is an inevitable response to the oppression of colonized people",
+            "Colonized people must avoid violence at all costs",
+            "Colonial subjects can only gain freedom through peaceful means"
+        ],
+        "answer": "Violence is an inevitable response to the oppression of colonized people",
+        "description": "Fanon argued that the violence of colonialism provokes a violent response from colonized people as they fight for freedom and decolonization."
+    },
+    {
+        "question": "The term 'Third Space' in Homi Bhabha’s postcolonial theory refers to _____.",
+        "options": ["A hybrid space of cultural exchange", "A form of neocolonialism", "The geographic spaces of colonization", "The cultural purity of the colonizer"],
+        "answer": "A hybrid space of cultural exchange",
+        "description": "Homi Bhabha's 'Third Space' describes a space where different cultures intersect and blend, creating new, hybrid forms of identity."
+    },
+    {
+        "question": "'Subaltern' is a term in postcolonial theory used to describe _____.",
+        "options": [
+            "A group that holds political power",
+            "The colonizing population",
+            "The marginalized and voiceless populations under colonialism",
+            "The educated elite in colonized societies"
+        ],
+        "answer": "The marginalized and voiceless populations under colonialism",
+        "description": "The 'subaltern' refers to the populations that are socially, politically, and geographically outside the hegemonic power structures of the colony."
+    },
+    {
+        "question": "Homi Bhabha's concept of 'Ambivalence' in colonial discourse theory refers to _____.",
+        "options": [
+            "The simultaneous attraction and repulsion that colonial authority has for the colonized",
+            "The indifference of the colonizer to indigenous cultures",
+            "The inherent power of colonial language",
+            "The cultural purity of the colonized"
+        ],
+        "answer": "The simultaneous attraction and repulsion that colonial authority has for the colonized",
+        "description": "Ambivalence in Bhabha's theory refers to the contradictory feelings the colonized have toward the colonizer—both desiring and rejecting colonial authority."
+    }
+]

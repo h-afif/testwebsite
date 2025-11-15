@@ -1,0 +1,343 @@
+[
+    {
+      "question": "What is the primary purpose of classroom management?",
+      "options": [
+        "To maintain discipline",
+        "To create a productive learning environment",
+        "To enforce strict rules",
+        "To ensure the teacher controls all decisions"
+      ],
+      "answer": "To create a productive learning environment",
+      "description": "Classroom management focuses on fostering an environment conducive to learning, where students can engage and participate."
+    },
+    {
+      "question": "Which of the following is NOT a component of classroom management?",
+      "options": [
+        "Establishing rules",
+        "Building rapport with students",
+        "Controlling students’ social activities outside the classroom",
+        "Arranging physical space"
+      ],
+      "answer": "Controlling students’ social activities outside the classroom",
+      "description": "Classroom management includes elements like rules, rapport, and physical space arrangement but does not extend to controlling students outside the classroom."
+    },
+    {
+      "question": "Fill in the blank: _____ is the mutual agreement between teacher and students regarding expectations, rights, and responsibilities.",
+      "options": [
+        "The pedagogical contract",
+        "Classroom rules",
+        "Teacher's handbook",
+        "School policy"
+      ],
+      "answer": "The pedagogical contract",
+      "description": "The pedagogical contract refers to the implicit or explicit agreements between teachers and students, outlining mutual expectations."
+    },
+    {
+      "question": "Which of the following is an example of extrinsic motivation?",
+      "options": [
+        "A student studying to earn praise from the teacher",
+        "A student reading a book for enjoyment",
+        "A student solving a puzzle because it's fun",
+        "A student learning for personal growth"
+      ],
+      "answer": "A student studying to earn praise from the teacher",
+      "description": "Extrinsic motivation refers to doing something for external rewards like praise, grades, or other incentives."
+    },
+    {
+      "question": "What defines intrinsic motivation?",
+      "options": [
+        "Performing a task for external rewards",
+        "Performing a task for personal satisfaction",
+        "Performing a task to avoid punishment",
+        "Performing a task to meet others’ expectations"
+      ],
+      "answer": "Performing a task for personal satisfaction",
+      "description": "Intrinsic motivation occurs when someone engages in an activity because it is personally rewarding, rather than for external rewards."
+    },
+    {
+      "question": "Which of the following is an example of intrinsic motivation?",
+      "options": [
+        "Studying to pass an exam",
+        "Reading a novel because you enjoy the story",
+        "Participating in class to get good grades",
+        "Completing homework to avoid detention"
+      ],
+      "answer": "Reading a novel because you enjoy the story",
+      "description": "Intrinsic motivation involves engaging in an activity because of the inherent enjoyment or interest in it, such as reading for pleasure."
+    },
+    {
+      "question": "Fill in the blank: A _____ teacher focuses on inspiring students, fostering a positive classroom environment, and demonstrating patience.",
+      "options": [
+        "strict",
+        "charismatic",
+        "good",
+        "authoritative"
+      ],
+      "answer": "good",
+      "description": "A good teacher motivates students, creates a positive atmosphere, and practices patience while adapting to their needs."
+    },
+    {
+      "question": "What is one quality of an effective teacher?",
+      "options": [
+        "Rigid adherence to rules",
+        "Adaptability to students' needs",
+        "Focusing on grades only",
+        "Avoiding student feedback"
+      ],
+      "answer": "Adaptability to students' needs",
+      "description": "Effective teachers are adaptable, recognizing and responding to the diverse needs of their students to improve learning outcomes."
+    },
+    {
+      "question": "What does a teacher's professional development portfolio typically include?",
+      "options": [
+        "Personal diary",
+        "Lesson plans, reflective journal, certificates",
+        "Classroom seating arrangements",
+        "Student feedback forms only"
+      ],
+      "answer": "Lesson plans, reflective journal, certificates",
+      "description": "A professional portfolio often includes lesson plans, reflections, certificates of achievement, and other teaching-related materials."
+    },
+    {
+      "question": "Fill in the blank: The teacher's role in a student-centered classroom is primarily to _____ learning.",
+      "options": [
+        "control",
+        "facilitate",
+        "direct",
+        "restrict"
+      ],
+      "answer": "facilitate",
+      "description": "In student-centered classrooms, teachers facilitate learning by guiding students rather than directing or controlling them."
+    },
+    {
+      "question": "Which of the following documents is essential for guiding daily instruction?",
+      "options": [
+        "Curriculum",
+        "Lesson plan",
+        "Student handbook",
+        "Teacher evaluation form"
+      ],
+      "answer": "Lesson plan",
+      "description": "A lesson plan is a key document used by teachers to organize and guide daily instruction, setting clear objectives and activities."
+    },
+    {
+      "question": "What is the primary purpose of the pedagogical contract?",
+      "options": [
+        "To outline school rules",
+        "To establish classroom expectations between teacher and students",
+        "To determine student grades",
+        "To evaluate teacher performance"
+      ],
+      "answer": "To establish classroom expectations between teacher and students",
+      "description": "The pedagogical contract establishes mutual expectations regarding behaviors, responsibilities, and academic goals in the classroom."
+    },
+    {
+      "question": "Fill in the blank: Extrinsic motivation can be described as _____ rewards.",
+      "options": [
+        "external",
+        "internal",
+        "self-sustained",
+        "self-driven"
+      ],
+      "answer": "external",
+      "description": "Extrinsic motivation comes from external sources, such as rewards, recognition, or avoiding punishment."
+    },
+    {
+      "question": "Which of the following is NOT an example of classroom management?",
+      "options": [
+        "Setting up classroom rules",
+        "Monitoring student behavior",
+        "Evaluating final exam results",
+        "Establishing seating arrangements"
+      ],
+      "answer": "Evaluating final exam results",
+      "description": "Classroom management focuses on daily routines, behavior, and the learning environment, while exam evaluation is related to assessment."
+    },
+    {
+      "question": "What is the main goal of positive reinforcement in classroom management?",
+      "options": [
+        "To discourage misbehavior",
+        "To encourage desired behavior",
+        "To punish misbehavior",
+        "To increase workload"
+      ],
+      "answer": "To encourage desired behavior",
+      "description": "Positive reinforcement is used in classroom management to encourage and strengthen desired behaviors among students."
+    },
+    {
+      "question": "Which of the following is an example of a teacher's intrinsic motivation?",
+      "options": [
+        "Earning a promotion",
+        "Receiving praise from a supervisor",
+        "Feeling a sense of fulfillment from helping students learn",
+        "Getting a raise"
+      ],
+      "answer": "Feeling a sense of fulfillment from helping students learn",
+      "description": "Intrinsic motivation comes from internal satisfaction, such as the sense of fulfillment a teacher gets from helping students."
+    },
+    {
+      "question": "In a well-managed classroom, what is the teacher's role during group work?",
+      "options": [
+        "To control every aspect of the activity",
+        "To monitor and guide groups as needed",
+        "To leave the students unsupervised",
+        "To assign work but avoid involvement"
+      ],
+      "answer": "To monitor and guide groups as needed",
+      "description": "During group work, a teacher should monitor students, offering guidance when necessary, rather than controlling or stepping back completely."
+    },
+    {
+      "question": "Which of the following teacher responsibilities relates to legal and professional obligations?",
+      "options": [
+        "Meeting grading deadlines",
+        "Maintaining classroom discipline",
+        "Providing a safe learning environment",
+        "Establishing seating charts"
+      ],
+      "answer": "Providing a safe learning environment",
+      "description": "One of the teacher's legal and professional responsibilities is to ensure that the learning environment is safe for all students."
+    },
+    {
+      "question": "What is the purpose of classroom rules?",
+      "options": [
+        "To impose authority",
+        "To create a structured and respectful learning environment",
+        "To increase student workload",
+        "To monitor attendance only"
+      ],
+      "answer": "To create a structured and respectful learning environment",
+      "description": "Classroom rules help establish a structured and respectful environment that fosters learning and cooperation."
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of intrinsic motivation in students?",
+      "options": [
+        "Engaging in learning because it is enjoyable",
+        "Studying to gain praise from the teacher",
+        "Learning for personal satisfaction",
+        "Being curious about the subject matter"
+      ],
+      "answer": "Studying to gain praise from the teacher",
+      "description": "Studying to gain praise from the teacher is an example of extrinsic motivation, not intrinsic, which is driven by internal factors like curiosity."
+    },
+    {
+      "question": "What is a common strategy teachers use to promote intrinsic motivation in students?",
+      "options": [
+        "Offering material rewards",
+        "Providing choice and autonomy in learning tasks",
+        "Assigning more homework",
+        "Punishing lack of participation"
+      ],
+      "answer": "Providing choice and autonomy in learning tasks",
+      "description": "Allowing students to have choice and autonomy in their learning fosters intrinsic motivation by increasing engagement and interest."
+    },
+    {
+      "question": "Which of the following best describes the teacher's role in behavior management?",
+      "options": [
+        "Punishing misbehavior",
+        "Creating a positive and supportive learning environment",
+        "Ignoring minor disruptions",
+        "Focusing only on academic content"
+      ],
+      "answer": "Creating a positive and supportive learning environment",
+      "description": "Behavior management involves creating a positive, supportive environment that encourages good behavior and minimizes disruptions."
+    },
+    {
+      "question": "Fill in the blank: The primary purpose of a _____ is to outline what is expected of both the teacher and the students in terms of behavior and performance.",
+      "options": [
+        "grading rubric",
+        "classroom contract",
+        "lesson plan",
+        "class schedule"
+      ],
+      "answer": "classroom contract",
+      "description": "A classroom contract outlines the expectations for behavior and performance from both the teacher and students."
+    },
+    {
+      "question": "What is a key aspect of effective classroom management?",
+      "options": [
+        "Allowing students to determine all classroom rules",
+        "Consistency in enforcing rules and expectations",
+        "Ignoring minor disruptions",
+        "Using punishment as the main strategy"
+      ],
+      "answer": "Consistency in enforcing rules and expectations",
+      "description": "Effective classroom management relies on consistency in applying rules and expectations, creating a predictable environment for students."
+    },
+    {
+      "question": "In the context of classroom management, what is the benefit of using positive reinforcement?",
+      "options": [
+        "It makes students fear punishment",
+        "It strengthens desired behaviors",
+        "It increases classroom disruptions",
+        "It focuses solely on academic achievement"
+      ],
+      "answer": "It strengthens desired behaviors",
+      "description": "Positive reinforcement strengthens desired behaviors by rewarding students when they follow rules or meet expectations."
+    },
+    {
+      "question": "Fill in the blank: A teacher's role in the classroom extends beyond instruction to include _____ and _____.",
+      "options": [
+        "assessment; discipline",
+        "mentoring; guiding",
+        "evaluation; punishment",
+        "grading; controlling"
+      ],
+      "answer": "mentoring; guiding",
+      "description": "Teachers are not just instructors; they also mentor and guide students, helping them develop holistically."
+    },
+    {
+      "question": "Which of the following documents helps teachers organize their daily teaching activities and objectives?",
+      "options": [
+        "The student handbook",
+        "The curriculum guide",
+        "The lesson plan",
+        "The school calendar"
+      ],
+      "answer": "The lesson plan",
+      "description": "A lesson plan outlines daily activities, objectives, and strategies for delivering content, helping teachers organize their instruction."
+    },
+    {
+      "question": "Fill in the blank: The concept of _____ focuses on building a classroom community where mutual respect and shared responsibility are emphasized.",
+      "options": [
+        "classroom hierarchy",
+        "community building",
+        "peer discipline",
+        "pedagogical contract"
+      ],
+      "answer": "community building",
+      "description": "Community building in the classroom fosters mutual respect, collaboration, and a shared sense of responsibility among students."
+    },
+    {
+      "question": "Which of the following best represents a teacher's responsibility in terms of professional development?",
+      "options": [
+        "Adhering strictly to school policies",
+        "Continuously improving their teaching practices",
+        "Avoiding new teaching methods",
+        "Maintaining rigid control over classroom decisions"
+      ],
+      "answer": "Continuously improving their teaching practices",
+      "description": "Teachers have a responsibility to engage in ongoing professional development to enhance their teaching effectiveness."
+    },
+    {
+      "question": "What is the benefit of setting clear classroom expectations?",
+      "options": [
+        "It limits students' creativity",
+        "It ensures discipline without disruptions",
+        "It establishes a predictable and structured environment",
+        "It forces students to comply with rigid rules"
+      ],
+      "answer": "It establishes a predictable and structured environment",
+      "description": "Clear expectations help establish a structured and predictable environment, making it easier for students to succeed."
+    },
+    {
+      "question": "Which of the following is NOT typically considered a responsibility of a teacher?",
+      "options": [
+        "Providing a safe learning environment",
+        "Developing lesson plans",
+        "Assigning grades",
+        "Determining students' home life situations"
+      ],
+      "answer": "Determining students' home life situations",
+      "description": "While teachers are responsible for students' academic and emotional well-being, they are not expected to manage students' home life."
+    }
+  ]

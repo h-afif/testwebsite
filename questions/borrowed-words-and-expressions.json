@@ -1,0 +1,188 @@
+[
+    {
+        "question": "Fill in the blank: The scientist conducted an _______ study to investigate the long-term effects of pollution.",
+        "options": ["empirical", "theoretical", "abstract", "hypothetical"],
+        "answer": "empirical",
+        "description": "'Empirical' derives from Latin and refers to knowledge based on observation or experience rather than theory."
+    },
+    {
+        "question": "What is the synonym of 'benevolent'?",
+        "options": ["malevolent", "generous", "selfish", "apathetic"],
+        "answer": "generous",
+        "description": "'Benevolent' means well-meaning and kindly, similar to 'generous'."
+    },
+    {
+        "question": "What is the antonym of 'lucid'?",
+        "options": ["clear", "confused", "obscure", "translucent"],
+        "answer": "obscure",
+        "description": "'Obscure' means not clear or difficult to understand, which is the opposite of 'lucid', meaning clear."
+    },
+    {
+        "question": "What does 'cogent' mean in the sentence: 'His argument was cogent and well-structured'?",
+        "options": ["weak", "forceful", "ambiguous", "inconclusive"],
+        "answer": "forceful",
+        "description": "'Cogent' refers to an argument that is clear, logical, and convincing, similar to 'forceful'."
+    },
+    {
+        "question": "Fill in the blank: The _______ of the proposal was challenged by many experts in the field.",
+        "options": ["validity", "ambiguity", "fallacy", "superficiality"],
+        "answer": "validity",
+        "description": "'Validity' refers to the soundness or accuracy of something, which fits the context."
+    },
+    {
+        "question": "What is the synonym of 'magnitude'?",
+        "options": ["size", "insignificance", "minuteness", "triviality"],
+        "answer": "size",
+        "description": "'Magnitude' refers to the great size or extent of something, making 'size' a suitable synonym."
+    },
+    {
+        "question": "What is the antonym of 'ubiquitous'?",
+        "options": ["rare", "common", "frequent", "omnipresent"],
+        "answer": "rare",
+        "description": "'Rare' means not occurring very often, which is the opposite of 'ubiquitous', meaning present everywhere."
+    },
+    {
+        "question": "What does 'antithesis' mean in the sentence: 'The antithesis of freedom is oppression'?",
+        "options": ["opposite", "similarity", "exaggeration", "definition"],
+        "answer": "opposite",
+        "description": "'Antithesis' refers to a contrast or opposition between two things, so 'opposite' is the correct meaning."
+    },
+    {
+        "question": "Fill in the blank: The author's _______ style was both engaging and informative.",
+        "options": ["pedantic", "prosaic", "erudite", "insipid"],
+        "answer": "erudite",
+        "description": "'Erudite' means having or showing great knowledge, which fits well with an engaging writing style."
+    },
+    {
+        "question": "What is the synonym of 'synthesize'?",
+        "options": ["analyze", "combine", "divide", "dissect"],
+        "answer": "combine",
+        "description": "'Synthesize' means to combine different elements into a coherent whole, similar to 'combine'."
+    },
+    {
+        "question": "What is the antonym of 'candid'?",
+        "options": ["deceptive", "honest", "open", "sincere"],
+        "answer": "deceptive",
+        "description": "'Deceptive' means misleading or dishonest, which is the opposite of 'candid', meaning open and honest."
+    },
+    {
+        "question": "What does 'idiosyncratic' mean in the sentence: 'Her idiosyncratic approach to problem-solving was both innovative and effective'?",
+        "options": ["common", "unusual", "predictable", "normal"],
+        "answer": "unusual",
+        "description": "'Idiosyncratic' refers to a distinctive or peculiar characteristic, so 'unusual' is the correct choice."
+    },
+    {
+        "question": "Fill in the blank: The research presented a _______ view of the current situation in the economy.",
+        "options": ["myopic", "holistic", "fragmented", "narrow"],
+        "answer": "holistic",
+        "description": "'Holistic' means considering the whole system rather than just the parts, fitting the context of a broad view."
+    },
+    {
+        "question": "What is the synonym of 'anomaly'?",
+        "options": ["normality", "irregularity", "similarity", "conformity"],
+        "answer": "irregularity",
+        "description": "'Anomaly' refers to something that deviates from what is standard or expected, making 'irregularity' a suitable synonym."
+    },
+    {
+        "question": "What is the antonym of 'transitory'?",
+        "options": ["temporary", "ephemeral", "perpetual", "fleeting"],
+        "answer": "perpetual",
+        "description": "'Perpetual' means lasting forever, which is the opposite of 'transitory', meaning temporary."
+    },
+    {
+        "question": "What does 'pragmatic' mean in the sentence: 'Her pragmatic approach to the project focused on practical outcomes'?",
+        "options": ["theoretical", "practical", "idealistic", "unrealistic"],
+        "answer": "practical",
+        "description": "'Pragmatic' refers to dealing with things sensibly and realistically, aligning with 'practical'."
+    },
+    {
+        "question": "Fill in the blank: The professor’s lecture was filled with _______ that illuminated complex ideas.",
+        "options": ["platitudes", "insights", "truisms", "banalities"],
+        "answer": "insights",
+        "description": "'Insights' refers to deep understanding or realizations, fitting well in the context of illuminating ideas."
+    },
+    {
+        "question": "What is the synonym of 'conjecture'?",
+        "options": ["fact", "hypothesis", "certainty", "truth"],
+        "answer": "hypothesis",
+        "description": "'Conjecture' refers to an opinion or conclusion formed on the basis of incomplete information, similar to 'hypothesis'."
+    },
+    {
+        "question": "What is the antonym of 'lucid'?",
+        "options": ["clear", "confusing", "understandable", "transparent"],
+        "answer": "confusing",
+        "description": "'Confusing' means difficult to understand, which is the opposite of 'lucid', meaning clear and comprehensible."
+    },
+    {
+        "question": "What does 'perfunctory' mean in the sentence: 'His perfunctory response suggested a lack of interest in the topic'?",
+        "options": ["detailed", "careful", "superficial", "thorough"],
+        "answer": "superficial",
+        "description": "'Perfunctory' refers to something done without care or interest, similar to 'superficial'."
+    },
+    {
+        "question": "Fill in the blank: The results of the study were _______ and supported the original hypothesis.",
+        "options": ["ambiguous", "unequivocal", "unclear", "inconclusive"],
+        "answer": "unequivocal",
+        "description": "'Unequivocal' means leaving no doubt; clear and unambiguous, which fits the context."
+    },
+    {
+        "question": "Fill in the blank: The doctor explained that the patient's condition was _______ and required immediate attention.",
+        "options": ["status quo", "sine qua non", "ad hoc", "per se"],
+        "answer": "sine qua non",
+        "description": "'Sine qua non' means an essential condition or element; something that is indispensable."
+    },
+    {
+        "question": "What does the expression 'carpe diem' mean in the context: 'He adopted a 'carpe diem' attitude towards life'?",
+        "options": ["seize the day", "live and let live", "time heals all", "every cloud has a silver lining"],
+        "answer": "seize the day",
+        "description": "'Carpe diem' translates to 'seize the day' and encourages making the most of the present moment."
+    },
+    {
+        "question": "Fill in the blank: The team's success was a _______ achievement that inspired many.",
+        "options": ["tour de force", "piece de resistance", "modus operandi", "faux pas"],
+        "answer": "tour de force",
+        "description": "'Tour de force' refers to a remarkable feat or achievement, especially in a creative context."
+    },
+    {
+        "question": "What is the meaning of 'caveat emptor' in the sentence: 'In real estate, the principle of 'caveat emptor' advises buyers to beware'?",
+        "options": ["let the buyer beware", "all sales are final", "buyer pays for shipping", "sold as is"],
+        "answer": "let the buyer beware",
+        "description": "'Caveat emptor' means 'let the buyer beware', indicating that the buyer is responsible for checking the quality of goods before purchase."
+    },
+    {
+        "question": "What does 'ad hoc' mean in the sentence: 'The committee was formed on an ad hoc basis to address the immediate issue'?",
+        "options": ["permanent", "temporary", "systematic", "planned"],
+        "answer": "temporary",
+        "description": "'Ad hoc' refers to something created for a specific purpose, often temporary, rather than a permanent solution."
+    },
+    {
+        "question": "Fill in the blank: His behavior at the meeting was considered a major _______.",
+        "options": ["faux pas", "status quo", "raison d'être", "modus operandi"],
+        "answer": "faux pas",
+        "description": "'Faux pas' means a social blunder or mistake, which fits the context of inappropriate behavior."
+    },
+    {
+        "question": "What is the synonym of 'zeitgeist'?",
+        "options": ["spirit of the time", "traditionalism", "monotony", "nostalgia"],
+        "answer": "spirit of the time",
+        "description": "'Zeitgeist' refers to the defining spirit or mood of a particular period of history, synonymous with 'spirit of the time'."
+    },
+    {
+        "question": "Fill in the blank: The artist's style is often described as _______ because it combines elements of both realism and abstraction.",
+        "options": ["kitsch", "avant-garde", "dichotomy", "eclectic"],
+        "answer": "eclectic",
+        "description": "'Eclectic' means deriving ideas, style, or taste from a broad and diverse range of sources."
+    },
+    {
+        "question": "What does 'status quo' mean in the sentence: 'The organization is resistant to change and prefers to maintain the status quo'?",
+        "options": ["current state", "new beginning", "social evolution", "unresolved issue"],
+        "answer": "current state",
+        "description": "'Status quo' refers to the existing state of affairs, especially regarding social or political issues."
+    },
+    {
+        "question": "What is the antonym of 'modus operandi'?",
+        "options": ["method of operation", "chaotic behavior", "orderly conduct", "systematic approach"],
+        "answer": "chaotic behavior",
+        "description": "'Modus operandi' means a particular way of doing something, making 'chaotic behavior' an opposite concept."
+    }
+]
