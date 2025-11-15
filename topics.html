@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://public-frontend-cos.metadl.com/mgx/img/favicon.png" type="image/png">
+    <title>All Topics - English Mastery Tests</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .topics-container {
+            max-width: 1400px;
+            margin: var(--spacing-2xl) auto;
+            padding: 0 var(--spacing-md);
+        }
+
+        .category-section {
+            margin-bottom: var(--spacing-2xl);
+            scroll-margin-top: 100px;
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            margin-bottom: var(--spacing-lg);
+            padding: var(--spacing-md);
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+        }
+
+        .category-icon {
+            font-size: 2.5rem;
+            filter: drop-shadow(0 4px 8px rgba(102, 102, 255, 0.3));
+        }
+
+        .category-title {
+            font-size: 2rem;
+            font-weight: 700;
+            background: var(--gradient-primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .topics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: var(--spacing-md);
+        }
+
+        .topic-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            padding: var(--spacing-md);
+            transition: all var(--transition-normal);
+            cursor: pointer;
+            text-decoration: none;
+            display: block;
+        }
+
+        .topic-card:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-hover);
+            border-color: var(--primary);
+        }
+
+        .topic-name {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: var(--spacing-xs);
+        }
+
+        .topic-count {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+
+        .search-box {
+            max-width: 600px;
+            margin: 0 auto var(--spacing-xl);
+            position: relative;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: var(--spacing-md) var(--spacing-lg);
+            border: 2px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            color: var(--text-primary);
+            font-size: 1rem;
+            transition: all var(--transition-normal);
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+        }
+
+        .search-icon {
+            position: absolute;
+            right: var(--spacing-md);
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 1.5rem;
+            color: var(--text-secondary);
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Animated Background -->
+    <div class="animated-bg">
+        <div class="gradient-orb orb-1"></div>
+        <div class="gradient-orb orb-2"></div>
+        <div class="gradient-orb orb-3"></div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav-container">
+            <div class="logo">
+                <span class="logo-icon">📚</span>
+                <span class="logo-text">English Mastery</span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="topics.html" class="nav-link active">All Topics</a></li>
+                <li><a href="about.html" class="nav-link">About Us</a></li>
+                <li><a href="privacy.html" class="nav-link">Privacy</a></li>
+            </ul>
+            <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                <span class="theme-icon">🌙</span>
+            </button>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <section class="hero">
+                <div class="hero-content">
+                    <h1 class="hero-title">
+                        <span class="gradient-text">All Topics</span>
+                    </h1>
+                    <p class="hero-subtitle">
+                        Choose from 60+ comprehensive topics covering all aspects of English language
+                    </p>
+                </div>
+            </section>
+
+            <!-- Search Box -->
+            <div class="search-box">
+                <input type="text" id="searchInput" class="search-input" placeholder="Search topics...">
+                <span class="search-icon">🔍</span>
+            </div>
+
+            <div class="topics-container">
+                <!-- Grammar Section -->
+                <div id="grammar" class="category-section" data-category="grammar">
+                    <div class="category-header">
+                        <span class="category-icon">📝</span>
+                        <h2 class="category-title">Grammar</h2>
+                    </div>
+                    <div class="topics-grid">
+                        <a href="test.html?file=sentence.json" class="topic-card">
+                            <div class="topic-name">Sentence Forms & Patterns</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=nouns-articles-questions.json" class="topic-card">
+                            <div class="topic-name">Nouns & Articles</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=possessives-pronouns.json" class="topic-card">
+                            <div class="topic-name">Possessives & Pronouns</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=determiners-quantifiers.json" class="topic-card">
+                            <div class="topic-name">Determiners & Quantifiers</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=prepositions.json" class="topic-card">
+                            <div class="topic-name">Prepositions</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=adjectives.json" class="topic-card">
+                            <div class="topic-name">Adjectives</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=adverbs.json" class="topic-card">
+                            <div class="topic-name">Adverbs</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=infinitives-gerund.json" class="topic-card">
+                            <div class="topic-name">Infinitives & Gerund</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=negatives-questions.json" class="topic-card">
+                            <div class="topic-name">Negatives & Questions</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=modals.json" class="topic-card">
+                            <div class="topic-name">Modals</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=conditionals.json" class="topic-card">
+                            <div class="topic-name">Conditionals</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=reported-speech.json" class="topic-card">
+                            <div class="topic-name">Reported Speech</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=active-passive-voice.json" class="topic-card">
+                            <div class="topic-name">Active & Passive Voice</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=clauses.json" class="topic-card">
+                            <div class="topic-name">Clauses</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=connectors-focus-structures.json" class="topic-card">
+                            <div class="topic-name">Connectors & Focus Structures</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=Present-perfect-vs-Simple-Past.json" class="topic-card">
+                            <div class="topic-name">Present Perfect vs Simple Past</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=Past-Perfect-vs-Simple-Past.json" class="topic-card">
+                            <div class="topic-name">Past Perfect vs Simple Past</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=Present-Continuous-vs-Present-Simple.json" class="topic-card">
+                            <div class="topic-name">Present Continuous vs Present Simple</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=Future.json" class="topic-card">
+                            <div class="topic-name">Future Tenses</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                        <a href="test.html?file=Punctuation-and-capitalization.json" class="topic-card">
+                            <div class="topic-name">Punctuation & Capitalization</div>
+                            <div class="topic-count">Grammar Test</div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Vocabulary Section -->
+                <div id="vocabulary" class="category-section" data-category="vocabulary">
+                    <div class="category-header">
+                        <span class="category-icon">📖</span>
+                        <h2 class="category-title">Vocabulary</h2>
+                    </div>
+                    <div class="topics-grid">
+                        <a href="test.html?file=advanced-words.json" class="topic-card">
+                            <div class="topic-name">Advanced Words</div>
+                            <div class="topic-count">Vocabulary Test</div>
+                        </a>
+                        <a href="test.html?file=idioms-meaning.json" class="topic-card">
+                            <div class="topic-name">Idioms & Meanings</div>
+                            <div class="topic-count">Vocabulary Test</div>
+                        </a>
+                        <a href="test.html?file=phrasal-erbs.json" class="topic-card">
+                            <div class="topic-name">Phrasal Verbs</div>
+                            <div class="topic-count">Vocabulary Test</div>
+                        </a>
+                        <a href="test.html?file=american-vs-british-words.json" class="topic-card">
+                            <div class="topic-name">American vs British Words</div>
+                            <div class="topic-count">Vocabulary Test</div>
+                        </a>
+                        <a href="test.html?file=borrowed-words-and-expressions.json" class="topic-card">
+                            <div class="topic-name">Borrowed Words & Expressions</div>
+                            <div class="topic-count">Vocabulary Test</div>
+                        </a>
+                        <a href="test.html?file=slang-colloquial.json" class="topic-card">
+                            <div class="topic-name">Slang & Colloquial</div>
+                            <div class="topic-count">Vocabulary Test</div>
+                        </a>
+                        <a href="test.html?file=proverbs.json" class="topic-card">
+                            <div class="topic-name">Proverbs</div>
+                            <div class="topic-count">Vocabulary Test</div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Linguistics Section -->
+                <div id="linguistics" class="category-section" data-category="linguistics">
+                    <div class="category-header">
+                        <span class="category-icon">🔬</span>
+                        <h2 class="category-title">Linguistics</h2>
+                    </div>
+                    <div class="topics-grid">
+                        <a href="test.html?file=morphology.json" class="topic-card">
+                            <div class="topic-name">Morphology</div>
+                            <div class="topic-count">Linguistics Test</div>
+                        </a>
+                        <a href="test.html?file=syntax.json" class="topic-card">
+                            <div class="topic-name">Syntax</div>
+                            <div class="topic-count">Linguistics Test</div>
+                        </a>
+                        <a href="test.html?file=semantics.json" class="topic-card">
+                            <div class="topic-name">Semantics</div>
+                            <div class="topic-count">Linguistics Test</div>
+                        </a>
+                        <a href="test.html?file=pragmatics.json" class="topic-card">
+                            <div class="topic-name">Pragmatics</div>
+                            <div class="topic-count">Linguistics Test</div>
+                        </a>
+                        <a href="test.html?file=phonetics-phonology.json" class="topic-card">
+                            <div class="topic-name">Phonetics & Phonology</div>
+                            <div class="topic-count">Linguistics Test</div>
+                        </a>
+                        <a href="test.html?file=sociolinguistics-psycholinguistics-historical-linguistics.json" class="topic-card">
+                            <div class="topic-name">Sociolinguistics & Psycholinguistics</div>
+                            <div class="topic-count">Linguistics Test</div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Teaching & Didactics Section -->
+                <div id="teaching" class="category-section" data-category="teaching">
+                    <div class="category-header">
+                        <span class="category-icon">👨‍🏫</span>
+                        <h2 class="category-title">Teaching & Didactics</h2>
+                    </div>
+                    <div class="topics-grid">
+                        <a href="test.html?file=concepts-of-didactics.json" class="topic-card">
+                            <div class="topic-name">Concepts of Didactics</div>
+                            <div class="topic-count">Teaching Test</div>
+                        </a>
+                        <a href="test.html?file=teaching-methods.json" class="topic-card">
+                            <div class="topic-name">Teaching Methods</div>
+                            <div class="topic-count">Teaching Test</div>
+                        </a>
+                        <a href="test.html?file=approache-of-learning-english-language.json" class="topic-card">
+                            <div class="topic-name">Approaches of Learning English</div>
+                            <div class="topic-count">Teaching Test</div>
+                        </a>
+                        <a href="test.html?file=learning-theories.json" class="topic-card">
+                            <div class="topic-name">Learning Theories</div>
+                            <div class="topic-count">Teaching Test</div>
+                        </a>
+                        <a href="test.html?file=learning-styless-l-c.json" class="topic-card">
+                            <div class="topic-name">Learning Styles</div>
+                            <div class="topic-count">Teaching Test</div>
+                        </a>
+                        <a href="test.html?file=lesson-plan-Frameworks.json" class="topic-card">
+                            <div class="topic-name">Lesson Plan Frameworks</div>
+                            <div class="topic-count">Teaching Test</div>
+                        </a>
+                        <a href="test.html?file=assessments-mistakes.json" class="topic-card">
+                            <div class="topic-name">Assessments & Mistakes</div>
+                            <div class="topic-count">Teaching Test</div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Culture & Society Section -->
+                <div id="culture" class="category-section" data-category="culture">
+                    <div class="category-header">
+                        <span class="category-icon">🌍</span>
+                        <h2 class="category-title">Culture & Society</h2>
+                    </div>
+                    <div class="topics-grid">
+                        <a href="test.html?file=american-culture-society.json" class="topic-card">
+                            <div class="topic-name">American Culture & Society</div>
+                            <div class="topic-count">Culture Test</div>
+                        </a>
+                        <a href="test.html?file=british-culture-society.json" class="topic-card">
+                            <div class="topic-name">British Culture & Society</div>
+                            <div class="topic-count">Culture Test</div>
+                        </a>
+                        <a href="test.html?file=cultural-awarness-concepts.json" class="topic-card">
+                            <div class="topic-name">Cultural Awareness Concepts</div>
+                            <div class="topic-count">Culture Test</div>
+                        </a>
+                        <a href="test.html?file=Cultural-studies-general-test.json" class="topic-card">
+                            <div class="topic-name">Cultural Studies General</div>
+                            <div class="topic-count">Culture Test</div>
+                        </a>
+                        <a href="test.html?file=American-Hstory.json" class="topic-card">
+                            <div class="topic-name">American History</div>
+                            <div class="topic-count">History Test</div>
+                        </a>
+                        <a href="test.html?file=British-History.json" class="topic-card">
+                            <div class="topic-name">British History</div>
+                            <div class="topic-count">History Test</div>
+                        </a>
+                        <a href="test.html?file=Greek-Culture-and-Mythology.json" class="topic-card">
+                            <div class="topic-name">Greek Culture & Mythology</div>
+                            <div class="topic-count">Culture Test</div>
+                        </a>
+                        <a href="test.html?file=Religions.json" class="topic-card">
+                            <div class="topic-name">Religions</div>
+                            <div class="topic-count">Culture Test</div>
+                        </a>
+                        <a href="test.html?file=Plitics-and-Ideologies.json" class="topic-card">
+                            <div class="topic-name">Politics & Ideologies</div>
+                            <div class="topic-count">Culture Test</div>
+                        </a>
+                        <a href="test.html?file=International-Events.json" class="topic-card">
+                            <div class="topic-name">International Events</div>
+                            <div class="topic-count">Culture Test</div>
+                        </a>
+                        <a href="test.html?file=Postcolonial-studies.json" class="topic-card">
+                            <div class="topic-name">Postcolonial Studies</div>
+                            <div class="topic-count">Culture Test</div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Literature Section -->
+                <div id="literature" class="category-section" data-category="literature">
+                    <div class="category-header">
+                        <span class="category-icon">📚</span>
+                        <h2 class="category-title">Literature</h2>
+                    </div>
+                    <div class="topics-grid">
+                        <a href="test.html?file=Poetry.json" class="topic-card">
+                            <div class="topic-name">Poetry</div>
+                            <div class="topic-count">Literature Test</div>
+                        </a>
+                        <a href="test.html?file=Fiction.json" class="topic-card">
+                            <div class="topic-name">Fiction</div>
+                            <div class="topic-count">Literature Test</div>
+                        </a>
+                        <a href="test.html?file=Drama.json" class="topic-card">
+                            <div class="topic-name">Drama</div>
+                            <div class="topic-count">Literature Test</div>
+                        </a>
+                        <a href="test.html?file=Literary-Theory-and-Criticism.json" class="topic-card">
+                            <div class="topic-name">Literary Theory & Criticism</div>
+                            <div class="topic-count">Literature Test</div>
+                        </a>
+                        <a href="test.html?file=Literary-Trends-and-Movement.json" class="topic-card">
+                            <div class="topic-name">Literary Trends & Movements</div>
+                            <div class="topic-count">Literature Test</div>
+                        </a>
+                        <a href="test.html?file=Rethorical-Devices.json" class="topic-card">
+                            <div class="topic-name">Rhetorical Devices</div>
+                            <div class="topic-count">Literature Test</div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Writing & Analysis Section -->
+                <div id="writing" class="category-section" data-category="writing">
+                    <div class="category-header">
+                        <span class="category-icon">✍️</span>
+                        <h2 class="category-title">Writing & Analysis</h2>
+                    </div>
+                    <div class="topics-grid">
+                        <a href="test.html?file=Essay-writing.json" class="topic-card">
+                            <div class="topic-name">Essay Writing</div>
+                            <div class="topic-count">Writing Test</div>
+                        </a>
+                        <a href="test.html?file=Research-Methodology.json" class="topic-card">
+                            <div class="topic-name">Research Methodology</div>
+                            <div class="topic-count">Writing Test</div>
+                        </a>
+                        <a href="test.html?file=Film-Analysis.json" class="topic-card">
+                            <div class="topic-name">Film Analysis</div>
+                            <div class="topic-count">Analysis Test</div>
+                        </a>
+                        <a href="test.html?file=readingcomprehension1.json" class="topic-card">
+                            <div class="topic-name">Reading Comprehension</div>
+                            <div class="topic-count">Reading Test</div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- General Tests Section -->
+                <div id="general" class="category-section" data-category="general">
+                    <div class="category-header">
+                        <span class="category-icon">🎯</span>
+                        <h2 class="category-title">General Tests</h2>
+                    </div>
+                    <div class="topics-grid">
+                        <a href="test.html?file=general-test.json" class="topic-card">
+                            <div class="topic-name">General Test</div>
+                            <div class="topic-count">Mixed Topics</div>
+                        </a>
+                        <a href="test.html?file=test-a.json" class="topic-card">
+                            <div class="topic-name">Test A</div>
+                            <div class="topic-count">General Test</div>
+                        </a>
+                        <a href="test.html?file=test-b.json" class="topic-card">
+                            <div class="topic-name">Test B</div>
+                            <div class="topic-count">General Test</div>
+                        </a>
+                        <a href="test.html?file=other-questions.json" class="topic-card">
+                            <div class="topic-name">Other Questions</div>
+                            <div class="topic-count">Mixed Topics</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 class="footer-title">English Mastery Tests</h3>
+                    <p class="footer-text">Your ideal platform for developing your English language skills</p>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-subtitle">Quick Links</h4>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="topics.html">All Topics</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="privacy.html">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-subtitle">Contact Us</h4>
+                    <p class="footer-text">For any inquiries or suggestions, we're here to help</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 English Mastery Tests. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        // Search functionality
+        const searchInput = document.getElementById('searchInput');
+        const topicCards = document.querySelectorAll('.topic-card');
+        const categorySections = document.querySelectorAll('.category-section');
+
+        searchInput.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase();
+            
+            categorySections.forEach(section => {
+                let hasVisibleCards = false;
+                const cards = section.querySelectorAll('.topic-card');
+                
+                cards.forEach(card => {
+                    const topicName = card.querySelector('.topic-name').textContent.toLowerCase();
+                    if (topicName.includes(searchTerm)) {
+                        card.style.display = 'block';
+                        hasVisibleCards = true;
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+                
+                // Hide category if no cards are visible
+                section.style.display = hasVisibleCards ? 'block' : 'none';
+            });
+        });
+    </script>
+</body>
+
+</html>

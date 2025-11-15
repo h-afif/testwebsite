@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://public-frontend-cos.metadl.com/mgx/img/favicon.png" type="image/png">
+    <title>Test - English Mastery Tests</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .test-container {
+            max-width: 900px;
+            margin: var(--spacing-2xl) auto;
+            padding: 0 var(--spacing-md);
+        }
+
+        .test-header {
+            text-align: center;
+            margin-bottom: var(--spacing-xl);
+        }
+
+        .test-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: var(--gradient-primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: var(--spacing-sm);
+        }
+
+        .test-info {
+            display: flex;
+            justify-content: center;
+            gap: var(--spacing-lg);
+            margin-top: var(--spacing-md);
+        }
+
+        .info-item {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-xs);
+            color: var(--text-secondary);
+        }
+
+        .question-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-xl);
+            padding: var(--spacing-lg);
+            margin-bottom: var(--spacing-lg);
+            transition: all var(--transition-normal);
+        }
+
+        .question-number {
+            display: inline-block;
+            background: var(--gradient-primary);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-md);
+            font-weight: 600;
+            margin-bottom: var(--spacing-md);
+        }
+
+        .question-text {
+            font-size: 1.25rem;
+            color: var(--text-primary);
+            margin-bottom: var(--spacing-md);
+            line-height: 1.8;
+        }
+
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: var(--spacing-sm);
+        }
+
+        .option {
+            background: var(--bg-secondary);
+            border: 2px solid var(--border-color);
+            border-radius: var(--radius-md);
+            padding: var(--spacing-md);
+            cursor: pointer;
+            transition: all var(--transition-fast);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+        }
+
+        .option:hover {
+            border-color: var(--primary);
+            transform: translateX(-5px);
+            box-shadow: var(--shadow);
+        }
+
+        .option.selected {
+            background: linear-gradient(135deg, rgba(102, 102, 255, 0.1), rgba(139, 92, 246, 0.1));
+            border-color: var(--primary);
+        }
+
+        .option-letter {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            background: var(--gradient-primary);
+            color: white;
+            border-radius: 50%;
+            font-weight: 600;
+            flex-shrink: 0;
+        }
+
+        .test-actions {
+            display: flex;
+            justify-content: space-between;
+            margin-top: var(--spacing-xl);
+            gap: var(--spacing-md);
+        }
+
+        .btn {
+            padding: var(--spacing-sm) var(--spacing-lg);
+            border: none;
+            border-radius: var(--radius-md);
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all var(--transition-normal);
+        }
+
+        .btn-primary {
+            background: var(--gradient-primary);
+            color: white;
+            box-shadow: 0 4px 15px rgba(102, 102, 255, 0.3);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 102, 255, 0.4);
+        }
+
+        .btn-secondary {
+            background: var(--bg-card);
+            color: var(--text-primary);
+            border: 2px solid var(--border-color);
+        }
+
+        .btn-secondary:hover {
+            border-color: var(--primary);
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: var(--bg-secondary);
+            border-radius: 10px;
+            overflow: hidden;
+            margin-bottom: var(--spacing-xl);
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: var(--gradient-primary);
+            transition: width 0.3s ease;
+        }
+
+        .result-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-xl);
+            padding: var(--spacing-xl);
+            text-align: center;
+            display: none;
+        }
+
+        .result-score {
+            font-size: 4rem;
+            font-weight: 800;
+            background: var(--gradient-primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin: var(--spacing-md) 0;
+        }
+
+        .result-message {
+            font-size: 1.5rem;
+            color: var(--text-primary);
+            margin-bottom: var(--spacing-md);
+        }
+
+        .result-details {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: var(--spacing-md);
+            margin: var(--spacing-xl) 0;
+        }
+
+        .result-stat {
+            background: var(--bg-secondary);
+            padding: var(--spacing-md);
+            border-radius: var(--radius-md);
+        }
+
+        .result-stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        .result-stat-label {
+            color: var(--text-secondary);
+            margin-top: var(--spacing-xs);
+        }
+
+        .loading {
+            text-align: center;
+            padding: var(--spacing-xl);
+            color: var(--text-secondary);
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Animated Background -->
+    <div class="animated-bg">
+        <div class="gradient-orb orb-1"></div>
+        <div class="gradient-orb orb-2"></div>
+        <div class="gradient-orb orb-3"></div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav-container">
+            <div class="logo">
+                <span class="logo-icon">📚</span>
+                <span class="logo-text">English Mastery</span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="topics.html" class="nav-link">All Topics</a></li>
+                <li><a href="about.html" class="nav-link">About Us</a></li>
+                <li><a href="privacy.html" class="nav-link">Privacy</a></li>
+            </ul>
+            <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                <span class="theme-icon">🌙</span>
+            </button>
+        </nav>
+    </header>
+
+    <!-- Test Container -->
+    <div class="test-container">
+        <div class="test-header">
+            <h1 class="test-title" id="testTitle">Grammar Test</h1>
+            <div class="test-info">
+                <div class="info-item">
+                    <span>⏱️</span>
+                    <span id="timer">30:00</span>
+                </div>
+                <div class="info-item">
+                    <span>📝</span>
+                    <span id="questionCount">5 Questions</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Progress Bar -->
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+        </div>
+
+        <!-- Loading -->
+        <div id="loading" class="loading">Loading questions...</div>
+
+        <!-- Questions -->
+        <div id="questionsContainer"></div>
+
+        <!-- Test Actions -->
+        <div class="test-actions" style="display: none;">
+            <button class="btn btn-secondary" id="prevBtn" style="display: none;">Previous</button>
+            <button class="btn btn-primary" id="nextBtn">Next</button>
+            <button class="btn btn-primary" id="submitBtn" style="display: none;">Submit Test</button>
+        </div>
+
+        <!-- Result Card -->
+        <div class="result-card" id="resultCard">
+            <div class="result-icon">🎉</div>
+            <h2 class="result-message" id="resultMessage">Great Job!</h2>
+            <div class="result-score" id="resultScore">85%</div>
+            <div class="result-details">
+                <div class="result-stat">
+                    <div class="result-stat-value" id="correctAnswers">4</div>
+                    <div class="result-stat-label">Correct Answers</div>
+                </div>
+                <div class="result-stat">
+                    <div class="result-stat-value" id="wrongAnswers">1</div>
+                    <div class="result-stat-label">Wrong Answers</div>
+                </div>
+                <div class="result-stat">
+                    <div class="result-stat-value" id="totalQuestions">5</div>
+                    <div class="result-stat-label">Total Questions</div>
+                </div>
+            </div>
+            <div class="test-actions">
+                <button class="btn btn-secondary" onclick="window.location.href='topics.html'">Browse Topics</button>
+                <button class="btn btn-primary" onclick="location.reload()">Retry Test</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2024 English Mastery Tests. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        // Get file parameter from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const fileName = urlParams.get('file') || 'general-test.json';
+        
+        // Current question index
+        let currentQuestion = 0;
+        let userAnswers = [];
+        let timeLeft = 1800; // 30 minutes in seconds
+        let testQuestions = [];
+
+        // Load test from JSON file
+        async function loadTestFromFile() {
+            try {
+                const response = await fetch(`./questions/${fileName}`);
+                
+                if (!response.ok) {
+                    throw new Error('Failed to load test questions');
+                }
+                
+                const data = await response.json();
+                testQuestions = data.slice(0, 5); // Only take first 5 questions
+                
+                document.getElementById('loading').style.display = 'none';
+                document.querySelector('.test-actions').style.display = 'flex';
+                
+                // Update title based on file name
+                const topicName = fileName.replace('.json', '').replace(/-/g, ' ').replace(/_/g, ' ');
+                const formattedTitle = topicName.split(' ').map(word => 
+                    word.charAt(0).toUpperCase() + word.slice(1)
+                ).join(' ');
+                
+                document.getElementById('testTitle').textContent = formattedTitle + ' Test';
+                document.getElementById('questionCount').textContent = `${testQuestions.length} Questions`;
+                
+                displayQuestion();
+                startTimer();
+            } catch (error) {
+                document.getElementById('loading').innerHTML = `
+                    <p style="color: var(--danger);">Error loading questions. Please try again.</p>
+                    <button class="btn btn-primary" onclick="window.location.href='topics.html'" style="margin-top: 1rem;">Browse Topics</button>
+                `;
+                console.error('Error loading test:', error);
+            }
+        }
+
+        // Display question
+        function displayQuestion() {
+            if (testQuestions.length === 0) return;
+            
+            const question = testQuestions[currentQuestion];
+            
+            const container = document.getElementById('questionsContainer');
+            container.innerHTML = `
+                <div class="question-card">
+                    <span class="question-number">Question ${currentQuestion + 1} of ${testQuestions.length}</span>
+                    <div class="question-text">${question.question}</div>
+                    <div class="options">
+                        ${question.options.map((option, index) => `
+                            <div class="option" data-index="${index}">
+                                <span class="option-letter">${String.fromCharCode(65 + index)}</span>
+                                <span>${option}</span>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+            `;
+
+            // Add click handlers
+            document.querySelectorAll('.option').forEach(option => {
+                option.addEventListener('click', function() {
+                    document.querySelectorAll('.option').forEach(opt => opt.classList.remove('selected'));
+                    this.classList.add('selected');
+                    userAnswers[currentQuestion] = this.querySelector('span:last-child').textContent;
+                });
+            });
+
+            // Restore previous answer
+            if (userAnswers[currentQuestion] !== undefined) {
+                const options = document.querySelectorAll('.option');
+                options.forEach(opt => {
+                    if (opt.querySelector('span:last-child').textContent === userAnswers[currentQuestion]) {
+                        opt.classList.add('selected');
+                    }
+                });
+            }
+
+            // Update progress
+            updateProgress();
+            updateButtons();
+        }
+
+        // Update progress bar
+        function updateProgress() {
+            const progress = ((currentQuestion + 1) / testQuestions.length) * 100;
+            document.getElementById('progressFill').style.width = `${progress}%`;
+        }
+
+        // Update buttons
+        function updateButtons() {
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+            const submitBtn = document.getElementById('submitBtn');
+
+            prevBtn.style.display = currentQuestion > 0 ? 'block' : 'none';
+            
+            if (currentQuestion === testQuestions.length - 1) {
+                nextBtn.style.display = 'none';
+                submitBtn.style.display = 'block';
+            } else {
+                nextBtn.style.display = 'block';
+                submitBtn.style.display = 'none';
+            }
+        }
+
+        // Navigation
+        document.getElementById('prevBtn').addEventListener('click', () => {
+            if (currentQuestion > 0) {
+                currentQuestion--;
+                displayQuestion();
+            }
+        });
+
+        document.getElementById('nextBtn').addEventListener('click', () => {
+            if (currentQuestion < testQuestions.length - 1) {
+                currentQuestion++;
+                displayQuestion();
+            }
+        });
+
+        document.getElementById('submitBtn').addEventListener('click', submitTest);
+
+        // Submit test
+        function submitTest() {
+            let correct = 0;
+            
+            testQuestions.forEach((question, index) => {
+                if (userAnswers[index] === question.answer) {
+                    correct++;
+                }
+            });
+
+            const score = Math.round((correct / testQuestions.length) * 100);
+            const wrong = testQuestions.length - correct;
+
+            // Hide questions and show results
+            document.getElementById('questionsContainer').style.display = 'none';
+            document.querySelector('.test-actions').style.display = 'none';
+            document.querySelector('.progress-bar').style.display = 'none';
+            
+            const resultCard = document.getElementById('resultCard');
+            resultCard.style.display = 'block';
+            
+            document.getElementById('resultScore').textContent = `${score}%`;
+            document.getElementById('correctAnswers').textContent = correct;
+            document.getElementById('wrongAnswers').textContent = wrong;
+            document.getElementById('totalQuestions').textContent = testQuestions.length;
+
+            let message = '';
+            if (score >= 90) message = 'Excellent! 🎉';
+            else if (score >= 70) message = 'Very Good! 👏';
+            else if (score >= 50) message = 'Good! 👍';
+            else message = 'Keep Trying! 💪';
+            
+            document.getElementById('resultMessage').textContent = message;
+        }
+
+        // Timer
+        function startTimer() {
+            const timerElement = document.getElementById('timer');
+            
+            setInterval(() => {
+                if (timeLeft > 0) {
+                    timeLeft--;
+                    const minutes = Math.floor(timeLeft / 60);
+                    const seconds = timeLeft % 60;
+                    timerElement.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                } else {
+                    submitTest();
+                }
+            }, 1000);
+        }
+
+        // Initialize - Load test from file
+        loadTestFromFile();
+    </script>
+</body>
+
+</html>
