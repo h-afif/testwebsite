@@ -20,7 +20,7 @@
         }
 
         .test-title {
-            font-size: 2.5rem;
+            font-size: clamp(1.5rem, 5vw, 2.5rem);
             font-weight: 700;
             background: var(--gradient-primary);
             -webkit-background-clip: text;
@@ -34,6 +34,7 @@
             justify-content: center;
             gap: var(--spacing-lg);
             margin-top: var(--spacing-md);
+            flex-wrap: wrap;
         }
 
         .info-item {
@@ -41,6 +42,18 @@
             align-items: center;
             gap: var(--spacing-xs);
             color: var(--text-secondary);
+            font-size: clamp(0.875rem, 2vw, 1rem);
+        }
+
+        .timer-warning {
+            color: #ef4444 !important;
+            font-weight: 700;
+            animation: pulse 1s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
         }
 
         .question-card {
@@ -48,7 +61,7 @@
             backdrop-filter: blur(20px);
             border: 1px solid var(--border-color);
             border-radius: var(--radius-xl);
-            padding: var(--spacing-lg);
+            padding: clamp(1rem, 3vw, var(--spacing-lg));
             margin-bottom: var(--spacing-lg);
             transition: all var(--transition-normal);
         }
@@ -61,13 +74,15 @@
             border-radius: var(--radius-md);
             font-weight: 600;
             margin-bottom: var(--spacing-md);
+            font-size: clamp(0.875rem, 2vw, 1rem);
         }
 
         .question-text {
-            font-size: 1.25rem;
+            font-size: clamp(1rem, 3vw, 1.25rem);
             color: var(--text-primary);
             margin-bottom: var(--spacing-md);
             line-height: 1.8;
+            word-wrap: break-word;
         }
 
         .options {
@@ -80,12 +95,13 @@
             background: var(--bg-secondary);
             border: 2px solid var(--border-color);
             border-radius: var(--radius-md);
-            padding: var(--spacing-md);
+            padding: clamp(0.75rem, 2vw, var(--spacing-md));
             cursor: pointer;
             transition: all var(--transition-fast);
             display: flex;
             align-items: center;
             gap: var(--spacing-sm);
+            word-wrap: break-word;
         }
 
         .option:hover {
@@ -99,10 +115,22 @@
             border-color: var(--primary);
         }
 
+        .option.correct {
+            background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), rgba(22, 163, 74, 0.1));
+            border-color: #22c55e;
+        }
+
+        .option.wrong {
+            background: linear-gradient(135deg, rgba(239, 68, 68, 0.1), rgba(220, 38, 38, 0.1));
+            border-color: #ef4444;
+        }
+
         .option-letter {
             display: flex;
             align-items: center;
             justify-content: center;
+            min-width: 40px;
+            min-height: 40px;
             width: 40px;
             height: 40px;
             background: var(--gradient-primary);
@@ -110,6 +138,27 @@
             border-radius: 50%;
             font-weight: 600;
             flex-shrink: 0;
+            font-size: clamp(0.875rem, 2vw, 1rem);
+        }
+
+        .option.correct .option-letter {
+            background: linear-gradient(135deg, #22c55e, #16a34a);
+        }
+
+        .option.wrong .option-letter {
+            background: linear-gradient(135deg, #ef4444, #dc2626);
+        }
+
+        .option-status {
+            margin-left: auto;
+            font-size: clamp(1.25rem, 3vw, 1.5rem);
+            flex-shrink: 0;
+        }
+
+        .option span:nth-child(2) {
+            flex: 1;
+            word-break: break-word;
+            font-size: clamp(0.875rem, 2vw, 1rem);
         }
 
         .test-actions {
@@ -117,16 +166,19 @@
             justify-content: space-between;
             margin-top: var(--spacing-xl);
             gap: var(--spacing-md);
+            flex-wrap: wrap;
         }
 
         .btn {
-            padding: var(--spacing-sm) var(--spacing-lg);
+            padding: clamp(0.5rem, 2vw, var(--spacing-sm)) clamp(1rem, 3vw, var(--spacing-lg));
             border: none;
             border-radius: var(--radius-md);
-            font-size: 1rem;
+            font-size: clamp(0.875rem, 2vw, 1rem);
             font-weight: 600;
             cursor: pointer;
             transition: all var(--transition-normal);
+            flex: 1;
+            min-width: 120px;
         }
 
         .btn-primary {
@@ -170,13 +222,13 @@
             backdrop-filter: blur(20px);
             border: 1px solid var(--border-color);
             border-radius: var(--radius-xl);
-            padding: var(--spacing-xl);
+            padding: clamp(1rem, 3vw, var(--spacing-xl));
             text-align: center;
             display: none;
         }
 
         .result-score {
-            font-size: 4rem;
+            font-size: clamp(2.5rem, 8vw, 4rem);
             font-weight: 800;
             background: var(--gradient-primary);
             -webkit-background-clip: text;
@@ -186,26 +238,26 @@
         }
 
         .result-message {
-            font-size: 1.5rem;
+            font-size: clamp(1.25rem, 4vw, 1.5rem);
             color: var(--text-primary);
             margin-bottom: var(--spacing-md);
         }
 
         .result-details {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
             gap: var(--spacing-md);
             margin: var(--spacing-xl) 0;
         }
 
         .result-stat {
             background: var(--bg-secondary);
-            padding: var(--spacing-md);
+            padding: clamp(0.75rem, 2vw, var(--spacing-md));
             border-radius: var(--radius-md);
         }
 
         .result-stat-value {
-            font-size: 2rem;
+            font-size: clamp(1.5rem, 4vw, 2rem);
             font-weight: 700;
             color: var(--primary);
         }
@@ -213,12 +265,148 @@
         .result-stat-label {
             color: var(--text-secondary);
             margin-top: var(--spacing-xs);
+            font-size: clamp(0.75rem, 2vw, 0.875rem);
         }
 
         .loading {
             text-align: center;
             padding: var(--spacing-xl);
             color: var(--text-secondary);
+        }
+
+        .review-section {
+            margin-top: var(--spacing-xl);
+            display: none;
+        }
+
+        .review-title {
+            font-size: clamp(1.25rem, 4vw, 1.5rem);
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: var(--spacing-lg);
+            text-align: center;
+        }
+
+        .review-question {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-xl);
+            padding: clamp(1rem, 3vw, var(--spacing-lg));
+            margin-bottom: var(--spacing-lg);
+        }
+
+        .review-question-header {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            margin-bottom: var(--spacing-md);
+            flex-wrap: wrap;
+        }
+
+        .review-status {
+            font-size: clamp(1.25rem, 3vw, 1.5rem);
+        }
+
+        .user-answer-section {
+            background: var(--bg-secondary);
+            padding: clamp(0.75rem, 2vw, var(--spacing-md));
+            border-radius: var(--radius-md);
+            margin-top: var(--spacing-md);
+            border-left: 4px solid #6666ff;
+        }
+
+        .user-answer-title {
+            font-weight: 600;
+            color: #6666ff;
+            margin-bottom: var(--spacing-xs);
+            font-size: clamp(0.875rem, 2vw, 1rem);
+        }
+
+        .explanation {
+            background: var(--bg-secondary);
+            padding: clamp(0.75rem, 2vw, var(--spacing-md));
+            border-radius: var(--radius-md);
+            margin-top: var(--spacing-md);
+            border-left: 4px solid var(--primary);
+        }
+
+        .explanation-title {
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: var(--spacing-xs);
+            font-size: clamp(0.875rem, 2vw, 1rem);
+        }
+
+        .explanation-text {
+            color: var(--text-secondary);
+            line-height: 1.6;
+            font-size: clamp(0.875rem, 2vw, 1rem);
+            word-wrap: break-word;
+        }
+
+        .correct-answer-highlight {
+            background: linear-gradient(135deg, rgba(34, 197, 94, 0.15), rgba(22, 163, 74, 0.15));
+            padding: var(--spacing-sm);
+            border-radius: var(--radius-sm);
+            margin-top: var(--spacing-xs);
+            font-weight: 600;
+            color: #22c55e;
+            font-size: clamp(0.875rem, 2vw, 1rem);
+            word-wrap: break-word;
+        }
+
+        .wrong-answer-highlight {
+            background: linear-gradient(135deg, rgba(239, 68, 68, 0.15), rgba(220, 38, 38, 0.15));
+            padding: var(--spacing-sm);
+            border-radius: var(--radius-sm);
+            margin-top: var(--spacing-xs);
+            font-weight: 600;
+            color: #ef4444;
+            font-size: clamp(0.875rem, 2vw, 1rem);
+            word-wrap: break-word;
+        }
+
+        /* Mobile specific adjustments */
+        @media (max-width: 768px) {
+            .test-container {
+                padding: 0 1rem;
+            }
+
+            .test-actions {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+                min-width: unset;
+            }
+
+            .result-details {
+                grid-template-columns: 1fr;
+            }
+
+            .option {
+                transform: none !important;
+            }
+
+            .option:hover {
+                transform: none !important;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .test-header {
+                margin-bottom: 1rem;
+            }
+
+            .question-card {
+                padding: 1rem;
+            }
+
+            .review-question {
+                padding: 1rem;
+            }
         }
     </style>
 </head>
@@ -257,11 +445,11 @@
             <div class="test-info">
                 <div class="info-item">
                     <span>⏱️</span>
-                    <span id="timer">30:00</span>
+                    <span id="timer">05:00</span>
                 </div>
                 <div class="info-item">
                     <span>📝</span>
-                    <span id="questionCount">5 Questions</span>
+                    <span id="questionCount">8 Questions</span>
                 </div>
             </div>
         </div>
@@ -299,7 +487,7 @@
                     <div class="result-stat-label">Wrong Answers</div>
                 </div>
                 <div class="result-stat">
-                    <div class="result-stat-value" id="totalQuestions">5</div>
+                    <div class="result-stat-value" id="totalQuestions">8</div>
                     <div class="result-stat-label">Total Questions</div>
                 </div>
             </div>
@@ -307,6 +495,12 @@
                 <button class="btn btn-secondary" onclick="window.location.href='topics.html'">Browse Topics</button>
                 <button class="btn btn-primary" onclick="location.reload()">Retry Test</button>
             </div>
+        </div>
+
+        <!-- Review Section -->
+        <div class="review-section" id="reviewSection">
+            <h2 class="review-title">📋 Review Your Answers</h2>
+            <div id="reviewContainer"></div>
         </div>
     </div>
 
@@ -328,8 +522,9 @@
         // Current question index
         let currentQuestion = 0;
         let userAnswers = [];
-        let timeLeft = 1800; // 30 minutes in seconds
+        let timeLeft = 300; // 5 minutes in seconds
         let testQuestions = [];
+        let timerInterval;
 
         // Load test from JSON file
         async function loadTestFromFile() {
@@ -341,7 +536,7 @@
                 }
                 
                 const data = await response.json();
-                testQuestions = data.slice(0, 5); // Only take first 5 questions
+                testQuestions = data.slice(0, 8); // Take first 8 questions
                 
                 document.getElementById('loading').style.display = 'none';
                 document.querySelector('.test-actions').style.display = 'flex';
@@ -393,7 +588,7 @@
                 option.addEventListener('click', function() {
                     document.querySelectorAll('.option').forEach(opt => opt.classList.remove('selected'));
                     this.classList.add('selected');
-                    userAnswers[currentQuestion] = this.querySelector('span:last-child').textContent;
+                    userAnswers[currentQuestion] = this.querySelector('span:nth-child(2)').textContent;
                 });
             });
 
@@ -401,7 +596,7 @@
             if (userAnswers[currentQuestion] !== undefined) {
                 const options = document.querySelectorAll('.option');
                 options.forEach(opt => {
-                    if (opt.querySelector('span:last-child').textContent === userAnswers[currentQuestion]) {
+                    if (opt.querySelector('span:nth-child(2)').textContent === userAnswers[currentQuestion]) {
                         opt.classList.add('selected');
                     }
                 });
@@ -454,6 +649,8 @@
 
         // Submit test
         function submitTest() {
+            clearInterval(timerInterval);
+            
             let correct = 0;
             
             testQuestions.forEach((question, index) => {
@@ -469,6 +666,7 @@
             document.getElementById('questionsContainer').style.display = 'none';
             document.querySelector('.test-actions').style.display = 'none';
             document.querySelector('.progress-bar').style.display = 'none';
+            document.querySelector('.test-info').style.display = 'none';
             
             const resultCard = document.getElementById('resultCard');
             resultCard.style.display = 'block';
@@ -485,18 +683,75 @@
             else message = 'Keep Trying! 💪';
             
             document.getElementById('resultMessage').textContent = message;
+
+            // Show review section
+            displayReview();
+        }
+
+        // Display review of all answers
+        function displayReview() {
+            const reviewSection = document.getElementById('reviewSection');
+            const reviewContainer = document.getElementById('reviewContainer');
+            
+            let reviewHTML = '';
+            
+            testQuestions.forEach((question, index) => {
+                const userAnswer = userAnswers[index] || 'No answer';
+                const isCorrect = userAnswer === question.answer;
+                
+                reviewHTML += `
+                    <div class="review-question">
+                        <div class="review-question-header">
+                            <span class="question-number">Question ${index + 1}</span>
+                            <span class="review-status">${isCorrect ? '✅' : '❌'}</span>
+                        </div>
+                        <div class="question-text">${question.question}</div>
+                        
+                        <div class="user-answer-section">
+                            <div class="user-answer-title">Your Answer:</div>
+                            <div class="${isCorrect ? 'correct-answer-highlight' : 'wrong-answer-highlight'}">
+                                ${userAnswer}
+                            </div>
+                        </div>
+                        
+                        ${!isCorrect ? `
+                            <div class="explanation">
+                                <div class="explanation-title">✓ Correct Answer:</div>
+                                <div class="correct-answer-highlight">${question.answer}</div>
+                            </div>
+                        ` : ''}
+                        
+                        ${question.description ? `
+                            <div class="explanation">
+                                <div class="explanation-title">${isCorrect ? '✓' : '💡'} Explanation:</div>
+                                <div class="explanation-text">
+                                    ${question.description}
+                                </div>
+                            </div>
+                        ` : ''}
+                    </div>
+                `;
+            });
+            
+            reviewContainer.innerHTML = reviewHTML;
+            reviewSection.style.display = 'block';
         }
 
         // Timer
         function startTimer() {
             const timerElement = document.getElementById('timer');
             
-            setInterval(() => {
+            timerInterval = setInterval(() => {
                 if (timeLeft > 0) {
                     timeLeft--;
                     const minutes = Math.floor(timeLeft / 60);
                     const seconds = timeLeft % 60;
                     timerElement.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                    
+                    // Add warning class when less than 1 minute
+                    if (timeLeft <= 60) {
+                        timerElement.parentElement.classList.add('timer-warning');
+                    }
                 } else {
                     submitTest();
                 }
